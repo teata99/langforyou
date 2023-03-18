@@ -187,7 +187,19 @@
     <script type="text/javascript" src="./js/eng-data.js"></script>
        
     <script>
-        
+        $(document).ready(function() {
+            const url = new URL(window.location.href);
+            const urlParams = url.searchParams;
+            //console.log(urlParams.get('class1'));
+
+            YAML.load('./js/eng-data1.yml', function(result) {
+                initData(result);
+                //appendNavClass();
+                countPage();
+            });
+
+
+        })        
     
     </script>   
        
