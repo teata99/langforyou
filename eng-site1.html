@@ -159,6 +159,7 @@
                            <ol class="breadcrumb">
                                <li class="breadcrumb-item" id="breadClass1">Nav1</li>
                                <li class="breadcrumb-item" id="breadClass2">Nav2</li>
+                               <li class="breadcrumb-item" id="breadClass3">Page</li>
                            </ol>
                        </nav>
                        <input class="form-control mb-3 text-success bg-white border-success" type="text" id="kor" readonly disabled>
@@ -210,6 +211,22 @@
        
     <script>
         
+        $(document).ready(function() {
+            const url = new URL(window.location.href);
+            const urlParams = url.searchParams;
+            //console.log(urlParams.get('class1'));
+
+            YAML.load('./js/eng-data1.yml', function(result) {
+                initData(result);
+                appendNav();
+                
+                if(urlParams.get('class1') && urlParams.get('class2')) {
+                    collapseNav(urlParams.get('class1'), urlParams.get('class2'), urlParams.get('currentPage'));
+                }
+            });
+
+
+        })
     
     </script>   
        
