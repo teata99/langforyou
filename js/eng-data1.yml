@@ -563,4 +563,362 @@
         10:
             q: 나는 내일 이 시간에 이미 1년 동안 운동을 하고 있을 것입니다.
             a: I will have already been exercising for 1 year by this time tomorrow.    
-            
+분사:
+    분사:
+        1:
+            q: 나는 내일 오후 2시에 이미 회의를 끝마칠 것입니다.
+            a: I will have already finished the meeting by 2pm tomorrow afternoon.
+        2:
+            q: 그들은 다음 주에 이미 결혼식 장소를 예약해 놓았을 것입니다.
+            a: They will have already booked the wedding venue by next week.
+        3:
+            q: 나는 내일 출장을 가기 전에 이미 티켓을 예매해 놓을 것입니다.
+            a: I will have already booked my ticket before going on the business trip tomorrow.
+        4:
+            q: 내일 아침 9시 전에는 이미 일어나서 커피를 마실 것입니다.
+            a: I will have already gotten up and had coffee before 9am tomorrow morning.
+        5:
+            q: 그들은 다음 주에 이미 여행 일정을 계획해 놓을 것입니다.
+            a: They will have already planned their travel itinerary by next week.
+        6:
+            q: 나는 내일 오후 3시 전에는 이미 공항에 도착할 것입니다.
+            a: I will have already arrived at the airport before 3pm tomorrow afternoon.
+        7:
+            q: 그들은 다음 달에 이미 새로운 사무실을 임대할 것입니다.
+            a: They will have already leased a new office space by next month.
+        8:
+            q: 나는 내일 저녁 7시 전에는 이미 저녁 식사를 마칠 것입니다.
+            a: I will have already finished dinner before 7pm tomorrow evening.
+        9:
+            q: 그들은 다음 주에 이미 자신들의 신제품을 출시할 것입니다.
+            a: They will have already launched their new product by next week.
+        10: 
+            q: 나는 내일 오전 11시 전에는 이미 모든 일을 처리할 것입니다.
+            a: I will have already taken care of everything before 11am tomorrow morning.
+
+            q: 지난 주에 이미 자격증 시험을 치렀기 때문에 나는 이번 주에는 여유가 있을 것입니다.
+            a: Since I already took the certification exam last week, I will have some free time this week.
+
+부정사:
+    to부정사의 명사적 용법:
+        1:
+            q: 독서는 새로운 지식을 습득하는 좋은 방법 중 하나이다.
+            a: Reading is one of the good ways to acquire new knowledge.
+        2:
+            q: 운동은 건강을 유지하는 데 도움이 된다.
+            a: Exercise helps to maintain good health.
+        3:
+            q: 잠자는 것이 내일 일찍 일어나는 데 좋다.
+            a: Sleeping early is good to wake up early tomorrow.
+        4:
+            q: 공부를 하는 것은 좋은 일이다.
+            a: Studying is a good thing to do.
+        5:
+            q: 건강한 식습관은 건강을 유지하는 데 매우 중요하다.
+            a: Having a healthy eating habit is very important to maintain good health.
+        6:
+            q: 여행은 새로운 문화와 경험을 얻는 좋은 방법이다.
+            a: Traveling is a good way to gain new cultures and experiences.
+        7:
+            q: 일하는 것은 돈을 벌기 위한 방법 중 하나이다.
+            a: Working is one of the ways to earn money.
+        8:
+            q: 스트레칭은 운동 전후에 하면 좋다.
+            a: Stretching is good to do before and after exercise.
+        9:
+            q: 영어는 현대 세계에서 가장 중요한 언어 중 하나이다.
+            a: English is one of the most important languages to learn in the modern world.
+        10:
+            q: 고민을 하는 것은 자신의 생각을 정리하는 데 도움이 된다.
+            a: Thinking deeply is helpful to organize one's thoughts.    
+    to부정사의 형용사적 용법:
+        1:
+            q: 무서운 영화를 보는 것은 나에게 흥미롭다.
+            a: Watching scary movies is interesting to me.
+        2:    
+            q: 집안 청소를 해야 하는데 귀찮다.
+            a: Cleaning the house is tedious to do.
+        3:
+            q: 소리 지르는 것은 다른 사람들에게 방해가 된다.
+            a: Yelling is disturbing to other people.
+        4:
+            q: 새로운 환경에서 살아가는 것은 도전적이다.
+            a: Living in a new environment is challenging to do.
+        5:
+            q: 짜증 내는 것은 불필요한 습관이다.
+            a: Getting irritated is an unnecessary habit to have.
+        6:
+            q: 사람들과 대화하는 것은 소통하는 데 중요하다.
+            a: Talking with people is important to communicate.
+        7:
+            q: 빠르게 달리는 것은 건강에 좋다.
+            a: Running fast is good for health.
+        8:
+            q: 술 마시는 것은 건강에 해롭다.
+            a: Drinking alcohol is harmful to health.
+        9:
+            q: 거짓말을 하는 것은 다른 사람들을 속이는 일이다.
+            a: Telling lies is deceiving other people.
+        10:
+            q: 자기 계발하는 것은 인생을 풍요롭게 하는 방법 중 하나이다.
+            a: Developing oneself is one of the ways to enrich one's life.
+    to부정사의 부사적 용법:
+        1:
+            q: 나는 새로운 언어를 배우기 위해 열심히 노력했습니다.
+            a: I worked hard to learn a new language.
+        2:
+            q: 그녀는 더 건강하게 살기 위해 운동하기 시작했습니다.
+            a: She started exercising to live a healthier life.
+        3:
+            q: 나는 이제 컴퓨터를 조작하는 방법을 더 잘 이해합니다.
+            a: I now understand how to operate a computer better.
+        4:
+            q: 그는 더 많은 경험을 쌓기 위해 여행을 떠났습니다.
+            a: He went on a trip to gain more experience.
+        5:
+            q: 나는 시간을 더 효율적으로 활용하기 위해 일찍 일어나기로 결심했습니다.
+            a: I decided to wake up early to use my time more efficiently.
+        6:
+            q: 나는 음악을 들으며 공부했다.
+            a: I studied while listening to music.
+        7:
+            q: 그녀는 창밖을 바라보며 꿈을 꾸었다.
+            a: She dreamed while looking out the window.
+        8:
+            q: 우리는 산책하며 대화했다.
+            a: We talked while taking a walk.
+        9:
+            q: 아이들은 뛰어놀며 즐거워했다.
+            a: The children played happily while running around.
+        10:
+            q: 나는 도서관에서 공부하며 시간을 보냈다.
+            a: I spent time studying while at the library.
+    원형부정사:
+        1:
+            q: 나는 비행기 타기를 좋아합니다.
+            a: I like to ride airplanes.
+        2:
+            q: 그녀는 책을 읽는 것을 좋아합니다.
+            a: She likes to read books.
+        3:
+            q: 나는 여름에 수영을 하는 것을 좋아합니다.
+            a: I like to swim in the summer.
+        4:
+            q: 그들은 새로운 언어를 배우는 것을 좋아합니다.
+            a: They like to learn new languages.
+        5:
+            q: 나는 헬스장에서 운동하는 것을 좋아합니다.
+            a: I like to exercise at the gym.
+        6:
+            q: 그들은 영화를 보는 것을 좋아합니다.
+            a: They like to watch movies.
+        7:
+            q: 나는 바쁜 하루를 보내는 것을 좋아합니다.
+            a: I like to have a busy day.
+        8:
+            q: 그들은 먹는 것을 좋아합니다.
+            a: They like to eat.
+        9:
+            q: 나는 새로운 장소를 탐험하는 것을 좋아합니다.
+            a: I like to explore new places.
+        10:
+            q: 그들은 자전거를 타는 것을 좋아합니다.
+            a: They like to ride bikes.
+동명사:
+    동명사:
+        1:
+            q: 수영을 하기 전에 반드시 물에 들어가서 몸을 미리 풀어야 합니다.
+            a: You must get into the water and warm up your body before swimming.
+        2:
+            q: 쇼핑을 하기 위해 서점에 들렸습니다.
+            a: I stopped by the bookstore for shopping.
+        3:
+            q: 밥 먹기 전에 손을 깨끗이 씻으세요.
+            a: Please wash your hands clean before eating.
+        4:
+            q: 집에 가기 전에 친구를 만나러 갔습니다.
+            a: I went to meet my friend before going home.
+        5:
+            q: 공부하기 위해 도서관에 가야 했습니다.
+            a: I had to go to the library to study.
+        6:
+            q: 헬스장에서 운동을 한 후에는 반드시 몸을 스트레칭해야 합니다.
+            a: You must stretch your body after working out at the gym.
+        7:
+            q: 꽃을 구입하러 가기 전에 어떤 종류가 좋을지 알아보세요.
+            a: Find out which type of flower is good before buying.
+        8:
+            q: 음식을 만들기 위해 재료를 구입했습니다.
+            a: I bought ingredients to make the food.
+        9:
+            q: 친구와 이야기하면서 산책을 하는 것이 좋습니다.
+            a: It's good to take a walk while talking with your friend.
+        10:
+            q: 여행을 떠나기 전에 호텔을 예약해야 합니다.
+            a: You need to book a hotel before leaving for the trip.
+
+조동사:
+    can, could:
+        1:
+            q: 나는 수영을 할 수 있습니다.
+            a: I can swim.
+        2:    
+            q: 그들은 그 일을 해낼 수 있을까요?
+            a: Could they manage to do the job?
+        3:
+            q: 내일 그녀와 만날 수 있으면 좋겠어요.
+            a: I would love to be able to meet her tomorrow.
+        4:
+            q: 내일 늦게까지 일할 수 있습니다.
+            a: I can work late tomorrow.
+        5:
+            q: 그녀는 차를 운전할 수 있나요?
+            a: Can she drive a car?
+        6:
+            q: 저는 그 일을 할 수 있습니다.
+            a: I can do the job.
+        7:
+            q: 우리는 지금 당장 여행을 갈 수 없습니다.
+            a: We can't go on a trip right now.
+        8:
+            q: 그들은 우리를 도와줄 수 있습니다.
+            a: They can help us.
+        9:
+            q: 그들은 지금 여기에 올 수 있습니다.
+            a: They can come here now.
+        10:
+            q: 내일 일찍 일어날 수 있을까요?
+            a: Could I wake up early tomorrow?
+    may, might:
+        1:
+            q: 그들은 내일 올 수도 있을 것입니다.
+            a: They may come tomorrow.
+        2:
+            q: 내일 비가 올 수도 있으니 우산을 챙기세요.
+            a: It might rain tomorrow, so please take an umbrella.
+        3:
+            q: 이 길은 아마도 어렵지 않을 것입니다.
+            a: This road may not be difficult.
+        4:
+            q: 그들은 이번 주말에 여행을 갈 수도 있습니다.
+            a: They might go on a trip this weekend.
+        5:
+            q: 내일 아침에는 눈이 올 수도 있습니다.
+            a: It may snow tomorrow morning.
+        6:
+            q: 그 영화는 아마도 재미있을 것입니다.
+            a: That movie might be interesting.
+        7:
+            q: 이 문제는 아마도 쉬울 것입니다.
+            a: This problem may be easy.
+        8:
+            q: 내일은 아마도 더워질 것입니다.
+            a: It might be hotter tomorrow.
+        9:
+            q: 그들은 아마도 이번 주말에 축구를 볼 것입니다.
+            a: They may watch soccer this weekend.
+        10:
+            q: 이 일은 아마도 어렵지 않을 것입니다.
+            a: This job may not be difficult.    
+    must, have to:
+        1:
+            q: 나는 지금 숙제를 하기 위해 집에 있어야 해요.
+            a: I must be at home to do my homework now.
+        2:    
+            q: 내일 아침 일찍 일어나야 해요.
+            a: I must wake up early tomorrow morning.
+        3:
+            q: 지금 당장 일어나서 출발해야 해요.
+            a: I must leave right now.
+        4:
+            q: 우리는 내일 회의에 참석해야 해요.
+            a: We must attend the meeting tomorrow.
+        5:
+            q: 이 일은 내가 해결해야 해요.
+            a: I must solve this problem.
+        6:
+            q: 내일까지 이 일을 끝내야 해요.
+            a: I have to finish this task by tomorrow.
+        7:
+            q: 학생들은 시험에 참석하기 위해 규칙을 따라야 해요.
+            a: Students have to follow the rules to take the exam.
+        8:
+            q: 우리는 프로젝트를 마무리하기 위해 노력해야 해요.
+            a: We have to make an effort to finish the project.
+        9:
+            q: 이 계획은 반드시 실행되어야 해요.
+            a: This plan have to be executed without fail.
+        10:
+            q: 팀원들은 서로 협력하여 문제를 해결해야 해요.
+            a: Team members have to work together to solve the problem.
+    should, had better:
+        1:
+            q: 내일 시험이 있어서 오늘 밤에는 일찍 자야 해.
+            a: I should go to bed early tonight because I have a test tomorrow.
+        2:
+            q: 지하철을 타기 전에는 꼭 마스크를 써야 해.
+            a: You should always wear a mask before getting on the subway.
+        3:
+            q: 그 영화는 볼만하지만, 혼자 보기엔 좀 무섭다면서?
+            a: The movie is enjoyable, but you had better not watch it alone since it's a bit scary.
+        4:
+            q: 내일 일어나서는 빨리 샤워하고 출근해야 해.
+            a: I should take a quick shower and go to work early tomorrow.
+        5:
+            q: 이번 주말에는 가족들과 함께 시간을 보내는 게 좋겠어.
+            a: You should spend time with your family this weekend.
+        6:
+            q: 시험 전날에는 충분한 수면을 취해야 해.
+            a: You should get enough sleep the night before the exam.
+        7:
+            q: 약속 시간에 늦지 않게 도착하는 게 좋겠어.
+            a: You should arrive on time for the appointment.
+        8:
+            q: 그 책을 읽으면서 단어를 암기하는 게 좋겠어.
+            a: You should memorize words while reading the book.
+        9:
+            q: 학교에 가기 전에는 반드시 식사를 해야 해.
+            a: You must eat before going to school.
+        10:
+            q: 이번 주말에는 집 청소를 꼭 해야 해.
+            a: I have to clean the house this weekend.
+    will, would, shall:
+        1:
+            q: 내일 괜찮으면 영화 보러 갈래?
+            a: Would you like to go see a movie tomorrow if you're available?
+        2:
+            q: 내일 날씨가 좋으면 산에 올라갈 거야.
+            a: I will hike up the mountain tomorrow if the weather is good.
+        3:
+            q: 시간이 된다면 놀이공원에 가서 신나게 놀아보자.
+            a: If we have time, let's go to the amusement park and have some fun.
+        4:
+            q: 내일 일찍 일어날 거야. 할 일이 많으니까.
+            a: I will wake up early tomorrow. I have a lot to do.
+        5:
+            q: 내일 휴일이니까, 좀 늦게 자도 괜찮을 거야.
+            a: It's a holiday tomorrow, so it will be okay to sleep in a bit.
+        6:
+            q: 내일은 중요한 시험이니까 미리 공부해놓을게.
+            a: I will study in advance because there's an important exam tomorrow.
+        7:
+            q: 내일 저녁에는 친구들과 함께 파티를 할 거야.
+            a: I will have a party with my friends tomorrow evening.
+        8:
+            q: 내일 아침에는 어떤 옷을 입을지 정해놓을 거야.
+            a: I will decide what to wear tomorrow morning.
+        9:
+            q: 내일 점심에는 샌드위치를 만들어 먹을 거야.
+            a: I will make and eat a sandwich for lunch tomorrow.
+        10:
+            q: 내일은 대체공휴일이니까, 출근하지 않아도 돼.
+            a: It's a substitute holiday tomorrow, so I don't have to go to work.
+
+
+
+
+
+
+
+
+
