@@ -916,71 +916,880 @@
 가정법:
     가정법 과거:
         1:
-            q:
-            a:
+            a: If I had known about the concert, I would have gone.
+            q: 만약 그 콘서트에 대해 알았더라면, 내가 갔을 거야.
+        2:
+            a: If I were you, I would have studied harder for the exam.
+            q: 내가 너라면, 시험공부를 열심히 할 거야.
+        3:
+            a: If she had left earlier, she would have caught the train.
+            q: 그녀가 더 일찍 떠났다면, 기차를 탔을 거야.
+        4:
+            a: If they had saved their money, they could have gone on a trip.
+            q: 그들이 돈을 저축했다면, 여행을 갈 수 있었을 거야.
+        5:
+            a: If he had taken the job, he would have earned more money.
+            q: 그가 그 일을 받았다면, 더 많은 돈을 벌었을 거야.
+        6:
+            a: If the weather had been better, we would have gone to the beach.
+            q: 날씨가 더 좋았다면, 우리는 해변에 갔을 거야.
+        7:
+            a: If I had had more time, I would have finished the project.
+            q: 만약 나에게 더 많은 시간이 있었다면, 나는 그 프로젝트를 끝냈을 거야.
+        8:
+            a: If she had been more careful, she wouldn't have made a mistake.
+            q: 그녀가 더 조심했다면, 그녀는 실수를 하지 않았을 거야.
+        9:
+            a: If we had gone to the concert, we would have seen our favorite singer.
+            q: 우리가 그 콘서트에 갔다면, 우리가 좋아하는 가수를 보았을 거야.
+        10:
+            a: If they had listened to the instructions, they wouldn't have gotten lost.
+            q: 그들이 지시사항을 듣고 있었다면, 그들은 길을 잃지 않았을 거야.            
     가정법 과거완료:
-    
+        1:
+            a: If I had studied harder, I would have passed the exam.
+            q: 내가 열심히 공부했다면, 시험을 통과했을 거야.
+        2:
+            a: If she had told me earlier, I would have helped her.
+            q: 그녀가 더 일찍 나에게 말했다면, 나는 그녀를 도와줬을 거야.
+        3:
+            a: If they had bought the tickets in advance, they would have saved money.
+            q: 그들이 사전에 티켓을 구매했다면, 그들은 돈을 절약했을 거야.
+        4:
+            a: If he had studied abroad, he would have learned a new language.
+            q: 그가 해외에서 공부했다면, 그는 새로운 언어를 배웠을 거야.
+        5:
+            a: If we had arrived earlier, we would have gotten better seats.
+            q: 우리가 더 일찍 도착했다면, 우리는 더 좋은 좌석을 얻었을 거야.
+        6:
+            a: If she had been more careful, she wouldn't have broken the vase.
+            q: 그녀가 더 조심했다면, 그녀는 꽃병을 깨뜨리지 않았을 거야.
+        7:
+            a: If they had asked for directions, they wouldn't have gotten lost.
+            q: 그들이 길을 물어봤다면, 그들은 길을 잃지 않았을 거야.
+        8:
+            a: If he had followed the recipe, the cake would have turned out better.
+            q: 그가 레시피를 따랐다면, 케이크는 더 잘 나왔을 거야.
+        9:
+            a: If we had gone to the party, we would have met new people.
+            q: 우리가 그 파티에 갔다면, 우리는 새로운 사람들을 만났을 거야.
+        10:
+            a: If they had practiced more, they would have played better in the game.
+            q: 그들이 더 연습했다면, 그들은 게임에서 더 잘 놀았을 거야.    
     가정법 현재:
-    
+        1:
+            a: If I had time, I would study Korean every day.
+            q: 만약 나에게 시간이 있다면, 나는 매일 한국어를 공부할 거야.
+        2:
+            a: If he had a car, he would drive to work instead of taking the bus.
+            q: 만약 그가 차를 가지고 있다면, 그는 버스를 타는 대신에 직접 차로 출근할 거야.
+        3:
+            a: If she had the money, she would travel to Europe this summer.
+            q: 만약 그녀가 돈이 있다면, 그녀는 올 여름 유럽 여행을 갈 거야.
+        4:
+            a: If they had more free time, they would take up a new hobby.
+            q: 만약 그들이 더 많은 여가시간을 가지고 있다면, 그들은 새로운 취미를 시작할 거야.
+        5:
+            a: If we had a bigger house, we would host more parties.
+            q: 만약 우리가 더 큰 집을 가지고 있다면, 우리는 더 많은 파티를 개최할 거야.
+        6:
+            a: If he had the chance, he would learn to play the guitar.
+            q: 만약 그가 기회가 주어진다면, 그는 기타를 배울 거야.
+        7:
+            a: If she had the time, she would volunteer at the local animal shelter.
+            q: 만약 그녀가 시간이 있다면, 그녀는 지역 동물 보호소에서 자원 봉사를 할 거야.
+        8:
+            a: If they had enough money, they would start their own business.
+            q: 만약 그들이 충분한 돈을 가지고 있다면, 그들은 자신의 비즈니스를 시작할 거야.
+        9:
+            a: If we had the opportunity, we would travel around the world.
+            q: 만약 우리에게 기회가 주어진다면, 우리는 세계일주를 할 거야.
+        10:
+            a: If he had better grades, he would be accepted into a top university.
+            q: 만약 그가 더 좋은 성적을 받았다면, 그는 세계적인 대학에 입학할 수 있었을 거야.    
 수동태:
     수동태:
-    
+        1:
+            a: The cake was baked by my mother.
+            q: 그 케이크는 내 엄마가 구웠어.
+        2:
+            a: The letter was written by the secretary.
+            q: 그 편지는 비서가 썼어.
+        3:
+            a: The house was built in 1980.
+            q: 그 집은 1980년에 지어졌어.
+        4:
+            a: The movie was directed by Steven Spielberg.
+            q: 그 영화는 스티븐 스필버그가 감독했어.
+        5:
+            a: The book was written by J.K. Rowling.
+            q: 그 책은 J.K. 롤링이 썼어.
+        6:
+            a: The meal was cooked by the chef.
+            q: 그 식사는 요리사가 요리했어.
+        7:
+            a: The room was cleaned by the maid.
+            q: 그 방은 메이드가 청소했어.
+        8:
+            a: The song was composed by Mozart.
+            q: 그 노래는 모차르트가 작곡했어.
+        9:
+            a: The painting was created by Van Gogh.
+            q: 그 그림은 반 고흐가 그렸어.
+        10:
+            a: The photograph was taken by my friend.
+            q: 그 사진은 내 친구가 찍었어.    
     조동사가 있는 수동태:
-    
+        1:
+            a: The door can be opened with a key.
+            q: 문은 열쇠로 열 수 있어.
+        2:
+            a: The car must be washed before the trip.
+            q: 여행 전에 차는 꼭 씻겨져야 해.
+        3:
+            a: The project should be completed by Friday.
+            q: 프로젝트는 금요일까지 완료되어야 해.
+        4:
+            a: The books could have been returned earlier.
+            q: 책들은 이전에 반환될 수 있었을 텐데.
+        5:
+            a: The movie must have been seen by millions of people.
+            q: 그 영화는 수백만 명에게 본 것으로 추정돼.
+        6:
+            a: The door will be opened in a few minutes.
+            q: 문은 곧 열릴 거야.
+        7:
+            a: The test should have been studied for more.
+            q: 시험은 더 많이 공부해야 했을 거야.
+        8:
+            a: The building can't be entered after hours.
+            q: 건물은 영업시간 이후에는 들어갈 수 없어.
+        9:
+            a: The window should be closed to keep out the cold.
+            q: 창문은 추위를 막기 위해 닫혀져야 해.
+        10:
+            a: The food must have been cooked to perfection.
+            q: 음식은 완벽하게 요리된 것 같아.    
     to부정사의 수동태:
-    
+        1:
+            a: The car needs to be fixed.
+            q: 차는 수리되어야 해.
+        2:
+            a: The house seems to be abandoned.
+            q: 그 집은 버려진 것 같아.
+        3:
+            a: The food smells like it needs to be thrown away.
+            q: 음식은 버려져야 할 것 같은 냄새가 나.
+        4:
+            a: The work appears to be unfinished.
+            q: 그 일은 끝나지 않은 것 같아.
+        5:
+            a: The book seems to be forgotten on the shelf.
+            q: 그 책은 선반 위에 잊혀진 것 같아.
+        6:
+            a: The door doesn't appear to be locked.
+            q: 문은 잠겨져 있지 않은 것 같아.
+        7:
+            a: The windows need to be cleaned.
+            q: 창문들은 청소되어야 해.
+        8:
+            a: The plants seem to be dying.
+            q: 식물들은 죽어가는 것 같아.
+        9:
+            a: The cake needs to be baked for 30 minutes.
+            q: 케이크는 30분 동안 구워져야 해.
+        10:
+            a: The car appears to be running smoothly.
+            q: 차는 원활하게 움직이는 것 같아.    
     동명사의 수동태:
-
+        1:
+            a: The car needs washing.
+            q: 차는 세차가 필요해.
+        2:
+            a: The report requires updating.
+            q: 보고서는 업데이트가 필요해.
+        3:
+            a: The cake smells delicious while baking.
+            q: 케이크는 구워지는 동안 맛있는 냄새가 나.
+        4:
+            a: The article suggests avoiding certain foods.
+            q: 그 기사는 특정 음식을 피하는 것을 제안해.
+        5:
+            a: The child enjoys being read to.
+            q: 아이는 읽어주는 것을 즐겨해.
+        6:
+            a: The room needs painting.
+            q: 방은 페인트칠이 필요해.
+        7:
+            a: The music keeps me from sleeping.
+            q: 그 음악은 나를 자게 하지 않아.
+        8:
+            a: The book recommends seeing a doctor for proper treatment.
+            q: 그 책은 적절한 치료를 위해 의사를 만나보는 것을 권장해.
+        9:
+            a: The movie is worth watching.
+            q: 그 영화는 볼 가치가 있는데.
+        10:
+            a: The article suggests avoiding smoking.
+            q: 그 기사는 담배를 피하는 것을 제안해.
 전치사:
     at, on, in:
-    
+        1:
+            a: I'll meet you at the restaurant at 7pm.
+            q: 나는 7시에 그 식당에서 너를 만날게.
+        2:
+            a: The cat is sleeping on the couch.
+            q: 그 고양이는 소파 위에서 자고 있어.
+        3:
+            a: The book is on the table.
+            q: 그 책은 테이블 위에 있어.
+        4:
+            a: The party is in the backyard.
+            q: 그 파티는 뒷마당에서 열려.
+        5:
+            a: I'll be at work until 5pm.
+            q: 나는 5시까지 일할 거야.
+        6:
+            a: The picture is on the wall.
+            q: 그 사진은 벽에 걸려 있어.
+        7:
+            a: The concert is in the park.
+            q: 그 콘서트는 공원에서 열려.
+        8:
+            a: The shoes are on the mat.
+            q: 그 신발은 발 매트 위에 놓여 있어.
+        9:
+            a: The book is in the backpack.
+            q: 그 책은 배낭 속에 있다.
+        10:
+            a: The restaurant is in the mall.
+            q: 그 식당은 쇼핑몰 안에 있다.    
     before, after, from, to:
-    
+        1:
+            a: I'll be home from work at 6pm.
+            q: 나는 6시에 일에서 집에 도착할 거야.
+        2:
+            a: The concert starts at 8pm and ends at midnight.
+            q: 그 콘서트는 8시에 시작해서 자정에 끝나.
+        3:
+            a: I went to bed after finishing my book.
+            q: 나는 내 책을 다 읽고 나서 잠에 들었다.
+        4:
+            a: I'll call you before leaving for the airport.
+            q: 나는 공항으로 떠나기 전에 너에게 전화할게.
+        5:
+            a: The train departs from platform 3.
+            q: 그 기차는 3번 승강장에서 출발해.
+        6:
+            a: The restaurant is open from 10am to 10pm.
+            q: 그 식당은 오전 10시부터 오후 10시까지 영업해.
+        7:
+            a: The store closes at 9pm every day.
+            q: 그 가게는 매일 오후 9시에 문을 닫아.
+        8:
+            a: I'll meet you after my doctor's appointment.
+            q: 나는 내 의사 상담을 끝낸 후에 너를 만날 거야.
+        9:
+            a: The museum is open from Tuesday to Sunday.
+            q: 그 박물관은 화요일부터 일요일까지 열려 있어.
+        10:
+            a: I always eat breakfast before leaving the house.
+            q: 나는 집을 나가기 전에 항상 아침을 먹어.    
     of, for, about:
-    
+        1:
+            a: The book is about a young girl who discovers magic powers.
+            q: 이 책은 마법 능력을 발견한 어린 소녀에 대해 다룬다.
+        2:
+            a: She has a love for animals and volunteers at the local shelter.
+            q: 그녀는 동물을 사랑하며 지역 보호소에서 자원봉사를 한다.
+        3:
+            a: I have a lot of respect for my parents.
+            q: 나는 부모님을 매우 존경한다.
+        4:
+            a: The movie tells the story of a group of friends who go on an adventure.
+            q: 이 영화는 모험을 떠나는 친구들의 이야기를 담고 있다.
+        5:
+            a: He has a talent for playing the piano.
+            q: 그는 피아노 연주에 재능이 있다.
+        6:
+            a: I'm sorry for being late.
+            q: 늦어서 미안해.
+        7:
+            a: The article talks about the benefits of exercise.
+            q: 이 기사는 운동의 이점에 대해 이야기한다.
+        8:
+            a: She has a passion for photography and has won several awards.
+            q: 그녀는 사진 촬영에 열정을 가지고 있으며, 몇 차례 수상한 적이 있다.
+        9:
+            a: I'm excited for the upcoming concert.
+            q: 내일 예정된 콘서트가 기대된다.
+        10:
+            a: He is knowledgeable about history and can answer any question.
+            q: 그는 역사에 대해 교양이 있어서 모든 질문에 답할 수 있다.    
     by, with, without, against:
-    
+        1:
+            a: The painting was created by a famous artist.
+            q: 그 그림은 유명한 화가에 의해 만들어졌다.
+        2:
+            a: She cut the cake with a sharp knife.
+            q: 그녀는 예리한 칼로 케이크를 자르고 있었다.
+        3:
+            a: Without his help, I couldn't have finished the project.
+            q: 그의 도움 없이는 나는 그 프로젝트를 마칠 수 없었을 것이다.
+        4:
+            a: They fought against the enemy in the battle.
+            q: 그들은 전투에서 적군과 싸웠다.
+        5:
+            a: I cannot drive without my glasses.
+            q: 안경 없이는 운전할 수 없다.
+        6:
+            a: He won the game against his rival.
+            q: 그는 경쟁자에 대해 경기에서 이겼다.
+        7:
+            a: She cooked the dinner with fresh ingredients.
+            q: 그녀는 신선한 재료로 저녁을 요리했다.
+        8:
+            a: He wrote the novel without any outline.
+            q: 그는 아무런 개요 없이 그 소설을 썼다.
+        9:
+            a: She faced the challenge with great courage.
+            q: 그녀는 위대한 용기로 그 도전에 맞서고 있었다.
+        10:
+            a: They traveled by train to the next city.
+            q: 그들은 기차를 타고 다음 도시로 여행했다.    
     during, until, within, since:
-    
+        1:
+            q: 지난 주말 동안 우리는 캠핑장에서 캠프파이어를 했다.
+            a: During last weekend, we had a campfire at the campground.
+        2:
+            q: 그는 나의 일에 대해서 내일까지 기다리라고 말했다.
+            a: He told me to wait until tomorrow for my job.
+        3:
+            q: 새로운 프로젝트는 이번 달 안에 마무리 해야 한다.
+            a: The new project must be finished within this month.
+        4:
+            q: 우리는 작년부터 그녀를 본 게 없다.
+            a: We haven't seen her since last year.
+        5:
+            q: 그는 항상 시험 전까지만 공부한다.
+            a: He only studies until right before the exam.
+        6:
+            q: 그녀는 다음 주까지 프리랜서로 일할 것이다.
+            a: She will work as a freelancer until next week.
+        7:
+            q: 남편은 출장 때문에 내일 아침까지 돌아오지 못할 것이다.
+            a: My husband won't be back until tomorrow morning due to his business trip.
+        8:
+            q: 그들은 지난 3년 동안 서로를 본 적이 없다.
+            a: They haven't seen each other for the past three years.
+        9:
+            q: 나는 이번 주말까지 모든 일을 마무리할 수 있을 것이다.
+            a: I will be able to finish everything until this weekend.
+        10:
+            q: 그녀는 이직하기 전까지 계속해서 회사에서 일할 것이다.
+            a: She will keep working at the company until she switches jobs.    
     in front of, behind, between:
-    
+        1:
+            q: 나무 뒤에 서서 운동을 하면 시원한 바람을 맞을 수 있어.
+            a: You can feel the cool breeze while exercising behind the tree.
+        2:
+            q: 체육관 앞에 차를 주차해도 될까요?
+            a: Can I park my car in front of the gym?
+        3:
+            q: 대학교 캠퍼스 사이에 공원이 있어.
+            a: There is a park between the university campuses.
+        4:
+            q: 사진을 찍으려면 나무 뒤에 서면 좋을 것 같아.
+            a: It would be good to stand behind the tree to take a picture.
+        5:
+            q: 내 앞에 앉은 사람 머리가 커서 화면을 볼 수 없어.
+            a: I can't see the screen because the person sitting in front of me has a big head.
+        6:
+            q: 시청 건물 뒤에는 예술관이 있어.
+            a: There is an art gallery behind the city hall building.
+        7:
+            q: 다리가 좀 짧아서 의자 앞쪽에 발을 올려 놓을 필요가 있어.
+            a: I need to put my feet up in front of the chair because my legs are a bit short.
+        8:
+            q: 그림자 때문에 물고기를 볼 수 없어요. 앞쪽으로 조금 움직여 볼까요?
+            a: We can't see the fish because of the shadow. Should we move forward a little bit?
+        9:
+            q: 난창이 높아서 내 앞을 볼 수가 없어.
+            a: I can't see what's in front of me because the fence is too high.
+        10:
+            q: 책상 뒤에 있는 램프를 켜고 책을 읽는 것이 좋아.
+            a: It's good to turn on the lamp behind the desk and read a book.    
     among, above, below, next to:
-    
+        1:
+            q: 방 안에서 나는 나무와 함께 작은 식물들이 성장하고 있다.
+            a: Inside the room, I have small plants growing along with my tree.
+        2:
+            q: 지난 주말에 그들은 산 정상에서 놀았다.
+            a: Last weekend, they played on the top of the mountain.
+        3:
+            q: 우리 집 옆에는 작은 호수가 있다.
+            a: There is a small lake next to our house.
+        4:
+            q: 그림자가 바위 위에 떨어져 있다.
+            a: The shadow is cast upon the rock.
+        5:
+            q: 나는 다음 노래 대회에서 2등을 했다.
+            a: I got second place at the next singing competition.
+        6:
+            q: 학교 위에는 매우 맑은 하늘이 펼쳐져 있다.
+            a: Above the school, a very clear sky is spread out.
+        7:
+            q: 나무 아래에 숨어서 책을 읽었다.
+            a: I hid under the tree and read my book.
+        8:
+            q: 바다 옆에서 일어난 해일로 인해 많은 집이 파괴되었다.
+            a: Many houses were destroyed due to the tidal wave that occurred next to the sea.
+        9:
+            q: 새는 나무 위에서 노래하고 있다.
+            a: The bird is singing on top of the tree.
+        10:
+            q: 내가 있는 건물 아래에는 지하철이 지나가고 있다.
+            a: The subway is passing below the building I'm in.    
     up, down, over, under, into, out of:
-    
+        1:
+            q: 물고기가 얕은 물 속에서 수영했다가 갑자기 물 밖으로 뛰어오른다.
+            a: The fish swam in shallow water and suddenly jumped out of the water.
+        2:
+            q: 책상 아래에 고양이가 있다.
+            a: There is a cat under the desk.
+        3:
+            q: 그녀는 창문 밖을 내다보았다.
+            a: She looked out of the window.
+        4:
+            q: 언덕을 오르다가 숨이 턱 막혔다.
+            a: I climbed up the hill and was out of breath.
+        5:
+            q: 그녀는 자신의 가방을 인도네시아어로 번역했다.
+            a: She translated her bag into Indonesian.
+        6:
+            q: 구름이 그림자를 만들어서 아래에 있는 도시를 가리고 있었다.
+            a: The clouds cast a shadow over the city below.
+        7:
+            q: 그들은 강 밑으로 내려가서 수영했다.
+            a: They went down to the river and swam.
+        8:
+            q: 그의 모자가 바람에 날려서 멀리 떨어졌다.
+            a: His hat blew off in the wind and went far away.
+        9:
+            q: 나는 문 밖에서 서서 그녀를 기다렸다.
+            a: I waited for her outside the door.
+        10:
+            q: 그녀는 문을 밖으로 열어 놓았다.
+            a: She opened the door outwards.    
     through, across, along, around, past, toward(s):
- 
+        1:
+            q: 나는 다리를 통해 강을 건너려고 했지만 물이 너무 많이 차 있어서 시도하지 않았다.
+            a: I tried to cross the river through the bridge, but I didn't attempt because the water was too high.
+        2:
+            q: 그녀는 길을 따라 걸어서 학교에 갔다.
+            a: She walked along the road to go to school.
+        3:
+            q: 우리는 산을 넘어서 공원에 도착했다.
+            a: We arrived at the park after hiking across the mountain.
+        4:
+            q: 고양이는 벽을 따라서 지나쳤다.
+            a: The cat passed by along the wall.
+        5:
+            q: 나는 집 앞을 지나가면서 버스를 놓쳤다.
+            a: I missed the bus while walking past my house.
+        6:
+            q: 나무 위로 날아가며 구름을 향해 날았다.
+            a: It flew up into the clouds and soared towards the tree.
+        7:
+            q: 그녀는 숲을 가로지르며 캠핑장으로 갔다.
+            a: She went to the campsite by crossing through the forest.
+        8:
+            q: 저는 이 블로그를 시작하여 지금까지 유지하고 있습니다.
+            a: I have been maintaining this blog since starting it and until now.
+        9:
+            q: 나는 엘리베이터 안에서 책을 읽으면서 아침을 보냈다.
+            a: I spent my morning reading a book inside the elevator.
+        10:
+            q: 나는 공원을 지나가면서 누군가가 내 이름을 부르는 것을 들었다.
+            a: While passing through the park, I heard someone calling my name. 
 접속사:
     등위 접속사:
-    
+        1:
+            q: 기차를 타고 뉴욕으로 갈 수도 있고, 비행기를 타고 갈 수도 있다.
+            a: You can either take a train or a plane to get to New York.
+        2:
+            q: 그는 나를 사랑하고, 내가 그를 사랑한다.
+            a: He loves me and I love him.
+        3:
+            q: 나는 책을 읽기도 하고, TV를 보기도 한다.
+            a: I read books and watch TV.
+        4:
+            q: 나는 요리를 하거나, 외식을 한다.
+            a: I either cook or eat out.
+        5:
+            q: 그는 케이크를 만들었고, 나는 쿠키를 만들었다.
+            a: He made a cake and I made cookies.
+        6:
+            q: 나는 고양이를 키우거나, 강아지를 키우지 않는다.
+            a: I don't have either a cat or a dog.
+        7:
+            q: 그녀는 영화를 보러 갈지, 쇼핑을 할지 고민하고 있다.
+            a: She is deciding whether to go see a movie or go shopping.
+        8:
+            q: 나는 바닷가에서 수영하거나, 산에서 등산을 한다.
+            a: I either swim at the beach or hike in the mountains.
+        9:
+            q: 나는 매일 아침 커피를 마시거나, 차를 마신다.
+            a: I either have coffee or tea every morning.
+        10:
+            q: 그녀는 연극을 볼지, 뮤지컬을 볼지 고민하고 있다.
+            a: She is deciding whether to see a play or a musical.    
     상관 접속사:
-    
+        1:
+            q: 체육관에 가기 전에 운동화를 신으니까 편해졌어.
+            a: I felt more comfortable after putting on my sneakers before going to the gym.
+        2:
+            q: 운전 면허증을 받으려면 시험을 치고 그리고 시험을 합격해야 돼.
+            a: To get a driver's license, you need to take a test, and then you have to pass it.
+        3:
+            q: 요즘은 낮이던 밤이던 날씨가 매우 덥다.
+            a: These days, the weather is extremely hot whether it's day or night.
+        4:
+            q: 나는 집에 있는 동안 음악을 듣거나 영화를 보거나 책을 읽어.
+            a: While I'm at home, I listen to music, watch movies, or read books.
+        5:
+            q: 수영장에 가기 전에 수영복을 입고 가는 것이 좋아.
+            a: It's better to wear a swimsuit before going to the swimming pool.
+        6:
+            q: 공원에서 산책하다가 강아지를 만나서 반갑게 인사했다.
+            a: I met a dog while taking a walk in the park, and I greeted it warmly.
+        7:
+            q: 새로운 컴퓨터를 사기 전에 모델과 가격을 비교해 봐야겠어.
+            a: I should compare the model and price before buying a new computer.
+        8:
+            q: 내일은 비올 가능성이 높기 때문에 우산을 꼭 챙겨야 돼.
+            a: It's highly likely to rain tomorrow, so we must bring an umbrella.
+        9:
+            q: 저는 요즘 커피를 마시면 불면증이 생길 때가 있어요.
+            a: I sometimes get insomnia when I drink coffee these days.
+        10:
+            q: 그녀는 빵집에서 빵을 사서 우리 집에 왔다. 그리고 그녀는 우리와 함께 저녁식사를 했다. 
+            a: She bought bread from a bakery and came to our house. And she had dinner with us.
     명사절 접속사:
-    
+        1:
+            q: 우리가 오늘 방문한 박물관이 유명한 이유가 뭐야?
+            a: The reason why the museum we visited today is famous is because it houses a large collection of ancient artifacts.
+        2:
+            q: 그 여자가 나한테 말을 걸었을 때 내가 놓친 말이 뭐야?
+            a: What was the word I missed when the woman spoke to me?
+        3:
+            q: 일본에서는 봄철에 벚꽃 구경하는 것이 유명한 이유가 뭐야?
+            a: What is the reason that cherry blossom viewing is famous in Japan during the spring season?
+        4:
+            q: 그렇게 날카로운 칼을 사용할 때 안전을 위해 규칙을 따라야 하는 이유가 뭐야?
+            a: What is the reason we must follow rules for safety when using such a sharp knife?
+        5:
+            q: 제가 이 회사를 떠나기로 결정한 이유가 뭐냐면, 더 좋은 기회를 얻기 위해서입니다.
+            a: The reason I decided to leave this company is to pursue better opportunities.
+        6:
+            q: 어린이들이 적극적으로 참여하는 놀이활동을 할 때 어른들이 반드시 지켜야 하는 것은 뭐야?
+            a: What is the thing that adults must always keep in mind when children participate in active play activities?
+        7:
+            q: 그가 그렇게 행동한 이유는 불분명해.
+            a: The reason he behaved that way is unclear.
+        8:
+            q: 그들이 서로 경쟁하는 이유가 뭐야?
+            a: What is the reason they compete against each other?
+        9:
+            q: 우리가 이번 주말에 여행 가기로 한 이유는 휴식이 필요했기 때문이야.
+            a: The reason we decided to go on a trip this weekend is that we needed a break.
+        10:
+            q: 오늘 저녁 메뉴를 고르는 데 도움이 될만한 이유가 뭐야?
+            a: What is the reason that would be helpful in choosing tonight's menu?
     부사절 접속사:
-    
+        1:
+            q: 어제는 비가 와서 집에 있었어요. 그래서 영화를 봤어요.
+            a: Since it was raining yesterday, I stayed at home and watched a movie.
+        2:
+            q: 그가 노래를 부르면서 춤을 추었어요.
+            a: He danced while singing a song.
+        3:
+            q: 우리는 비행기가 떠나기 전에 공항에 도착해야 해요.
+            a: We need to arrive at the airport before the plane takes off.
+        4:
+            q: 그녀는 항상 일어나자마자 창문을 열고 바깥을 내다봅니다.
+            a: She always opens the window and looks outside as soon as she gets up.
+        5:
+            q: 저는 퇴근하기 전에 모든 일을 끝내고 싶어요.
+            a: I want to finish all my work before I leave work.
+        6:
+            q: 그는 집을 나오자마자 비를 맞았어요.
+            a: He got caught in the rain as soon as he left the house.
+        7:
+            q: 그녀는 책을 읽으면서 늘 커피를 마셔요.
+            a: She always drinks coffee while reading a book.
+        8:
+            q: 제가 새로운 사람을 만날 때마다 손을 꼭 잡고 인사해요.
+            a: I always shake hands and greet new people when I meet them.
+        9:
+            q: 당신은 출발하기 전에 반드시 여권을 챙겨야 해요.
+            a: You must bring your passport before you depart.
+        10:
+            q: 그들은 여름방학이 시작하기 전에 여행을 떠나기로 했어요.
+            a: They decided to go on a trip before summer vacation starts.    
 관계사:
     관계대명사 who, which:
-    
+        1:
+            q: 이것이 바로 그녀가 만든 예술 작품이야?
+            a: Is this the art piece which she created?
+        2:
+            q: 그가 내게 얘기한 것은 어려웠어. 그는 그 이야기를 누구에게든지 말하면 안 된다고 했거든.
+            a: What he told me was difficult. He said he couldn't tell that story to anyone.
+        3:
+            q: 그게 바로 내가 찾고 있었던 책이야!
+            a: That's the book which I was looking for!
+        4:
+            q: 그녀는 우리 회사에서 일하는 디자이너야. 그녀가 만든 디자인은 정말 멋져.
+            a: She's a designer who works for our company. The designs she creates are really cool.
+        5:
+            q: 이게 바로 그들이 지난 여름에 다녀온 유럽 여행지야.
+            a: This is the European destination which they visited last summer.
+        6:
+            q: 그녀는 그녀의 꿈을 이루기 위해 끊임없이 노력하는 여자야. 그녀는 참 대단해.
+            a: She's a woman who constantly works hard to achieve her dreams. She's truly amazing.
+        7:
+            q: 이건 내가 마지막으로 보았던 그 영화야. 그 영화는 나에게 많은 감동을 줬어.
+            a: This is the movie which I last saw. The movie gave me a lot of emotions.
+        8:
+            q: 내가 사랑하는 사람이랑 결혼하면 내 인생은 완벽해질 거야.
+            a: My life will be perfect if I marry the person who I love.
+        9:
+            q: 그녀는 내가 도와줄 필요가 있을 때마다 항상 내 옆에 있어줘. 그녀는 내가 매우 고마워.
+            a: She's always by my side whenever I need help. She's someone who I'm very thankful for.
+        10:
+            q: 그곳에서 만난 사람들 중에는 나의 인생을 바꾸게 한 사람도 있었어.
+            a: There was someone who changed my life among the people who I met there.    
     관계대명사 that, what:
-    
+        1:
+            q: 그 영화를 본 것이 정말 행운이었다.
+            a: It was really lucky that I watched that movie.
+        2:
+            q: 그녀가 이번에 입은 옷은 정말 예뻤다.
+            a: The clothes that she wore this time were really pretty.
+        3:
+            q: 나는 그가 말한 대로 일했다.
+            a: I worked as what he said.
+        4:
+            q: 그 사람이 하는 얘기는 내가 이해할 수 없다.
+            a: I can't understand what that person is saying.
+        5:
+            q: 나는 그녀가 원하는 것이 무엇인지 이해하지 못한다.
+            a: I don't understand what she wants.
+        6:
+            q: 그들이 일하는 방법은 내가 좋아하는 것과는 조금 다르다.
+            a: The way that they work is a little different from what I like.
+        7:
+            q: 그녀는 내가 도와준 일에 대해 감사를 표했다.
+            a: She expressed gratitude for what I helped her with.
+        8:
+            q: 나는 그들이 내게 얘기한 것에 대해 혼란스러웠다.
+            a: I was confused about what they told me.
+        9:
+            q: 나는 그들이 그렇게 생각하는 이유를 알 수 없다.
+            a: I can't understand why they think that way.
+        10:
+            q: 이것이 내가 원한 바가 아니다.
+            a: This is not what I wanted.    
     전치사와 함께 쓰이는 관계대명사:
-    
+        1:
+            q: 우리가 함께 여행했던 나라는 어디인가요?
+            a: What country did we travel to together?
+        2:
+            q: 나는 노래방에서 불렀던 노래를 찾고 있어요.
+            a: I'm looking for the song that I sang at the karaoke.
+        3:
+            q: 그 영화에서 사용한 음악은 누구의 작품인가요?
+            a: Whose music was used in the movie?
+        4:
+            q: 나는 무슨 음식을 좋아하면서 자랐는지 기억이 안나.
+            a: I don't remember what kind of food I liked growing up.
+        5:
+            q: 이것이 내가 사랑하는 사람의 선물인데, 어디서 샀는지 말해줄래?
+            a: This is a gift from the person I love, could you tell me where you bought it?
+        6:
+            q: 그는 그의 아내에게서 받은 선물을 보여주며 자랑스러워했다.
+            a: He was proud to show off the gift he received from his wife.
+        7:
+            q: 나는 새로운 노래를 찾고 있어요. 그 노래는 내가 어디서 들었는지 기억이 안나는데, 그 노래의 가사는 "우리 사랑은 영원할거야" 라고 하더라고요.
+            a: I'm looking for a new song. I don't remember where I heard it, but the lyrics go "our love will last forever".
+        8:
+            q: 이 레스토랑에서 제일 맛있는 음식은 무엇인가요?
+            a: What is the most delicious dish in this restaurant?
+        9:
+            q: 너의 새로운 집은 어떤 지역에 위치해 있나요?
+            a: What area is your new house located in?
+        10:
+            q: 나는 어떤 책을 읽어야 할지 모르겠어.
+            a: I don't know which book to read.
+        11:
+            q: 그녀가 가장 좋아하는 음악가는 누구인가요?
+            a: Who is her favorite musician?    
     관계대명사의 생략:
-    
+        1:
+            q: 이 옷은 내가 어제 샀던 것이에요.
+            a: This is the one (that) I bought yesterday.
+        2:
+            q: 너가 쓴 책이 더 좋아.
+            a: I like the book (that) you wrote better.
+        3:
+            q: 지난 주에 본 영화가 너무 재미있었어.
+            a: The movie (that) I saw last week was really good.
+        4:
+            q: 그가 가진 정보가 우리에게 유용했어.
+            a: The information (that) he had was useful to us.
+        5:
+            q: 내일 만날 친구가 어떤 사람인지 설명해 줄래?
+            a: Can you explain what kind of person the friend I'm going to meet tomorrow is?
+        6:
+            q: 너가 건넌 다리를 내가 지나갈게.
+            a: I'll cross the bridge (that) you crossed.
+        7:
+            q: 나한테 했던 말을 다른 사람에게 하지 말아줄래?
+            a: Could you not say to other people what you said to me?
+        8:
+            q: 어디서 들은 얘기인지 기억이 안 나.
+            a: I don't remember where I heard the story (that).
+        9:
+            q: 언제 도착하는지 알려줄래?
+            a: Could you tell me when (it) arrives?
+        10:
+            q: 그 친구가 말한 게 진실인지 의심스러워.
+            a: I doubt (that) what the friend said is true.    
     관계대명사의 한정적 용법:
-    
+        1:
+            q: 네가 추천한 책을 읽었어. 그 책은 내게 많은 영감을 주었어.
+            a: The book that you recommended, I read it. It gave me a lot of inspiration.
+        2:
+            q: 나는 그녀가 말하는 내용에 동의하지 않는다. 그녀가 말하는 것은 대체로 사실과 다르다.
+            a: I don't agree with what she says. What she says is generally not true.
+        3:
+            q: 나는 그녀가 입은 옷이 아주 이쁘다고 생각한다. 그 옷을 어디서 샀는지 물어봐야겠다.
+            a: I think the clothes she's wearing are very pretty. I need to ask her where she bought them.
+        4:
+            q: 내가 그녀를 만난 첫 날에는 그녀가 대화를 이끌어 나갔었다. 그녀가 그 날 이야기한 것들은 나에게 영향을 주었다.
+            a: On the first day I met her, she led the conversation. What she talked about that day had an impact on me.
+        5:
+            q: 그린 팀이 이긴 이유는 그들이 팀워크를 잘했기 때문이다. 그들이 함께 일하는 모습은 참으로 멋졌다.
+            a: The reason the Green team won is that they worked well as a team. The way they worked together was truly impressive.
+        6:
+            q: 그녀가 그의 얼굴을 보자마자 기억이 났다. 그녀는 그와 같이 일한 적이 있었다.
+            a: She remembered him as soon as she saw his face. She had worked with him before.
+        7:
+            q: 이 책에서 설명하는 것은 내가 찾던 방법이었다. 그 방법은 매우 효과적이었다.
+            a: What is explained in this book was the method I was looking for. The method was very effective.
+        8:
+            q: 나는 그녀가 영어를 잘하는 것에 대해 의심스럽다. 그녀가 말하는 것은 항상 맞지 않다.
+            a: I'm skeptical about her being good at English. What she says is not always right.
+        9:
+            q: 그녀가 먹은 것은 내가 만든 음식이다. 내가 그녀에게 만든 음식을 맛본 사람은 그녀밖에 없다.
+            a: What she ate was the food I made. She is the only one who has tasted the food I made for her.
+        10:
+            q: 나는 그가 말한 것에 대해 자세히 알고 있다. 그가 말한 것이 맞는지 아닌지 판단할 수 있다.
+            a: I know in detail about what he said. I can judge whether what he said is right or not.    
     관계대명사의 계속적 용법:
-    
+        1:
+            q: 아이들이 좋아하는 만화는 그들에게 큰 영향을 끼친다.
+            a: The cartoons that children like have a great influence on them.
+        2:
+            q: 그녀가 만든 음식은 맛있기 때문에 모두가 그녀를 칭찬했다.
+            a: Everyone praised her because of the food that she made was delicious.
+        3:
+            q: 그 남자가 소유한 차는 20년 전에 만들어졌다.
+            a: The car that the man owns was made 20 years ago.
+        4:
+            q: 이 지역에서 살고 있는 사람들은 대부분 농사를 짓는다.
+            a: Most of the people who live in this area cultivate crops.
+        5:
+            q: 이 공원에는 사람들이 쉴 수 있는 벤치가 많다.
+            a: There are many benches in this park where people can rest.
+        6:
+            q: 나는 지금까지 읽은 책 중에서 이 책이 가장 재미있다.
+            a: This is the most interesting book that I have read so far.
+        7:
+            q: 오늘 우리가 먹은 음식은 어디에서 사온 것이야?
+            a: Where did you get the food that we ate today?
+        8:
+            q: 제가 필요로 하는 것은 그냥 말씀해 주시면 됩니다.
+            a: You can just tell me what I need.
+        9:
+            q: 학교에서 가르치는 과목들은 매우 유용하다.
+            a: The subjects that are taught at school are very useful.
+        10:
+            q: 그들이 이야기하는 것은 전부 거짓말일 수도 있다.
+            a: What they are saying might all be lies.    
     관계부사:
-    
+        1:
+            q: 너가 그걸 왜 싫어하는지 설명해 줄 수 있어?
+            a: Can you explain why you dislike it?
+        2:
+            q: 그녀가 어디에서 자는지는 아무도 모른다.
+            a: Nobody knows where she sleeps.
+        3:
+            q: 그것이 어떻게 일어났는지 설명해 줄 수 있어?
+            a: Can you explain how it happened?
+        4:
+            q: 나는 그가 언제 돌아올지 모른다.
+            a: I don't know when he'll come back.
+        5:
+            q: 그녀는 왜 그렇게 행동했는지 말해 줄 수 없어.
+            a: I can't tell you why she acted that way.
+        6:
+            q: 너희가 어디에 있었는지는 전혀 중요하지 않아.
+            a: It's not important where you were.
+        7:
+            q: 나는 어떤 사람이 그 일을 한 건지 알고 싶어.
+            a: I want to know who did it.
+        8:
+            q: 그녀가 어디에서 온 건지 알고 싶어.
+            a: I want to know where she came from.
+        9:
+            q: 이것이 언제 필요한지 알려줄래?
+            a: Can you tell me when this is needed?
+        10:
+            q: 너희들이 어떻게 그것을 이룩할지 궁금해.
+            a: I'm curious about how you will achieve it.    
     복합관계사:
+        1:
+            q: 어제 내가 만난 사람은 수지라는 가수를 알고 있는 그녀였다.
+            a: The person whom I met yesterday was the girl who knows Suzy, a singer.
+        2:
+            q: 그녀는 어제 나를 도와준 친구에게서 소식을 들었다.
+            a: She heard the news from the friend who helped her yesterday.
+        3:
+            q: 지금은 내가 일하는 회사에서 새로운 기술을 도입하고 있다.
+            a: We are introducing a new technology at the company where I work now.
+        4:
+            q: 우리가 놀러 갔던 그 도시는 그림 같은 풍경을 가진 아름다운 곳이었다.
+            a: The city where we visited for vacation was a beautiful place with picturesque scenery.
+        5:
+            q: 그 사람이 말하는 대로 일을 해봐야 알 수 있을 것 같아.
+            a: I think I need to try doing the work as what he says.
+        6:
+            q: 우리가 기다리고 있는 비행기가 지연되어서 예정 시간보다 늦게 출발할 것이다.
+            a: The flight which we are waiting for will depart later than the scheduled time because of the delay.
+        7:
+            q: 그녀가 방금 만든 음식은 내가 지금까지 먹어본 것 중에 제일 맛있었다.
+            a: The food which she just made was the most delicious one that I have ever tasted.
+        8:
+            q: 미래에 내가 이루고 싶은 꿈은 모든 사람들이 행복한 세상을 만드는 것이다.
+            a: My dream that I want to achieve in the future is to make a world where all people are happy.
+        9:
+            q: 이 영화는 감동적인 이야기와 멋진 배우들이 출연해서 많은 관객들의 사랑을 받았다.
+            a: The movie, which received a lot of love from audiences, featured an impressive story and great actors.
+        10:
+            q: 그가 지금까지 쓴 시는 미적 감각이 풍부하며 깊이 있는 메시지를 담고 있다.
+            a: The poems that he has written so far are rich in aesthetic sense and contain deep messages.    
     
-    
-
-
-
-
 
 
 
