@@ -8,7 +8,7 @@ let totalCount = 0;
 let pageTotal = 0;
 let pageGroup = 0;
 let pagePer = 1;
-let pageCount = 10;
+let pageCount = 8;
 
 function initData(pathname, data) {
     this.pathname = pathname;
