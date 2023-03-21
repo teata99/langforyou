@@ -113,8 +113,10 @@ function countPage(params_class1, params_class2, currentPage) {
     for(let i = firstNumber; i <= lastNumber; i++) {
         appendPagination(params_class1, params_class2, i, currentPage, '');
     }
-
-    if(next < pageTotal) {
+    
+    console.log(next, pageTotal);
+    
+    if(next <= pageTotal) {
         appendPagination(params_class1, params_class2, next, currentPage, '&raquo;');
     }
 }
