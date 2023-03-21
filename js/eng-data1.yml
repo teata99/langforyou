@@ -1789,6 +1789,607 @@
         10:
             q: 그가 지금까지 쓴 시는 미적 감각이 풍부하며 깊이 있는 메시지를 담고 있다.
             a: The poems that he has written so far are rich in aesthetic sense and contain deep messages.    
+명사:
+    셀수 있는 명사:
+        1:
+            q: 나의 책상 위에 연필이 하나 있다.
+            a: There is a pencil on my desk.
+        2:
+            q: 주말에 책을 빌려줄 수 있을까요?
+            a: Can you lend me a book for the weekend?
+        3:
+            q: 그녀는 매일 아침 커피 한 잔을 마셔요.
+            a: She drinks a cup of coffee every morning.
+        4:
+            q: 그는 항상 주머니에 펜을 하나 들고 다녀요.
+            a: He always carries a pen in his pocket.
+        5:
+            q: 저는 집에 컴퓨터를 두 대 가지고 있어요.
+            a: I have two computers at home.
+        6:
+            q: 그들은 모두 다른 색깔의 구두를 신고 있어요.
+            a: They are all wearing shoes of different colors.
+        7:
+            q: 우리 가족은 냉장고 안에 우유 한 팩을 마셨어요.
+            a: Our family drank a pack of milk in the fridge.
+        8:
+            q: 저는 휴대폰 두 대를 가지고 있어요.
+            a: I have two phones.
+        9:
+            q: 친구들과 사과 세 개를 나눠 먹었어요.
+            a: We shared three apples among friends.
+        10:
+            q: 그녀는 새로운 노트북을 한 대 샀어요.
+            a: She bought a new laptop.
+    셀수 없는 명사:
+        1:
+            q: 우유는 건강에 좋아요.
+            a: Milk is good for your health.
+        2:
+            q: 저는 크래커와 치즈를 함께 먹는 것을 좋아해요.
+            a: I love to eat cheese with crackers.
+        3:
+            q: 설탕은 건강에 좋지 않아요.
+            a: Sugar is not good for your health.
+        4:
+            q: 그녀는 수프에 너무 많은 소금을 넣었어요.
+            a: She put too much salt in the soup.
+        5:
+            q: 버터 좀 가져다 줄래요?
+            a: Can you pass me the butter please?
+        6:
+            q: 저녁 식사를 위해 쌀을 사야 해요.
+            a: We need to buy some rice for dinner.
+        7:
+            q: 그는 프라이팬에 기름을 조금 더했어요.
+            a: He added some oil to the frying pan.
+        8:
+            q: 이 레시피는 밀가루 한 컵을 요구해요.
+            a: The recipe calls for a cup of flour.
+        9:
+            q: 커피가 커피포트에 남아 있나요?
+            a: Do you have any coffee left in the pot?
+        10:
+            q: 저는 꿀과 레몬으로 차를 마시는 것을 좋아해요.
+            a: I like to drink tea with honey and lemon.    
+    부정관사:
+        1:
+            q: 그는 호랑이를 봤어요.
+            a: He saw a tiger.
+        2:
+            q: 저는 지난 주에 새로운 자전거를 샀어요.
+            a: I bought a new bicycle last week.
+        3:
+            q: 그 여자는 노란색 모자를 썼어요.
+            a: The woman wore a yellow hat.
+        4:
+            q: 그 남자는 작은 개를 키우고 있어요.
+            a: The man has a small dog.
+        5:
+            q: 그녀는 나쁜 꿈을 꿨어요.
+            a: She had a bad dream.
+        6:
+            q: 새로운 직장에서 매우 친절한 동료를 만났어요.
+            a: I met a very friendly colleague at my new job.
+        7:
+            q: 그녀는 아름다운 노래를 부르고 있어요.
+            a: She is singing a beautiful song.
+        8:
+            q: 어제 나는 새로운 음식을 시도했어요.
+            a: Yesterday, I tried a new food.
+        9:
+            q: 그는 항상 멋진 옷을 입고 다닙니다.
+            a: He always wears nice clothes.
+        10:
+            q: 지난 주에 저는 바다에서 아름다운 조개껍질을 발견했어요.
+            a: Last week, I found a beautiful seashell at the beach.    
+    정관사:
+        1:
+            q: 그 학교는 매우 좋은 교육 시설을 가지고 있어요.
+            a: The school has very good educational facilities.
+        2:
+            q: 저는 작은 창고에서 물건을 찾았어요.
+            a: I found the item in a small storage room.
+        3:
+            q: 그 여자는 한국인이에요.
+            a: The woman is Korean.
+        4:
+            q: 저는 커피를 좋아해요.
+            a: I like coffee.
+        5:
+            q: 그곳에는 아름다운 장미가 있어요.
+            a: There are beautiful roses over there.
+        6:
+            q: 이 책은 너무 재미있어요.
+            a: This book is very interesting.
+        7:
+            q: 그 남자는 매일 학교에 가요.
+            a: The man goes to school every day.
+        8:
+            q: 이 문제를 해결할 수 있는 방법이 있을까요?
+            a: Is there a way to solve this problem?
+        9:
+            q: 그녀는 자신의 능력을 매우 잘 이해하고 있어요.
+            a: She understands her abilities very well.
+        10:
+            q: 나는 항상 매일 운동을 합니다.
+            a: I always exercise every day.    
+    인칭 대명사:
+        1:
+            q: 나는 오늘 친구를 만났어요.
+            a: I met my friend today.
+        2:
+            q: 너는 어떤 계획을 가지고 있니?
+            a: Do you have any plans?
+        3:
+            q: 그녀는 항상 친절해요.
+            a: She is always kind.
+        4:
+            q: 우리는 이 일을 해결할 수 있을 거예요.
+            a: We can solve this problem.
+        5:
+            q: 그들은 항상 서로를 돕고 있어요.
+            a: They are always helping each other.
+        6:
+            q: 저희 가족은 큰 재산을 가지고 있지 않아요.
+            a: Our family doesn't have a lot of money.
+        7:
+            q: 그 회사에서 제가 일하는 것이 매우 즐거워요.
+            a: I enjoy working at that company.
+        8:
+            q: 그 여자는 자신에게 엄격한 규칙을 지키고 있어요.
+            a: The woman is strict with herself and follows her own rules.
+        9:
+            q: 저는 이 일을 스스로 해결해야 할 것 같아요.
+            a: I think I need to solve this problem by myself.
+        10:
+            q: 그 학생들은 모두 성실하게 공부하고 있어요.
+            a: The students are all studying diligently.    
+    대명사 it:
+        1:
+            q: 날씨가 추운데, 그것을 신경써야 해요.
+            a: It's cold outside, so we need to pay attention to that.
+        2:
+            q: 요리를 할 때, 그것을 잘게 자르는 것이 중요해요.
+            a: When cooking, it's important to chop it finely.
+        3:
+            q: 이 문제는 쉽지 않아요. 그것을 해결하려면 많은 시간이 필요해요.
+            a: This problem is not easy. It takes a lot of time to solve it.
+        4:
+            q: 그 사람은 항상 그것을 놓치지 않아요.
+            a: That person never misses it.
+        5:
+            q: 이 책은 그것을 읽으면서 많은 것을 배울 수 있어요.
+            a: You can learn a lot by reading this book.
+        6:
+            q: 이 문제는 그것을 어떻게든 해결해야 해요.
+            a: We need to solve this problem somehow.
+
+
+    재귀대명사:
+        1:
+            q: 그녀는 그녀 자신에게 많은 일을 기대했다.
+            a: She had high expectations for herself.
+        2:
+            q: 나는 내가 잘못한 일을 반성했다.
+            a: I reflected on what I had done wrong.
+        3:
+            q: 우리는 우리 자신의 선택을 해야 한다.
+            a: We have to make our own choices.
+        4:    
+            q: 너는 네 자신을 사랑해야 해.
+            a: You have to love yourself.
+        5:    
+            q: 그들은 스스로 문제를 해결할 수 있다.
+            a: They can solve their own problems.
+        6:    
+            q: 나는 내가 스스로 결정할 수 있는 것들을 좋아한다.
+            a: I like things that I can decide for myself.
+        7:    
+            q: 그들은 스스로 자신을 발전시킬 수 있다.
+            a: They can develop themselves on their own.
+        8:    
+            q: 나는 스스로 일을 처리할 수 있다.
+            a: I can handle things on my own.
+        9:    
+            q: 그녀는 자신의 미래를 계획하고 있다.
+            a: She's planning her own future.
+        10:    
+            q: 우리는 우리 스스로의 인생을 살아야 한다.
+            a: We have to live our own lives.
+
+    지시대명사:
+        1:
+            q: 이 옆에 적어있는 책은 누구 것인가요?
+            a: That book next to you, whose is it?
+        2:
+            q: 이 문서를 여기에 놔두세요. 그것이 필요할 때 꺼내 쓸게요.
+            a: Please leave this document here. I will take it out when I need it.
+        3:
+            q: 저는 여기서 출발하겠습니다. 그것으로부터 멀지 않은 곳에 있습니까?
+            a: I will depart from here. Is it not far from there?
+        4:
+            q: 이 버튼을 누르면 무엇이 일어날까요?
+            a: What happens when I press this button?
+        5:
+            q: 저녁 식사로 무엇을 먹을까요?
+            a: What should we eat for dinner?
+        6:
+            q: 내일 할 일을 적어두세요. 그것이 기억이 안 나면 목록을 확인할 수 있어요.
+            a: Write down what you need to do tomorrow. You can check the list if you forget.
+        7:
+            q: 저기 있는 남자분이 누구신가요?
+            a: Who is that man over there?
+        8:
+            q: 이번 주말에 뭘 할 건가요?
+            a: What are we going to do this weekend?
+        9:
+            q: 이제 어디로 가시려나요?
+            a: Where are you going now?
+        10:
+            q: 이 빨간색 펜이 필요해요. 그것을 주실 수 있나요?
+            a: I need this red pen. Can you give it to me?    
+    부정대명사:
+        1:
+            q: 어제 영화관에 가서 봤는데, 아무도 없어서 집중해서 볼 수 있었다.
+            a: I went to the cinema yesterday and there was nobody there, so I could concentrate on the movie.
+        2:
+            q: 아무도 도와주지 않아서 혼자서 일을 마쳐야 했다.
+            a: I had to finish the work by myself because nobody would help me.
+        3:
+            q: 무엇을 먹을지 모르겠어서 아무거나 시켰다.
+            a: I didn't know what to eat, so I ordered anything.
+        4:
+            q: 아무도 그녀가 어디로 갔는지 몰랐다.
+            a: Nobody knew where she went.
+        5:
+            q: 그는 아무것도 하지 않았다.
+            a: He did nothing.
+        6:
+            q: 누구도 내가 무엇을 느끼는지 이해하지 못한다.
+            a: Nobody understands how I feel.
+        7:
+            q: 그들은 아무런 경험이 없어서 그 일을 할 수 없었다.
+            a: They couldn't do the job because they had no experience.
+        8:
+            q: 그는 아무런 학위도 없이 그 일을 했다.
+            a: He did the job without any degree.
+        9:
+            q: 아무도 그녀를 신뢰하지 않는다.
+            a: Nobody trusts her.
+        10:
+            q: 이번 시험에서 아무 것도 배우지 못했다.
+            a: I didn't learn anything from this exam.    
+형용사:
+    형용사:
+        1:
+            q: 예쁜 꽃이 마당에 핀다.
+            a: Beautiful flowers are blooming in the yard.
+        2:
+            q: 우리는 맛있는 음식을 먹었다.
+            a: We ate delicious food.
+        3:
+            q: 그 영화는 슬픈 이야기를 담고 있다.
+            a: The movie contains a sad story.
+        4:
+            q: 나는 행복한 기분이 든다.
+            a: I feel happy.
+        5:
+            q: 그녀는 지능적인 사람이다.
+            a: She is an intelligent person.
+        6:
+            q: 이 문제는 어렵다.
+            a: This problem is difficult.
+        7:
+            q: 내일은 화창한 날씨가 될 것이다.
+            a: Tomorrow will be a sunny day.
+        8:
+            q: 이 책은 재미있는 이야기를 담고 있다.
+            a: This book contains an interesting story.
+        9:
+            q: 나는 지루한 수업을 참지 못한다.
+            a: I can't stand boring classes.
+        10:
+            q: 그녀는 아름다운 드레스를 입고 나왔다.
+            a: She came out wearing a beautiful dress.    
+부사:
+    부사:
+        1:
+            q: 천천히 걸어가면서 경치를 즐길 수 있어. 
+            a: You can enjoy the scenery while walking slowly.
+        2:
+            q: 가끔은 정말 재미있게 놀아야 해. 
+            a: Sometimes you have to have fun really well.
+        3:
+            q: 나는 아침에 빨리 일어나는 것을 좋아해. 
+            a: I like to wake up quickly in the morning.
+        4:
+            q: 열심히 공부해서 좋은 성적을 받을 거야. 
+            a: I will get good grades by studying hard.
+        5:
+            q: 나는 이전보다 더 건강하게 살아가고 있어. 
+            a: I am living more healthily than before.
+        6:
+            q: 그 영화는 정말로 재미있게 만들어졌어. 
+            a: The movie was really made entertainingly.
+        7:
+            q: 나는 흔히 친구들과 함께 여행을 다녀와. 
+            a: I often go on trips with my friends.
+        8:
+            q: 그 사람은 항상 정직하게 일을 해. 
+            a: He always works honestly.
+        9:
+            q: 나는 여름에 자주 수영을 해. 
+            a: I swim often in the summer.
+        10:
+            q: 그녀는 우아하게 걸어 다녀. 
+            a: She walks elegantly.    
+비교 구문:
+    비교급:
+        1:
+            q: 어제보다 오늘 더 행복해요. 왜냐하면 오늘은 기분이 좋아졌기 때문이에요.
+            a: I'm happier today than yesterday because I'm in a better mood today.
+        2:
+            q: 제 새로운 컴퓨터는 예전 것보다 빠릅니다.
+            a: My new computer is faster than the old one.
+        3:
+            q: 이번 달은 지난 달보다 더 바쁩니다.
+            a: This month is busier than last month.
+        4:
+            q: 지금은 어제보다 날씨가 덥습니다.
+            a: It's hotter today than it was yesterday.
+        5:
+            q: 그녀는 그보다 더 예쁩니다.
+            a: She is prettier than him.
+        6:
+            q: 새로운 차는 우리 차보다 더 큽니다.
+            a: The new car is bigger than our car.
+        7:
+            q: 이 책은 저번에 읽은 책보다 재미있습니다.
+            a: This book is more interesting than the one I read last time.
+        8:
+            q: 요즘은 예전보다 더 건강을 챙기는 것이 중요합니다.
+            a: Taking care of your health is more important than ever these days.
+        9:
+            q: 그는 저보다 더 키가 큽니다.
+            a: He is taller than me.    
+    최상급:
+        1:
+            q: 새는 고양이보다 빠르다는 사실을 알고 계셨나요?
+            a: Birds are faster than cats, did you know that?
+        2:
+            q: 지난주에 마시는 것을 그만둔 후 느낀 점은 무엇인가요?
+            a: What did you feel after quitting drinking last week?
+        3:
+            q: 최근에 사무실에서 가장 열심히 일하는 사람은 누구인가요?
+            a: Who is working the hardest in the office recently?
+        4:
+            q: 요즘 많이 운동해서 그런지 더 건강해진 것 같아요.
+            a: I feel like I'm getting even healthier these days because I've been exercising a lot.
+        5:
+            q: 너무 늦게 자는 것 같아서 그렇지만 그렇게 하면 건강에 좋지 않을 것 같아.
+            a: It seems like you're staying up too late, but that's probably not good for your health.
+        6:
+            q: 요즘 내 친구들 중에서는 지미가 제일 재미있게 이야기 해주는 것 같아.
+            a: It seems like Jimmy is telling the most interesting stories among my friends these days.
+        7:
+            q: 이번 학기에는 지난 학기보다 더 열심히 공부할 것이다.
+            a: I will study harder this semester than last semester.
+        8:
+            q: 오늘은 어제보다 행복한 하루를 보낼 것이다.
+            a: Today, I will have a happier day than yesterday.
+        9:
+            q: 이번에는 예전보다 더 많은 돈을 벌 수 있을 것 같아요.
+            a: This time, I think I can earn more money than before.
+        10:
+            q: 어릴 때보다 이제 더 많은 것을 알게 된 것 같아요.
+            a: I feel like I know more things now than when I was young.    
+특수 구문:
+    부정 구문:
+        1:
+            q: 사탕을 먹지 않았어요.
+            a: I didn't eat the candy.
+        2:
+            q: 어제 밤에 숙제를 하지 않았어요.
+            a: I didn't do my homework last night.
+        3:
+            q: 그것은 결코 일어나지 않을 거예요.
+            a: It will never happen.
+        4:
+            q: 나는 어디에도 가지 않았어요.
+            a: I didn't go anywhere.
+        5:
+            q: 이 시험에서 나는 실패하지 않을 거예요.
+            a: I won't fail this exam.
+        6:
+            q: 그녀는 어제 밤에 우리 집에 오지 않았어요.
+            a: She didn't come to our house last night.
+        7:
+            q: 우리는 지난 주에 여행을 가지 않았어요.
+            a: We didn't go on a trip last week.
+        8:
+            q: 그는 그녀를 결코 사랑하지 않았어요.
+            a: He never loved her.
+        9:
+            q: 나는 저녁 식사를 건너 뛰지 않을 거예요.
+            a: I won't skip dinner.
+        10:
+            q: 그들은 그들의 약속을 어기지 않을 거예요.
+            a: They won't break their promise.    
+    도치 구문:
+        1:
+            q: 바쁜 일정에도 불구하고 책을 읽는 것은 나를 행복하게 만든다. 
+            a: Despite my busy schedule, reading books makes me happy.
+        2:
+            q: 지금 당장 피자를 주문하지 않는다면, 우리는 배가 고파 죽을 것이다. 
+            a: If we don't order pizza right now, we will die of hunger.
+        3:
+            q: 시험에 떨어져서는 안 된다. 그것은 내 인생의 목표에 이르기 위한 첫걸음이다. 
+            a: Failing the exam is not an option. It's the first step towards achieving my life goals.
+        4:
+            q: 빨리 뛰지 않으면, 우리는 비행기를 놓칠 것이다. 
+            a: If we don't run quickly, we will miss the flight.
+        5:
+            q: 날씨가 좋지 않으면, 우리는 산을 오르지 않을 것이다. 
+            a: If the weather is bad, we won't climb the mountain.
+        6:
+            q: 밤에는 교통량이 적다. 그래서 운전하기 좋다. 
+            a: At night, there is less traffic, so it's easier to drive.
+        7:
+            q: 그들은 일을 미루기로 결정했다. 왜냐하면, 이제 그들은 더 많은 시간이 필요하기 때문이다. 
+            a: They decided to postpone the work because now they need more time.
+        8:
+            q: 그 영화는 매우 길다. 그래서 나는 잠이 들었다. 
+            a: The movie was very long, so I fell asleep.
+        9:
+            q: 토요일에 우리는 피크닉을 가기로 계획했다. 그러나 비가 오면, 계획이 취소될 것이다. 
+            a: We planned to go on a picnic on Saturday, but if it rains, the plan will be canceled.
+        10:
+            q: 그들은 체육관에서 운동을 했다. 그 후에, 그들은 바로 집에 돌아왔다. 
+            a: They exercised at the gym, and then they went straight home.
+        11:
+            q: 그녀는 늦게 일어나서, 아침 식사를 거르고 출근했다. 
+            a: She woke up late and went to work without having breakfast.    
+    강조 구문:
+        1:
+            q: 지난주에는 공부하기 바쁜 일정이었지만, 오늘은 열심히 놀기로 했다.
+            a: Last week was a busy schedule for studying, but today I decided to enjoy myself.
+        2:
+            q: 이 공원은 산책하기에는 최적의 장소야.
+            a: This park is the perfect place for taking a walk.
+        3:
+            q: 그녀는 항상 매우 친절해요.
+            a: She is always very kind.
+        4:
+            q: 나는 식사를 준비하느라고 매우 바쁘다.
+            a: I am very busy preparing dinner.
+        5:
+            q: 아이들은 항상 새로운 것을 배우는 것이 쉽다.
+            a: Children always find it easy to learn new things.
+        6:
+            q: 나는 친구들과 함께 있는 것이 가장 좋다.
+            a: Being with friends is the best.
+        7:
+            q: 그 영화는 나에게 매우 감동적인 경험이었다.
+            a: That movie was a very touching experience for me.
+        8:
+            q: 그 사람은 항상 자신감에 넘치는 모습을 보인다.
+            a: That person always shows a confident attitude.
+        9:
+            q: 나는 이제 모든 것이 조용해지기 시작한 밤에 공부를 한다.
+            a: I study at night when everything starts to become quiet.
+        10:
+            q: 그녀는 나에게 매우 특별한 사람이다.
+            a: She is a very special person to me.    
+    생략 구문:
+        1:
+            q: 우리가 다시 그 시절로 돌아간다면 어떨까요?
+            a: If we could go back to those days, what would it be like?
+        2:
+            q: 이번 주말에 계획은 뭐예요?
+            a: What are the plans for this weekend?
+        3:
+            q: 내일 아침에 일어날 때까지 기다려 줄래요?
+            a: Would you wait until I wake up tomorrow morning?
+        4:
+            q: 빨리 간단히 알려줄 수 있을까요?
+            a: Can you quickly tell me in brief?
+        5:
+            q: 그 사람이 왜 거기에 있었는지 아무도 모르겠어요.
+            a: Nobody knows why that person was there.
+        6:
+            q: 내일 새벽 비행기 타러 공항에 갈 거야.
+            a: I'm going to the airport to catch an early morning flight tomorrow.
+        7:
+            q: 그 영화는 진짜 재미있어서 두 번 이상 볼 만해요.
+            a: The movie is so enjoyable that it's worth watching more than once.
+        8:
+            q: 이 책은 나의 인생을 바꿀 만한 가치가 있어요.
+            a: This book has a value that can change my life.
+        9:
+            q: 그들은 항상 강력한 근육력과 체력을 유지하기 위해 매일 운동을 합니다.
+            a: They exercise every day to maintain their strong muscles and stamina.
+        10:
+            q: 지난 주에 일어난 일로 인해 나는 매우 실망스러웠어요.
+            a: I was very disappointed due to what happened last week.    
+    공통 관계 구문:
+        1:
+            q: 철수가 방에 들어가서 문을 열었다.
+            a: Upon entering the room, Cheolsoo opened the door.
+        2:
+            q: 고양이는 자신의 발로 놀이감을 놀렸다.
+            a: The cat played with its toy using its paws.
+        3:
+            q: 남자는 나무 그늘에 앉아서 책을 읽었다.
+            a: The man sat under the shade of the tree and read a book.
+        4:
+            q: 교수님은 자신의 학생들을 위해 시험지를 준비하였다.
+            a: The professor prepared an exam for his students.
+        5:
+            q: 엄마는 아이들이 먹을 간식을 만들었다.
+            a: The mother made a snack for the children to eat.
+        6:
+            q: 그녀는 나에게 선물을 주었다.
+            a: She gave me a gift.
+        7:
+            q: 음악을 들으며 산책하는 것이 좋다.
+            a: It's nice to take a walk while listening to music.
+        8:
+            q: 선생님은 학생들에게 수업 자료를 나누어 주었다.
+            a: The teacher shared teaching materials with the students.
+        9:
+            q: 이 공원은 사람들이 쉴 수 있는 좋은 장소이다.
+            a: This park is a great place for people to rest.
+        10:
+            q: 나는 친구를 만나러 카페에 갔다.
+            a: I went to a cafe to meet a friend.    
+    삽입 구문:
+        1:
+            q: 선생님이 학생들에게 \"새로운 지식을 습득할 때마다 마치 새로운 세상을 탐험하는 것처럼 느껴질 것이다.\"라고 말했다. 
+            a: The teacher said to the students, \"Every time you acquire new knowledge, it will feel like exploring a new world.\"
+        2:
+            q: \"사랑은 인내하며 사랑은 자비롭다. 사랑은 시기하지 않으며 자랑하지 않으며 교만하지 않다.\"는 바울의 첫번째 고린도서에서 온 구절이다. 
+            a: \"Love is patient, love is kind. It does not envy, it does not boast, it is not proud.\" is a verse from 1 Corinthians in the Bible.
+        3:
+            q: 매튜 맥코너헤이는 자신이 \"범죄자에게 걸맞은 벌을 내린 것이지 인간에게 걸맞은 벌을 내린 것이 아니다.\"고 말했다. 
+            a: Matthew McConaughey said, \"I sentenced a criminal to appropriate punishment, not a punishment befitting a human being.\"
+        4:
+            q: \"우리가 생각하는 것만큼 중요한 것은 아니다.\"는 영국의 철학자 버트런 러셀의 유명한 말이다. 
+            a: \"What we think is not as important as we think.\" is a famous quote by the British philosopher Bertrand Russell.
+        5:
+            q: 일론 머스크는 \"나는 무언가를 해결하려는 노력에 기반하여 일하고 있다. 나는 문제를 해결하려고 노력하고, 솔루션을 찾으려고 노력한다.\"고 말했다. 
+            a: Elon Musk said, \"I'm working based on the effort to solve something. I strive to solve problems and find solutions.\"
+        6:
+            q: \"천천히 가면서도 멀리 갈 수 있다.\"는 푸른 산빛에서 온 속담이다. 
+            a: \"Slowly but surely\" is a proverb that comes from the Blue Mountain.    
+    동격 구문:
+        1:
+            q: 저번 주말에는 레스토랑에서 친구들과 함께 저녁을 먹었는데, 그 중에서도 전채요리가 제일 맛있었어.
+            a: Last weekend, I had dinner with some friends at a restaurant, and the appetizers were the most delicious.
+        2:
+            q: 이번 주에는 식당에서 새로운 셰프가 책임질 거래요. 그래서 새로운 메뉴들도 도입할 예정이라고 해.
+            a: This week, a new chef is taking over at the restaurant, so they're planning to introduce some new dishes.
+        3:
+            q: 요즘 먹고싶은 음식이 뭐에요?
+            a: What kind of food have you been craving lately?
+        4:
+            q: 여름이니까 상큼한 음식이 땡겨요.
+            a: Since it's summer, I've been craving light and refreshing food.
+        5:
+            q: 한국 음식 중에서 어떤 거 좋아해요?
+            a: What kind of Korean food do you like?
+        6:
+            q: 제일 좋아하는 한국 음식은 불고기예요.
+            a: My favorite Korean dish is bulgogi.
+        7:
+            q: 그 식당에서는 육회를 유명하게 팔아요.
+            a: The restaurant is famous for their beef tartare.
+        8:
+            q: 이번 주말에는 열심히 요리를 해봐야겠어요.
+            a: I should try cooking a lot this weekend.
+        9:
+            q: 한식 요리보다는 서양식 요리가 더 맛있는 것 같아요.
+            a: I think Western cuisine is tastier than Korean cuisine.    
     
 
 
