@@ -240,33 +240,6 @@ function movePage(direction) {
     }
 }
 
-window.addEventListener('keydown', function(event) {
-    if(event.defaultPrevented) {
-        return;
-    }
-    
-    switch(event.key) {
-        case "Down":
-        case "ArrowDown":
-                    moveClassPage(1);
-                    break;
-        case "Up":
-        case "ArrowUp":
-                    moveClassPage(-1);
-                    break;
-        case "Left":
-        case "ArrowLeft":
-                    movePage(-1);
-                    break;
-        case "Right":
-        case "ArrowRight":
-                    movePage(1);
-                    break;                    
-    }
-    
-    //event.preventDefault();
-});
-
 function onClickNav(class1, class2, currentPage) {
     this.currentPage = currentPage;
     initForm();
