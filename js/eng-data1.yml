@@ -2,194 +2,194 @@
     1형식:
         1:
             q: 저는 저녁 식사로 피자를 좋아합니다.
-            a: I like to eat pizza for dinner
+            a: I like to eat pizza for dinner.
         2:
-            q: 그녀는 핸드폰으로 음악을 듣는 것을 즐깁니다
-            a: She enjoys listening to music on her phone
+            q: 그녀는 핸드폰으로 음악을 듣는 것을 즐깁니다.
+            a: She enjoys listening to music on her phone.
         3:
-            q: 그는 공원에서 축구를 하는 것을 좋아합니다
-            a: He loves to play soccer in the park            
+            q: 그는 공원에서 축구를 하는 것을 좋아합니다.
+            a: He loves to play soccer in the park.           
         4:
-            q: 그들은 항상 아침에 커피를 마시고 있습니다
-            a: They always drink coffee in the morning            
+            q: 그들은 항상 아침에 커피를 마시고 있습니다.
+            a: They always drink coffee in the morning.            
         5:
-            q: 우리는 여름 동안 자주 해변으로 가곤 합니다
-            a: We often go to the beach during the summer            
+            q: 우리는 여름 동안 자주 해변으로 가곤 합니다.
+            a: We often go to the beach during the summer.            
         6:
-            q: 제 아버지는 보통 아침 식사 후에 신문을 읽습니다
-            a: My dad usually reads the newspaper after breakfast            
+            q: 제 아버지는 보통 아침 식사 후에 신문을 읽습니다.
+            a: My dad usually reads the newspaper after breakfast.            
         7:
-            q: 그녀는 가끔 주말에 친구들과 함께 쇼핑을 갑니다
-            a: She sometimes goes shopping with her friends on the weekends            
+            q: 그녀는 가끔 주말에 친구들과 함께 쇼핑을 갑니다.
+            a: She sometimes goes shopping with her friends on the weekends.            
         8:
-            q: 그는 야채를 거의 먹지 않습니다. 왜냐하면 그들을 좋아하지 않기 때문입니다
-            a: He rarely eats vegetables because he doesn't like them            
+            q: 그는 야채를 거의 먹지 않습니다. 왜냐하면 그들을 좋아하지 않기 때문입니다.
+            a: He rarely eats vegetables because he doesn't like them.            
         9:
-            q: 그들은 잠자기 전에 이를 닦는 것을 절대로 잊지 않습니다
-            a: They never forget to brush their teeth before going to bed            
+            q: 그들은 잠자기 전에 이를 닦는 것을 절대로 잊지 않습니다.
+            a: They never forget to brush their teeth before going to bed.            
         10:
-            q: 우리는 보통 금요일 밤에 집에서 영화를 시청합니다
-            a: We usually watch movies at home on Friday nights           
+            q: 우리는 보통 금요일 밤에 집에서 영화를 시청합니다.
+            a: We usually watch movies at home on Friday nights.           
             
     2형식:
         1:
-            q: 저는 공원에서 산책하는 것을 좋아합니다
-            a: I like taking a walk in the park
+            q: 저는 공원에서 산책하는 것을 좋아합니다.
+            a: I like taking a walk in the park.
         2:
-            q: 그녀는 항상 아침 식사로 시리얼을 먹습니다
-            a: She always eats cereal for breakfast
+            q: 그녀는 항상 아침 식사로 시리얼을 먹습니다.
+            a: She always eats cereal for breakfast.
         3:
-            q: 그는 주말에 자전거를 타는 것을 좋아합니다
-            a: He enjoys riding a bike on the weekends
+            q: 그는 주말에 자전거를 타는 것을 좋아합니다.
+            a: He enjoys riding a bike on the weekends.
         4:
-            q: 그들은 항상 수영장에서 수영을 합니다
-            a: They always swim at the pool
+            q: 그들은 항상 수영장에서 수영을 합니다.
+            a: They always swim at the pool.
         5:
-            q: 저희 가족은 보통 저녁 식사 때 함께 음식을 먹습니다
-            a: My family usually eats dinner together
+            q: 저희 가족은 보통 저녁 식사 때 함께 음식을 먹습니다.
+            a: My family usually eats dinner together.
         6:
-            q: 그는 대부분의 시간을 독서에 쏟습니다
-            a: He spends most of his time reading
+            q: 그는 대부분의 시간을 독서에 쏟습니다.
+            a: He spends most of his time reading.
         7:
-            q: 그녀는 헬스장에서 운동하는 것을 좋아합니다
-            a: She likes working out at the gym
+            q: 그녀는 헬스장에서 운동하는 것을 좋아합니다.
+            a: She likes working out at the gym.
         8:
-            q: 그들은 항상 여름 휴가 때 해외 여행을 다녀옵니다
-            a: They always travel abroad during summer vacation
+            q: 그들은 항상 여름 휴가 때 해외 여행을 다녀옵니다.
+            a: They always travel abroad during summer vacation.
         9:
-            q: 제 친구는 새로운 요리를 만드는 것을 좋아합니다
-            a: My friend enjoys making new dishes
+            q: 제 친구는 새로운 요리를 만드는 것을 좋아합니다.
+            a: My friend enjoys making new dishes.
         10:
-            q: 저는 축구를 볼 때 매우 흥분합니다
-            a: I get very excited when watching soccer
+            q: 저는 축구를 볼 때 매우 흥분합니다.
+            a: I get very excited when watching soccer.
     3형식:
         1:
-            q: 제 친구는 그림 그리는 것을 좋아합니다
-            a: My friend enjoys drawing pictures
+            q: 제 친구는 그림 그리는 것을 좋아합니다.
+            a: My friend enjoys drawing pictures.
         2:
-            q: 그는 가족과 함께 영화를 보는 것을 즐깁니다
-            a: He likes watching movies with his family
+            q: 그는 가족과 함께 영화를 보는 것을 즐깁니다.
+            a: He likes watching movies with his family.
         3:
-            q: 그들은 항상 어디든지 함께 여행을 다녀옵니다
-            a: They always go on trips together, no matter where
+            q: 그들은 항상 어디든지 함께 여행을 다녀옵니다.
+            a: They always go on trips together, no matter where.
         4:
-            q: 그녀는 매일 밤 책을 읽습니다
-            a: She reads books every night
+            q: 그녀는 매일 밤 책을 읽습니다.
+            a: She reads books every night.
         5:
-            q: 저는 주말에 집에서 휴식을 취합니다
-            a: I take a rest at home on weekends
+            q: 저는 주말에 집에서 휴식을 취합니다.
+            a: I take a rest at home on weekends.
         6:
-            q: 그는 공원에서 산책하며 자주 생각에 잠기곤 합니다
-            a: He often gets lost in thought while taking a walk in the park
+            q: 그는 공원에서 산책하며 자주 생각에 잠기곤 합니다.
+            a: He often gets lost in thought while taking a walk in the park.
         7:
-            q: 그녀는 항상 커피를 마셔서 일어나야 합니다
-            a: She always needs to have coffee to wake up
+            q: 그녀는 항상 커피를 마셔서 일어나야 합니다.
+            a: She always needs to have coffee to wake up.
         8:
-            q: 그들은 항상 집에서 함께 요리를 합니다
-            a: They always cook together at home
+            q: 그들은 항상 집에서 함께 요리를 합니다.
+            a: They always cook together at home.
         9:
-            q: 제 아버지는 매일 아침 신문을 읽습니다
-            a: My father reads the newspaper every morning
+            q: 제 아버지는 매일 아침 신문을 읽습니다.
+            a: My father reads the newspaper every morning.
         10:
-            q: 저는 새로운 언어를 배우는 것을 좋아합니다
-            a: I enjoy learning new languages
+            q: 저는 새로운 언어를 배우는 것을 좋아합니다.
+            a: I enjoy learning new languages.
     4형식:
         1:
-            q: 제가 좋아하는 색깔은 파란색입니다
-            a: Blue is my favorite color
+            q: 제가 좋아하는 색깔은 파란색입니다.
+            a: Blue is my favorite color.
         2:
-            q: 그녀는 음악을 들으면서 운동을 합니다
-            a: She exercises while listening to music
+            q: 그녀는 음악을 들으면서 운동을 합니다.
+            a: She exercises while listening to music.
         3:
-            q: 저는 자동차를 타고 출근합니다
-            a: I commute to work by car
+            q: 저는 자동차를 타고 출근합니다.
+            a: I commute to work by car.
         4:
-            q: 그들은 친구의 결혼식에 참석했습니다
-            a: They attended their friend's wedding
+            q: 그들은 친구의 결혼식에 참석했습니다.
+            a: They attended their friend's wedding.
         5:
-            q: 저는 휴대폰을 이용해 연락합니다
-            a: I communicate using my phone
+            q: 저는 휴대폰을 이용해 연락합니다.
+            a: I communicate using my phone.
         6:
-            q: 그녀는 바쁘지만 항상 시간을 내어 가족들과 함께합니다
-            a: She is busy, but always makes time for her family
+            q: 그녀는 바쁘지만 항상 시간을 내어 가족들과 함께합니다.
+            a: She is busy, but always makes time for her family.
         7:
-            q: 제 친구는 요리를 잘합니다
-            a: My friend is good at cooking
+            q: 제 친구는 요리를 잘합니다.
+            a: My friend is good at cooking.
         8:
-            q: 그들은 여름 휴가를 해외에서 보냈습니다
-            a: They spent their summer vacation overseas
+            q: 그들은 여름 휴가를 해외에서 보냈습니다.
+            a: They spent their summer vacation overseas.
         9:
-            q: 저는 매일 밤 꿈을 꾸곤 합니다
-            a: I dream every night
+            q: 저는 매일 밤 꿈을 꾸곤 합니다.
+            a: I dream every night.
         10:
-            q: 그녀는 항상 적극적으로 일상생활에 참여합니다
-            a: She always actively participates in daily life
+            q: 그녀는 항상 적극적으로 일상생활에 참여합니다.
+            a: She always actively participates in daily life.
 
     5형식:
         1:
-            q: 저는 매일 아침 일찍 일어납니다
-            a: I wake up early every morning
+            q: 저는 매일 아침 일찍 일어납니다.
+            a: I wake up early every morning.
         2:
-            q: 제 친구는 늘 친절하게 대해줍니다
-            a: My friend always treats others kindly
+            q: 제 친구는 늘 친절하게 대해줍니다.
+            a: My friend always treats others kindly.
         3:
-            q: 그녀는 춤을 추면서 음악에 맞춰 움직입니다
-            a: She moves to the music while dancing
+            q: 그녀는 춤을 추면서 음악에 맞춰 움직입니다.
+            a: She moves to the music while dancing.
         4:
-            q: 그들은 함께 여행을 다녀왔습니다
-            a: They traveled together
+            q: 그들은 함께 여행을 다녀왔습니다.
+            a: They traveled together.
         5:
-            q: 제가 좋아하는 음식은 피자입니다
-            a: Pizza is my favorite food
+            q: 제가 좋아하는 음식은 피자입니다.
+            a: Pizza is my favorite food.
         6:
-            q: 그는 친구들과 함께 축구를 합니다
-            a: He plays soccer with his friends
+            q: 그는 친구들과 함께 축구를 합니다.
+            a: He plays soccer with his friends.
         7:
-            q: 그녀는 독서를 즐기며 많은 책을 읽었습니다
-            a: She enjoys reading and has read many books
+            q: 그녀는 독서를 즐기며 많은 책을 읽었습니다.
+            a: She enjoys reading and has read many books.
         8:
-            q: 저는 인터넷에서 쇼핑을 하는 것을 좋아합니다
-            a: I like to shop online
+            q: 저는 인터넷에서 쇼핑을 하는 것을 좋아합니다.
+            a: I like to shop online.
         9:
-            q: 그들은 커피를 마시면서 이야기를 나눴습니다
-            a: They talked while drinking coffee
+            q: 그들은 커피를 마시면서 이야기를 나눴습니다.
+            a: They talked while drinking coffee.
         10:
-            q: 제가 좋아하는 음악은 록입니다
-            a: Rock music is my favorite genre
+            q: 제가 좋아하는 음악은 록입니다.
+            a: Rock music is my favorite genre.
 
             
 시제:
     현재시제:
         1:
-            q: 저는 현재 대학생입니다
-            a: I am currently a college student
+            q: 저는 현재 대학생입니다.
+            a: I am currently a college student.
         2:
-            q: 제 친구는 매주 운동을 합니다
-            a: My friend exercises every week
+            q: 제 친구는 매주 운동을 합니다.
+            a: My friend exercises every week.
         3:
-            q: 그녀는 지금 일을 하고 있습니다
-            a: She is currently working
+            q: 그녀는 지금 일을 하고 있습니다.
+            a: She is currently working.
         4:
-            q: 그들은 항상 맛있는 음식을 먹으며 즐겁게 시간을 보냅니다
-            a: They always enjoy their time eating delicious food
+            q: 그들은 항상 맛있는 음식을 먹으며 즐겁게 시간을 보냅니다.
+            a: They always enjoy their time eating delicious food.
         5:
-            q: 우리는 지금 여행 계획을 짜고 있습니다
-            a: We are currently planning a trip
+            q: 우리는 지금 여행 계획을 짜고 있습니다.
+            a: We are currently planning a trip.
         6:
-            q: 제 동생은 지금 공부 중입니다
-            a: My younger brother is currently studying
+            q: 제 동생은 지금 공부 중입니다.
+            a: My younger brother is currently studying.
         7:
-            q: 그녀는 여전히 그 일에 열심히 일하고 있습니다
-            a: She is still working hard at her job
+            q: 그녀는 여전히 그 일에 열심히 일하고 있습니다.
+            a: She is still working hard at her job.
         8:
-            q: 그는 이제 운전 면허증을 따기 위해 공부하고 있습니다
-            a: He is currently studying to get his driver's license
+            q: 그는 이제 운전 면허증을 따기 위해 공부하고 있습니다.
+            a: He is currently studying to get his driver's license.
         9:
-            q: 그들은 지금 노래를 부르고 있습니다
-            a: They are currently singing a song
+            q: 그들은 지금 노래를 부르고 있습니다.
+            a: They are currently singing a song.
         10:
-            q: 우리는 지금 바다를 보면서 산책하고 있습니다
-            a: We are currently taking a walk while looking at the ocean
+            q: 우리는 지금 바다를 보면서 산책하고 있습니다.
+            a: We are currently taking a walk while looking at the ocean.
     과거시제:
         1:
             q: 어제 저는 책을 읽었습니다.
