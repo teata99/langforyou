@@ -1,5 +1,6 @@
 let pathname;
 let langData;
+let gramData;
 let class1No = 0;
 let class2No = 0;
 let classPage = 1;
@@ -13,6 +14,10 @@ let pageCount = 8;
 function initData(pathname, data) {
     this.pathname = pathname;
     langData = data;
+}
+
+function initGram(data) {
+    gramData = data;
 }
 
 function initForm() {
@@ -183,6 +188,23 @@ function setContent(params_class1, params_class2, currentPage) {
     }
 }
 
+function setGramContent(param_class1, param_class2) {
+    
+    for(class1 in gramData) {
+        for(class2 in gramData[class1]) {
+        
+            if(class1 == param_class1 && class2 == param_class2) {
+                if(gramData[class1][class2] != null && gramData[class1][class2] != undefined && gramData[class1][class2] != "") {
+                    $("#gram").text(gramData[class1][class2]);
+                } else {
+                    $("#gram").text("Welcome!");                
+                }
+            }    
+        }
+    }
+
+}
+
 function answerKeyEvent() {
     let correctCnt = 0;
     const a = $("#a").val();
@@ -248,10 +270,14 @@ function onClickNav(class1, class2, currentPage) {
     this.currentPage = currentPage;
     initForm();
     $("#answer").focus();
-    setBread(class1, class2, currentPage);
     
+    setBread(class1, class2, currentPage);
     setContent(class1, class2, currentPage);
     countPage(class1, class2, currentPage);
+    
+    if(gramData != null && gramData != undefined) {
+        setGramContent(class1, class2);
+    }
 }
 
 
