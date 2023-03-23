@@ -76,7 +76,7 @@
   <body>
     
     
-    <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
         <div class="container-fluid">
             <a href="./index.html" class="navbar-brand fw-bold">Lang for you</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown">
@@ -119,11 +119,11 @@
     </nav>
     
     
-    <div class="container-fluid mt-5">
+    <div class="container-fluid">
         <div class="row">
             <div class="col-md-4 col-lg-3 flex-shrink-0 p-3 bg-light">
                 
-                <a href="./eng-site2.html" class="d-flex align-items-center pb-3 mb-3 link-dark text-decoration-none border-bottom">
+                <a href="./eng-site3.html" class="d-flex align-items-center pb-3 mb-3 link-dark text-decoration-none border-bottom">
                     <span class="fs-5 fw-semibold">고딸영어 복습</span>
                 </a>
                
@@ -133,18 +133,21 @@
 
             </div>
             
-            <main class="col-md-8 col-lg-9 ms-sm-auto px-md-4" id="mainContent">
+            <div class="col-md-8 col-lg-9 ms-sm-auto px-md-4" id="mainContent">
 
+                            
                <div class="p-3 mb-3 mt-4 bg-light rounded-3">
-                   <div class="container-fluid">
+                                    
+
                        <nav class="mb-4" style="--bs-breadcrumb-divider: '>';">
                            <ol class="breadcrumb">
                                <li class="breadcrumb-item" id="breadClass1">Nav1</li>
                                <li class="breadcrumb-item" id="breadClass2">Nav2</li>
                            </ol>
                        </nav>
-                       <input class="form-control mb-3 text-success bg-white border-success" type="text" id="q" readonly>
-                       <input class="form-control mb-3 text-warning bg-white border-warning" type="password" id="a" readonly>
+                       
+                       <input class="form-control mb-3 text-success bg-white border-success" type="text" id="q">
+                       <input class="form-control mb-3 text-warning bg-white border-warning" type="password" id="a">
                        
                        <h4 class="small fw-bold text-muted">
                            정답률: <span id="correct">0%</span>
@@ -157,7 +160,7 @@
                            <input class="form-control" type="text" id="answer" autocomplete="off" onKeyup="answerKeyEvent(this);">
                            <button class="btn btn-primary" onClick="correctToggle();">Check</button>
                        </div>
-
+                       
                        <div>
                            <button type="button" class="btn btn-outline-secondary">
                                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-return-left" viewBox="0 0 16 16">
@@ -180,8 +183,8 @@
                                Up - Down : 목차이동
                            </button>                          
                        </div>
-                                                                                            
-                   </div>
+                       
+
                </div>
                
                <nav class="mt-3">
@@ -199,8 +202,8 @@
                        </li-->
                    </ul>
                </nav>
-                
-            </main>
+                                                                
+            </div>
         </div>
         
         
@@ -222,16 +225,28 @@
 
             YAML.load('./js/eng-data3.yml', function(result) {
                 initData(url.pathname, result);
-                appendNav();
                 
+                //const gram = YAML.load('./js/eng-gram1.yml');
+                //initGram(gram);
+                
+                appendNav();
+                /*
+                for(class1 in gram) {
+                    console.log("" + class1);
+                    for(class2 in gram[class1]) {
+                        console.log("   " + class2);
+                        console.log("#" + gram[class1][class2]);
+                    }
+                }
+                */
                 if(urlParams.get('class1') && urlParams.get('class2')) {
                     collapseNav(urlParams.get('class1'), urlParams.get('class2'), urlParams.get('currentPage'));
                 }
             });
-
-
+            
         });
-        
+
+
         window.addEventListener('keydown', function(event) {
             if(event.defaultPrevented) {
                 return;
@@ -268,7 +283,7 @@
                 correctOff();
             }            
         });
-      
+        
     
     </script>   
     <!-- Google tag (gtag.js) -->
