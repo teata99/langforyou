@@ -201,18 +201,22 @@ function answerKeyEvent() {
     let per = Math.round((correctCnt / aArray.length * 100) * 1) / 1;
     $("#progress").attr("style", "width:"+per+"%");
     $("#correct").text(per+"%");
-        
-    if(window.event.keyCode == 13) {
-        correctCheck();
-    }
 }
 
-function correctCheck() {
+function correctToggle() {
     if($("#a").attr("type") == "password") {
         $("#a").attr("type", "input");
     } else {
         $("#a").attr("type", "password");
     }
+}
+
+function correctOn() {
+    $("#a").attr("type", "input");
+}
+
+function correctOff() {
+    $("#a").attr("type", "password");
 }
 
 function moveClassPage(direction) {

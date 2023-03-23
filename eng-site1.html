@@ -153,10 +153,34 @@
                            <div class="progress-bar progress-bar-striped" role="progressbar" id="progress" style="width: 0%;"></div>
                        </div>
                    
-                       <div class="input-group">
+                       <div class="input-group mb-3">
                            <input class="form-control" type="text" id="answer" autocomplete="off" onKeyup="answerKeyEvent(this);">
-                           <button class="btn btn-primary" onClick="correctCheck();">Check</button>
+                           <button class="btn btn-primary" onClick="correctToggle();">Check</button>
                        </div>
+                       
+                       <div>
+                           <button type="button" class="btn btn-outline-secondary">
+                               <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-return-left" viewBox="0 0 16 16">
+                                <path fill-rule="evenodd" d="M14.5 1.5a.5.5 0 0 1 .5.5v4.8a2.5 2.5 0 0 1-2.5 2.5H2.707l3.347 3.346a.5.5 0 0 1-.708.708l-4.2-4.2a.5.5 0 0 1 0-.708l4-4a.5.5 0 1 1 .708.708L2.707 8.3H12.5A1.5 1.5 0 0 0 14 6.8V2a.5.5 0 0 1 .5-.5z"></path>
+                               </svg>
+                               Enter : 정답확인
+                           </button>
+                         
+                           <button type="button" class="btn btn-outline-secondary">
+                               <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-left-right" viewBox="0 0 16 16">
+                                   <path fill-rule="evenodd" d="M1 11.5a.5.5 0 0 0 .5.5h11.793l-3.147 3.146a.5.5 0 0 0 .708.708l4-4a.5.5 0 0 0 0-.708l-4-4a.5.5 0 0 0-.708.708L13.293 11H1.5a.5.5 0 0 0-.5.5zm14-7a.5.5 0 0 1-.5.5H2.707l3.147 3.146a.5.5 0 1 1-.708.708l-4-4a.5.5 0 0 1 0-.708l4-4a.5.5 0 1 1 .708.708L2.707 4H14.5a.5.5 0 0 1 .5.5z"></path>
+                               </svg>
+                               Left - Right : 번호이동
+                           </button>
+                                                  
+                           <button type="button" class="btn btn-outline-secondary">
+                               <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-down-up" viewBox="0 0 16 16">
+                               <path fill-rule="evenodd" d="M11.5 15a.5.5 0 0 0 .5-.5V2.707l3.146 3.147a.5.5 0 0 0 .708-.708l-4-4a.5.5 0 0 0-.708 0l-4 4a.5.5 0 1 0 .708.708L11 2.707V14.5a.5.5 0 0 0 .5.5zm-7-14a.5.5 0 0 1 .5.5v11.793l3.146-3.147a.5.5 0 0 1 .708.708l-4 4a.5.5 0 0 1-.708 0l-4-4a.5.5 0 0 1 .708-.708L4 13.293V1.5a.5.5 0 0 1 .5-.5z"></path>
+                               </svg>
+                               Up - Down : 목차이동
+                           </button>                          
+                       </div>
+                       
                    </div>
                </div>
                
@@ -207,7 +231,8 @@
 
 
         });
-        
+
+
         window.addEventListener('keydown', function(event) {
             if(event.defaultPrevented) {
                 return;
@@ -231,8 +256,18 @@
                             movePage(1);
                             break;                    
             }
+            
+            if(window.event.keyCode == 13) {
+                correctOn();
+            }
 
             //event.preventDefault();
+        });
+        
+        window.addEventListener('keyup', function(event) {
+            if(window.event.keyCode == 13) {
+                correctOff();
+            }            
         });
         
     
