@@ -1,34 +1,191 @@
-관계대명사:
-    관계대명사란:
+간단 영작문:
+    간단 영작문1:
         1:
-            q: 나는 옆집에 사는 소년을 만났어
-            a: I met a boy who lives next door
+            q: 오늘 날씨가 어때요?
+            a: How's the weather today?
         2:
-            q: 나는 중국어를 말할 수 있는 친구가 있어
-            a: I have a friend who can speak Chinese
-    관계대명사의 종류1:
-        1:
-            q: 나는 머리가 빨간 소녀를 알아
-            a: I know the girl whose hair is red
-        2:
-            q: 나는 네가 추천한 남자를 고용했어
-            a: I hired the man whom you recommended
-    관계대명사의 종류2:
-        1:
-            q: 나는 냄새 나는 박스를 버릴 거야
-            a: I will throw away the box which smells bad
-        2:
-            q: 나는 책의 표지가 재미있어 보이는 책을 골랐다
-            a: I chose a book whose cover looked interesting
+            q: 저는 커피를 좋아합니다.
+            a: I like coffee.
         3:
-            q: 나는 Sam이 산 모자를 좋아하지 않아
-            a: I don't like the cap which Sam bought
-            
-관계부사:
-    관계부사 개념잡기:
+            q: 이 책은 너무 어려워요.
+            a: This book is too difficult.
+        4:
+            q: 내일은 뭐할 거예요?
+            a: What are you going to do tomorrow?
+        5:
+            q: 제가 직접 해 볼게요.
+            a: I'll do it myself.
+        6:
+            q: 그녀는 아주 예쁘고 친절합니다.
+            a: She is very beautiful and kind.
+        7:
+            q: 그 영화는 너무 재미있었어요.
+            a: That movie was very entertaining.
+        8:
+            q: 지금 몇 시예요?
+            a: What time is it now?
+        9:
+            q: 저는 스포츠를 좋아하지 않아요.
+            a: I don't like sports.
+        10:
+            q: 이 음식은 너무 매워요.
+            a: This food is too spicy.
+        11:
+            q: 너무 추워서 감기에 걸렸어.
+            a: I caught a cold because it was too cold.
+        12:
+            q: 오늘 저녁에 뭐 할 거야?
+            a: What are you going to do tonight?
+        13:
+            q: 내일 일어나야 할 시간이 언제인데?
+            a: What time do I need to wake up tomorrow?
+        14:
+            q: 무슨 종류의 음식을 좋아해?
+            a: What kind of food do you like?
+        15:
+            q: 영화 보러 가고 싶어.
+            a: I want to go watch a movie.
+        16:
+            q: 어디로 갈까?
+            a: Where should we go?
+        17:
+            q: 뭐 입고 나갈까?
+            a: What should I wear when I go out?
+        18:
+            q: 어디서 살고 있어?
+            a: Where do you live?
+        19:
+            q: 이 책을 다 읽기까지 얼마나 걸렸어?
+            a: How long did it take you to finish reading this book?
+        20:
+            q: 오늘 할 일이 뭐야?
+            a: What do you have to do today?
+    
+    간단 영작문2:
         1:
-            q: 이것은 내가 그를 만난 카페이다
-            a: This is the cafe where I met him
+            q: 내일 일찍 일어나야 해.
+            a: I have to wake up early tomorrow.
         2:
-            q: 나는 네가 꽃병을 산 가게에 갔어
-            a: I went to the shop where you bought the vase
+            q: 그녀는 아침 식사를 거르지 않는다.
+            a: She never skips breakfast.
+        3:
+            q: 나는 책을 읽고 있습니다.
+            a: I am reading a book.
+        4:
+            q: 그녀는 파란색 원피스를 입고 있습니다.
+            a: She is wearing a blue dress.        
+        5:
+            q: 그는 TV를 시청하고 있습니다.
+            a: He is watching TV.
+        6:
+            q: 나는 오늘 밤에 영화를 볼 계획입니다.
+            a: I am planning to watch a movie tonight.
+        7:
+            q: 이것은 내일까지 끝내야 합니다.
+            a: This needs to be finished by tomorrow.
+        8:
+            q: 이것은 내일 할 일 목록입니다.
+            a: This is my to-do list for tomorrow.
+        9:
+            q: 그는 나에게 많은 도움을 주었습니다.
+            a: He has been very helpful to me.
+        10:
+            q: 나는 카페에서 커피를 마셨습니다.
+            a: I had coffee at the cafe.        
+        11:
+            q: 오늘은 무슨 요일인가요?
+            a: What day is it today?
+        12:
+            q: 이 책을 빌려도 되나요?
+            a: Can I borrow this book?
+        13:
+            q: 지금 뭐 하고 있어요?
+            a: What are you doing right now?
+        14:
+            q: 어디로 가는 길을 알려주세요.
+            a: Can you tell me how to get there?
+        15:
+            q: 내일 날씨가 어떨까요?
+            a: What's the weather going to be like tomorrow?
+        16:
+            q: 무슨 말인지 이해가 안 가요.
+            a: I don't understand what you mean.
+        17:
+            q: 지금 몇 번째 역인가요?
+            a: What station are we at now?
+        18:
+            q: 어디서 살고 있어요?
+            a: Where do you live?
+        19:
+            q: 오늘은 뭐 할 계획이에요?
+            a: What are your plans for today?
+        20:
+            q: 이 문장을 영어로 어떻게 번역하나요?
+            a: How do you translate this sentence into English?
+    
+    간단 영작문3:
+        1:
+            q: 저는 방을 청소할 거예요.
+            a: I am going to clean the room.
+        2:
+            q: 저녁 뭐 먹을까요?
+            a: What should we have for dinner?
+        3:
+            q: 지금 몇 시에요?
+            a: What time is it now?
+        4:
+            q: 어디에서 왔어요?
+            a: Where are you from?
+        5:
+            q: 내일 할 일이 뭐에요?
+            a: What do I have to do tomorrow?
+        6:
+            q: 어떤 취미가 있어요?
+            a: What are your hobbies?
+        7:
+            q: 너무 피곤해요.
+            a: I'm so tired.
+        8:
+            q: 그것은 어떤 의미인가요?
+            a: What does it mean?
+        9:
+            q: 오늘 일정이 어때요?
+            a: What's the schedule like for today?
+        10:
+            q: 이것은 어떻게 사용하나요?
+            a: How do you use this?
+        11:
+            q: 어디서 사러 갈까요?
+            a: Where should we go shopping?
+        12:
+            q: 그 영화를 봤는데 재미있었어요.
+            a: I saw that movie and it was really entertaining.
+        13:
+            q: 이 식당에서는 뭐가 맛있나요?
+            a: What's good to eat at this restaurant?
+        14:
+            q: 지하철역에서 택시를 타면 얼마나 걸리나요?
+            a: How long does it take to take a taxi from the subway station?
+        15:
+            q: 여기서 가장 가까운 버스 정류장은 어디인가요?
+            a: Where is the nearest bus stop from here?
+        16:
+            q: 어디서 이 책을 구할 수 있나요?
+            a: Where can I get this book?
+        17:
+            q: 이 문제를 해결할 수 있는 다른 방법이 있을까요?
+            a: Is there another way to solve this problem?
+        18:
+            q: 요즘은 온라인 쇼핑이 편리해졌어요.
+            a: Online shopping has become more convenient these days.
+        19:
+            q: 이번 주말에는 뭐할까요?
+            a: What should we do this weekend?
+        20:
+            q: 미국에 가면 어떤 음식을 꼭 먹어봐야 하나요?
+            a: What kind of food should I definitely try if I go to the United States?
+
+
+
+
+        

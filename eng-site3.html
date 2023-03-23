@@ -123,8 +123,8 @@
         <div class="row">
             <div class="col-md-4 col-lg-3 flex-shrink-0 p-3 bg-light">
                 
-                <a href="./eng-site1.html" class="d-flex align-items-center pb-3 mb-3 link-dark text-decoration-none border-bottom">
-                    <span class="fs-5 fw-semibold">Chat GPT 영문법</span>
+                <a href="./eng-site2.html" class="d-flex align-items-center pb-3 mb-3 link-dark text-decoration-none border-bottom">
+                    <span class="fs-5 fw-semibold">고딸영어 복습</span>
                 </a>
                
                 <ul class="list-unstyled ps-0" id="navClass">
@@ -143,8 +143,8 @@
                                <li class="breadcrumb-item" id="breadClass2">Nav2</li>
                            </ol>
                        </nav>
-                       <input class="form-control mb-3 text-success bg-white border-success" type="text" id="q">
-                       <input class="form-control mb-3 text-warning bg-white border-warning" type="password" id="a">
+                       <input class="form-control mb-3 text-success bg-white border-success" type="text" id="q" readonly>
+                       <input class="form-control mb-3 text-warning bg-white border-warning" type="password" id="a" readonly>
                        
                        <h4 class="small fw-bold text-muted">
                            정답률: <span id="correct">0%</span>
@@ -196,7 +196,7 @@
             const url = new URL(window.location.href);
             const urlParams = url.searchParams;
 
-            YAML.load('./js/eng-data1.yml', function(result) {
+            YAML.load('./js/eng-data2.yml', function(result) {
                 initData(url.pathname, result);
                 appendNav();
                 
@@ -233,8 +233,7 @@
             }
 
             //event.preventDefault();
-        });
-        
+        });        
     
     </script>   
     <!-- Google tag (gtag.js) -->
