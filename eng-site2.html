@@ -126,6 +126,10 @@
                 <a href="./eng-site2.html" class="d-flex align-items-center pb-3 mb-3 link-dark text-decoration-none border-bottom">
                     <span class="fs-5 fw-semibold">Chat GPT 영작문</span>
                 </a>
+                
+                <a href="#" class="d-flex align-items-center pb-3 mb-3 link-dark text-decoration-none border-bottom" onClick="randomData2_2();">
+                    <span class="fw-semibold">Random 필수 숙어</span>
+                </a>
                
                 <ul class="list-unstyled ps-0" id="navClass">
 
@@ -229,75 +233,34 @@
     <script type="text/javascript" src="./js/jquery-3.6.0.js"></script>
     <script type="text/javascript" src="./bootstrap-5.2.3/js/bootstrap.bundle.min.js"></script>
     <script type="text/javascript" src="./js/yaml.js"></script>
+    <script type="text/javascript" src="./js/common.js"></script>
     <script type="text/javascript" src="./js/eng-data.js"></script>
+    
        
     <script>
+        let data2_1;
+        let data2_2;
         
         $(document).ready(function() {
             const url = new URL(window.location.href);
             const urlParams = url.searchParams;
-
-            YAML.load('./js/eng-data2.yml', function(result) {
-                initData(url.pathname, result);
-                
-                //const gram = YAML.load('./js/eng-gram1.yml');
-                //initGram(gram);
-                
-                appendNav();
-                /*
-                for(class1 in gram) {
-                    console.log("" + class1);
-                    for(class2 in gram[class1]) {
-                        console.log("   " + class2);
-                        console.log("#" + gram[class1][class2]);
-                    }
-                }
-                */
-                if(urlParams.get('class1') && urlParams.get('class2')) {
+            
+            data2_1 = YAML.load('./js/eng-data2-1.yml');
+            data2_2 = YAML.load('./js/eng-data2-2.yml');
+            
+            const data2 = { ...data2_1, ...data2_2 };
+            initData(url.pathname, data2);
+            
+            appendNav();
+            
+            if(urlParams.get('class1') && urlParams.get('class2')) {
                     collapseNav(urlParams.get('class1'), urlParams.get('class2'), urlParams.get('currentPage'));
-                }
-            });
-            
-        });
-
-
-        window.addEventListener('keydown', function(event) {
-            if(event.defaultPrevented) {
-                return;
             }
-
-            switch(event.key) {
-                case "Down":
-                case "ArrowDown":
-                            moveClassPage(1);
-                            break;
-                case "Up":
-                case "ArrowUp":
-                            moveClassPage(-1);
-                            break;
-                case "Left":
-                case "ArrowLeft":
-                            movePage(-1);
-                            break;
-                case "Right":
-                case "ArrowRight":
-                            movePage(1);
-                            break;                    
-            }
-            
-            if(window.event.keyCode == 13) {
-                correctOn();
-            }
-
-            //event.preventDefault();
         });
         
-        window.addEventListener('keyup', function(event) {
-            if(window.event.keyCode == 13) {
-                correctOff();
-            }            
-        });
-        
+        function randomData2_2() {
+            randomNav(data2_2);
+        }
     
     </script>   
     <!-- Google tag (gtag.js) -->
