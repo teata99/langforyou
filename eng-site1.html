@@ -245,6 +245,7 @@
     <script type="text/javascript" src="./js/jquery-3.6.0.js"></script>
     <script type="text/javascript" src="./bootstrap-5.2.3/js/bootstrap.bundle.min.js"></script>
     <script type="text/javascript" src="./js/yaml.js"></script>
+    <script type="text/javascript" src="./js/common.js"></script>    
     <script type="text/javascript" src="./js/eng-data.js"></script>
        
     <script>
@@ -275,45 +276,6 @@
             });
             
         });
-
-
-        window.addEventListener('keydown', function(event) {
-            if(event.defaultPrevented) {
-                return;
-            }
-
-            switch(event.key) {
-                case "Down":
-                case "ArrowDown":
-                            moveClassPage(1);
-                            break;
-                case "Up":
-                case "ArrowUp":
-                            moveClassPage(-1);
-                            break;
-                case "Left":
-                case "ArrowLeft":
-                            movePage(-1);
-                            break;
-                case "Right":
-                case "ArrowRight":
-                            movePage(1);
-                            break;                    
-            }
-            
-            if(window.event.keyCode == 13) {
-                correctOn();
-            }
-
-            //event.preventDefault();
-        });
-        
-        window.addEventListener('keyup', function(event) {
-            if(window.event.keyCode == 13) {
-                correctOff();
-            }            
-        });
-        
     
     </script>   
     <!-- Google tag (gtag.js) -->
