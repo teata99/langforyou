@@ -126,6 +126,10 @@
                 <a href="./eng-site1.html" class="d-flex align-items-center pb-3 mb-3 link-dark text-decoration-none border-bottom">
                     <span class="fs-5 fw-semibold">Chat GPT 영문법</span>
                 </a>
+                
+                <a href="#" class="d-flex align-items-center pb-3 mb-3 link-dark text-decoration-none border-bottom" onClick="randomData1_1();">
+                    <span class="fw-semibold">영문법 Random</span>
+                </a>                
                
                 <ul class="list-unstyled ps-0" id="navClass">
 
@@ -249,12 +253,14 @@
     <script type="text/javascript" src="./js/eng-data.js"></script>
        
     <script>
+        let data1_1;
         
         $(document).ready(function() {
             const url = new URL(window.location.href);
             const urlParams = url.searchParams;
 
             YAML.load('./js/eng-data1.yml', function(result) {
+                data1_1 = result;
                 initData(url.pathname, result);
                 
                 const gram = YAML.load('./js/eng-gram1.yml');
@@ -276,6 +282,10 @@
             });
             
         });
+        
+        function randomData1_1() {
+            randomNav(data1_1);
+        }
     
     </script>   
     <!-- Google tag (gtag.js) -->

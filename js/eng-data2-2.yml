@@ -1680,4 +1680,717 @@
         10:
             q: 나는 항상 어떤 상황이든 대처할 준비가 되어 있다. 
             a: I am always ready to deal with any situation.    
+    be tired of | 싫증나다 :
+        1:
+            q: 나는 일상적인 삶에 지쳤어. 
+            a: I'm tired of the mundane everyday life.
+        2:
+            q: 그녀는 계속 남자친구와 다투는 것에 지쳤어. 
+            a: She was tired of constantly arguing with her boyfriend.
+        3:
+            q: 이제 공부하는 것에 지쳤어. 
+            a: I'm tired of studying now.
+        4:
+            q: 그녀는 새로운 일에 도전하고 싶다는 욕구를 가지고 있었지만, 결국 지친 모습을 보였다. 
+            a: She had the desire to try new things, but eventually showed signs of being tired.
+        5:
+            q: 그녀는 회사 일에 대한 지침표를 얻기 위해 상사와 이야기하러 갔다. 
+            a: She went to talk to her boss to get directions on the work she was tired of doing.
+        6:
+            q: 이젠 미국에 살아서 지쳤어. 
+            a: I'm tired of living in the United States now.
+        7:    
+            q: 나는 늦은 밤까지 일한 것에 지쳤어. 
+            a: I'm tired of working until late at night.
+        8:
+            q: 그는 계속해서 같은 일상적인 작업을 하면서 지쳤다. 
+            a: He was tired of doing the same mundane tasks over and over again.
+        9:
+            q: 나는 항상 하던 일에 지쳐서 새로운 것을 해보고 싶다. 
+            a: I'm tired of doing the same old thing and want to try something new.
+        10:
+            q: 나는 학교에 가서 그들의 농담에 지쳤어. 
+            a: I'm tired of going to school and their jokes.    
+    be tired out | 기진 맥진하다 :
+        1:
+            q: 오늘은 일주일 중에서 가장 긴 날이다. 나는 일하느라 지친 상태이다. 
+            a: Today is the longest day of the week. I am tired out from work.
+        2:
+            q: 수영을 하다가 너무 지치면 그만둬야 돼. 
+            a: You should stop swimming if you are tired out.
+        3:
+            q: 그들은 전날 밤 새로 일하느라 지쳤다. 
+            a: They were tired out from working late the night before.
+        4:
+            q: 시험기간이라 그는 지친 상태였다. 
+            a: He was tired out during the exam period.
+        5:
+            q: 토너먼트에서 승리하려면 선수들은 지치지 않도록 조심해야 한다. 
+            a: In order to win the tournament, players need to be careful not to get tired out.
+        6:
+            q: 나는 지난 주말에 하이킹을 다녀와서 지쳤어. 
+            a: I went hiking last weekend and I am tired out.
+        7:
+            q: 그녀는 자전거를 타고 오랜 시간을 운전하느라 지쳤다. 
+            a: She was tired out from cycling for a long time.
+        8:
+            q: 노동 시간이 너무 길어서 그들은 지친 상태였다. 
+            a: They were tired out from working long hours.
+        9:
+            q: 오늘은 날씨가 너무 더워서 나는 지쳤어. 
+            a: I am tired out today because the weather is too hot.
+        10:
+            q: 바쁜 하루를 보내고 와서 그는 지친 상태였다. 
+            a: He was tired out after a busy day.    
+    be tired with | ∼으로 지치다 :
+        1:
+            q: 요즘 일에 지쳐서 늘 피곤한데, 새로운 취미를 찾아볼까요?
+            a: I'm tired with my work lately and always exhausted. Maybe I should try to find a new hobby?
+        2:
+            q: 최근 야근이 많아져서 지친 느낌이 들어요.
+            a: I feel tired with the increased amount of overtime work recently.
+        3:
+            q: 나는 이전에 참여했던 프로젝트 때문에 지쳤다.
+            a: I'm tired with the project I was involved in before.
+        4:
+            q: 친구들과 놀다가 집에 와서는 항상 지쳐있어요.
+            a: I'm always tired with my friends after hanging out and coming home.
+        5:
+            q: 요즘 할 일이 많아서 늘 지쳐있어요.
+            a: I'm always tired with the amount of things I have to do these days.
+        6:
+            q: 험난한 일주일을 보내고 나서는 항상 지쳐있어요.
+            a: I'm always tired with a rough week.
+        7:
+            q: 일에 더 많은 에너지를 쏟아야 하는데 지친 상태라 어렵습니다.
+            a: It's difficult because I'm tired with a lack of energy to put more into work.
+        8:
+            q: 계속해서 스트레스를 받다보면 몸이 지쳐버릴 수도 있어요.
+            a: If you continue to stress out, your body might be tired with it.
+        9:
+            q: 최근에 새로운 취미를 찾아 시작했는데, 기존의 취미들로 인해 지쳐있는 느낌이 들어요.
+            a: I started a new hobby recently, but I feel tired with my old ones.
+        10:
+            q: 늦은 밤까지 공부하다보면 몸이 지쳐버려요.
+            a: If I study late at night, my body gets tired with it.    
+    bear in mind | 기억하다 :
+        1:
+            q: 중요한 일을 잊지 말아야 합니다. 
+            a: We should bear in mind important tasks.
+        2:
+            q: 그것은 계속해서 고민해야 할 문제입니다. 
+            a: That is an issue that we should bear in mind.
+        3:
+            q: 내가 말한 것을 기억해야 돼. 
+            a: You should bear in mind what I said.
+        4:
+            q: 우리는 항상 안전에 대해 염두에 두어야 합니다. 
+            a: We should always bear in mind safety.
+        5:
+            q: 그들은 항상 재능 있는 사람을 고용해야 한다는 것을 명심해야 합니다. 
+            a: They should bear in mind to always hire talented individuals.
+        6:
+            q: 우리는 지난 시간에 배운 것을 항상 기억해야 합니다. 
+            a: We should always bear in mind what we learned in the last session.
+        7:
+            q: 모든 상황에서 신중함을 기억하라. 
+            a: Bear in mind caution in all situations.
+        8:
+            q: 나중에 쓸 것을 기억해야 합니다. 
+            a: You should bear in mind to keep it for later.
+        9:
+            q: 미래를 생각하며 행동해야 합니다. 
+            a: We should bear in mind to act with the future in mind.
+        10:
+            q: 그들은 우리가 정말 중요하다는 것을 인식해야 합니다. 
+            a: They should bear in mind that we are really important.    
+    become of | ∼로 되다. :
+        1:
+            q: 나의 지갑 어떻게 됐어? 
+            a: What has become of my wallet?
+        2:    
+            q: 그 여자 아이는 어떻게 됐을까? 
+            a: What became of the little girl?
+        3:    
+            q: 그 프로젝트는 어떻게 되었는지 알고 있어? 
+            a: Do you know what became of the project?
+        4:    
+            q: 그녀가 이번 주말에 어떻게 되는지 알고 있어? 
+            a: Do you know what will become of her this weekend?
+        5:    
+            q: 너희들 중 미래에 무엇이 되고 싶어? 
+            a: What do you want to become of you in the future among you guys?
+        6:    
+            q: 그것이 그들의 관심사에 어떻게 되었는지 알아? 
+            a: Do you know what became of it in their interest?
+        7:    
+            q: 내일 우리 일정은 어떻게 되는지 알아? 
+            a: Do you know what will become of our schedule tomorrow?
+        8:    
+            q: 이 회사의 미래는 어떻게 될까? 
+            a: What will become of the future of this company?
+        9:    
+            q: 그 프로젝트는 어떻게 끝나게 될까? 
+            a: How will the project become of end?
+        10:    
+            q: 그 소식이 어떻게 전파되었는지 알아? 
+            a: Do you know how the news became of spread?    
+    before long |머지않아 :
+        1:
+            q: 내일 아침에는 눈이 멈출 것 같아. 
+            a: I think the snow will stop before long tomorrow morning.
+        2:
+            q: 내일 회의는 언제 끝날 거 같아? 
+            a: When do you think the meeting will end before long tomorrow?
+        3:
+            q: 이번 주말에는 곧 돌아올게요. 
+            a: I'll be back before long this weekend.
+        4:
+            q: 그녀가 우리를 떠날 때까지는 얼마 남지 않았다. 
+            a: There wasn't before long until she left us.
+        5:
+            q: 이 작업을 완료하는 데는 곧 끝낼 수 있을 것 같아. 
+            a: I think we can finish this task before long.
+        6:
+            q: 이 프로젝트는 곧 성공할 것 같아. 
+            a: I think this project will succeed before long.
+        7:
+            q: 내일 날씨가 개선될 거 같아. 
+            a: I think the weather will improve before long tomorrow.
+        8:
+            q: 곧 많은 변화가 일어날 것 같아. 
+            a: I think a lot of changes will happen before long.
+        9:
+            q: 이 길은 곧 끝날 거 같아. 
+            a: I think this road will end before long.
+        10:
+            q: 이 문제는 곧 해결될 것 같아. 
+            a: I think this problem will be resolved before long.    
+    behind time | 시간에 늦은 :
+        1:
+            q: 언제 왔니? 난 이미 지각인 것 같아.
+            a: When did you arrive? I feel like I'm already behind time.
+        2:
+            q: 기차가 지각했나봐. 내일 일정이 밀렸어.
+            a: Looks like the train is behind time. My schedule for tomorrow got pushed back.
+        3:
+            q: 지금 시간이 얼마야? 내가 늦지는 않았겠지?
+            a: What time is it now? I'm not behind time, am I?
+        4:
+            q: 회의 시간이 다가오는데 왜 아무도 안 오지? 다들 지각인가봐.
+            a: The meeting is approaching, but why isn't anyone coming? Looks like everyone is behind time.
+        5:
+            q: 내가 일어났을 때 이미 지각했다는 메시지가 왔어.
+            a: I received a message saying I was already behind time when I woke up.
+        6:
+            q: 시간 관리를 잘 못해서 결국 늦게 도착했어.
+            a: I arrived late because of poor time management.
+        7:
+            q: 왜 이렇게 지각해? 우리 일정을 다시 확인해봐야겠어.
+            a: Why are we so behind time? We need to check our schedule again.
+        8:
+            q: 지금까지 한 작업을 끝내려면 이제부터 야간 근무를 해야 해. 시간이 많이 지각됐어.
+            a: We have to work night shifts from now on to finish the work we've done so far. We're very behind time.
+        9:
+            q: 기상청이 트로피칼 스톰 경보를 내렸다. 비행기가 지각될 수도 있다는 메시지가 왔어.
+            a: The weather agency has issued a tropical storm warning. I received a message saying that the flight might be behind time.
+        10:
+            q: 서둘러. 이미 지각이야. 우리는 이번 대회에서 우승해야 해.
+            a: Hurry up. We're already behind time. We have to win the championship this time.
+        11:
+            q: 내가 늦게 일어나서 어제 계획한 일정을 모두 못 지켰어.
+            a: I woke up late, so I couldn't keep all the schedule I planned yesterday.    
+    behind the times | 시대에 뒤진 :
+        1:
+            q: 너무 늙었다고 생각하면 어떻게 해야 하나요?
+            a: If you feel like you're behind the times, what should you do?
+        2:
+            q: 그 회사는 기술적으로 시대에 뒤떨어졌다.
+            a: That company is behind the times technologically.
+        3:
+            q: 그 사람은 디지털 기술에 대해 아무것도 모른다.
+            a: He knows nothing about digital technology, he's behind the times.
+        4:
+            q: 이제는 전자책이 인기가 있는데 그 사람은 아직 책만 읽는다.
+            a: E-books are popular now, but he still reads only books. He's behind the times.
+        5:
+            q: 나는 새로운 기술을 배워야 하는데, 이제와서야 늦었다는 생각이 든다.
+            a: I feel like it's too late now to learn new technology.
+        6:
+            q: 이 회사에서는 아직도 팩스를 사용해서 소통한다.
+            a: This company still communicates by using faxes. They're behind the times.
+        7:
+            q: 그들은 여전히 편지를 보내는데, 이메일을 보내지 않는다.
+            a: They still send letters and don't send emails. They're behind the times.
+        8:
+            q: 이제는 모바일 결제가 일반적인데, 그들은 여전히 현금만 받는다.
+            a: Mobile payments are common now, but they still accept only cash. They're behind the times.
+        9:
+            q: 핸드폰을 사용하지 않는 사람이라니, 그는 시대에 뒤떨어진 사람이다.
+            a: He doesn't use a cellphone? He's behind the times.
+        10:
+            q: 그들은 여전히 종이 신청서를 사용한다.
+            a: They still use paper application forms. They're behind the times.    
+    between ourselves | 우리끼리 얘긴데 :
+        1:
+            q: 오늘 저녁 식사는 우리 둘만의 비밀로 해요.
+            a: Let's keep tonight's dinner between ourselves.
+        2:
+            q: 이 이야기는 우리 둘만의 비밀로 하자.
+            a: Let's keep this story between ourselves.
+        3:
+            q: 우리 둘만의 비밀일 거예요.
+            a: It will be between ourselves.
+        4:
+            q: 이 문제는 우리 둘만의 문제입니다.
+            a: This problem is between ourselves.
+        5:
+            q: 우리 둘만의 비밀이니까 다른 사람들에게 말하지 마세요.
+            a: It's between ourselves, so please don't tell other people.
+        6:
+            q: 이 일은 우리 둘만의 일이니까 다른 사람들에게 알리지 마세요.
+            a: This matter is between ourselves, so please don't spread it to other people.
+        7:
+            q: 우리 둘만의 비밀이니까 다른 사람들에게 말하면 안 돼요.
+            a: It's between ourselves, so you can't tell other people.
+        8:
+            q: 우리 둘만의 비밀이니까 외부인들은 알아선 안 됩니다.
+            a: It's between ourselves, so outsiders shouldn't know.
+        9:
+            q: 이 사실은 우리 둘만의 비밀입니다.
+            a: This fact is between ourselves.
+        10:
+            q: 이번 일은 우리 둘만의 문제이니까 조용히 해결합시다.
+            a: This matter is between ourselves, so let's solve it quietly.    
+    beside oneself | 제정신 아닌 :
+        1:
+            q: 나는 시험 전날 밤에 있을 일로 인해 스트레스 받아 완전히 당황해 버렸어. 
+            a: I was beside myself with stress over something that happened the night before the exam.
+        2:
+            q: 그들은 자기가 기다리고 있었던 차가 결국 안 올 것 같다는 생각에 완전히 당황해 버렸어. 
+            a: They were beside themselves with the thought that the car they were waiting for may never come.
+        3:
+            q: 그녀는 자신의 발표가 실패할 것이라는 생각에 완전히 당황해 버렸어. 
+            a: She was beside herself with the thought that her presentation would fail.
+        4:
+            q: 그는 자신의 가족들이 안전하게 돌아올 수 있을지 걱정되어 완전히 당황해 버렸어. 
+            a: He was beside himself with worry about whether his family would come back safely.
+        5:
+            q: 그녀는 어제 일어난 일로 인해 스트레스 받아 완전히 당황해 버렸어. 
+            a: She was beside herself with stress over what happened yesterday.
+        6:
+            q: 나는 방금 일어난 일 때문에 너무 화가 나 완전히 당황해 버렸어. 
+            a: I was beside myself with anger over what just happened.
+        7:
+            q: 그는 자기가 한 말 때문에 문제가 생길 것 같다는 생각에 완전히 당황해 버렸어. 
+            a: He was beside himself with the thought that his words might cause trouble.
+        8:
+            q: 그녀는 자기가 실패할 것이라는 생각에 완전히 당황해 버렸어. 
+            a: She was beside herself with the thought that she might fail.
+        9:
+            q: 그는 오랜만에 찾아온 친구에게 너무 신나서 완전히 당황해 버렸어. 
+            a: He was beside himself with excitement over his long-awaited friend's visit.
+        10:
+            q: 그들은 자기들이 대책 없이 남겨져 있다는 생각에 완전히 당황해 버렸어. 
+            a: They were beside themselves with the thought of being left alone without any plan.    
+    beyond description | 형언할 수 없는 :
+        1:
+            q: 너무 좋아서 그것을 표현할 수 없다. 
+            a: I am beyond description happy.
+        2:    
+            q: 그 경치는 너무 아름다워서 말로 표현할 수 없다. 
+            a: The scenery is beyond description beautiful.
+        3:    
+            q: 그 동물원에 있는 동물들은 너무 귀여워서 말로 표현할 수 없다. 
+            a: The animals in the zoo are beyond description cute.
+        4:    
+            q: 그 영화는 너무 재미있어서 말로 표현할 수 없다. 
+            a: The movie is beyond description entertaining.
+        5:    
+            q: 그 파티는 너무 즐거웠어서 말로 표현할 수 없다. 
+            a: The party was beyond description fun.
+        6:    
+            q: 그 음식은 너무 맛있어서 말로 표현할 수 없다. 
+            a: The food is beyond description delicious.
+        7:    
+            q: 그 음악은 너무 아름다워서 말로 표현할 수 없다. 
+            a: The music is beyond description beautiful.
+        8:    
+            q: 그 책은 너무 재미있어서 말로 표현할 수 없다. 
+            a: The book is beyond description interesting.
+        9:    
+            q: 그 공연은 너무 멋졌어서 말로 표현할 수 없다. 
+            a: The performance was beyond description amazing.
+        10:    
+            q: 그 경험은 너무 감동적이어서 말로 표현할 수 없다. 
+            a: The experience was beyond description touching.    
+    blow out | (불어서) 끄다 :
+        1:
+            q: 너무 강한 바람 때문에 어제 내가 집에서 문을 닫지 않고 나갔다가 뭐가 일어났는지 알아? 
+            a: What happened yesterday was that I forgot to close the door when I left the house because of the strong wind.
+        2:
+            q: 파티에서 케이크 촛불을 불면서 내 생일을 축하했어. 
+            a: They celebrated my birthday at the party by blowing out the candles on the cake.
+        3:
+            q: 내일 경기에서 상대팀이 우리를 이길 거라고 예상하지 않아. 
+            a: I don't expect the opposing team to blow us out in tomorrow's game.
+        4:
+            q: 동생이 그의 생일 초를 불기 위해 도움을 요청했다. 
+            a: My younger brother asked for help to blow out his birthday candle.
+        5:
+            q: 요즘 나의 자전거 타이어는 자주 터지기 시작해서 매우 짜증난다. 
+            a: Lately, my bike tires have been blowing out frequently, which is very frustrating.
+        6:
+            q: 새해 첫날, 양초를 불며 나는 소원을 빌었다. 
+            a: On the first day of the new year, I blew out the candle and made a wish.
+        7:
+            q: 어제 비행기가 출발하기 전에 바퀴가 터졌다는 소식을 들었다. 
+            a: Yesterday, I heard that the wheel blew out before the plane took off.
+        8:
+            q: 엄마는 아이들의 생일케이크에 항상 초를 붙여 놓지만, 그녀는 항상 불어서 꺼버린다. 
+            a: Mom always puts candles on the kids' birthday cakes, but she always blows them out.
+        9:
+            q: 어린아이들은 풍선을 불면서 터뜨리는 것을 좋아한다. 
+            a: Children like to blow up balloons and pop them.
+        10:
+            q: 밤에 차에서 타이어가 터지는 소리가 나서 나는 겁에 질렸다. 
+            a: I was scared when I heard the sound of the tire blowing out in the car at night.    
+    break into | 침입하다 :
+        1:
+            q: 폭우가 쏟아지자마자 그는 차에 달려들어 강제로 문을 열고 안으로 들어갔다.
+            a: When the heavy rain poured down, he broke into the car and got inside.
+        2:
+            q: 유명 작가의 집에서 파티가 있었는데, 경비원이 문을 열어주지 않아서 몇몇 사람들이 문을 강제로 열었다.
+            a: There was a party at a famous author's house, but the security guard didn't open the door, so some people had to break into the house.
+        3:
+            q: 지금 당장 돈이 필요해서 그는 은행을 강제로 뚫었다.
+            a: He needed money urgently, so he broke into the bank.
+        4:
+            q: 누군가 내 방에 들어와서 내 책상 서랍을 훔쳤다. 경찰이 와서 문을 강제로 열었다.
+            a: Someone broke into my room and stole my desk drawer. The police came and had to break into the door.
+        5:
+            q: 밖에서 내 목소리가 들려서 문을 열어 달라고 부르는데, 열지 않으니 강제로 문을 열었다.
+            a: Someone could hear my voice outside and called me to open the door, but since I didn't, they broke into the door.
+        6:
+            q: 새 아파트에 이사 온 첫날, 그는 열쇠를 놓고 나오기 전에 강제로 문을 열었다.
+            a: On the first day he moved into a new apartment, he broke into the door before leaving his key inside.
+        7:
+            q: 그들은 이웃의 차고에 들어가 강제로 문을 열었다.
+            a: They broke into the neighbor's garage and forced open the door.
+        8:
+            q: 밤중에 대형마트에 강제로 침입해 문을 열고 물건을 훔쳤다.
+            a: They broke into the large mart at midnight, opened the door forcibly, and stole some items.
+        9:
+            q: 내일까지 보고서를 제출해야 하는데, 컴퓨터 비밀번호를 잊어버렸다. 강제로 컴퓨터를 열었다.
+            a: I have to submit the report by tomorrow, but I forgot my computer password, so I had to break into the computer.    
+    break out | 발발하다 :
+        1:
+            q: 그들이 춤을 추기 시작하자마자, 파티는 열기를 시작했다. 
+            a: As soon as they started dancing, the party broke out.
+        2:
+            q: 싸움이 일어나면 경찰이 나타났다. 
+            a: When a fight broke out, the police showed up.
+        3:
+            q: 군사 훈련 중에 화재가 발생했다. 
+            a: A fire broke out during military training.
+        4:
+            q: 지난 주에 그곳에서 전염병이 발생했다. 
+            a: An epidemic broke out there last week.
+        5:
+            q: 그들이 노래하면서 춤을 추기 시작하자, 밤새 파티가 계속됐다. 
+            a: When they started singing and dancing, the party broke out all night long.
+        6:
+            q: 쥐가 방에 들어와서 사람들이 발발하게 만들었다. 
+            a: A mouse broke out in the room and made people freak out.
+        7:
+            q: 노래방에서 그녀는 'My Heart Will Go On'을 부르자마자, 박수가 쏟아졌다. 
+            a: As soon as she started singing 'My Heart Will Go On' in the karaoke room, the applause broke out.
+        8:
+            q: 스포츠 경기에서 우리팀이 이기면, 축하 연설이 발발했다. 
+            a: If our team won the sports game, the congratulatory speeches broke out.
+        9:
+            q: 그녀가 결혼식에서 춤을 추기 시작하자, 다른 사람들도 그녀와 함께 춤을 추기 시작했다. 
+            a: When she started dancing at the wedding, others broke out to dance with her.
+        10:
+            q: 저녁식사 중에 전기가 나갔다. 
+            a: The power went out during dinner, and darkness broke out.    
+    bring up | 교육시키다, 기르다 :
+        1:
+            q: 너의 부모님은 너를 어떻게 키웠나?
+            a: How did your parents bring you up?
+        2:
+            q: 언제부터 개발자가 되고 싶었어?
+            a: When did you first bring up the idea of becoming a developer?
+        3:
+            q: 아이를 키우는데 있어서 가장 어려운 점은 무엇인가요?
+            a: What do you find to be the most challenging aspect of bringing up a child?
+        4:
+            q: 그들은 회의에서 그 문제를 다시 끌어내고 싶어 한다.
+            a: They want to bring up the issue again at the meeting.
+        5:
+            q: 그녀는 그 남자 친구의 과거를 계속해서 언급하고 싶었다.
+            a: She wanted to bring up her boyfriend's past continuously.
+        6:
+            q: 그는 대화를 시작할 수 있는 적절한 주제를 언급하지 못했다.
+            a: He couldn't bring up a suitable topic to start a conversation.
+        7:
+            q: 그 회사는 자회사를 설립하기로 결정하였다.
+            a: The company decided to bring up a subsidiary.
+        8:
+            q: 그 회사는 새로운 제품을 시장에 내놓기로 결정했다.
+            a: The company decided to bring up a new product to the market.
+        9:
+            q: 어제 회의에서 새로운 계획을 제안했다.
+            a: I brought up a new plan at the meeting yesterday.
+        10:
+            q: 내일 회의 때 이 문제를 다시 언급해볼까요?
+            a: Shall we bring up this issue again at the meeting tomorrow?    
+    burst into | 갑자기 ∼하다 :
+        1:
+            q: 집에 돌아오자마자 아내가 내 방에 난입해서 내게 화를 내었다.
+            a: As soon as I returned home, my wife burst into my room and got angry at me.
+        2:
+            q: 우리가 방에 들어가니 그들은 대화를 중단하고 우리를 바라보며 웃음을 터뜨렸다.
+            a: As we entered the room, they burst into laughter and looked at us.
+        3:
+            q: 이야기하는 도중에 그녀는 갑자기 울음을 터뜨렸다.
+            a: She suddenly burst into tears while we were talking.
+        4:
+            q: 어머니는 문을 열자마자 울며 그녀의 어깨에 툭 뛰어든다.
+            a: As soon as her mother opened the door, she burst into tears and threw herself on her shoulder.
+        5:
+            q: 그가 그 이야기를 시작하자마자, 그의 친구들은 모두 웃음을 터뜨렸다.
+            a: As soon as he started telling the story, his friends burst into laughter.
+        6:
+            q: 음악이 끝나자마자 대부분의 관객들은 기립 박수를 쳤다.
+            a: As soon as the music ended, most of the audience burst into applause.
+        7:
+            q: 그들이 노래하는 도중에, 우리는 박수를 치며 흥얼거렸다.
+            a: As they sang, we burst into applause and sang along.
+        8:
+            q: 아이들이 숨바꼭질하는 도중에 그녀는 문을 열고 갑자기 나타났다.
+            a: While the children were playing hide and seek, she burst into the room suddenly.
+        9:
+            q: 저는 그 도시를 구경하다가 아름다움에 감격하여 울음을 터뜨렸습니다.
+            a: I burst into tears while sightseeing the city, moved by its beauty.
+        10:
+            q: 그녀가 혼자 있으면서 갑자기 웃음을 터뜨리는 것이 흔했다.
+            a: It was common for her to burst into laughter when she was alone.    
+    by all means | 어떤 일이 있어도, 좋고 말고 :
+        1:
+            q: 좀 더 편안하게 앉으시고 자리를 잡으세요.
+            a: By all means, take a seat and make yourself comfortable.
+        2:
+            q: 우리와 함께 하고 싶다면 언제든지 참여해도 좋습니다.
+            a: If you want to join us, by all means, come along!
+        3:
+            q: 언제든지 우리가 합의한 계획대로 계속 진행합시다.
+            a: By all means, let's continue with the plan that we agreed upon.
+        4:
+            q: 언제든지 도움이 필요하면 말씀해 주세요.
+            a: If you need any help, by all means, just ask me.
+        5:
+            q: 여기에 오셨으니 꼭 현지 요리를 한 번 시도해 보세요.
+            a: By all means, you should try the local cuisine while you're here.
+        6:
+            q: 회사 차를 이용하고 싶다면 언제든지 예약하셔도 좋습니다.
+            a: If you want to use the company car, by all means, go ahead and reserve it.
+        7:
+            q: 결정하기 전에 충분한 생각 시간을 가지세요.
+            a: By all means, take your time to think about it before making a decision.
+        8:
+            q: 친구를 데리고 오고 싶다면 언제든지 자유롭게 오세요.
+            a: If you want to bring a friend along, by all means, feel free to do so.
+        9:
+            q: 이번 성취를 축하하기 위해 한 잔의 건배를 할까요?
+            a: By all means, let's celebrate this achievement with a toast!
+        10:
+            q: 휴식이 필요하다면 언제든지 쉬세요.
+            a: If you want to take a break, by all means, go ahead and rest.
+        11:
+            q: 그 영화를 보러 가는 건 언제든지 좋아요 - 정말 훌륭하다고 들었어요!    
+            a: By all means, you should go and see that movie - I heard it's excellent!
+    by means of | ∼에 의하여 :
+        1:
+            q: 사다리를 통해 우리는 지붕에 올라갈 수 있었다.
+            a: By means of a ladder, we were able to reach the roof.
+        2:
+            q: 그 메시지는 전하는 사람을 통해 전달되었다.
+            a: The message was conveyed by means of a messenger.
+        3:
+            q: 그 회사는 자동화 수단을 통해 생산성을 개선했다.
+            a: The company improved their productivity by means of automation.
+        4:
+            q: 그 팀은 마지막 골을 통해 게임에서 승리했다.
+            a: The team won the game by means of a last-minute goal.
+        5:
+            q: 그녀는 언어 교환 프로그램을 통해 그 언어를 배웠다.
+            a: She learned the language by means of a language exchange program.
+        6:
+            q: 우리는 협상을 통해 이 문제를 해결할 수 있다.
+            a: We can solve this problem by means of negotiation.
+        7:
+            q: 그 차는 새 엔진을 통해 고쳐졌다.
+            a: The car was fixed by means of a new engine.
+        8:
+            q: 학생들은 현미경을 통해 실험을 수행했다.
+            a: The students conducted their experiment by means of a microscope.
+        9:
+            q: 그들은 새로운 검사 방법을 통해 그 바이러스를 탐지할 수 있었다.    
+            a: They were able to detect the virus by means of a new testing method.
+    by no means | 결코 ∼아니다 :
+        1:
+            q: 내가 시험을 붙을 거라고 생각하면 안 돼. 
+            a: By no means should you think you will pass the exam.
+        2:
+            q: 나는 그녀를 싫어하지 않지만, 그녀가 내 친구는 아니다. 
+            a: By no means do I dislike her, but she is not my friend.
+        3:
+            q: 그들은 이번 주말에 우리를 방문할 수 없을 것입니다. 
+            a: By no means can they visit us this weekend.
+        4:
+            q: 나는 그 사람을 신뢰할 수 없어. 
+            a: By no means can I trust that person.
+        5:
+            q: 이 프로젝트는 쉽게 완료될 것이 아니다. 
+            a: By no means will this project be completed easily.
+        6:
+            q: 내일은 쉴 수 있을 거라고 생각하지 마세요. 
+            a: By no means should you think you can take a day off tomorrow.
+        7:
+            q: 이것은 그의 실수가 아니에요. 
+            a: By no means is this his fault.
+        8:
+            q: 그것은 가능하지 않습니다. 
+            a: By no means is it possible.
+        9:
+            q: 나는 누구도 배심원으로 선택되지 않을 것이라고 생각해. 
+            a: By no means do I think I will be selected as a jury member.
+        10:
+            q: 이 작업은 쉽게 해결되지 않을 것입니다. 
+            a: By no means will this task be easily resolved.    
+    by and by | 머지 않아 :
+        1:
+            q: 머지 않아 우리는 새로운 집에 이사할 거야.
+            a: By and by, we will move to a new house.
+        2:
+            q: 이 일이 끝나면 머지 않아 새로운 계획을 세워봐야겠어.
+            a: By and by, we should make a new plan once this job is done.
+        3:
+            q: 머지 않아 그녀가 이 문제를 해결할 거라고 생각해.
+            a: I think by and by, she will solve this problem.
+        4:
+            q: 머지 않아 그들은 그들의 실수를 인정할 거야.
+            a: By and by, they will admit their mistake.
+        5:
+            q: 이 세상의 모든 것은 머지 않아 변하고 있어.
+            a: By and by, everything in this world is changing.
+        6:
+            q: 그 프로젝트는 머지 않아 끝날 거야.
+            a: By and by, that project will come to an end.
+        7:
+            q: 머지 않아 나는 대학을 졸업할 거야.
+            a: By and by, I will graduate from university.
+        8:
+            q: 이번 주말에 머지 않아 새로운 도시를 탐험할 거야.
+            a: By and by, I will explore a new city this weekend.
+        9:
+            q: 이 문제는 머지 않아 해결될 거야.
+            a: By and by, this problem will be resolved.
+        10:
+            q: 머지 않아 너는 이것을 이해할 거야.
+            a: By and by, you will understand this.    
+    by the way | 그런데 :
+        1:
+            q: 그런데, 오늘은 날씨가 정말 좋네요.
+            a: By the way, the weather is really nice today.
+        2:
+            q: 그런데, 네가 어제 어디에 갔는지 아니?
+            a: By the way, where did you go yesterday?
+        3:
+            q: 그런데, 이 주말에 뭐 할 계획 있어?
+            a: By the way, do you have any plans for this weekend?
+        4:
+            q: 그런데, 이 새로운 앱을 들어봤어?
+            a: By the way, have you heard of this new app?
+        5:
+            q: 그런데, 너 어디서 옷을 산 거야?
+            a: By the way, where did you buy your clothes?
+        6:
+            q: 그런데, 언제까지 일할 거야?
+            a: By the way, how long are you going to work?
+        7:
+            q: 그런데, 이번 주에는 무슨 일정이 있어?
+            a: By the way, do we have any schedule for this week?
+        8:
+            q: 그런데, 네가 일하는 회사가 어디야?
+            a: By the way, where is the company you work for?
+        9:
+            q: 그런데, 이 영화 본 적 있어?
+            a: By the way, have you seen this movie before?
+        10:
+            q: 그런데, 이 공원은 이제 지어졌어?
+            a: By the way, is this park newly built?    
+    by way of | ∼을 거쳐 :
+        1:
+            q: 저는 회사에 가려면 지하철을 타고 갑니다. 
+            a: I go to the office by way of taking the subway.
+        2:
+            q: 그는 돈을 모으기 위해 일을 하고 있습니다. 
+            a: He's working by way of saving money.
+        3:
+            q: 우리는 프랑스로 가기 위해 영국을 거쳐갈 계획입니다. 
+            a: We plan to go to France by way of stopping over in the UK.
+        4:
+            q: 그녀는 책을 읽는 것으로 스트레스를 해소합니다. 
+            a: She relieves her stress by way of reading books.
+        5:
+            q: 저는 새로운 프로젝트를 시작하기 위해 이전 경험을 활용합니다. 
+            a: I utilize my past experience by way of starting a new project.
+        6:
+            q: 그 회사는 사람들이 쉽게 접근할 수 있도록 지하철역 근처에 위치하고 있습니다. 
+            a: The company is located by way of being close to the subway station for easy access.
+        7:
+            q: 그는 대학에서 공부한 후에는 의료기기 회사를 거쳐 지금의 회사에 합류했다. 
+            a: After studying at university, he joined his current company by way of working at a medical device company.
+        8:
+            q: 이 작품은 몇 명의 미술가들의 작품을 거쳐 완성된 것이다. 
+            a: This artwork was completed by way of going through the works of several artists.
+        9:
+            q: 그 회사의 대표이사는 금융권에서 일한 경험을 거쳐 이 직위에 오른 것이다. 
+            a: The CEO of that company got to his position by way of working in the finance industry.
+    by day | 낮에는 :
+        1:
+            q: 나는 낮에는 회사에서 일을 하고, 밤에는 가족과 시간을 보냅니다. 
+            a: By day, I work at the company and at night, I spend time with my family.
+        2:
+            q: 그는 낮에는 유치원 교사이고, 밤에는 DJ입니다. 
+            a: By day, he is a kindergarten teacher and by night, he is a DJ.
+        3:
+            q: 나는 낮에는 공부를 하고, 밤에는 일을 합니다. 
+            a: By day, I study and by night, I work.
+        4:
+            q: 그는 낮에는 회사에서 일하고, 밤에는 취미 생활을 즐깁니다. 
+            a: By day, he works at the company and by night, he enjoys his hobbies.
+        5:
+            q: 나는 낮에는 운동을 하고, 밤에는 영화를 볼 때가 많아요. 
+            a: By day, I exercise and by night, I often watch movies.
+        6:
+            q: 그들은 낮에는 여행을 즐기고, 밤에는 캠핑을 즐깁니다. 
+            a: By day, they enjoy traveling and by night, they enjoy camping.
+        7:
+            q: 나는 낮에는 커피를 많이 마시고, 밤에는 차를 좋아해요. 
+            a: By day, I drink a lot of coffee and by night, I like tea.
+        8:
+            q: 그녀는 낮에는 학교에서 수업을 하고, 밤에는 자신의 연극 그룹과 함께 연습을 합니다. 
+            a: By day, she attends classes at school, and by night, she rehearses with her theater group.
+        9:
+            q: 그는 낮에는 은행에서 일을 하고, 주말에는 자전거 타기를 즐깁니다. 
+            a: By day, he works at a bank, and on weekends, he enjoys riding his bike.
+        10:
+            q: 저는 낮에는 스튜디오에서 녹음을 하고, 밤에는 다른 음악가들과 함께 연주합니다. 
+            a: By day, I record in a studio, and by night, I play with other musicians.
 
+    by the day | 일급으로 :
+    
+    by degrees | 서서히 :
