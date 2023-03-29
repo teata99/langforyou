@@ -76,47 +76,7 @@
   <body>
     
     
-    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-        <div class="container-fluid">
-            <a href="./index.html" class="navbar-brand fw-bold">Lang for you</a>
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-            
-            <div class="collapse navbar-collapse" id="navbarNavDropdown">
-                <ul class="navbar-nav ms-auto me-5">
-                    <li class="nav-item">
-                        <a href="./index.html" class="nav-link">Home</a>
-                    </li>
-                    <li class="nav-item">
-                        <a href="./board.html" class="nav-link">Board</a>    
-                    </li>
-                    <li class="nav-item dropdown">
-                        <a href="#" class="nav-link active dropdown-toggle" role="button" data-bs-toggle="dropdown">English</a>   
-                        <ul class="dropdown-menu">
-                            <li><a href="./eng-site1.html" class="dropdown-item">Chat GPT 영문법</a></li>
-                            <li><a href="./eng-site2.html" class="dropdown-item">Chat GPT 영작문</a></li>
-                            <li><a href="./eng-site3.html" class="dropdown-item">고딸영어 복습</a></li>
-                        </ul>
-                    </li>
-                    <li class="nav-item dropdown">
-                        <a href="#" class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown">日本語</a>   
-                        <ul class="dropdown-menu">
-                            <li><a href="#" class="dropdown-item">준비중</a></li>
-                            <li><a href="#" class="dropdown-item">준비중</a></li>
-                        </ul>
-                    </li>
-                    <li class="nav-item dropdown">
-                        <a href="#" class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown">中文</a>   
-                        <ul class="dropdown-menu">
-                            <li><a href="#" class="dropdown-item">준비중</a></li>
-                            <li><a href="#" class="dropdown-item">준비중</a></li>
-                        </ul>
-                    </li>                                         
-                </ul>   
-            </div>
-        </div>
-    </nav>
+    <div id="headers"></div>
     
     
     <div class="container-fluid">
@@ -243,9 +203,8 @@
         
     </div>
     
-    <footer>
-        
-    </footer>
+    <div id="footers"></div>
+    
     <script type="text/javascript" src="./js/jquery-3.6.0.js"></script>
     <script type="text/javascript" src="./bootstrap-5.2.3/js/bootstrap.bundle.min.js"></script>
     <script type="text/javascript" src="./js/yaml.js"></script>
@@ -254,6 +213,11 @@
        
     <script>
         let data1_1;
+        
+        $(document).ready( function() {
+            $("#headers").load("header.html");
+            $("#footers").load("footer.html");
+        });
         
         $(document).ready(function() {
             const url = new URL(window.location.href);
