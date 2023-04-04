@@ -3193,8 +3193,494 @@
         10:
             q: 선생님이 수업 중에 학생의 발언에 끼어들었다.
             a: The teacher cut in on the student's remark during the class.    
-
-
+    day after day | 매일 매일:
+        1:
+            q: 그는 매일 매일 열심히 공부해서 꿈에 그리던 대학교에 진학했다.
+            a: He got into the college of his dreams by studying hard day after day.
+        2:
+            q: 나는 매일 매일 운동을 하고 있지만 아직까지는 결과가 나오지 않는다.
+            a: I've been exercising day after day, but I'm not seeing any results yet.
+        3:
+            q: 그녀는 매일 매일 자신의 발전을 위해 노력하고 있다.
+            a: She is working hard day after day to improve herself.
+        4:
+            q: 매일 매일, 이 도시는 점점 더 혼잡해지고 있다.
+            a: Day after day, this city is becoming more and more crowded.
+        5:
+            q: 나는 매일 매일 같은 일상에 지치고 있다.
+            a: I'm getting tired of the same routine day after day.
+        6:
+            q: 그는 매일 매일 노력함으로써 자신의 목표를 달성했다.
+            a: He achieved his goal by striving day after day.
+        7:
+            q: 매일 매일, 나는 그녀를 더욱 사랑하게 되었다.
+            a: Day after day, I fell more in love with her.
+        8:
+            q: 나는 매일 매일 새로운 것을 배우는 것을 즐긴다.
+            a: I enjoy learning something new day after day.
+        9:
+            q: 그들은 매일 매일 끊임없이 일하고 있다.
+            a: They are working tirelessly day after day.
+        10:
+            q: 매일 매일, 그녀는 자신의 꿈을 위해 노력했다.
+            a: Day after day, she worked hard for her dream.    
+    
+    day by day | 나날이, 차차로:
+        1:
+            q: 요즘 일이 너무 바쁘고 힘들지만, 나날이 조금씩 나아지고 있어.
+            a: Nowadays, work is too busy and tough, but day by day it's getting better little by little.
+        2:
+            q: 제 체력은 나이가 들면서 나날이 약해지고 있습니다.
+            a: My physical strength is getting weaker day by day as I get older.
+        3:
+            q: 매일 조금씩 연습하면, 나날이 실력이 향상될 거예요.
+            a: If you practice a little bit every day, your skills will improve day by day.
+        4:
+            q: 우리는 나날이 서로에게 더 가까워져가고 있어.
+            a: We're getting closer to each other day by day.
+        5:
+            q: 나의 생각은 나날이 변화하고 있어.
+            a: My thoughts are changing day by day.
+        6:
+            q: 건강을 유지하려면 나날이 꾸준한 운동과 식습관이 필요해.
+            a: To maintain good health, consistent exercise and eating habits are necessary day by day.
+        7:
+            q: 하루하루 공부를 해서, 나날이 성적이 좋아지고 있어.
+            a: By studying day by day, my grades are getting better.
+        8:
+            q: 지금은 어려워도, 나날이 노력하면 좋은 결과가 있을 거야.
+            a: Even if it's difficult now, if you work hard day by day, there will be good results.
+        9:
+            q: 일상 속에서 나날이 작은 변화를 만들면, 큰 성취도 가능해.
+            a: By making small changes day by day in daily life, even big achievements are possible.
+        10:
+            q: 우리가 겪은 어려움은 나날이 우리를 강하게 만들고 있어.
+            a: The difficulties we experienced are making us stronger day by day.    
+    day in and day out | 줄곧:
+        1:
+            q: 그는 일년 내내 훈련을 하면서 날마다 개선되었다.
+            a: He improved day in and day out while training throughout the year.
+        2:
+            q: 이 프로젝트는 힘들지만 나는 지금까지 계속해서 노력하고 있다.
+            a: This project is tough, but I've been working on it day in and day out.
+        3:
+            q: 그녀는 사업을 시작한 이래로 날마다 열심히 일하고 있다.
+            a: She has been working hard day in and day out since starting her business.
+        4:
+            q: 이 스포츠 선수는 지속적인 훈련을 통해 날마다 능력을 향상시켰다.
+            a: This athlete improved his skills day in and day out through consistent training.
+        5:
+            q: 그들은 지하철을 타고 출퇴근을 하고, 날마다 긴 시간동안 일을 한다.
+            a: They commute by subway and work for long hours day in and day out.
+        6:
+            q: 나는 이 문제를 해결하기 위해 날마다 노력하고 있다.
+            a: I am trying every day to solve this problem.
+        7:
+            q: 그는 날마다 열심히 공부해서 성적을 개선했다.
+            a: He improved his grades by studying hard day in and day out.
+        8:
+            q: 이 회사의 직원들은 날마다 최선을 다하고 있다.
+            a: The employees of this company are doing their best day in and day out.
+        9:
+            q: 그녀는 날마다 더 나은 인간이 되기 위해 노력하고 있다.
+            a: She is striving to become a better person day in and day out.
+        10:
+            q: 이 작업은 지치지만, 나는 계속해서 날마다 노력하고 있다.
+            a: This task is exhausting, but I'm putting in effort day in and day out.    
+    deal in | 장사하다:
+        1:
+            q: 그 회사는 의류를 다루고 있습니다.
+            a: The company deals in clothing.
+        2:
+            q: 그 회사는 전자 제품을 취급합니다.
+            a: The company deals in electronics.
+        3:
+            q: 나는 부동산 거래에 관심이 있습니다.
+            a: I am interested in dealing in real estate.
+        4:    
+            q: 그는 항상 중고차 거래를 합니다.
+            a: He always deals in used cars.
+        5:    
+            q: 그 회사는 유통 산업을 다룹니다.
+            a: The company deals in the distribution industry.
+        6:    
+            q: 나는 주식 거래에 초점을 맞추고 싶습니다.
+            a: I want to focus on dealing in stocks.
+        7:    
+            q: 그들은 광고 제작을 하고 있습니다.
+            a: They deal in advertising production.
+        8:    
+            q: 나는 자동차 판매에 종사하고 있습니다.
+            a: I am in the business of dealing in car sales.
+        9:    
+            q: 그들은 섬유 제품 거래를 합니다.
+            a: They deal in textile products.
+        10:    
+            q: 그들은 식품 유통업을 하고 있습니다.
+            a: They deal in food distribution.    
+    deal with | 다루다, 처리하다:
+        1:
+            q: 대학교에서는 다양한 문제들을 함께 해결하면서 팀워크를 키워야 합니다.
+            a: In college, you need to develop teamwork skills while dealing with various problems together.
+        2:
+            q: 그는 직장에서 다양한 업무를 처리하면서 시간 관리 능력을 키웠습니다.
+            a: He improved his time management skills while dealing with various tasks at work.
+        3:
+            q: 사업을 시작하면서 많은 위험성에 직면하게 된다.
+            a: When you start a business, you have to deal with a lot of risks.
+        4:
+            q: 부모님과의 갈등을 해결하면서 나의 자아성찰도 함께 했습니다.
+            a: Dealing with conflicts with my parents also helped me reflect on myself.
+        5:
+            q: 회사에서는 고객들과 다양한 문제들을 해결하면서 서비스 향상에 노력해야 합니다.
+            a: At work, you need to improve the service by dealing with various problems with customers.
+        6:
+            q: 복잡한 일정을 처리하면서도 다양한 문제들을 해결하는 것이 중요합니다.
+            a: Dealing with various problems while managing complex schedules is crucial.
+        7:
+            q: 이 회사에서 일하면서 새로운 도전에 대처하는 능력을 배웠습니다.
+            a: Working at this company helped me learn how to deal with new challenges.
+        8:
+            q: 친구들과의 관계를 유지하면서도 자신의 생각을 표현하는 것이 중요합니다.
+            a: It's important to express your thoughts while dealing with relationships with friends.
+        9:
+            q: 불만사항을 해결하면서 상대방의 의견도 존중하는 태도가 필요합니다.
+            a: Dealing with complaints requires an attitude that respects the other person's opinion.
+        10:
+            q: 성공적인 협상을 위해서는 양측의 이해와 타협이 필요합니다.
+            a: Successful negotiation requires understanding and compromise from both sides.    
+    depend on (upon) | 의지하다, 믿다:
+        1:
+            q: 성공은 당신의 노력에 따라 달라질 것이다.
+            a: Success will depend on your efforts.
+        2:    
+            q: 그 회사의 미래는 경영진의 의사결정에 달려있다.
+            a: The future of that company depends on the management's decision-making.
+        3:    
+            q: 그 일이 성사될지는 그의 취지에 따라 달려있다.
+            a: Whether that matter will come to fruition depends upon his intention.
+        4:    
+            q: 날씨가 어떻게 될지는 내일 아침에 따라 달려있다.
+            a: Whether the weather will be good or not depends on tomorrow morning.
+        5:    
+            q: 그 일이 성공할 것인지는 인력과 자금의 지원에 따라 달려있다.
+            a: Whether that project will be successful depends on the support of manpower and finance.
+        6:    
+            q: 당신의 결정은 앞으로의 인생에 큰 영향을 미칠 것이다.
+            a: Your decision will depend greatly on your future life.
+        7:    
+            q: 우리의 성공 여부는 협력에 달려있다.
+            a: Our success depends on cooperation.
+        8:    
+            q: 아이의 성적은 학부모의 관심과 지도에 따라 달라진다.
+            a: The child's academic performance depends on the parents' interest and guidance.
+        9:    
+            q: 그 일이 성공적으로 마무리되기 위해서는 전문가의 지원이 필요하다.
+            a: To successfully conclude that matter, it depends on the support of experts.    
+    depend upon it | 꼭:
+        1:
+            q: 내일 비가 올 것이라고 예보를 받았는데, 꼭, 우산을 가져가는 게 좋을 것 같아.
+            a: I heard that it's going to rain tomorrow, so depend upon it, you should bring an umbrella.
+        2:  
+            q: 그 사람에 대해 의심해 본 적이 없지만, 그래도 꼭, 그의 말을 믿을 수 있을 것이다.
+            a: I've never doubted that person, but still, depend upon it, I believe what they say.
+        3:    
+            q: 나는 항상 체력 담당 트레이너의 말을 믿는다. 그래, 꼭, 그가 내 몸 상태를 가장 잘 알고 있으니까.
+            a: I always trust what my fitness trainer says. Yeah, depend upon it, he knows my physical condition best.
+        4:    
+            q: 이 식당은 맛도 좋고 가격도 착한데, 꼭, 내가 여기를 추천하는 이유가 그것이다.
+            a: This restaurant has good food and reasonable prices, so depend upon it, that's why I recommend it.
+        5:    
+            q: 그 프로젝트는 시간이 부족한데, 그래도 꼭, 우리는 마감일까지 완료할 수 있을 거야.
+            a: The project is short on time, but still, depend upon it, we can finish it by the deadline.
+        6:    
+            q: 나는 일을 하면서 항상 포스트잇을 사용해서 중요한 것들을 기록해 놓는다. 그래서 꼭, 나는 나의 목적을 잊지 않게 된다.
+            a: I always use post-it notes to jot down important things while working. So depend upon it, I never forget my purpose.
+        7:    
+            q: 내가 할 수 있는 최선을 다하고 있음에도 불구하고, 그 결과는 예상과 달라서 당황스러웠다. 그래도 꼭, 시간이 지나면 좋은 결과가 있을 거야.
+            a: Despite doing my best, the result was different from what I expected, so it was frustrating. But still, depend upon it, good results will come over time.
+        8:    
+            q: 그녀가 다시 돌아올 거라는 예감이 들었다. 그래, 꼭, 우리는 다시 만날 거야.
+            a: I had a feeling that she would come back again. Yeah, depend upon it, we will meet again.    
+    deprive A of B | A로부터 B를 빼앗다:
+        1:
+            q: 그녀는 눈을 빼앗겼다. 
+            a: She was deprived of her sight.
+        2:    
+            q: 그의 자유가 빼앗겨졌다. 
+            a: His freedom was taken away from him.
+        3:    
+            q: 나는 쉴 수 있는 기회를 빼앗겼다. 
+            a: I was deprived of the chance to rest.
+        4:    
+            q: 그들은 생명의 귀감을 빼앗겼다. 
+            a: They were deprived of the breath of life.
+        5:    
+            q: 그들은 자식들의 인생을 빼앗았다. 
+            a: They deprived their children of their lives.
+        6:    
+            q: 땅이 그녀의 발밑에서 빼앗겼다. 
+            a: The ground was taken away from under her feet.
+        7:    
+            q: 그는 상을 빼앗겼다. 
+            a: He was deprived of his reward.
+        8:    
+            q: 그들은 자유로운 표현을 빼앗겼다. 
+            a: They were deprived of freedom of expression.
+        9:    
+            q: 그녀는 청소년 시절을 빼앗겼다. 
+            a: She was deprived of her teenage years.
+        10:    
+            q: 그녀는 사랑하는 사람을 빼앗겨서 슬퍼했다. 
+            a: She was saddened by being deprived of her loved one.    
+    devote oneself to | 헌신하다:
+        1:
+            q: 나는 학업에 전념한다.
+            a: I devote myself to my studies.
+        2:
+            q: 그는 자신의 가족에게 모든 시간을 바쳤다.
+            a: He devoted all his time to his family.
+        3:    
+            q: 그녀는 자신의 예술 작품에 모든 것을 쏟았다.
+            a: She devoted everything to her artwork.
+        4:    
+            q: 나는 자원봉사에 헌신하고 있다.
+            a: I am devoted to volunteering.
+        5:    
+            q: 그는 자신의 사업에 전념하고 있다.
+            a: He is devoted to his business.
+        6:    
+            q: 그녀는 자신의 미션에 전념하고 있다.
+            a: She is devoted to her mission.
+        7:    
+            q: 나는 자신의 가족에게 모든 것을 바치고 있다.
+            a: I devote everything to my family.
+        8:    
+            q: 그는 자신의 취미에 매우 전념한다.
+            a: He is very devoted to his hobby.
+        9:    
+            q: 그녀는 자신의 지식을 나누기 위해 많은 시간을 바쳤다.
+            a: She devoted a lot of time to sharing her knowledge.
+        10:    
+            q: 나는 그 일에 전념할 것이다.
+            a: I will devote myself to that work.    
+    distinguish from | ∼과 ∼을 구별하다:
+        1:
+            q: 내가 맞춘 숫자를 다른 숫자와 구별할 수 있는 방법은 무엇인가요?
+            a: What are some ways to distinguish the number I guessed from other numbers?
+        2:
+            q: 그들은 어떻게 진짜 미소와 가식적인 미소를 구별할 수 있을까요?
+            a: How can they distinguish a genuine smile from a fake one?
+        3:
+            q: 이 두 색을 구별하는 것이 어려워요.
+            a: It's difficult to distinguish between these two colors.
+        4:
+            q: 이 책은 그의 이전 작품과 구별되는 특징이 있어요.
+            a: This book has features that distinguish it from his previous works.
+        5:
+            q: 남자와 여자를 구별하는 것은 쉬운 일이 아니에요.
+            a: Distinguishing between men and women is not an easy task.
+        6:
+            q: 이 차종은 다른 차종들과 구별되는 특징을 가지고 있어요.
+            a: This car model has characteristics that distinguish it from other car models.
+        7:
+            q: 이 문장에서 명사와 동사를 구별할 수 있나요?
+            a: Can you distinguish between the nouns and verbs in this sentence?
+        8:
+            q: 이 가게에서 판매하는 빵은 다른 가게에서 판매하는 빵과 구별되는 맛이 있어요.
+            a: The bread sold in this store has a taste that distinguishes it from the bread sold in other stores.
+        9:
+            q: 이들은 언제나 현실과 상상력을 구별하는 능력이 있어요.
+            a: They always have the ability to distinguish between reality and imagination.
+        10:
+            q: 이 지역의 문화는 다른 지역과 구별되는 특징이 있어요.
+            a: The culture of this region has features that distinguish it from other regions.    
+    do away with | ∼을 제거하다:
+        1:
+            q: 요즘 대부분의 회사에서는 현금 결제를 없애고 카드 결제만을 허용합니다.
+            a: Nowadays, most companies are doing away with cash payments and only allowing card payments.
+        2:
+            q: 이 문제를 해결하기 위해 우리는 현재 사용 중인 시스템을 완전히 폐기하고 다른 시스템을 도입할 계획입니다.
+            a: In order to solve this problem, we plan to do away with the current system we are using and adopt a different one.
+        3:
+            q: 최근 많은 국가들이 화석 연료 사용을 줄이고 대체 가능한 에너지원을 도입하기 위해 노력하고 있습니다.
+            a: Many countries are recently trying to do away with fossil fuels and introduce alternative energy sources.
+        4:
+            q: 그 회사는 재고 관리를 간소화하기 위해 종이 기반의 시스템을 폐기하고 디지털 기반의 시스템을 도입했습니다.
+            a: The company did away with the paper-based system to simplify inventory management and introduced a digital-based system.
+        5:
+            q: 그들은 그 도시의 오래된 건물을 철거하고 새로운 건물을 건설할 계획입니다.
+            a: They plan to do away with the old buildings in the city and construct new ones.
+        6:
+            q: 그들은 효율성을 높이기 위해 불필요한 회의를 없애기로 결정했습니다.
+            a: They decided to do away with unnecessary meetings in order to increase efficiency.
+        7:
+            q: 요즘은 많은 소매 업체들이 물리적인 매장을 없애고 온라인 쇼핑몰만 운영합니다.
+            a: Nowadays, many retail companies are doing away with physical stores and only operating online shops.
+        8:
+            q: 그들은 새로운 규정을 도입하여 부정행위를 없애려고 합니다.
+            a: They are introducing new regulations to do away with misconduct.
+        9:
+            q: 일부 국가들은 현금을 완전히 없애고 디지털 화폐만 사용하도록 이전하고 있습니다.
+            a: Some countries are moving towards doing away with cash completely and only using digital currency.
+        10:
+            q: 우리는 장기적인 비전을 위해 단기적인 이익을 포기하기로 결정했습니다.
+            a: We decided to do away with short-term gains for a long-term vision.    
+    do without | ∼없이 지내다:
+        1:
+            q: 인생에서 가장 필요한 것 중 하나는 물이다.
+            a: One of the most essential things in life is water, and we cannot do without it.
+        2:
+            q: 여름에는 에어컨 없이는 살기 어렵다.
+            a: It's hard to live without air conditioning during the summer.
+        3:
+            q: 요즘 핸드폰 없이는 어떻게 살아가나요?
+            a: How do people live without a phone these days?
+        4:
+            q: 휴대폰 없이 여행하려면 어떻게 해야 할까요?
+            a: What should I do if I want to travel without a mobile phone?
+        5:
+            q: 이 책은 사전 없이는 읽기 어려울 것 같아요.
+            a: I think this book would be difficult to read without a dictionary.
+        6:
+            q: 어린 시절에는 인터넷 없이도 재미있게 놀았는데 요즘은 그게 안되네요.
+            a: I used to have fun playing without the internet when I was younger, but it's not possible these days.
+        7:
+            q: 이 일은 팀워크 없이는 성공할 수 없을 것 같아요.
+            a: I don't think we can succeed in this project without teamwork.
+        8:
+            q: 선풍기 없이는 더운 여름날을 견딜 수 없어요.
+            a: I can't stand the hot summer days without a fan.
+        9:
+            q: 나는 카페에서 커피 없이는 작업을 못해요.
+            a: I cannot work at a cafe without coffee.
+        10:
+            q: 운전면허 없이는 자동차를 운전할 수 없어요.
+            a: I cannot drive a car without a driver's license.    
+    drop in (on) | (예고없이) 방문하다:
+        1:
+            q: 요즘은 바쁜 일상에도 가끔 친구들을 만나러 갈 때가 있어요. 
+            a: Sometimes I drop in to see my friends despite my busy schedule.
+        2:
+            q: 학교 가는 길에 가끔 카페에 들러 커피 한잔 하곤 해요. 
+            a: I often drop in at a café on my way to school for a cup of coffee.
+        3:
+            q: 너무 늦지 않았다면 매장에 들러서 옷을 구매할 수도 있었을 텐데. 
+            a: If we hadn't been so late, we could have dropped in the store and bought the clothes.
+        4:
+            q: 친척끼리 가끔씩 집에 들러서 수다떨기도 해요. 
+            a: Relatives sometimes drop in at my house to chat.
+        5:
+            q: 아침에 항상 편의점에 들러서 아침 식사를 준비해요. 
+            a: I always drop in at the convenience store in the morning to prepare breakfast.
+        6:
+            q: 직장에서 퇴근하는 길에 슈퍼마켓에 들러서 장을 보곤 해요. 
+            a: I often drop in at the supermarket on my way home from work to do grocery shopping.
+        7:
+            q: 오랜만에 지난 주말에 친구네 집에 들러서 함께 파티를 즐겼어요. 
+            a: I dropped in at my friend's house last weekend and enjoyed a party together.
+        8:
+            q: 잠깐 시간이 있다면 미술관에 들러서 전시회를 관람하고 오는 것도 좋아요. 
+            a: If you have some spare time, it's also nice to drop in at an art museum and view exhibitions.
+        9:
+            q: 식사를 하기 전에 바로 옆에 있는 서점에 들러서 새로운 책을 살 때가 있어요. 
+            a: Sometimes I drop in at the bookstore next door to buy new books before having a meal.
+        10:
+            q: 친구의 작업실에 들러서 그녀가 만든 작품들을 구경하고 간단한 수다를 떨기도 해요. 
+            a: I sometimes drop in at my friend's studio to see the artworks she made and chat briefly.    
+    drop someone a line | ∼에게 몇 자 써 보내다:
+        1:
+            q: 오랜만에 언니한테 편지를 써볼까 생각 중이야. 
+            a: I'm thinking of dropping my sister a line after a long time.
+        2:
+            q: 어제 친구가 전화번호를 바꿨는데, 연락을 하려면 어떻게 해야 할까? 
+            a: My friend changed his phone number yesterday, how can I drop him a line?
+        3:
+            q: 새로운 이메일 주소로 연락하라는 메시지를 받았는데, 이제부터 새로운 주소로 메일을 보내야 하겠군. 
+            a: I received a message to contact them on their new email address, I guess I have to drop them a line to their new address from now on.
+        4:
+            q: 친구가 해외 여행을 간다는데, 생각나면 한번씩 연락해보려고 해. 
+            a: My friend is traveling abroad, I'm planning on dropping him a line once in a while.
+        5:
+            q: 크리스마스 카드를 쓰고 싶은데, 어디에서 살 수 있을까? 
+            a: I want to use Christmas cards, where can I buy them to drop my friends a line?
+        6:
+            q: 최근에 일어난 일로 친구에게 미안하다는 메시지를 보내려고 해. 
+            a: I'm planning on dropping a message to my friend saying sorry for recent events.
+        7:
+            q: 예전 같이 공부하던 친구에게 연락을 해서 다시 모여서 공부해보고 싶어. 
+            a: I want to drop a line to my friend who used to study with me and study together again.
+        8:
+            q: 어느 도시에 가본 적 있어? 추억을 떠올리며 그 친구에게 메시지를 보내고 싶어. 
+            a: Have you ever been to any cities? I want to drop a message to that friend while recalling memories.
+        9:
+            q: 친구와 오랜만에 뵐 예정인데, 장소를 어디로 할지 메시지로 물어볼까 생각 중이야. 
+            a: I'm thinking of dropping a message to ask where we should meet with my friend after a long time.
+        10:
+            q: 다음달에 생일 파티를 하려는데, 친구들에게 알리는 메시지를 써야겠다. 
+            a: I have to drop a message to my friends to inform them about the birthday party I'm planning next month.    
+    dwell in | ∼에 살다:
+        1:
+            q: 나는 지난 여름 동안 해변가에 머물렀다.
+            a: I dwelled in a beach house last summer.
+        2:
+            q: 그는 빈민가에서 살고 있다.
+            a: He dwells in a slum.
+        3:
+            q: 나는 작은 시골 마을에서 살고 있다.
+            a: I dwell in a small rural village.
+        4:
+            q: 그녀는 미국에서 오랫동안 살았다.
+            a: She dwelled in the United States for a long time.
+        5:
+            q: 그 사람은 고속도로 주변에 살고 있다.
+            a: The person dwells around the highway.
+        6:
+            q: 그 집은 시내 중심가에 위치해 있다.
+            a: The house dwells in the downtown area.
+        7:
+            q: 그들은 몇 년간 사막 지방에서 살았다.
+            a: They dwelled in a desert region for several years.
+        8:
+            q: 나는 다른 사람들과 함께 대학 기숙사에서 살고 있다.
+            a: I dwell in a college dormitory with other people.
+        9:
+            q: 그들은 바다와 인접한 지역에서 살고 있다.
+            a: They dwell in an area adjacent to the sea.
+        10:
+            q: 그 집은 천혜의 자연환경에 둘러싸여 있다.
+            a: The house dwells in a beautiful natural environment.    
+    dwell on〔upon〕| 숙고하다:
+        1:
+            q: 그 문제에 대해 계속 생각하는 것은 좋지 않아. 
+            a: Dwelling on that problem is not good.
+        2:    
+            q: 나는 과거에 대해 너무 많이 생각하고 있어. 
+            a: I'm dwelling on the past too much.
+        3:    
+            q: 그녀는 자기 자신의 불안에 대해 자꾸 생각해. 
+            a: She keeps dwelling on her own insecurities.
+        4:    
+            q: 그 문제를 자꾸 생각하면 우울해질 거야. 
+            a: If you keep dwelling on that problem, you'll become depressed.
+        5:    
+            q: 걱정거리에 대해 지나치게 생각하지 말아야 해. 
+            a: You shouldn't dwell too much on your worries.
+        6:    
+            q: 그들은 일어난 일에 대해 끊임없이 생각하고 있어. 
+            a: They're constantly dwelling on what happened.
+        7:    
+            q: 오래된 기억에 대해 생각하면 끝도 없어. 
+            a: There's no end to dwelling on old memories.
+        8:    
+            q: 불안한 상황에 대해 생각하는 건 좋지 않아. 
+            a: It's not good to dwell on anxious situations.
+        9:    
+            q: 그 문제를 더 이상 생각하지 말고 다른 일에 집중해. 
+            a: Stop dwelling on that problem and focus on something else.
+        10:    
+            q: 지금은 전진하는 것에만 집중해야 해. 과거에 대해 생각하지 마. 
+            a: You need to focus on moving forward now. Don't dwell on the past.
 
 
 
