@@ -4250,25 +4250,563 @@
             q: 저는 가족과 함께 시간을 보내기 위해 일을 조절했습니다.
             a: I adjusted my work for the sake of spending time with my family.    
     for want of | ∼이 부족하여:
+        1:
+            q: 현금이 부족해서 여행을 취소했어요.
+            a: For want of cash, I had to cancel the trip.
+        2:
+            q: 시간이 없어서 운동을 못 했어요.
+            a: For want of time, I couldn't exercise.
+        3:
+            q: 자신감이 부족해서 면접에서 탈락했어요.
+            a: For want of confidence, I failed the interview.
+        4:
+            q: 연봉이 낮아서 다른 회사로 이직했어요.
+            a: For want of a higher salary, I switched jobs.
+        5:
+            q: 영어 실력이 부족해서 해외여행을 하지 못했어요.
+            a: For want of English proficiency, I couldn't travel abroad.
+        6:
+            q: 교통체증 때문에 지각했어요.
+            a: For want of traffic flow, I was late.
+        7:
+            q: 악기를 연주하고 싶었지만 재능이 없어서 포기했어요.
+            a: For want of musical talent, I gave up on playing an instrument.
+        8:
+            q: 용기가 부족해서 새로운 도전을 하지 못했어요.
+            a: For want of courage, I couldn't take on a new challenge.
+        9:
+            q: 미약한 지원금 때문에 사업을 실패했어요.
+            a: For want of adequate funding, the business failed.    
     free from | ∼이 없는:
+        1:
+            q: 그녀는 걱정거리 없이 살고 있습니다.
+            a: She is living free from worries.
+        2:
+            q: 이 공원은 쓰레기가 없어서 깨끗합니다.
+            a: This park is clean and free from litter.
+        3:
+            q: 그녀는 모든 형태의 의존성에서 자유롭습니다.
+            a: She is free from all forms of dependency.
+        4:
+            q: 코로나 바이러스가 없는 세상을 꿈꾸고 있습니다.
+            a: We dream of a world free from the coronavirus.
+        5:
+            q: 그녀는 어떤 제약 없이 자유롭게 행동합니다.
+            a: She acts freely and without any constraints.
+        6:
+            q: 그 회사는 인종차별이 없는 환경을 조성하고 있습니다.
+            a: The company is creating an environment free from racial discrimination.
+        7:
+            q: 그녀는 외부의 영향을 받지 않고 자신의 길을 가고 있습니다.
+            a: She is charting her own course, free from external influences.
+        8:
+            q: 이 문서는 오타와 오류가 전혀 없습니다.
+            a: This document is free from typos and errors.
+        9:
+            q: 그녀는 이전의 아픔에서 자유로워졌습니다.
+            a: She has become free from the pain of the past.
+        10:
+            q: 이 나무는 다른 나무와는 달리 병에 걸리지 않아 건강합니다.
+            a: This tree is healthy and free from disease unlike the other trees.    
     from now on | 금후, 이제부터:
+        1:
+            q: 이제부터 일주일에 한 번 친구들과 만나기로 했어요. 
+            a: I have decided to meet my friends once a week from now on.
+        2:    
+            q: 이제부터는 건강식품을 꾸준히 먹을 거예요. 
+            a: I will consistently eat health supplements from now on.
+        3:    
+            q: 이번 주말부터 해외여행을 계획하고 있어요. 
+            a: I am planning to travel abroad starting from this weekend from now on.
+        4:    
+            q: 지금부터는 영어공부를 조금씩 하려고 합니다. 
+            a: I am planning to study English little by little from now on.
+        5:    
+            q: 이제부터는 습관적으로 핸드폰을 사용하지 않으려고 노력할게요. 
+            a: I will try not to use my phone habitually from now on.
+        6:    
+            q: 이제부터는 주말에는 집에서 쉬기로 했어요. 
+            a: I have decided to rest at home on weekends from now on.
+        7:    
+            q: 이제부터는 일주일에 두 번 꼭 책을 읽으려고요. 
+            a: I will make sure to read books twice a week from now on.
+        8:    
+            q: 이제부터는 하루에 물 한 병 이상 마시려고 노력할게요. 
+            a: I will try to drink at least one bottle of water a day from now on.
+        9:    
+            q: 이제부터는 가족들과 함께 저녁식사를 하려고 계획하고 있어요. 
+            a: I am planning to have dinner with my family from now on.    
     from time to time | 때때로:
+        1:
+            q: 요즘은 핸드폰을 자주 사용하다 보니, 가끔 손목이 아파요.
+            a: I use my phone a lot these days, so my wrist hurts from time to time.
+        2:
+            q: 시험기간에는 하루에 여러 번 공부를 해야 해요.
+            a: During the exam period, I have to study several times a day from time to time.
+        3:
+            q: 이 영화는 볼 때마다 다른 생각이 들어서 흥미롭습니다.
+            a: This movie is interesting because I have different thoughts every time I watch it from time to time.
+        4:
+            q: 저는 일주일에 한번씩 운동을 하려고 해요.
+            a: I try to exercise once a week from time to time.
+        5:
+            q: 그는 좋아하는 가수의 콘서트에 가끔 참석합니다.
+            a: He occasionally attends concerts of his favorite singer from time to time.
+        6:
+            q: 봄과 가을에는 날씨가 자주 변하기 때문에 의류를 선택하는 게 어렵습니다.
+            a: It's difficult to choose clothes because the weather often changes in spring and autumn from time to time.
+        7:
+            q: 영어를 공부할 때는 가끔 느려지는 부분도 있지만, 꾸준히 공부해야 합니다.
+            a: When studying English, there are sometimes slow parts, but I have to study steadily from time to time.
+        8:
+            q: 제가 일하는 회사에서는 프로젝트가 끝날 때마다 파티를 합니다.
+            a: The company I work for has a party every time a project ends from time to time.
+        9:
+            q: 내일은 비가 올 확률이 있다고 하니, 우산을 챙겨야겠어요.
+            a: It's said that there's a chance of rain tomorrow, so I should bring an umbrella from time to time.
+        10:
+            q: 한국에 가끔 여행을 가면서, 현지인들의 문화를 배우고 있습니다.
+            a: While traveling to Korea from time to time, I am learning about the local culture from the locals.    
     furnish A with B | A에게 B를 공급하다:
+        1:
+            q: 나는 내 가게를 새로운 상품으로 꾸몄다. 
+            a: I furnished my store with new products.
+        2:    
+            q: 우리 회사는 최신 기술로 사무실을 꾸미고 있다. 
+            a: Our company is furnishing the office with the latest technology.
+        3:    
+            q: 그 레스토랑은 고급 와인으로 메뉴를 꾸몄다. 
+            a: The restaurant is furnished with a menu featuring high-end wines.
+        4:    
+            q: 그 공장은 최신 장비로 생산 라인을 꾸미고 있다. 
+            a: The factory is furnishing the production line with state-of-the-art equipment.
+        5:    
+            q: 우리 학교는 학생들을 최신 교육 자료로 꾸미고 있다. 
+            a: Our school is furnishing students with the latest educational materials.
+        6:    
+            q: 이 호텔은 고급 침구와 욕실 용품으로 객실을 꾸미고 있다. 
+            a: This hotel is furnishing rooms with luxury bedding and bathroom amenities.
+        7:    
+            q: 그 상점은 고객에게 다양한 옵션으로 꾸미고 있다. 
+            a: The shop is furnishing customers with a variety of options.
+        8:    
+            q: 우리 건물은 최신 안전 시스템으로 꾸며져 있다. 
+            a: Our building is furnished with the latest safety systems.
+        9:    
+            q: 그 영화관은 최신 영화로 상영 일정을 꾸미고 있다. 
+            a: The movie theater is furnishing the screening schedule with the latest movies.
+        10:    
+            q: 그 호수는 다양한 수상 스포츠 장비로 꾸며져 있다. 
+            a: The lake is furnished with a variety of water sports equipment.    
+    
     get along | 전진하다, 성공하다, 살아가다:
+        1:
+            q: 우리 가족은 서로 잘 지내고 있어요.
+            a: My family gets along well with each other.
+        2:
+            q: 학교에서 친구들과 잘 지낼 수 있어서 좋아요.
+            a: I like being able to get along with my friends at school.
+        3:
+            q: 그녀는 모든 사람들과 잘 지낼 수 있는 사람이에요.
+            a: She is someone who can get along with everyone.
+        4:
+            q: 이웃들과 잘 지내는 것은 삶의 질을 높일 수 있는 방법 중 하나입니다.
+            a: Getting along with your neighbors can be one way to improve your quality of life.
+        5:
+            q: 나는 나의 상사와 잘 지내고 있어요.
+            a: I am getting along well with my boss.
+        6:
+            q: 그들은 서로 싸우지 않고 잘 지내고 있어요.
+            a: They are getting along without fighting.
+        7:
+            q: 이 팀에서는 모두가 서로 잘 지내고 있어요.
+            a: In this team, everyone is getting along well with each other.
+        8:
+            q: 다른 문화와 잘 지내는 것은 굉장히 중요한 기술입니다.
+            a: Getting along with different cultures is a very important skill.
+        9:
+            q: 그들은 처음 만났을 때부터 서로 잘 지냈어요.
+            a: They got along well from the first time they met.
+        10:
+            q: 나는 새로운 사람들과 잘 지내는 것을 좋아해요.
+            a: I enjoy getting along with new people.    
     get back | 돌아오다:
+        1:
+            q: 우리가 일주일 후에 다시 만날 수 있을까요?
+            a: Can we get back together in a week?
+        2:
+            q: 제가 기억해낼 때 바로 연락드릴게요.
+            a: I'll get back to you as soon as I remember.
+        3:
+            q: 그 일을 끝내고 나서 다시 연락할게요.
+            a: I'll get back to you after I finish that task.
+        4:
+            q: 그 회사에서 제안을 고려해 본 후에 다시 연락 드릴게요.
+            a: I'll get back to you after considering the proposal from that company.
+        5:
+            q: 몇 시간 후에 다시 전화해 볼까요?
+            a: Shall we get back on the phone in a few hours?
+        6:
+            q: 제가 조금 더 알아보고 다시 연락 드릴게요.
+            a: I'll get back to you after I look into it a bit more.
+        7:
+            q: 그것을 검토한 후에 다시 연락 드릴게요.
+            a: I'll get back to you after reviewing that.
+        8:
+            q: 지난 주말에 만난 친구와 다음 주말에 다시 만날 예정입니다.
+            a: I'm getting back together with a friend I met last weekend next weekend.
+        9:
+            q: 그 일을 처리한 후에 다시 연락할게요.
+            a: I'll get back to you after dealing with that matter.    
     get away | 가버리다:
+        1:
+            q: 오늘 일이 너무 많아서 조금 휴식을 취하고 싶어요. 
+            a: I want to get away from all the work today and take a little break.
+        2:    
+            q: 휴가 기간 동안 해외여행을 계획하고 있어요. 
+            a: I'm planning to get away for a trip abroad during my vacation.
+        3:    
+            q: 집에서 일하기 너무 지겨워서 카페로 떠나려고 해요. 
+            a: I'm thinking about getting away from home and working at a cafe because it's too boring here.
+        4:    
+            q: 시끄러운 도시에서 벗어나서 조용한 자연 속에서 휴식을 취하고 싶어요. 
+            a: I want to get away from the noisy city and take a rest in peaceful nature.
+        5:    
+            q: 요즘 스트레스가 많아서 집에서 벗어나서 스파에서 마사지를 받으려고 해요. 
+            a: I want to get away from home and get a massage at a spa to relieve stress.    
     get in touch with | ∼과 접촉 하다:
+        1:
+            q: 너희 친구한테 어떻게 연락할 수 있어? 
+            a: How can I get in touch with your friend?
+        2:
+            q: 나중에 연락할게. 
+            a: I'll get in touch later.
+        3:
+            q: 의견을 나누고 싶으면 연락해. 
+            a: Get in touch if you want to share your opinion.
+        4:
+            q: 회사에 문의하려면 어디로 연락해야 하나요? 
+            a: Where should I get in touch to contact the company?
+        5:
+            q: 나중에 다시 연락할게요. 
+            a: I'll get in touch again later.
+        6:
+            q: 이메일로 연락하는 것이 좋겠어요. 
+            a: It would be better to get in touch by email.
+        7:
+            q: 연락이 안 되면 메시지를 보내주세요. 
+            a: If I can't get in touch, please send a message.
+        8:
+            q: 연락처를 알고 있으면 알려주세요. 
+            a: Please let me know if you have the contact information.
+        9:
+            q: 카카오톡으로 연락할 수 있어요? 
+            a: Can I get in touch via KakaoTalk?
+        10:
+            q: 연락처가 변경되었을 경우 알려주세요. 
+            a: Please let me know if your contact information has changed.    
     get off | 내리다 (차, 말 등):
+        1:
+            q: 지하철에서 내려야 해. 
+            a: I need to get off at the subway station.
+        2:
+            q: 시내버스에서 내려주세요. 
+            a: Please let me get off the city bus.
+        3:
+            q: 비행기에서 내려야 하는데 언제쯤 도착할까요? 
+            a: I need to get off the plane, when will we arrive?
+        4:
+            q: 버스에서 내리는데 도와줄 수 있나요? 
+            a: Can you help me get off the bus?
+        5:
+            q: 지금 내려야 할 시간이에요. 
+            a: It's time for me to get off now.
+        6:
+            q: 목적지에서 내려서 근처 호텔로 걸어갈 거에요. 
+            a: I'll get off at my destination and walk to a nearby hotel.
+        7:
+            q: 지금 열차에서 내려야 하는데, 다음 역이 언제쯤이에요? 
+            a: I need to get off the train now, when is the next station?
+        8:
+            q: 마지막 정류장에서 내려야 합니다. 
+            a: I need to get off at the last stop.
+        9:
+            q: 버스가 멈추면 내려야 해요. 
+            a: I need to get off when the bus stops.
+        10:
+            q: 이번 역에서 내려야 해요. 
+            a: I need to get off at this station.    
     get on | 타다:
+        1:
+            q: 지하철에 타려면 어디로 가야 하나요? 
+            a: Where do I need to go to get on the subway?
+        2:
+            q: 시내버스에 타기 전에 승차권을 사야해. 
+            a: I need to buy a ticket before getting on the city bus.
+        3:
+            q: 비행기 탑승 게이트는 어디인가요? 
+            a: Where is the boarding gate for the airplane?
+        4:
+            q: 다음 버스에 타면 되겠죠? 
+            a: I guess I can get on the next bus, right?
+        5:
+            q: 시내 전철에 타려면 이쪽으로 오세요. 
+            a: Come this way to get on the city subway.
+        6:
+            q: 택시에 타서 거기로 가주세요. 
+            a: Please let me get on the taxi and go there.
+        7:
+            q: 버스 정류장에서 버스를 기다리다가 탑승했어요. 
+            a: I waited for the bus at the bus stop and got on it.
+        8:
+            q: 지금 탑승해도 괜찮나요? 
+            a: Is it okay if I get on now?
+        9:
+            q: 지금 기차에 타고 있어요. 
+            a: I'm currently getting on the train.
+        10:
+            q: 트럭에 짐을 실어 타고 가려고 해요. 
+            a: I'm going to load my luggage onto the truck and get on it.    
     get over | 회복하다, 극복하다:
+        1:
+            q: 최근 헤어졌는데, 어떻게 너를 잊어야 할까요?
+            a: How can I get over you after recently breaking up?
+        2:
+            q: 나쁜 습관을 버리려면 어떻게 해야 할까요?
+            a: How can I get over bad habits?
+        3:
+            q: 새로운 일에 도전하는 두려움을 어떻게 극복할 수 있을까요?
+            a: How can I get over the fear of trying new things?
+        4:
+            q: 이별에 대한 슬픔을 어떻게 이겨낼 수 있을까요?
+            a: How can I get over the sadness of a breakup?
+        5:
+            q: 실패를 겪은 후에 다시 자신감을 얻는 방법은 무엇인가요?
+            a: What is the way to get over the lack of confidence after experiencing failure?
+        6:
+            q: 나쁜 기억을 지우려면 어떻게 해야 할까요?
+            a: How can I get over bad memories?
+        7:
+            q: 불안감을 극복하려면 어떤 방법이 좋을까요?
+            a: What are some good ways to get over anxiety?
+        8:
+            q: 어떻게 하면 일상생활에서의 스트레스를 극복할 수 있을까요?
+            a: How can I get over stress in daily life?
+        9:
+            q: 이전 연인과 다시 친구가 되는 방법은 무엇인가요?
+            a: What is the way to get over and become friends with an ex-lover?
+        10:
+            q: 긴 시간 동안의 연인과 이별한 후에 새로운 사랑을 시작하는 방법은 무엇인가요?
+            a: What is the way to get over and start a new love after breaking up with a long-time lover?    
     get rid of | 제거하다:
+        1:
+            q: 집 안에서 냄새를 제거하려면 어떻게 해야 할까요?
+            a: How can I get rid of the smell inside my house?
+        2:
+            q: 이 옷에 묻은 얼룩을 제거하는 방법을 알고 싶어요.
+            a: I want to know how to get rid of the stain on this clothing.
+        3:
+            q: 머리에 있는 먼지와 쓰레기를 제거하는 방법은 무엇인가요?
+            a: What is the way to get rid of dust and debris on my hair?
+        4:
+            q: 생활 속에서 남아 있는 불필요한 물건들을 제거하는 방법을 알려주세요.
+            a: Please tell me the way to get rid of unnecessary items in daily life.
+        5:
+            q: 잘못된 생각이나 습관을 제거하고 싶어요. 어떻게 해야 할까요?
+            a: I want to get rid of wrong thoughts or habits. What should I do?
+        6:
+            q: 집안에 불필요한 물건들이 많아서 제거해야 하는데 어디서부터 시작해야 할까요?
+            a: There are many unnecessary items in my house that need to be removed. Where should I start?
+        7:
+            q: 이러한 독성 물질을 환경에서 제거해야 할 필요가 있습니다.
+            a: There is a need to get rid of such toxic substances from the environment.
+        8:
+            q: 낡은 가구를 제거하는 방법은 무엇인가요?
+            a: What is the way to get rid of old furniture?
+        9:
+            q: 제 생각에서 걱정거리를 제거하려면 어떻게 해야 할까요?
+            a: How can I get rid of worries from my thoughts?
+        10:
+            q: 이메일함에서 스팸 메일을 제거하는 방법을 알고 싶어요.
+            a: I want to know how to get rid of spam emails in my inbox.    
     get the better of | 이기다:
+        1:
+            q: 그는 항상 체스에서 상대방을 이기곤 한다.
+            a: He always gets the better of his opponents in chess.
+        2:
+            q: 나는 감정을 억누를 수 없어서 지배당해버렸다.
+            a: I couldn't help but let my emotions get the better of me.
+        3:
+            q: 그는 노력했지만 어려운 수학 문제를 해결하지 못했다.
+            a: Despite his efforts, the difficult math problem got the better of him.
+        4:
+            q: 그 팀은 챔피언십 게임에서 라이벌을 이기기로 결심했다.
+            a: The team was determined to get the better of their rivals in the championship game.
+        5:
+            q: 더위와 습기 때문에 나는 지배당해 쉬어야 했다.
+            a: The heat and humidity got the better of me, and I had to take a break.
+        6:
+            q: 영리한 형사는 항상 추적하는 범죄자들을 이길 수 있다.
+            a: The clever detective always manages to get the better of the criminals he pursues.
+        7:
+            q: 작은 규모에도 불구하고, 이전 챔피언을 이기는 '약자'들이 이겼다.
+            a: Despite their small size, the underdogs managed to get the better of the reigning champions.
     get the worst of | 지다:
+        1:
+            q: 축구팀은 폭우 속에서 경기를 해서 좋지 않은 상황이었다. 
+            a: The football team got the worst of the weather, playing in the pouring rain.
+        2:
+            q: 최선을 다해 노력했지만, 그녀는 거래에서 손해를 보고 작은 분배를 받게 되었다. 
+            a: Despite her best efforts, she got the worst of the deal and ended up with a smaller share.
+        3:    
+            q: 상대팀은 경기에서 지고 대패를 당했다. 
+            a: The opposing team got the worst of the match, losing by a landslide.
+        4:    
+            q: 어제 밤 그녀는 거실에서 잠을 자야했는데, 소파에서 자는 바람에 몸살을 앓았다. 
+            a: She got the worst of the sleeping arrangements last night and caught a cold from sleeping on the couch.
+        5:    
+            q: 우리 회사는 이번 경기에서 경쟁 업체에게 지는 바람에 큰 손실을 입었다. 
+            a: Our company got the worst of the competition in this game, resulting in a significant loss.
+        6:    
+            q: 나는 친구의 도움을 받으려고 했지만, 오히려 더 복잡한 일을 만들어 냈다. 
+            a: I tried to seek help from my friend, but ended up getting the worst of it and creating even more complications.
+        7:    
+            q: 그녀는 여행 가방을 팔려고 시도했지만, 정말 낮은 가격으로 팔아야 했다. 
+            a: She got the worst of the deal when selling her travel bag and had to sell it for a really low price.
+        8:    
+            q: 이번 시험에서 그는 전반적으로 성적이 좋았지만, 한 문제에서는 치명적인 실수를 했다. 
+            a: He got the worst of the exam by making a critical mistake on one question, despite doing well overall.
     get through | 끝내다:
+        1:
+            q: 나는 어려운 시간을 겪었지만, 끝내 그것을 극복했다. 
+            a: I got through a difficult time and finally overcame it.
+        2:    
+            q: 다음 회의까지 이 문제를 해결하는 데에는 어떻게든 시간을 내야 한다. 
+            a: We need to find a way to get through this issue before the next meeting.
+        3:    
+            q: 그녀는 영어 시험을 이겨내고 대학에 진학했다. 
+            a: She got through the English test and got into college.
+        4:    
+            q: 이 일이 끝나기까지는 엄청난 양의 작업을 해야 한다. 
+            a: We have a lot of work to get through before this project is finished.
+        5:    
+            q: 그는 대학교를 졸업하려면 많은 어려움을 극복해야 했다. 
+            a: He had to overcome many difficulties to get through college.
+        6:    
+            q: 시험을 잘 치르기 위해서는 꾸준한 연습이 필요하다. 
+            a: Consistent practice is necessary to get through the exam successfully.
+        7:    
+            q: 이번 주말은 많은 일들을 처리해야 할 것 같다. 
+            a: It seems like we have a lot to get through this weekend.
+        8:    
+            q: 건강 문제로 여행 계획을 취소해야 했다. 
+            a: We had to cancel our travel plans due to health issues, but we managed to get through it.
+        9:    
+            q: 그녀는 이전 회사에서의 업무에 대한 경험을 이용해 새로운 직장을 얻었다. 
+            a: She used her experience from her previous job to get through the interview and landed a new job.
+        10:    
+            q: 우리는 이번 달에 예산을 줄이는 방법을 찾아내야 한다. 
+            a: We need to find a way to get through this month with a smaller budget.
     get used to | ∼에 익숙해 지다:
+        1:
+            q: 새로운 도시에서 살기 시작하면서 처음에는 조금 어색했지만 이젠 이 도시에 적응했다. 
+            a: I got used to living in the new city, although it was a little awkward at first.
+        2:    
+            q: 여름에 모기에 물리는 것에 대해 귀찮아하다가, 지금은 그것에도 익숙해졌다. 
+            a: I used to be annoyed by getting bitten by mosquitoes in the summer, but now I've gotten used to it.
+        3:    
+            q: 새로운 스마트폰을 사용하는 것은 처음에는 어색했지만, 이제는 편리하게 사용할 수 있다. 
+            a: Using a new smartphone was awkward at first, but now I'm used to it and find it convenient.
+        4:    
+            q: 새로운 학교에서 시작하면서, 학교 생활에 익숙해지는 데에는 몇 주가 걸렸다. 
+            a: It took me a few weeks to get used to school life when I started at a new school.
+        5:    
+            q: 머리를 길게 자르면 처음에는 이상하게 느껴지지만, 얼마 지나지 않아 그것에 익숙해진다. 
+            a: Getting a haircut can feel strange at first, but you'll get used to it soon enough.
+        6:    
+            q: 내가 살고 있는 지역은 매년 겨울에 눈이 많이 오는데, 그것에 대해 나는 이제 완전히 익숙해졌다. 
+            a: I live in an area that gets a lot of snow every winter, and I'm now completely used to it.
+        7:    
+            q: 새로운 교사가 수업을 시작하면서, 학생들은 이제 그녀의 가르침에 익숙해졌다. 
+            a: The students have gotten used to the new teacher's style of teaching.
+        8:    
+            q: 내가 처음으로 운전을 배울 때에는 불안했지만, 지금은 그것에 대해 익숙해졌다. 
+            a: I was nervous when I first started learning to drive, but now I'm used to it.
+        9:    
+            q: 이 회사에서 일하면서, 나는 새로운 컴퓨터 시스템에 익숙해졌다. 
+            a: Working at this company, I got used to the new computer system.
+        10:    
+            q: 외국어를 배우기 시작하면서, 문법이나 단어의 발음 등에 대해 익숙해지는 데에는 시간이 걸린다. 
+            a: Starting to learn a foreign language takes time to get used to grammar, word pronunciation, etc.
     get well | 완쾌되다:
+        1:
+            q: 나의 친구가 병으로 몇 주간 치료를 받았다. 그러나 이제 그가 회복하고 있다. 
+            a: My friend received treatment for several weeks due to an illness, but now he is getting well.
+        2:    
+            q: 내가 살고 있는 지역에서는 봄에 꽃이 핀다. 그러나 나는 봄철에 알레르기를 가지고 있기 때문에 잘 되지 않았다. 
+            a: Flowers bloom in the spring where I live, but I don't get well in the spring because I have allergies.
+        3:    
+            q: 나는 새해 목표로 운동을 매일 하기로 결심했다. 운동을 시작한 후, 내 건강이 많이 나아졌다. 
+            a: I made a New Year's resolution to exercise every day. After starting to exercise, I got well and my health improved a lot.
+        4:    
+            q: 내가 방금 겪은 감기는 다소 심각했다. 그러나 의사가 처방한 약을 복용하면서 점점 회복하고 있다. 
+            a: The cold I just had was pretty serious, but I'm getting well by taking the medication prescribed by the doctor.
+        5:    
+            q: 우리 팀은 마지막 게임에서 큰 승리를 거뒀다. 선수들은 이제부터 쉬고 회복할 것이다. 
+            a: Our team won a big victory in the final game. The players will rest and get well from now on.
+        6:    
+            q: 내가 다니는 체육관은 새로운 운동 기구를 도입했다. 이제 더 많은 사람들이 건강해질 수 있다. 
+            a: The gym I go to has introduced new exercise equipment. Now more people can get well.
+        7:    
+            q: 지난 주말에 우리 가족은 바다로 여행을 갔다. 아이들은 휴식을 취하면서 건강해졌다. 
+            a: Last weekend, my family went on a trip to the beach. The children got well by taking a break.
+        8:    
+            q: 나는 최근에 업무 스트레스로 인해 건강이 좋지 않았다. 하지만 몇 주간 쉬고 나서, 이제 나는 건강해졌다. 
+            a: I haven't been well due to work stress recently. However, after taking a few weeks off, I'm getting well now.
+        9:    
+            q: 내가 살고 있는 지역에서는 겨울에 많은 사람들이 감기에 걸린다. 그러나 나는 항상 건강하게 유지하려고 노력한다. 
+            a: Many people catch a cold in the winter where I live. However, I always try to stay well.
     give away | 남에게 주어 버리다.:
+        1:
+            q: 나는 새 옷을 사서 기존 옷을 기부하기로 결심했다. 이제 그들은 기부 센터로 나가서 남들에게 나눠줄 것이다. 
+            a: I decided to buy new clothes and give away my old ones. Now they will go to a donation center and be given away to others.
+        2:    
+            q: 지난 주에는 우리 회사에서 무료로 책을 나눠줬다. 사람들은 많은 책을 가져갔다. 
+            a: Last week, our company gave away free books. People took a lot of books.
+        3:    
+            q: 나는 나의 친구에게 내 차를 양도하기로 결심했다. 그는 이제 그 차를 사용할 것이다. 
+            a: I decided to give away my car to my friend. He will now use that car.
+        4:    
+            q: 저는 저의 딸에게 예전에 썼던 자전거를 기증하기로 결심했습니다. 그녀는 이제 그 자전거를 가지고 놀 것입니다. 
+            a: I decided to give away my old bike to my daughter. She will now play with that bike.
+        5:    
+            q: 나는 자선 단체에 기부하기로 결심했다. 내가 기부한 돈은 독려 프로그램에 사용될 것이다. 
+            a: I decided to give away to a charity. The money I donated will be used for an encouragement program.
+        6:    
+            q: 나는 내 여행 블로그에서 상품을 하나 뽑아서 팬들에게 선물하기로 결심했다. 그들은 많은 응모를 했다. 
+            a: I decided to give away one prize on my travel blog to fans. They entered many times.
+        7:    
+            q: 나는 옛 친구에게 내 옛 선물을 선물하기로 결심했다. 그것은 이제 더 이상 필요하지 않기 때문이다. 
+            a: I decided to give away my old gift to an old friend. I don't need it anymore.
+        8:    
+            q: 학교에서는 가난한 학생들에게 교복을 무료로 나눠주고 있다. 이것은 그들이 더 많은 교육 기회를 가질 수 있게 해준다. 
+            a: The school is giving away uniforms for free to poor students. This will allow them to have more educational opportunities.
+        9:    
+            q: 나는 나의 친척에게 내가 필요없는 가구를 선물하기로 결심했다. 그것들은 이제 그녀의 집에서 사용될 것이다. 
+            a: I decided to give away furniture I don't need to my relative. They will now be used in her home.
+        10:
     give in | 제출하다, 항복하다.:
-
+        1:
+            q: 그녀와 논쟁하느라 지쳐 결국 굴복해서 그녀의 의견대로 하기로 했다.
+            a: I was so tired of arguing that I eventually gave in and let her have her way.
+        2:
+            q: 정부는 결국 시위대의 요구에 굴복하여 협상에 동의했다.
+            a: The government finally gave in to the protesters' demands and agreed to negotiate.
+        3:
+            q: 다이어트를 하는 동안 몇 주간 견디던 사라는 결국 그녀의 갈증을 억누르지 못하고 피자를 한 판 다 먹었다.
+            a: After weeks of dieting, Sarah gave in to her cravings and ate a whole pizza.
+        4:
+            q: 인질은 결국 납치범들의 요구에 굴복하여 요청한 정보를 제공했다.
+            a: The hostage eventually gave in to the demands of the kidnappers and provided them with the requested information.
 
 
