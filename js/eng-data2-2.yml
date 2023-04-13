@@ -5280,9 +5280,755 @@
             q: 매일 아침 적당한 운동복을 입고 운동을 하는 것이 건강에 좋아요. 
             a: It's good for your health to have on appropriate workout clothes and exercise every morning.    
     have one’s own way | 마음대로 하다:
+        1:
+            q: 어제 우리 아들은 엄마에게 항상 주말에 영화를 보러 가자고 하면서 자기의 방법대로 결정하려고 했어.
+            a: Yesterday, our son kept insisting on going to the movies on weekends and tried to have his own way with his mom.
+        2:
+            q: 난 내일 회의 때 얘기할 게 많아서 그냥 다 내 노트에 써놓고 싶어.
+            a: I have my own way and want to write down everything in my notebook for tomorrow's meeting.
+        3:
+            q: 그녀는 자신의 방식으로 문제를 해결하고 싶어하며, 다른 사람들의 의견을 듣지 않는다.
+            a: She wants to have her own way of solving problems and doesn't listen to other people's opinions.
+        4:
+            q: 내일 일정은 꼭 이렇게 하고 싶어요. 제 방식대로 진행할게요.
+            a: I want to do the schedule like this tomorrow. I will have my own way to carry it out.
+        5:
+            q: 그녀는 항상 자기가 좋아하는 것을 선택하고, 자기만의 방식대로 살아간다.
+            a: She always chooses what she likes and lives her life in her own way.
+        6:
+            q: 나는 결혼식에서 드레스를 입는 것보다 바지를 입고 출석하는 게 더 나아요. 제 방식대로 하게 해주세요.
+            a: I prefer to wear pants instead of a dress to the wedding. Please let me have my own way.
+        7:
+            q: 그들은 자신들의 비전과 목표를 향해 자신만의 방식으로 나아간다.
+            a: They go their own way towards their vision and goals.
+        8:
+            q: 저는 항상 제 자신의 판단을 믿고, 자기만의 방식대로 살아가려고 노력해요.
+            a: I always trust my own judgment and strive to live my life in my own way.
+        9:
+            q: 그는 늘 자기의 의견을 밀어붙이고, 자신만의 방식대로 일을 처리한다.
+            a: He always pushes his own opinions and deals with things in his own way.
+        10:
+            q: 저는 자기만의 방식대로 살고 싶어요. 다른 사람들의 시선에 휘둘리지 않을게요.
+            a: I want to live my life in my own way. I won't be swayed by other people's opinions.    
+    have time off | 쉬다.:
+        1:
+            q: 오늘은 휴가를 가지고 있어서 쇼핑을 갈 거야.
+            a: I have time off today, so I'm going shopping.
+        2:
+            q: 내일은 일정이 없어서 친구들과 함께 놀 수 있을 거야.
+            a: I have time off tomorrow, so I can hang out with my friends.
+        3:
+            q: 프로젝트를 끝내서 드디어 시간이 남았어. 오랜만에 독서를 할 시간이 있어.
+            a: I have time off now that I've finished the project. I have time to read, which I haven't done in a while.
+        4:
+            q: 오늘은 일찍 퇴근해서 운동할 시간이 있을 거야.
+            a: I'm leaving work early today, so I have time off to exercise.
+        5:
+            q: 다음 주에는 여행을 가기 위해 몇 일간 휴가를 썼어.
+            a: I took some time off next week to go on a trip.
+        6:
+            q: 시험이 끝나고 나서 약간의 여유시간이 있어. 잠시 쉬어가면서 동아리 활동도 할 수 있을 거야.
+            a: After the exam, I have some time off. I can take a break and do some club activities.
+        7:
+            q: 이번 주말에는 일정이 없어서 가족들과 함께 시간을 보낼 계획이야.
+            a: I have time off this weekend, so I plan to spend time with my family.
+        8:
+            q: 새로운 일자리를 구하면서 일정이 약간 여유로워졌어.
+            a: I have some time off while I'm looking for a new job.
+        9:
+            q: 이번 달에는 일정이 그리 많지 않아서 운동도 하면서 여유있게 보낼 수 있을 거야.
+            a: I have time off this month, so I can relax and exercise.
+        10:
+            q: 오늘은 회사에서 출장을 가는 동안 이동 시간에 쉬면서 책을 읽을 시간이 있을 거야.
+            a: I have time off to read a book while I'm traveling for work today.    
+    hear from | ～로부터 소식을 듣다.:
+        1:
+            q: 최근에 친구들한테서 들은 소식이 없어서 걱정이야. 
+            a: I haven't heard from my friends recently, and I'm worried.
+        2:
+            q: 당신이 그녀에게서 소식을 들은 적이 있나요? 
+            a: Have you heard from her before?
+        3:    
+            q: 엄마는 언제 또 다시 우리에게 소식을 줄까요? 
+            a: When will mom hear from us again?
+        4:    
+            q: 그가 나에게서 소식을 들은 적이 있다고 했어. 
+            a: He said he heard from me before.
+        5:    
+            q: 지난 주에 그녀가 나에게서 연락을 해왔어요. 
+            a: She heard from me last week.
+        6:    
+            q: 최근에 그가 어떻게 지내고 있는지 소식을 들은 적이 없어. 
+            a: I haven't heard from him recently about how he's doing.
+        7:    
+            q: 그녀는 내게서 소식을 들은 후 바로 달려와서 나를 만났어. 
+            a: She came running to meet me after she heard from me.
+        8:    
+            q: 동생이 오랜만에 소식을 보내주었어. 
+            a: My younger brother sent me a message after a long time, I heard from him.
+        9:    
+            q: 우리는 서로 소식을 듣고 만나기로 약속했어. 
+            a: We promised to meet after hearing from each other.
+        10:    
+            q: 그녀는 이사한 후에도 가끔 소식을 주고받습니다. 
+            a: She still keeps in touch with me even after moving, we hear from each other occasionally.    
+    hear of | ~에 대해 듣다:
+        1:
+            q: 그 영화는 들어본 적이 있어?
+            a: Have you heard of that movie before?
+        2:
+            q: 최근에 어떤 일이 있었는지 들어봤어?
+            a: Have you heard of anything that happened recently?
+        3:
+            q: 그 새 식당에 대해서는 들어본 적 없는데, 가볼까?
+            a: I haven't heard of that new restaurant. Do you want to go check it out?
+        4:
+            q: 너 그 새 음반 들어봤어?
+            a: Have you heard of the new album?
+        5:
+            q: 그녀는 매우 유명해. 들어봤지?
+            a: She's very famous. Have you heard of her?
+        6:
+            q: 이 도시에서는 그 회사를 잘 알고 있어. 들어본 적 있어?
+            a: They know that company well in this city. Have you heard of it?
+        7:
+            q: 최근에 그 영화를 보고 싶다는 친구의 이야기를 들었어.
+            a: I heard my friend talk about wanting to see that movie recently.
+        8:
+            q: 이 교수님은 수업을 잘 가르친다고 들어봤어.
+            a: I heard that this professor teaches well.
+        9:
+            q: 그 기업은 최근에 많은 돈을 벌었다는 소문을 들었어.
+            a: I heard a rumor that the company made a lot of money recently.
+        10:
+            q: 나는 그 새로운 앱에 대해 얼마나 많은 것을 알고 있는지 궁금해. 들어봤어?
+            a: I'm curious about how much I know about that new app. Have you heard of it?    
     
+    help oneself to | ～을 마을대로 먹다:
+        1:
+            q: 음식이 맛있어 보여. 조금 가져가도 되나요?
+            a: The food looks delicious. Can I help myself to a little?
+        2:
+            q: 이 꽃은 가져가도 되나요?
+            a: Can I help myself to this flower?
+        3:
+            q: 시식하러 왔어요. 이 머핀 좀 드려도 될까요?
+            a: I came to try some food. Can I help myself to this muffin?
+        4:
+            q: 물 좀 드셔도 되겠어요?
+            a: Can you help yourself to some water?
+        5:
+            q: 이 커피는 무료인가요?
+            a: Is this coffee free? Can I help myself to it?
+        6:
+            q: 파티에 왔는데 음식을 먹을 게 없어요.
+            a: I came to the party, but there's no food. Can I help myself to some?
+        7:
+            q: 이 책 좀 빌려도 될까요?
+            a: Can I help myself to borrow this book?
+        8:
+            q: 저기, 그 과자 가져와도 되겠어요?
+            a: Excuse me, can I help myself to those cookies over there?
+        9:
+            q: 이 스낵은 누구 것인가요?
+            a: Whose snack is this? Can I help myself to it?
+        10:
+            q: 이 옷이 내 사이즈인 것 같아. 좀 입어봐도 될까?
+            a: This clothes look like my size. Can I help myself to try them on?    
+    hit upon | (우연히) 눈에 띄다, 생각나다:
+        1:
+            q: 어떻게 이런 좋은 아이디어를 떠올리셨나요?
+            a: How did you hit upon such a great idea?
+        2:
+            q: 그가 그런 생각을 한 것은 어떻게 떠올린 거죠?
+            a: How did he hit upon such a thought?
+        3:
+            q: 그녀는 창의력이 매우 뛰어나서 항상 좋은 생각을 내놓는다.
+            a: She is very creative and always hits upon great ideas.
+        4:
+            q: 난 어떻게 이런 생각을 떠올리지 못했을까?
+            a: How did I not hit upon such an idea?
+        5:
+            q: 회의 중에 이 아이디어를 떠올렸다.
+            a: I hit upon this idea during the meeting.
+        6:
+            q: 나는 이 아이디어를 떠올리는 데 어려움을 겪었다.
+            a: I had difficulty hitting upon this idea.
+        7:
+            q: 그는 이 문제의 해결책을 떠올리는 데 시간이 오래 걸렸다.
+            a: It took him a long time to hit upon the solution to this problem.
+        8:
+            q: 그녀는 새로운 방법을 떠올리는 데 능숙하다.
+            a: She is skilled at hitting upon new ways.
+        9:
+            q: 나는 어떻게 이 문제를 해결할 수 있을까 고민하다가, 갑자기 좋은 아이디어가 떠올랐다.
+            a: I was thinking about how to solve this problem, and suddenly hit upon a great idea.
+        10:
+            q: 이번 실험에서는 우리가 예상했던 결과를 얻을 수 있을지 궁금하다.
+            a: I wonder if we will hit upon the expected results in this experiment.    
+    ill at ease | 불편한:
+        1:
+            q: 그녀는 그 낯선 상황에서 불안해 보였다.
+            a: She looked ill at ease in that unfamiliar situation.
+        2:
+            q: 그는 갑작스러운 변경으로 인해 불안해 보인다.
+            a: He appears ill at ease due to sudden changes.
+        3:
+            q: 나는 그들과 함께 있을 때 불안해지는 경향이 있다.
+            a: I tend to feel ill at ease when I am around them.
+        4:
+            q: 새로운 직장에서 처음 만난 사람들과 함께 식사를 할 때 불안해졌다.
+            a: I felt ill at ease when I had a meal with new people at my new workplace.
+        5:
+            q: 그는 그 자리에서 불안해 보였다.
+            a: He seemed ill at ease in that situation.
+        6:
+            q: 내가 그들에게 그 이야기를 했을 때, 그들은 불안해 보였다.
+            a: They looked ill at ease when I told them that story.
+        7:
+            q: 나는 의료진들과 함께 있을 때 불안해진다.
+            a: I become ill at ease when I am around medical staff.
+        8:
+            q: 그녀는 그 대답으로 인해 불안해졌다.
+            a: She became ill at ease because of that response.
+        9:
+            q: 그녀는 그들 앞에서 말하는 것에 불안해 보인다.
+            a: She looks ill at ease when speaking in front of them.
+        10:
+            q: 나는 높은 곳에서 내려다보면 불안해진다.
+            a: I feel ill at ease when looking down from a high place.    
+    in a hurry | 허둥 지둥:
+        1:
+            q: 그녀는 급하게 일어나서 출근했다.
+            a: She got up in a hurry and went to work.
+        2:
+            q: 나는 지금 시간이 없어서 서둘러야 한다.
+            a: I am short on time right now, so I need to do things in a hurry.
+        3:
+            q: 그들은 회의실로 서둘러 들어갔다.
+            a: They rushed into the conference room in a hurry.
+        4:
+            q: 지각하지 않기 위해서는 우리는 서둘러야 한다.
+            a: We need to hurry in order not to be late.
+        5:
+            q: 그들은 그렇게 급하게 일어나서 아침 식사를 거르고 출근했다.
+            a: They got up in such a hurry that they skipped breakfast and went to work.
+        6:
+            q: 그녀는 급하게 짐을 싸서 공항으로 뛰쳐나갔다.
+            a: She packed her bags in a hurry and rushed to the airport.
+        7:
+            q: 그는 오늘 중요한 회의가 있기 때문에 서둘러 나가야 한다.
+            a: He has an important meeting today, so he needs to hurry out.
+        8:
+            q: 우리는 그들을 찾기 위해 서둘러야 한다.
+            a: We need to hurry to find them.
+        9:
+            q: 그들은 서둘러 결정을 내려야 했다.
+            a: They had to make a decision in a hurry.
+        10:
+            q: 나는 급하게 집에 돌아가야 한다.
+            a: I have to go back home in a hurry.    
+    in a little while | 곧:
+        1:
+            q: 잠시 후에 다시 전화할게요.
+            a: I'll call you back in a little while.
+        2:
+            q: 내일 일찍 일어날 거예요. 잠시 후에 자야 해요.
+            a: I'll get up early tomorrow. I need to sleep in a little while.
+        3:
+            q: 너무 바쁘면 잠시 후에 다시 전화해줘.
+            a: If you're too busy, call me back in a little while.
+        4:
+            q: 기다려 주세요. 잠시 후에 바로 도착할 거예요.
+            a: Please wait. I'll arrive in a little while.
+        5:
+            q: 지금은 좀 바빠서 잠시 후에 연락할게요.
+            a: I'm a bit busy now, so I'll get in touch in a little while.
+        6:
+            q: 이 길을 따라 조금만 가면 바로 병원이 보일 거예요.
+            a: If you follow this road, you'll see the hospital in a little while.
+        7:
+            q: 영화가 곧 시작할 거예요. 잠시만 기다려 주세요.
+            a: The movie will start soon. Please wait a little while.
+        8:
+            q: 이번 주말에는 조금만 여유 있으면 놀러 가볼까 해요.
+            a: If I have a little free time this weekend, I might go out and have fun.
+        9:
+            q: 내일 시간을 조금만 내서 책을 읽어야 해요.
+            a: I need to make some time to read my book tomorrow, even if it's just for a little while.
+        10:
+            q: 오늘은 기분이 좋아서 잠시 후에 친구들과 함께 시간을 보내려고 해요.
+            a: I'm feeling good today, so I'm planning to spend some time with friends in a little while.    
+    in a measure | 어느정도:
+        1:
+            q: 그는 자신의 업적에 대해 조금은 불안해하는 편이다.
+            a: He is somewhat uneasy about his own accomplishments, in a measure.
+        2:
+            q: 이번 계획은 전체적으로 성공했다고 할 수 있지만, 일부 부분에서는 그렇지 않았다.
+            a: This project was successful overall, but not in a measure in some parts.
+        3:
+            q: 그 영화는 대중들에게는 매우 인기가 있지만, 비판가들에게는 그렇지 않다.
+            a: That movie is very popular among the public, but not in a measure among critics.
+        4:
+            q: 우리는 협력적으로 일하기로 약속했지만, 그 약속을 지키지 않았다.
+            a: We promised to work cooperatively, but not in a measure did we keep that promise.
+        5:
+            q: 그녀는 자신의 표현력이 부족한 것을 알고 있지만, 일부분에서는 그렇지 않다.
+            a: She knows that she lacks expressiveness, but not in a measure in some respects.
+        6:
+            q: 그 회사는 이번 분기에 이익을 올렸지만, 작년 대비 크게 증가하지는 않았다.
+            a: The company made a profit this quarter, but not in a measure compared to last year.
+        7:
+            q: 그 프로그램은 일부 사용자들에게는 유용하지만, 다른 사용자들에게는 그렇지 않다.
+            a: That program is useful to some users, but not in a measure to other users.
+        8:
+            q: 그녀의 목소리는 깊지 않지만, 일부분에서는 그렇지 않다.
+            a: Her voice is not deep, but not in a measure in some parts.
+        9:
+            q: 이 문제는 해결되었지만, 그 가치는 전혀 없었다.
+            a: This problem was solved, but not in a measure was it valuable.
+        10:
+            q: 그들의 노력은 일부분에서는 성과를 내지 못했지만, 전체적으로는 성공적이었다.
+            a: Their efforts didn't yield results in a measure in some parts, but overall, they were successful.    
+    in a sense | 어느 의미로는, 어느정도:
+        1:
+            q: 그 프로젝트는 어느 정도 성공했다고 볼 수 있어요. 
+            a: The project can be considered successful in a sense.
+        2:    
+            q: 그 영화는 어느 정도 슬픈 이야기를 담고 있어요. 
+            a: The movie tells a sad story in a sense.
+        3:    
+            q: 이 소설은 어느 정도 현실성이 있지만, 상상력에 기반해 쓰여졌어요. 
+            a: The novel has a certain level of realism but was written based on imagination in a sense.
+        4:    
+            q: 그 음악은 어느 정도 기분전환을 해줘요. 
+            a: The music provides some level of mood refreshment in a sense.
+        5:    
+            q: 그 회의는 어느 정도 제 시간에 끝났어요. 
+            a: The meeting ended on time to some extent in a sense.
+        6:    
+            q: 그 새는 어느 정도 멀리 날 수 있어요. 
+            a: The bird can fly some distance in a sense.
+        7:    
+            q: 그 연극은 어느 정도 경험을 공유하는 계기가 될 수 있어요. 
+            a: The play can be a means of sharing experiences to some extent in a sense.
+        8:    
+            q: 그 사람은 어느 정도 유능하게 일을 처리할 수 있어요. 
+            a: The person can handle tasks competently to some extent in a sense.
+        9:    
+            q: 그 방법은 어느 정도 효과가 있을 수 있어요. 
+            a: The method can have some level of effectiveness in a sense.
+        10:    
+            q: 그 상황에서는 어느 정도 타협이 필요할 것 같아요. 
+            a: Some level of compromise seems necessary in that situation in a sense.
+    in addition to | ～뿐만 아니라, 부가하여:
+        1:
+            q: 인생에서 건강한 식습관을 유지하는 것은 중요합니다. 운동뿐만 아니라 영양가 높은 음식을 먹는 것도 중요합니다.
+            a: Maintaining healthy eating habits is important in life. In addition to exercise, it is important to eat nutritious food.
+        2:
+            q: 그 회사는 새로운 기술을 도입하여 생산성을 향상시키기로 결정했습니다. 이에 추가로 직원들의 교육에도 투자할 예정입니다.
+            a: The company has decided to improve productivity by introducing new technology. In addition to this, they plan to invest in employee education.
+        3:
+            q: 이 책은 유익한 정보를 제공하는 것은 물론, 아름다운 그림들로 구성되어 있습니다. 추가로, 지식을 쉽게 이해할 수 있도록 적절한 설명이 담겨 있습니다.
+            a: This book is composed of beautiful illustrations as well as providing useful information. In addition to this, it contains appropriate explanations to make knowledge easy to understand.
+        4:
+            q: 저는 음악을 즐기는 것 외에도 그림 그리기를 좋아합니다. 또한, 새로운 것을 배우는 것도 좋아합니다.
+            a: Besides enjoying music, I like drawing. In addition to this, I also enjoy learning new things.
+        5:
+            q: 이번 주말에는 친구들과 함께 해외 여행을 갈 예정입니다. 추가로, 현지에서 맛있는 음식도 많이 먹을 예정입니다.
+            a: I am planning to go on a trip abroad with my friends this weekend. In addition to this, we will also eat a lot of delicious food in the local area.
+        6:
+            q: 제가 일하고 있는 회사는 제품의 디자인뿐만 아니라 기능도 중요하게 생각합니다. 추가로, 제품의 품질을 유지하기 위해 테스트도 자주 수행합니다.
+            a: The company I work for considers not only the design of the product, but also its functionality important. In addition to this, they frequently perform tests to maintain the quality of the product.
+        7:
+            q: 그는 매일 운동을 하고 영양가 높은 음식을 먹는 것 외에도 건강을 유지하기 위해 충분한 수면을 취합니다.
+            a: In addition to exercising daily and eating nutritious food, he gets enough sleep to maintain his health.
+        8:
+            q: 저는 봄과 가을에는 캠핑을 즐기는 편입니다. 추가로, 텐트를 치는 것 외에도 자연과 함께하는 활동들도 좋아합니다.
+            a: I enjoy camping in the spring and fall. In addition to setting up tents, I also enjoy activities in nature.    
+    in advance | 미리:
+        1:
+            q: 회의 전에 문서를 미리 보내 주시겠어요?
+            a: Could you send the document in advance before the meeting?
+        2:
+            q: 저는 비행기 탑승 3일 전에 항공편을 예약했습니다.
+            a: I booked my flight three days in advance of the departure.
+        3:
+            q: 축구 경기를 보러 가기 전에 미리 입장권을 예매해야 합니다.
+            a: You need to reserve the tickets in advance before going to see the soccer game.
+        4:
+            q: 학기가 시작되기 전에 학생들은 교재를 미리 준비해야 합니다.
+            a: Students should prepare the textbooks in advance before the semester starts.
+        5:
+            q: 콘서트에 가기 전에 미리 음반을 듣고 왔어요.
+            a: I listened to the album in advance before going to the concert.
+        6:
+            q: 비가 올 예정이기 때문에 행사를 일주일 앞당겨야 할 것 같아요.
+            a: We may need to move the event a week in advance due to the forecast of rain.
+        7:
+            q: 회의 일주일 전에 참석여부를 알려주시기 바랍니다.
+            a: Please let us know your attendance in advance of the meeting one week before.
+        8:
+            q: 저희 가족은 여행을 떠나기 전에 여행 일정을 미리 계획합니다.
+            a: My family plans the travel itinerary in advance before going on a trip.
+        9:
+            q: 출장을 가기 전에 여권 갱신을 미리 해야 합니다.
+            a: You need to renew your passport in advance before going on a business trip.
+        10:
+            q: 시험 전에 미리 복습을 해야 좋은 성적을 받을 수 있습니다.
+            a: You can get good grades by reviewing in advance before the exam.    
+    in any case | 어쨌든, 하여튼:
+        1:
+            q: 오늘 일정을 모두 소화했으니 내일 출장을 가도 괜찮겠어요?
+            a: In any case, it's better to confirm with your manager before making any travel plans.
+        2:
+            q: 이번 프로젝트에서 실패했지만 다음 기회에는 더 잘 할 수 있을 거에요.
+            a: In any case, the experience you gained from this project will be valuable in the future.
+        3:
+            q: 날씨가 좋지 않지만, 오늘 해야할 일이 많아요.
+            a: In any case, it's important to stay focused and get your work done, despite the bad weather.
+        4:
+            q: 지금부터 하루 종일 회의가 예정되어 있어요.
+            a: In any case, make sure to bring all necessary materials and be prepared for a long day.
+        5:
+            q: 제가 토요일에 만날 친구가 있어요. 그런데 그날 비가 올 것 같아요.
+            a: In any case, it's a good idea to have a backup plan in case the weather doesn't cooperate.
+        6:
+            q: 이 일을 진행하기 전에 상사의 승인이 필요할 것 같아요.
+            a: In any case, it's important to get approval from your supervisor before proceeding.
+        7:
+            q: 이 회사의 문제점은 무엇인가요?
+            a: In any case, there are always areas for improvement in any organization.
+        8:
+            q: 내일 할 일이 많은데 오늘 잠이 안 와요.
+            a: In any case, try to relax and get as much rest as possible to prepare for the busy day ahead.
+        9:
+            q: 무슨 일이 있어도 가족은 가족이에요.
+            a: In any case, family should always come first no matter what.
+        10:
+            q: 이번에는 실패할 수도 있겠지만 노력하지 않으면 아무것도 얻을 수 없어요.
+            a: In any case, it's important to try your best and learn from any mistakes that may happen.    
+    in fact | 사실상:
+        1:
+            q: 나는 일주일 전에 교통사고를 당했어요. 사고는 작은 것이었지만, 제 몸은 아직 아픕니다. 
+            a: I was in a traffic accident a week ago. The accident was minor, but my body still hurts.
+        2:
+            q: 그 사람은 자신의 능력을 과소평가합니다. 그래서 그는 항상 자신감이 없어 보입니다. 
+            a: That person underestimates their abilities, so they always seem lacking in confidence.
+        3:
+            q: 우리가 생각하는 것보다 더 많은 일이 일어나고 있습니다. 사실, 세상은 우리가 상상하는 것보다 훨씬 더 복잡합니다. 
+            a: More things are happening than we think. In fact, the world is much more complex than we imagine.
+        4:
+            q: 이 회사는 우리가 생각하는 것보다 더 많은 돈을 벌고 있습니다. 사실, 이 회사는 산업에서 가장 성장하고 있는 회사 중 하나입니다. 
+            a: This company is making more money than we think. In fact, it is one of the fastest-growing companies in the industry.
+        5:
+            q: 제가 제출한 보고서에는 몇 가지 오류가 있습니다. 사실, 나는 이번 달에 업무에 많은 어려움을 겪고 있습니다. 
+            a: There are some errors in the report I submitted. In fact, I have been facing a lot of difficulties at work this month.
+        6:
+            q: 그들은 자신들이 수행하는 일에 대해 매우 자신감이 있습니다. 사실, 그들은 이 일을 잘하고 있습니다. 
+            a: They are very confident about what they are doing. In fact, they are doing this job well.
+        7:
+            q: 이번 주말에는 비가 올 가능성이 매우 높습니다. 사실, 기상청은 호우경보까지 내리고 있습니다. 
+            a: There is a high probability of rain this weekend. In fact, the weather agency has issued a heavy rain warning.
+        8:
+            q: 이 지역은 과거에는 가난했습니다. 그러나 지금은 매우 번영하고 있습니다. 사실, 많은 관광객들이 이 지역을 방문합니다. 
+            a: This area used to be poor, but now it is very prosperous. In fact, many tourists visit this area.
+        9:
+            q: 저는 대학교를 졸업한 후에 바로 일을 시작했습니다. 사실, 저는 아직도 같은 회사에서 근무하고 있습니다. 
+            a: I started working immediately after graduating from college. In fact, I am still working for the same company.
+        10:
+            q: 그 회사는 경쟁사보다 더 많은 제품을 생산합니다. 사실, 그들은 이 업종에서 가장 큰 시장 점유율을 가지고 있습니다. 
+            a: That company produces more products than its competitors. In fact, they have the largest    
+    in general | 대개:
+        1:
+            q: 이 프로그램은 일반적으로 모든 운영 체제에서 작동합니다.
+            a: This program works on all operating systems in general.
+        2:    
+            q: 일반적으로, 겨울은 매우 추워요.
+            a: In general, winters are very cold.
+        3:    
+            q: 이 서적은 일반적으로 유용하지 않아요.
+            a: This book is not generally useful.
+        4:    
+            q: 일반적으로 고양이는 개보다 더 독립적이다.
+            a: In general, cats are more independent than dogs.
+        5:    
+            q: 일반적으로, 인생에서 얻는 경험은 매우 중요합니다.
+            a: In general, the experiences gained in life are very important.
+        6:    
+            q: 일반적으로, 선생님들은 학생들의 학습에 노력합니다.
+            a: In general, teachers work hard for their students' learning.
+        7:    
+            q: 일반적으로, 토요일은 휴일입니다.
+            a: In general, Saturday is a holiday.
+        8:    
+            q: 일반적으로, 당신은 영어를 사용해야합니다.
+            a: In general, you should use English.
+        9:    
+            q: 일반적으로, 운동은 건강에 좋습니다.
+            a: In general, exercise is good for health.    
+    in need | 어려움에 처한, 궁핍한:
+        1:
+            q: 요즘 제가 정말 어려움에 처하다고 느끼는 것은 시간이에요. 
+            a: Currently, what I feel in need of the most is time.
+        2:
+            q: 그녀는 궁핍한 상황이라서 우리가 도와줘야 해. 
+            a: She's in a situation where she's in need, so we need to help her.
+        3:
+            q: 이 지역의 사람들은 어려움에 처한 상황에 처해있다. 
+            a: The people in this area are in need.
+        4:
+            q: 나는 어려움에 처한 동생을 도와주고 싶다. 
+            a: I want to help my in-need younger sibling.
+        5:
+            q: 어려움에 처한 사람들을 위해 봉사활동을 하는 것은 좋은 일이다. 
+            a: Volunteering for those in need is a good thing to do.
+        6:
+            q: 어려움에 처한 이웃을 돕기 위해 우리는 함께 모금활동을 했다. 
+            a: We did a fundraising campaign together to help our in-need neighbor.
+        7:
+            q: 그들은 어려움에 처한 사람들에게 음식과 의료 서비스를 제공하는 비영리 단체를 운영하고 있다. 
+            a: They run a nonprofit organization that provides food and medical services to those in need.
+        8:
+            q: 어려움에 처한 이웃에게 희생없는 나눔의 마음을 전하자. 
+            a: Let's show a selfless spirit of sharing to our in-need neighbor.
+        9:
+            q: 이 도시에는 궁핍한 가정들을 위한 구호처가 있다. 
+            a: This city has a shelter for in-need families.    
+    in particular | 특히:
+        1:
+            q: 오늘 여행할 장소는 특히 무엇인가요?
+            a: What is the particular place you want to travel to today?
+        2:
+            q: 이 제품의 특히 좋은 점은 무엇인가요?
+            a: What is particularly good about this product?
+        3:
+            q: 그 회사의 특히 인기 있는 제품은 무엇인가요?
+            a: What is the particularly popular product of that company?
+        4:
+            q: 그들은 특히 열심히 일했습니다.
+            a: They worked particularly hard.
+        5:
+            q: 이 책의 특히 인상 깊은 부분은 무엇인가요?
+            a: What is the particularly impressive part of this book?
+        6:
+            q: 이 도시의 특히 아름다운 곳은 어디인가요?
+            a: What is the particularly beautiful place in this city?
+        7:
+            q: 그 영화는 특히 감동적이었습니다.
+            a: That movie was particularly moving.
+        8:
+            q: 그 작가는 특히 대중적인 작품을 썼습니다.
+            a: The writer particularly wrote popular works.
+        9:
+            q: 그들의 특히 유명한 공연은 무엇인가요?
+            a: What is their particularly famous performance?
+        10:
+            q: 이 지역의 특히 맛있는 음식은 무엇인가요?
+            a: What is the particularly delicious food in this area?    
+    in place of | ～의 대신에:
+        1:
+            q: 다이어트를 위해 디저트 대신 과일을 먹으려고 한다.
+            a: I'm trying to eat fruits in place of dessert for my diet.
+        2:
+            q: 회사에서는 온라인 미팅을 하는 것이 대면 미팅 대신 될 수 있다.
+            a: In the company, online meetings can be in place of face-to-face meetings.
+        3:
+            q: 지하철을 타는 대신 자전거를 이용하기로 했다.
+            a: I decided to use a bicycle in place of taking the subway.
+        4:
+            q: 오늘 수업에 늦어버렸으니, 오늘 과제를 내일 제출하기로 했다.
+            a: Since I was late for class today, I decided to submit today's assignment in place of tomorrow.
+        5:
+            q: 아이들의 건강을 생각하여, 주말에는 게임 대신 야외 활동을 하도록 권장한다.
+            a: For children's health, it is recommended to do outdoor activities in place of games on weekends.
+        6:
+            q: 담배를 끊기 위해 껌을 씹는 것이 도움이 된다.
+            a: Chewing gum can be helpful in place of smoking.
+        7:
+            q: 임시로 일하는 직원이 필요하다면, 나는 나의 친구를 대신 추천할 수 있다.
+            a: If a temporary employee is needed, I can recommend my friend in place of me.
+        8:
+            q: 교환학생 프로그램에 참여하면, 자신의 나라 대신 다른 나라에서 경험을 쌓을 수 있다.
+            a: Participating in the exchange student program can give you an experience in place of your own country in another country.
+        9:
+            q: 요즘은 책 대신 전자책을 읽는 사람이 많다.
+            a: Nowadays, many people read e-books in place of books.
+        10:
+            q: 출장이 빈번해서 가족과 함께하는 시간이 부족하다면, 휴가를 내는 것이 좋다.
+            a: If you have frequent business trips and lack of time with your family, taking a vacation can be a good option in place of it.    
+    in private | 다른 사람이 없는 데서:
+        1:
+            q: 우리는 다른 사람이 없는 상황에서 조용히 즐길 수 있는 취미를 가져야 한다.
+            a: We should have hobbies that can be enjoyed quietly in private.
+        2:
+            q: 그들은 다른 사람이 없는 모임에서만 이야기를 나누는 것을 좋아합니다.
+            a: They like to discuss things only in private gatherings.
+        3:
+            q: 다른 사람이 없는 자리에서는 대화를 자유롭게 나눌 수 있습니다.
+            a: You can freely talk in private settings.
+        4:
+            q: 그들은 다른 사람이 없는 모임에서만 서로의 비밀을 털어놓습니다.
+            a: They only reveal each other's secrets in private gatherings.
+        5:
+            q: 저는 다른 사람이 없는 상황에서는 이야기를 잘 합니다.
+            a: I am good at talking in private situations.
 
-
+    in proportion as＋절 | ~에 비례하여:
+        1:
+            q: 나의 능력이 향상될 때마다 나는 새로운 도전을 받을 수 있게 된다.
+            a: I am able to take on new challenges in proportion as my abilities improve.
+        2:
+            q: 그 회사의 성장은 시장의 성장에 비례한다.
+            a: The growth of that company is in proportion as the market grows.
+        3:
+            q: 그들의 건강 상태는 그들이 운동을 하는 시간에 비례한다.
+            a: Their health is in proportion as they exercise.
+        4:
+            q: 그의 소득은 그의 능력에 비례한다.
+            a: His income is in proportion as his abilities.
+        5:
+            q: 나의 생각은 그가 말하는 것과 비례한다.
+            a: My thoughts are in proportion as he speaks.
+        6:
+            q: 시간이 지날수록 그의 지위는 더욱 높아진다.
+            a: His position rises in proportion as time goes by.
+        7:
+            q: 그의 성과는 그가 투자한 노력에 비례한다.
+            a: His achievements are in proportion as he invests his efforts.
+        8:
+            q: 그들의 자랑스러운 순간은 그들이 실력을 쌓아올린 만큼 더욱 값진 것이다.
+            a: Their proud moments are in proportion as they have built up their skills.
+        9:
+            q: 나의 학업 성취도는 내 노력에 비례한다.
+            a: My academic achievement is in proportion as my effort.
+        10:
+            q: 성공의 가능성은 당신의 노력에 비례한다.
+            a: The possibility of success is in proportion as your effort.    
+    in pursuit of | ～을 추구하여:
+        1:
+            q: 학문적 성취를 위해 지식을 추구해야 한다.
+            a: We should pursue knowledge in order to achieve academic success.
+        2:
+            q: 그녀는 행복을 위해 자신의 꿈을 추구했다.
+            a: She pursued her dreams for the sake of happiness.
+        3:
+            q: 이 회사는 고객 만족을 위해 지속적인 향상을 추구하고 있다.
+            a: This company is pursuing continuous improvement for customer satisfaction.
+        4:
+            q: 그는 자신의 목표를 달성하기 위해 노력하고 있다.
+            a: He is striving to achieve his goals.
+        5:
+            q: 이 스포츠 선수는 승리를 위해 열심히 훈련하고 있다.
+            a: This athlete is training hard in pursuit of victory.
+        6:
+            q: 우리는 자연을 보호하고 지속가능한 발전을 추구해야 한다.
+            a: We should protect the environment and pursue sustainable development.
+        7:
+            q: 그는 성공적인 삶을 살기 위해 교육을 추구했다.
+            a: He pursued education for a successful life.
+        8:
+            q: 이 작가는 창의적인 작품을 만들기 위해 자신의 비전을 추구하고 있다.
+            a: This writer is pursuing their vision to create creative works.
+        9:
+            q: 이 과학자는 지식을 확장하고 새로운 발견을 하기 위해 연구를 계속 추구하고 있다.
+            a: This scientist continues to pursue research to expand knowledge and make new discoveries.
+        10:
+            q: 그들은 공정한 사회와 인권을 위해 싸우고 있다.
+            a: They are fighting for a just society and human rights.    
+    inquire after | ～의 안부를 묻다:
+        1:
+            q: 요즘은 어떻게 지내시나요?
+            a: How are you doing these days?
+        2:
+            q: 그가 병원에 있는지 알고 계신가요?
+            a: Do you know if he's in the hospital? I want to inquire after him.
+        3:
+            q: 그들은 지난 회의 이후 어떤 조치를 취했는지 물어봐야 할 것 같아요.
+            a: I think we need to inquire after what actions they have taken since the last meeting.
+        4:
+            q: 그가 안부를 물어봤다고 전해주세요.
+            a: Please convey to him that I inquired after his well-being.
+        5:
+            q: 나중에 다시 전화해서 그에게 더 자세한 정보를 물어봐야겠어.
+            a: I need to call him back later to inquire after more detailed information.
+        6:
+            q: 제품 배송 상황을 물어봤더니 내일 도착할 거라고 했어요.
+            a: When I inquired after the shipping status of the product, they said it will arrive tomorrow.
+        7:
+            q: 그녀가 왜 늦었는지 궁금해서 전화해서 물어봤어요.
+            a: I called her to inquire after why she was late.
+        8:
+            q: 상태를 물어봤을 때, 그녀는 좋다고 대답했어요.
+            a: When I inquired after her condition, she replied that she was doing well.
+        9:
+            q: 그 회사에서 일하는 친구가 어떤 사람인지 물어봤는데, 칭찬해 주었어요.
+            a: I inquired after a friend who works at that company, and he spoke highly of her.
+        10:
+            q: 이메일로 문의하면 어떤 답변을 받을 수 있는지 알고 싶어서 전화해서 물어봤어요.
+            a: I called to inquire after what kind of response I could expect if I asked a question via email.    
+    inquire for |～을 요구하다:
+        1:
+            q: 그들은 부탁한 물건을 찾기 위해 수색하고 있습니다.
+            a: They're searching in order to inquire for the item they requested.
+        2:
+            q: 그 회사에서 일하고 있는 동생의 이력서를 확인하고 싶은데, 어디에서 문의할 수 있을까요?
+            a: I'd like to inquire for where I can check my brother's resume who's working at that company.
+        3:
+            q: 제가 찾으려는 제품은 품절인가요? 혹시 다른 매장에서 구할 수 있을까요?
+            a: Is the product I'm looking for sold out? Can I inquire for if it's available at a different store?
+        4:
+            q: 온라인으로도 주문이 불가능한가요? 다른 방법으로 문의할 수 있을까요?
+            a: Is it not possible to order online as well? Can I inquire for a different way to purchase it?
+        5:
+            q: 그 영화를 보기 위해 온라인으로 예매하려고 했는데, 결제가 되지 않습니다. 무엇이 문제일까요?
+            a: I tried to book the movie online to watch it, but the payment is not going through. What could be the problem? Can I inquire for assistance?
+        6:
+            q: 지난 주문 내역을 확인하려면 어떻게 해야 하나요?
+            a: What should I do to inquire for my previous order history?
+        7:
+            q: 이 기계를 사용하기 위해서는 권한이 필요한가요? 어디에서 문의할 수 있을까요?
+            a: Do I need authorization to use this machine? Where can I inquire for it?
+        8:
+            q: 이 근처에서 판매하는 맛있는 음식점이 있을까요? 혹시 문의할 곳이 있나요?
+            a: Is there a delicious restaurant being sold nearby? Is there a place I can inquire for it?
+        9:
+            q: 이번 달 청구서를 확인하려면 어디에서 문의해야 하나요?
+            a: Where should I inquire for this month's bill statement?
+        10:
+            q: 이 보험상품의 보상금액을 문의하려면 어디로 연락해야 하나요?
+            a: Where should I inquire to check the compensation amount for this insurance product?    
+    inquire into | 조사하다:
+        1:
+            q: 최근에 미국 대선의 조작 의혹에 대해 조사가 진행되고 있다.
+            a: An investigation is currently being conducted into allegations of manipulation in the recent US presidential election.
+        2:
+            q: 정부는 코로나19 발생 원인을 조사하기 위해 노력하고 있다.
+            a: The government is making efforts to inquire into the cause of the COVID-19 outbreak.
+        3:
+            q: 회사가 규정을 어기지 않았는지에 대한 조사가 진행 중이다.
+            a: An investigation into whether the company has violated regulations is underway.
+        4:
+            q: 이사회는 임원의 부정행위를 조사하기 위해 외부 전문가를 고용하기로 결정했다.
+            a: The board of directors has decided to hire external experts to inquire into the executive's misconduct.
+        5:
+            q: 경찰은 범인을 잡기 위해 범행 현장과 관련자들을 조사하고 있다.
+            a: The police are investigating the crime scene and related persons in order to capture the perpetrator.
+        6:
+            q: 의회는 이번 사건에 대한 조사를 시작하기로 했다.
+            a: The legislature has decided to commence an inquiry into the incident.
+        7:
+            q: 기업은 제품의 안전성을 검증하기 위해 노력하고 있다.
+            a: The company is making efforts to inquire into the safety of its products.
+        8:
+            q: 대학교에서는 학생들의 불법 복제행위를 조사하고 있다.
+            a: The university is investigating students' illegal copying activities.
+        9:
+            q: 담당자는 문제를 해결하기 위해 사고 경위를 조사하고 있다.
+            a: The person in charge is inquiring into the circumstances of the accident to resolve the problem.
+        10:
+            q: 경찰은 인터넷 사기범을 잡기 위해 전자적 증거들을 조사하고 있다.
+            a: The police are examining electronic evidence in order to catch the online scammer.
 
     
     
