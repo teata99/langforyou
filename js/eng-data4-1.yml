@@ -1,0 +1,12003 @@
+교육부 3천단어:
+    초등:
+        0:
+            q: 하나의
+            a: a
+
+        1:
+            q: -에 대하여
+            a: about
+
+        2:
+            q: -보다 위에
+            a: above
+
+        3:
+            q: 학술원
+            a: academy
+
+        4:
+            q: 액센트
+            a: accent
+
+        5:
+            q: 뜻밖의 사건
+            a: accident
+
+        6:
+            q: 가로질러
+            a: across
+
+        7:
+            q: vi행동하다
+            a: act
+
+        8:
+            q: 추가하다
+            a: add
+
+        9:
+            q: 말을 걸다
+            a: address
+
+        10:
+            q: 성인
+            a: adult
+
+        11:
+            q: 모험 모험하다
+            a: adventure
+
+        12:
+            q: 충고하다
+            a: advise
+
+        13:
+            q: 두려워하여
+            a: afraid
+
+        14:
+            q: 후에
+            a: after
+
+        15:
+            q: 오후
+            a: afternoon
+
+        16:
+            q: 다시
+            a: again
+
+        17:
+            q: …에 반대하여
+            a: against
+
+        18:
+            q: 연령
+            a: age
+
+        19:
+            q: 이전에
+            a: ago
+
+        20:
+            q: 동의하다
+            a: agree
+
+        21:
+            q: 전방에
+            a: ahead
+
+        22:
+            q: 공기
+            a: air
+
+        23:
+            q: 비행기
+            a: airplane
+
+        24:
+            q: 정기항공
+            a: airline
+
+        25:
+            q: 공항
+            a: airport
+
+        26:
+            q: 모든
+            a: all
+
+        27:
+            q: 거의
+            a: almost
+
+        28:
+            q: 다만 홀로(혼자서)
+            a: alone
+
+        29:
+            q: -을 따라
+            a: along
+
+        30:
+            q: 큰 소리로
+            a: aloud
+
+        31:
+            q: 이미
+            a: already
+
+        32:
+            q: 더할나위없이
+            a: alright
+
+        33:
+            q: -도 또한
+            a: also
+
+        34:
+            q: 늘
+            a: always
+
+        35:
+            q: 오전
+            a: A.M.
+
+        36:
+            q: 및
+            a: and
+
+        37:
+            q: 천사
+            a: angel
+
+        38:
+            q: 성
+            a: anger
+
+        39:
+            q: 동물
+            a: animal
+
+        40:
+            q: 또 하나
+            a: another
+
+        41:
+            q: 대답
+            a: answer
+
+        42:
+            q: 개미
+            a: ant
+
+        43:
+            q: 어떤
+            a: any
+
+        44:
+            q: 사과
+            a: apple
+
+        45:
+            q: 면적
+            a: area
+
+        46:
+            q: 팔
+            a: arm
+
+        47:
+            q: 사방에
+            a: around
+
+        48:
+            q: 도착하다
+            a: arrive
+
+        49:
+            q: 예술
+            a: art
+
+        50:
+            q: -와 같은 정도로
+            a: as
+
+        51:
+            q: 묻다
+            a: ask
+
+        52:
+            q: -에서
+            a: at
+
+        53:
+            q: 아주머니
+            a: aunt
+
+        54:
+            q: 떨어져서
+            a: away
+
+        55:
+            q: 갓난아이, 막내   관심사, 골치아픈 일,
+            a: baby
+
+        56:
+            q: 등
+            a: back
+
+        57:
+            q: 배경
+            a: background
+
+        58:
+            q: 나쁜
+            a: bad
+
+        59:
+            q: 굽다
+            a: bake
+
+        60:
+            q: 공
+            a: ball
+
+        61:
+            q: 기구
+            a: balloon
+
+        62:
+            q: 그룹
+            a: band
+
+        63:
+            q: 둑
+            a: bank
+
+        64:
+            q: 기초
+            a: base
+
+        65:
+            q: 야구
+            a: baseball
+
+        66:
+            q: 기본의
+            a: basic
+
+        67:
+            q: 바구니
+            a: basket
+
+        68:
+            q: 농구
+            a: basketball
+
+        69:
+            q: 배트
+            a: bat
+
+        70:
+            q: 목욕
+            a: bath
+
+        71:
+            q: 욕실
+            a: bathroom
+
+        72:
+            q: 전지
+            a: battery
+
+        73:
+            q: 전투
+            a: battle
+
+        74:
+            q: -이다
+            a: be
+
+        75:
+            q: 해안
+            a: beach
+
+        76:
+            q: 콩
+            a: bean
+
+        77:
+            q: 나르다
+            a: bear
+
+        78:
+            q: 아름다움
+            a: beauty
+
+        79:
+            q: 왜냐하면
+            a: because
+
+        80:
+            q: -이 되다
+            a: become
+
+        81:
+            q: 침대
+            a: bed
+
+        82:
+            q: 침실 성적인
+            a: bedroom
+
+        83:
+            q: 꿀벌
+            a: bee
+
+        84:
+            q: 쇠고기
+            a: beef
+
+        85:
+            q: 앞에
+            a: before
+
+        86:
+            q: 시작하다
+            a: begin
+
+        87:
+            q: 뒤에
+            a: behind
+
+        88:
+            q: 믿다
+            a: believe
+
+        89:
+            q: 종
+            a: bell
+
+        90:
+            q: 아래에
+            a: below
+
+        91:
+            q: -의 곁에
+            a: beside
+
+        92:
+            q: -의 사이에 사이에
+            a: between
+
+        93:
+            q: 자전거 자전거를 타다
+            a: bicycle
+
+        94:
+            q: 큰
+            a: big
+
+        95:
+            q: 계산서
+            a: bill
+
+        96:
+            q: 새
+            a: bird
+
+        97:
+            q: 출생
+            a: birth
+
+        98:
+            q: 생일
+            a: birthday
+
+        99:
+            q: 물다
+            a: bite
+
+        100:
+            q: 검은
+            a: black
+
+        101:
+            q: 덩어리
+            a: block
+
+        102:
+            q: 피
+            a: blood
+
+        103:
+            q: 푸른
+            a: blue
+
+        104:
+            q: 널빤지
+            a: board
+
+        105:
+            q: 배
+            a: boat
+
+        106:
+            q: 신체
+            a: body
+
+        107:
+            q: 폭탄 폭격하다
+            a: bomb
+
+        108:
+            q: 뼈
+            a: bone
+
+        109:
+            q: 책
+            a: book
+
+        110:
+            q: 목이 긴 구두
+            a: boot
+
+        111:
+            q: 빌다
+            a: borrow
+
+        112:
+            q: 두목
+            a: boss
+
+        113:
+            q: 쌍방의
+            a: both
+
+        114:
+            q: 병
+            a: bottle
+
+        115:
+            q: 밑바닥
+            a: bottom
+
+        116:
+            q: 사발
+            a: bowl
+
+        117:
+            q: 소년
+            a: boy
+
+        118:
+            q: 뇌
+            a: brain
+
+        119:
+            q: 브레이크
+            a: brake
+
+        120:
+            q: 가지
+            a: branch
+
+        121:
+            q: 상표
+            a: brand
+
+        122:
+            q: 용감한
+            a: brave
+
+        123:
+            q: 빵
+            a: bread
+
+        124:
+            q: 부수다
+            a: break
+
+        125:
+            q: 아침밥
+            a: breakfast
+
+        126:
+            q: 다리
+            a: bridge
+
+        127:
+            q: 밝은
+            a: bright
+
+        128:
+            q: 가져오다
+            a: bring
+
+        129:
+            q: 형제
+            a: brother
+
+        130:
+            q: 갈색의 갈색
+            a: brown
+
+        131:
+            q: 솔
+            a: brush
+
+        132:
+            q: 거품 거품이 일다
+            a: bubble
+
+        133:
+            q: 벌레
+            a: bug
+
+        134:
+            q: 짓다
+            a: build
+
+        135:
+            q: 시내
+            a: burn
+
+        136:
+            q: 직업
+            a: business
+
+        137:
+            q: 바쁜
+            a: busy
+
+        138:
+            q: 그러나 다만 (-을)제외하고
+            a: but
+
+        139:
+            q: 단추 단추를 채우다 단추로 채워지다
+            a: button
+
+        140:
+            q: 사다
+            a: buy
+
+        141:
+            q: 곁에
+            a: by
+
+        142:
+            q: 새장
+            a: cage
+
+        143:
+            q: 달력
+            a: calendar
+
+        144:
+            q: 부르다
+            a: call
+
+        145:
+            q: 평온한
+            a: calm
+
+        146:
+            q: au-할 수 있다
+            a: can
+
+        147:
+            q: 사탕과자
+            a: candy
+
+        148:
+            q: 모자
+            a: cap
+
+        149:
+            q: 우두머리(chief)
+            a: captain
+
+        150:
+            q: 자동차
+            a: car
+
+        151:
+            q: 걱정
+            a: care
+
+        152:
+            q: 당근
+            a: carrot
+
+        153:
+            q: 나르다
+            a: carry
+
+        154:
+            q: (2륜)짐마차
+            a: cart
+
+        155:
+            q: 경우
+            a: case
+
+        156:
+            q: 현금 현금으로 바꾸다 현금의
+            a: cash
+
+        157:
+            q: 성
+            a: castle
+
+        158:
+            q: 고양이
+            a: cat
+
+        159:
+            q: 붙잡다
+            a: catch
+
+        160:
+            q: 확신하는
+            a: certain
+
+        161:
+            q: 사슬
+            a: chain
+
+        162:
+            q: 의장
+            a: chair
+
+        163:
+            q: 우연
+            a: chance
+
+        164:
+            q: 변화
+            a: change
+
+        165:
+            q: 값싼
+            a: cheap
+
+        166:
+            q: 방해
+            a: check
+
+        167:
+            q: 아이
+            a: child
+
+        168:
+            q: 고르다
+            a: choose
+
+        169:
+            q: 교회
+            a: church
+
+        170:
+            q: 영화관
+            a: cinema
+
+        171:
+            q: 원
+            a: circle
+
+        172:
+            q: 도시
+            a: city
+
+        173:
+            q: 계급
+            a: class
+
+        174:
+            q: 교실
+            a: classroom
+
+        175:
+            q: 청결한
+            a: clean
+
+        176:
+            q: 맑은
+            a: clear
+
+        177:
+            q: 서기
+            a: clerk
+
+        178:
+            q: 영리한
+            a: clever
+
+        179:
+            q: 기어 오르다
+            a: climb
+
+        180:
+            q: 가위로 자르다
+            a: clip
+
+        181:
+            q: 시계
+            a: clock
+
+        182:
+            q: 닫다
+            a: close
+
+        183:
+            q: 천
+            a: cloth
+
+        184:
+            q: 구름
+            a: cloud
+
+        185:
+            q: 클럽
+            a: club
+
+        186:
+            q: 화폐
+            a: coin
+
+        187:
+            q: 추운
+            a: cold
+
+        188:
+            q: 모으다
+            a: collect
+
+        189:
+            q: 단과대학
+            a: college
+
+        190:
+            q: 착색하다
+            a: color
+
+        191:
+            q: 오다
+            a: come
+
+        192:
+            q: 희극
+            a: comedy
+
+        193:
+            q: 교제
+            a: company
+
+        194:
+            q: 연주회
+            a: concert
+
+        195:
+            q: 조건
+            a: condition
+
+        196:
+            q: 축하하다
+            a: congratulate
+
+        197:
+            q: 겨루다
+            a: contest
+
+        198:
+            q: 억제하다
+            a: control
+
+        199:
+            q: 요리하다 요리사
+            a: cook
+
+        200:
+            q: 쿠키
+            a: cookie
+
+        201:
+            q: 서늘한
+            a: cool
+
+        202:
+            q: 사본
+            a: copy
+
+        203:
+            q: 모퉁이
+            a: corner
+
+        204:
+            q: 가격
+            a: cost
+
+        205:
+            q: 목화
+            a: cotton
+
+        206:
+            q: aucan의 과거
+            a: could
+
+        207:
+            q: 나라
+            a: country
+
+        208:
+            q: 시골
+            a: countryside
+
+        209:
+            q: 한 쌍
+            a: couple
+
+        210:
+            q: 사촌
+            a: cousin
+
+        211:
+            q: 덮다
+            a: cover
+
+        212:
+            q: 위협하다 암소
+            a: cow
+
+        213:
+            q: 미친
+            a: crazy
+
+        214:
+            q: 십자형
+            a: cross
+
+        215:
+            q: 군중
+            a: crowd
+
+        216:
+            q: 왕관
+            a: crown
+
+        217:
+            q: 소리치다
+            a: cry
+
+        218:
+            q: 문화
+            a: culture
+
+        219:
+            q: 이상스러운
+            a: curious
+
+        220:
+            q: 커어튼
+            a: curtain
+
+        221:
+            q: 고객
+            a: customer
+
+        222:
+            q: 베다
+            a: cut
+
+        223:
+            q: 귀여운
+            a: cute
+
+        224:
+            q: 순환
+            a: cycle
+
+        225:
+            q: 아빠
+            a: dad
+
+        226:
+            q: 댄스
+            a: dance
+
+        227:
+            q: 위험
+            a: danger
+
+        228:
+            q: 어두운
+            a: dark
+
+        229:
+            q: 날짜
+            a: date
+
+        230:
+            q: 딸
+            a: daughter
+
+        231:
+            q: 낮
+            a: day
+
+        232:
+            q: 죽은
+            a: dead
+
+        233:
+            q: 죽음
+            a: death
+
+        234:
+            q: 결정하다
+            a: decide
+
+        235:
+            q: 깊은
+            a: deep
+
+        236:
+            q: 맛있는
+            a: delicious
+
+        237:
+            q: 치과의사
+            a: dentist
+
+        238:
+            q: 디자인
+            a: design
+
+        239:
+            q: 책상
+            a: desk
+
+        240:
+            q: 대화
+            a: dialogue
+
+        241:
+            q: 일기
+            a: diary
+
+        242:
+            q: 죽다
+            a: die
+
+        243:
+            q: 다른
+            a: different
+
+        244:
+            q: 곤란한
+            a: difficult
+
+        245:
+            q: 정찬
+            a: dinner
+
+        246:
+            q: 더러운
+            a: dirty
+
+        247:
+            q: 토론하다
+            a: discuss
+
+        248:
+            q: 접시
+            a: dish
+
+        249:
+            q: 나누다
+            a: divide
+
+        250:
+            q: 하다
+            a: do
+
+        251:
+            q: 박사
+            a: doctor
+
+        252:
+            q: 개
+            a: dog
+
+        253:
+            q: 인형
+            a: doll
+
+        254:
+            q: 돌고래
+            a: dolphin
+
+        255:
+            q: 문
+            a: door
+
+        256:
+            q: 2배의
+            a: double
+
+        257:
+            q: 아래로
+            a: down
+
+        258:
+            q: 당기다
+            a: draw
+
+        259:
+            q: 꿈
+            a: dream
+
+        260:
+            q: 마시다
+            a: drink
+
+        261:
+            q: 운전하다
+            a: drive
+
+        262:
+            q: 방울
+            a: drop
+
+        263:
+            q: 마른
+            a: dry
+
+        264:
+            q: 머리를 물 속에 쑥 쳐박다
+            a: duck
+
+        265:
+            q: -동안에
+            a: during
+
+        266:
+            q: 귀
+            a: ear
+
+        267:
+            q: 이른
+            a: early
+
+        268:
+            q: 지구
+            a: earth
+
+        269:
+            q: 동쪽 동쪽의 동쪽으로
+            a: east
+
+        270:
+            q: 쉬운
+            a: easy
+
+        271:
+            q: 먹다
+            a: eat
+
+        272:
+            q: 알
+            a: egg
+
+        273:
+            q: 기본의
+            a: elementary
+
+        274:
+            q: 코끼리
+            a: elephant
+
+        275:
+            q: 끝
+            a: end
+
+        276:
+            q: 엔진
+            a: engine
+
+        277:
+            q: 기사
+            a: engineer
+
+        278:
+            q: 즐기다
+            a: enjoy
+
+        279:
+            q: 충분한
+            a: enough
+
+        280:
+            q: 들어가다
+            a: enter
+
+        281:
+            q: 지우는 사람
+            a: eraser
+
+        282:
+            q: 잘못
+            a: error
+
+        283:
+            q: 저녁
+            a: evening
+
+        284:
+            q: 모든
+            a: every
+
+        285:
+            q: 시험
+            a: exam
+
+        286:
+            q: 보기
+            a: example
+
+        287:
+            q: 운동
+            a: exercise
+
+        288:
+            q: 출구
+            a: exit
+
+        289:
+            q: 눈
+            a: eye
+
+        290:
+            q: 얼굴
+            a: face
+
+        291:
+            q: 사실
+            a: fact
+
+        292:
+            q: 공장
+            a: factory
+
+        293:
+            q: 실패하다
+            a: fail
+
+        294:
+            q: 떨어지다
+            a: fall
+
+        295:
+            q: 가족
+            a: family
+
+        296:
+            q: 유명한
+            a: famous
+
+        297:
+            q: (영화 등의)팬
+            a: fan
+
+        298:
+            q: 환상적인
+            a: fantastic
+
+        299:
+            q: 멀리
+            a: far
+
+        300:
+            q: 농장
+            a: farm
+
+        301:
+            q: 빠른
+            a: fast
+
+        302:
+            q: 살찐
+            a: fat
+
+        303:
+            q: 아버지
+            a: father
+
+        304:
+            q: 마음에 드는 좋아하는 물건
+            a: favorite
+
+        305:
+            q: 만져보다
+            a: feel
+
+        306:
+            q: 열
+            a: fever
+
+        307:
+            q: 들
+            a: field
+
+        308:
+            q: 싸움
+            a: fight
+
+        309:
+            q: 종이끼우개
+            a: file
+
+        310:
+            q: 가득 채우다
+            a: fill
+
+        311:
+            q: 발견하다
+            a: find
+
+        312:
+            q: 훌륭한
+            a: fine
+
+        313:
+            q: 손가락 손가락을 대다
+            a: finger
+
+        314:
+            q: 끝내다
+            a: finish
+
+        315:
+            q: 불
+            a: fire
+
+        316:
+            q: 물고기
+            a: fish
+
+        317:
+            q: 고정시키다
+            a: fix
+
+        318:
+            q: 기
+            a: flag
+
+        319:
+            q: 마룻바닥
+            a: floor
+
+        320:
+            q: 꽃
+            a: flower
+
+        321:
+            q: 날다
+            a: fly
+
+        322:
+            q: 초점
+            a: focus
+
+        323:
+            q: 안개
+            a: fog
+
+        324:
+            q: 음식
+            a: food
+
+        325:
+            q: 바보
+            a: fool
+
+        326:
+            q: 발
+            a: foot
+
+        327:
+            q: 축구
+            a: football
+
+        328:
+            q: 대신에
+            a: for
+
+        329:
+            q: 숲
+            a: forest
+
+        330:
+            q: 영원히
+            a: forever
+
+        331:
+            q: 잊다
+            a: forget
+
+        332:
+            q: 모양
+            a: form
+
+        333:
+            q: 교활한 사람
+            a: fox
+
+        334:
+            q: 자유로운
+            a: free
+
+        335:
+            q: 새로운
+            a: fresh
+
+        336:
+            q: 친구
+            a: friend
+
+        337:
+            q: 개구리
+            a: frog
+
+        338:
+            q: (분리,이탈,출발점,기점)-로 부터
+            a: from
+
+        339:
+            q: 정면
+            a: front
+
+        340:
+            q: 과일
+            a: fruit
+
+        341:
+            q: 기름으로 튀기다
+            a: fry
+
+        342:
+            q: 가득찬
+            a: full
+
+        343:
+            q: 즐거운 생각
+            a: fun
+
+        344:
+            q: 미래
+            a: future
+
+        345:
+            q: 뜰
+            a: garden
+
+        346:
+            q: 문
+            a: gate
+
+        347:
+            q: 신사
+            a: gentleman
+
+        348:
+            q: 몸짓
+            a: gesture
+
+        349:
+            q: 얻다
+            a: get
+
+        350:
+            q: 유령
+            a: ghost
+
+        351:
+            q: 거인
+            a: giant
+
+        352:
+            q: 선물
+            a: gift
+
+        353:
+            q: 기린
+            a: giraffe
+
+        354:
+            q: 소녀
+            a: girl
+
+        355:
+            q: 주다
+            a: give
+
+        356:
+            q: 기쁜
+            a: glad
+
+        357:
+            q: 유리
+            a: glass
+
+        358:
+            q: 장갑
+            a: glove
+
+        359:
+            q: 아교
+            a: glue
+
+        360:
+            q: 가다
+            a: go
+
+        361:
+            q: 결승점
+            a: goal
+
+        362:
+            q: 신
+            a: god
+
+        363:
+            q: 금
+            a: gold
+
+        364:
+            q: 좋은
+            a: good
+
+        365:
+            q: 안녕히 가세요
+            a: goodbye
+
+        366:
+            q: 할아버지
+            a: grandfather
+
+        367:
+            q: 포도
+            a: grape
+
+        368:
+            q: 풀밭
+            a: grass
+
+        369:
+            q: 커다란
+            a: great
+
+        370:
+            q: 초록색
+            a: green
+
+        371:
+            q: 회색의
+            a: grey
+
+        372:
+            q: 땅
+            a: ground
+
+        373:
+            q: 집단
+            a: group
+
+        374:
+            q: 성장하다
+            a: grow
+
+        375:
+            q: 추측(짐작)하다
+            a: guess
+
+        376:
+            q: 이끌다
+            a: guide
+
+        377:
+            q: 녀석
+            a: guy
+
+        378:
+            q: 습관
+            a: habit
+
+        379:
+            q: 털
+            a: hair
+
+        380:
+            q: 손
+            a: hand
+
+        381:
+            q: 얼굴(자태)이 잘생긴
+            a: handsome
+
+        382:
+            q: 걸다
+            a: hang
+
+        383:
+            q: 행운의
+            a: happy
+
+        384:
+            q: 단단한
+            a: hard
+
+        385:
+            q: (테있는)모자 모자를 씌우다
+            a: hat
+
+        386:
+            q: 미워하다
+            a: hate
+
+        387:
+            q: 가지(고 있)다
+            a: have
+
+        388:
+            q: (3인칭단수 남성)그
+            a: he
+
+        389:
+            q: 머리
+            a: head
+
+        390:
+            q: 두통
+            a: headache
+
+        391:
+            q: 심장
+            a: heart
+
+        392:
+            q: 열
+            a: heat
+
+        393:
+            q: 하늘
+            a: heaven
+
+        394:
+            q: 무거운
+            a: heavy
+
+        395:
+            q: 헬리콥터
+            a: helicopter
+
+        396:
+            q: 여보
+            a: hello
+
+        397:
+            q: 돕다
+            a: help
+
+        398:
+            q: 여기에
+            a: here
+
+        399:
+            q: 영웅
+            a: hero
+
+        400:
+            q: 높은
+            a: high
+
+        401:
+            q: 언덕, 낮은 산 인도 고지
+            a: hill
+
+        402:
+            q: 역사
+            a: history
+
+        403:
+            q: 명중하다
+            a: hit
+
+        404:
+            q: 취미
+            a: hobby
+
+        405:
+            q: 손에 갖고 있다
+            a: hold
+
+        406:
+            q: 휴일
+            a: holiday
+
+        407:
+            q: 가정
+            a: home
+
+        408:
+            q: 숙제
+            a: homework
+
+        409:
+            q: 정직한
+            a: honest
+
+        410:
+            q: 벌꿀
+            a: honey
+
+        411:
+            q: 희망
+            a: hope
+
+        412:
+            q: 말
+            a: horse
+
+        413:
+            q: 병원
+            a: hospital
+
+        414:
+            q: 뜨거운
+            a: hot
+
+        415:
+            q: 시간
+            a: hour
+
+        416:
+            q: 집
+            a: house
+
+        417:
+            q: 어떻게
+            a: how
+
+        418:
+            q: 아무리
+            a: however
+
+        419:
+            q: 인간의
+            a: human
+
+        420:
+            q: 유우머
+            a: humor
+
+        421:
+            q: 100 100의
+            a: hundred
+
+        422:
+            q: 배고픈
+            a: hungry
+
+        423:
+            q: 사냥하다
+            a: hunt
+
+        424:
+            q: 서두르다
+            a: hurry
+
+        425:
+            q: 남편 절약하다
+            a: husband
+
+        426:
+            q: 나는, 내가
+            a: I
+
+        427:
+            q: 얼음
+            a: ice
+
+        428:
+            q: 관념
+            a: idea
+
+        429:
+            q: 만일 -이라면
+            a: if
+
+        430:
+            q: 중요한
+            a: important
+
+        431:
+            q: -속에
+            a: in
+
+        432:
+            q: 안쪽
+            a: inside
+
+        433:
+            q: -안으로
+            a: into
+
+        434:
+            q: 안으로 들이다
+            a: introduce
+
+        435:
+            q: 초대하다
+            a: invite
+
+        436:
+            q: 그것은
+            a: it
+
+        437:
+            q: 청바지
+            a: jeans
+
+        438:
+            q: 일
+            a: job
+
+        439:
+            q: 결합하다
+            a: join
+
+        440:
+            q: 즐거움
+            a: joy
+
+        441:
+            q: 올바른
+            a: just
+
+        442:
+            q: 계속하다
+            a: keep
+
+        443:
+            q: 열쇠
+            a: key
+
+        444:
+            q: 걷어차다
+            a: kick
+
+        445:
+            q: 아이
+            a: kid
+
+        446:
+            q: 죽이다
+            a: kill
+
+        447:
+            q: 친절한
+            a: kind
+
+        448:
+            q: 왕
+            a: king
+
+        449:
+            q: 부엌
+            a: kitchen
+
+        450:
+            q: 나이프
+            a: knife
+
+        451:
+            q: 알다
+            a: know
+
+        452:
+            q: 귀부인
+            a: lady
+
+        453:
+            q: 호수
+            a: lake
+
+        454:
+            q: 뭍
+            a: land
+
+        455:
+            q: 큰
+            a: large
+
+        456:
+            q: 계속하다
+            a: last
+
+        457:
+            q: 늦은
+            a: late
+
+        458:
+            q: 게으른
+            a: lazy
+
+        459:
+            q: 잎
+            a: leaf
+
+        460:
+            q: 배우다
+            a: learn
+
+        461:
+            q: 왼쪽의
+            a: left
+
+        462:
+            q: 다리
+            a: leg
+
+        463:
+            q: 학과
+            a: lesson
+
+        464:
+            q: 편지
+            a: letter
+
+        465:
+            q: 도서관
+            a: library
+
+        466:
+            q: 눕다
+            a: lie
+
+        467:
+            q: 빛
+            a: light
+
+        468:
+            q: 좋아하다
+            a: like
+
+        469:
+            q: 선
+            a: line
+
+        470:
+            q: 사자
+            a: lion
+
+        471:
+            q: 입술
+            a: lip
+
+        472:
+            q: 경청하다
+            a: listen
+
+        473:
+            q: 작은
+            a: little
+
+        474:
+            q: 살다
+            a: live
+
+        475:
+            q: 거실
+            a: livingroom
+
+        476:
+            q: (길이,시간 등)긴
+            a: long
+
+        477:
+            q: 보다
+            a: look
+
+        478:
+            q: 사랑
+            a: love
+
+        479:
+            q: 낮은
+            a: low
+
+        480:
+            q: 운
+            a: luck
+
+        481:
+            q: 점심
+            a: lunch
+
+        482:
+            q: 미친
+            a: mad
+
+        483:
+            q: 우편물
+            a: mail
+
+        484:
+            q: 만들다
+            a: make
+
+        485:
+            q: 남자
+            a: man
+
+        486:
+            q: 많은
+            a: many
+
+        487:
+            q: 지도
+            a: map
+
+        488:
+            q: 결혼하다
+            a: marry
+
+        489:
+            q: 수학
+            a: mathematics
+
+        490:
+            q: 5월  청춘, 인생의 봄  산사나무, 아가위나무
+            a: may
+
+        491:
+            q: (식용짐승의)고기
+            a: meat
+
+        492:
+            q: -을 만나다
+            a: meet
+
+        493:
+            q: 기억
+            a: memory
+
+        494:
+            q: 한복판의
+            a: middle
+
+        495:
+            q: 힘
+            a: might
+
+        496:
+            q: 젖
+            a: milk
+
+        497:
+            q: 마음
+            a: mind
+
+        498:
+            q: 거울
+            a: mirror
+
+        499:
+            q: 미혼 여성 실수하다
+            a: miss
+
+        500:
+            q: 금전
+            a: money
+
+        501:
+            q: 원숭이
+            a: monkey
+
+        502:
+            q: 월
+            a: month
+
+        503:
+            q: 달
+            a: moon
+
+        504:
+            q: 아침
+            a: morning
+
+        505:
+            q: 어머니
+            a: mother
+
+        506:
+            q: 산
+            a: mountain
+
+        507:
+            q: 새앙쥐
+            a: mouse
+
+        508:
+            q: 입
+            a: mouth
+
+        509:
+            q: 움직이다
+            a: move
+
+        510:
+            q: 영화
+            a: movie
+
+        511:
+            q: 많은
+            a: much
+
+        512:
+            q: 박물관
+            a: museum
+
+        513:
+            q: 음악
+            a: music
+
+        514:
+            q: -해야 한다
+            a: must
+
+        515:
+            q: 이름
+            a: name
+
+        516:
+            q: 국가
+            a: nation
+
+        517:
+            q: 자연
+            a: nature
+
+        518:
+            q: 가까이 -의 가까이에 가까운 접근하다
+            a: near
+
+        519:
+            q: 목
+            a: neck
+
+        520:
+            q: 필요
+            a: need
+
+        521:
+            q: 결코 -아니다
+            a: never
+
+        522:
+            q: 새로운
+            a: new
+
+        523:
+            q: 신문
+            a: newspaper
+
+        524:
+            q: 다음의
+            a: next
+
+        525:
+            q: 니스(프랑스 남부의 항구도시)
+            a: nice
+
+        526:
+            q: 밤
+            a: night
+
+        527:
+            q: 무의
+            a: no
+
+        528:
+            q: 정오
+            a: noon
+
+        529:
+            q: 북, 북 쪽, 북부
+            a: north
+
+        530:
+            q: 코
+            a: nose
+
+        531:
+            q: 아니다
+            a: not
+
+        532:
+            q: 기록
+            a: note
+
+        533:
+            q: 아무것도 …없다
+            a: nothing
+
+        534:
+            q: 지금
+            a: now
+
+        535:
+            q: 수
+            a: number
+
+        536:
+            q: 유모
+            a: nurse
+
+        537:
+            q: 대양
+            a: ocean
+
+        538:
+            q: 출신의
+            a: of
+
+        539:
+            q: 떨어져
+            a: off
+
+        540:
+            q: 임무
+            a: office
+
+        541:
+            q: 자주
+            a: often
+
+        542:
+            q: 기름
+            a: oil
+
+        543:
+            q: 늙은
+            a: old
+
+        544:
+            q: 위에
+            a: on
+
+        545:
+            q: 하나(의)
+            a: one
+
+        546:
+            q: 유일한
+            a: only
+
+        547:
+            q: 열다
+            a: open
+
+        548:
+            q: 혹은
+            a: or
+
+        549:
+            q: 밖으로
+            a: out
+
+        550:
+            q: 위쪽
+            a: over
+
+        551:
+            q: 도료
+            a: paint
+
+        552:
+            q: 궁전
+            a: palace
+
+        553:
+            q: 바지
+            a: pants
+
+        554:
+            q: 종이
+            a: paper
+
+        555:
+            q: 어버이
+            a: parent
+
+        556:
+            q: 공원
+            a: park
+
+        557:
+            q: 부분
+            a: part
+
+        558:
+            q: 지나가다
+            a: pass
+
+        559:
+            q: 지불하다
+            a: pay
+
+        560:
+            q: 평화
+            a: peace
+
+        561:
+            q: 서양배
+            a: pear
+
+        562:
+            q: 연필 연필로 쓰다
+            a: pencil
+
+        563:
+            q: 사람들
+            a: people
+
+        564:
+            q: 따다
+            a: pick
+
+        565:
+            q: 소풍
+            a: picnic
+
+        566:
+            q: 그림
+            a: picture
+
+        567:
+            q: 돼지
+            a: pig
+
+        568:
+            q: 연분홍색
+            a: pink
+
+        569:
+            q: 장소
+            a: place
+
+        570:
+            q: 계획
+            a: plan
+
+        571:
+            q: 놀다
+            a: play
+
+        572:
+            q: 기쁘게 하다
+            a: please
+
+        573:
+            q: 오후
+            a: P.M.
+
+        574:
+            q: 포켓
+            a: pocket
+
+        575:
+            q: 점
+            a: point
+
+        576:
+            q: 경찰 경비하다
+            a: police
+
+        577:
+            q: 가난한 부족한, 불충분한, 빈약한
+            a: poor
+
+        578:
+            q: 감자
+            a: potato
+
+        579:
+            q: 힘
+            a: power
+
+        580:
+            q: 있는, 존재하는
+            a: present
+
+        581:
+            q: 예쁜, 귀여운, 참 한, 조촐한
+            a: pretty
+
+        582:
+            q: 왕자, 태자, 세자, 대군
+            a: prince
+
+        583:
+            q: 인쇄하다, 프린트하다
+            a: print
+
+        584:
+            q: 상, 포상, 우등상, 선행상
+            a: prize
+
+        585:
+            q: 문제
+            a: problem
+
+        586:
+            q: 강아지
+            a: puppy
+
+        587:
+            q: 밀다, 밀치다, 밀어서 움직 이다, 밀어 내다
+            a: push
+
+        588:
+            q: 놓다, 두다
+            a: put
+
+        589:
+            q: 당황, 혼란 괴롭히는 사람,  어려운 문제
+            a: puzzle
+
+        590:
+            q: 여왕
+            a: queen
+
+        591:
+            q: 물음, 질문, 질의
+            a: question
+
+        592:
+            q: 빠른
+            a: quick
+
+        593:
+            q: 조용한
+            a: quiet
+
+        594:
+            q: 집토끼
+            a: rabbit
+
+        595:
+            q: 인종
+            a: race
+
+        596:
+            q: 비
+            a: rain
+
+        597:
+            q: 무지개
+            a: rainbow
+
+        598:
+            q: 읽다
+            a: read
+
+        599:
+            q: 준비가 된
+            a: ready
+
+        600:
+            q: 붉은
+            a: red
+
+        601:
+            q: 기억하고 있다
+            a: remember
+
+        602:
+            q: 요리점
+            a: restaurant
+
+        603:
+            q: 화장실
+            a: restroom
+
+        604:
+            q: 돌아가다
+            a: return
+
+        605:
+            q: 부자인
+            a: rich
+
+        606:
+            q: 올바른
+            a: right
+
+        607:
+            q: 고리
+            a: ring
+
+        608:
+            q: 강
+            a: river
+
+        609:
+            q: 길
+            a: road
+
+        610:
+            q: 바위
+            a: rock
+
+        611:
+            q: 지붕
+            a: roof
+
+        612:
+            q: 방
+            a: room
+
+        613:
+            q: 달리다
+            a: run
+
+        614:
+            q: 슬픈
+            a: sad
+
+        615:
+            q: 안전한
+            a: safe
+
+        616:
+            q: 판매
+            a: sale
+
+        617:
+            q: 소금
+            a: salt
+
+        618:
+            q: 같은
+            a: same
+
+        619:
+            q: 모래사장
+            a: sand
+
+        620:
+            q: 위험에서 구하다
+            a: save
+
+        621:
+            q: 말하다
+            a: say
+
+        622:
+            q: 학교
+            a: school
+
+        623:
+            q: 과학
+            a: science
+
+        624:
+            q: 가위
+            a: scissors
+
+        625:
+            q: 득점
+            a: score
+
+        626:
+            q: 바다
+            a: sea
+
+        627:
+            q: 계절
+            a: season
+
+        628:
+            q: 보다
+            a: see
+
+        629:
+            q: 팔다
+            a: sell
+
+        630:
+            q: 보내다
+            a: send
+
+        631:
+            q: 그녀는
+            a: she
+
+        632:
+            q: 배
+            a: ship
+
+        633:
+            q: 격돌
+            a: shock
+
+        634:
+            q: 구두
+            a: shoe
+
+        635:
+            q: 상점
+            a: shop
+
+        636:
+            q: 짧은
+            a: short
+
+        637:
+            q: aushall의 과거
+            a: should
+
+        638:
+            q: 보이다
+            a: show
+
+        639:
+            q: 수줍은
+            a: shy
+
+        640:
+            q: 병난
+            a: sick
+
+        641:
+            q: 쪽
+            a: side
+
+        642:
+            q: 노래하다
+            a: sing
+
+        643:
+            q: 여자형제
+            a: sister
+
+        644:
+            q: 앉다
+            a: sit
+
+        645:
+            q: 크기
+            a: size
+
+        646:
+            q: 피부
+            a: skin
+
+        647:
+            q: 스커어트
+            a: skirt
+
+        648:
+            q: 하늘
+            a: sky
+
+        649:
+            q: 잠자다
+            a: sleep
+
+        650:
+            q: 느린
+            a: slow
+
+        651:
+            q: 작은 작은 부분 적게
+            a: small
+
+        652:
+            q: 재치있는
+            a: smart
+
+        653:
+            q: 냄새
+            a: smell
+
+        654:
+            q: 미소짓다 미소
+            a: smile
+
+        655:
+            q: 눈 눈이 내리다
+            a: snow
+
+        656:
+            q: 그와 같이
+            a: so
+
+        657:
+            q: 축구
+            a: soccer
+
+        658:
+            q: 짧은 양말
+            a: sock
+
+        659:
+            q: 부드러운
+            a: soft
+
+        660:
+            q: 얼만가의
+            a: some
+
+        661:
+            q: 아들
+            a: son
+
+        662:
+            q: 노래
+            a: song
+
+        663:
+            q: 가엾은
+            a: sorry
+
+        664:
+            q: 소리
+            a: sound
+
+        665:
+            q: 시큼한 시어지다 시큼한 것
+            a: sour
+
+        666:
+            q: 남쪽 남쪽의 남으로
+            a: south
+
+        667:
+            q: 공간
+            a: space
+
+        668:
+            q: 이야기하다
+            a: speak
+
+        669:
+            q: 속도
+            a: speed
+
+        670:
+            q: 숟가락
+            a: spoon
+
+        671:
+            q: 서다
+            a: stand
+
+        672:
+            q: 시작하다
+            a: start
+
+        673:
+            q: 머무르다
+            a: stay
+
+        674:
+            q: 돌
+            a: stone
+
+        675:
+            q: 멈추다
+            a: stop
+
+        676:
+            q: 가게
+            a: store
+
+        677:
+            q: 층
+            a: story
+
+        678:
+            q: 딸기
+            a: strawberry
+
+        679:
+            q: 거리
+            a: street
+
+        680:
+            q: 압박
+            a: stress
+
+        681:
+            q: 강한
+            a: strong
+
+        682:
+            q: 학생
+            a: student
+
+        683:
+            q: 학문
+            a: study
+
+        684:
+            q: 지하도
+            a: subway
+
+        685:
+            q: 설탕
+            a: sugar
+
+        686:
+            q: 태양
+            a: sun
+
+        687:
+            q: 저녁식사
+            a: supper
+
+        688:
+            q: 헤엄치다
+            a: swim
+
+        689:
+            q: 테이블
+            a: table
+
+        690:
+            q: 꼬리
+            a: tail
+
+        691:
+            q: 잡다
+            a: take
+
+        692:
+            q: 말하다
+            a: talk
+
+        693:
+            q: 키큰
+            a: tall
+
+        694:
+            q: 테이프
+            a: tape
+
+        695:
+            q: 맛
+            a: taste
+
+        696:
+            q: 가르치다
+            a: teach
+
+        697:
+            q: 슬픔
+            a: teen
+
+        698:
+            q: 전화
+            a: telephone
+
+        699:
+            q: 말하다
+            a: tell
+
+        700:
+            q: 시험
+            a: test
+
+        701:
+            q: 교과서
+            a: textbook
+
+        702:
+            q: -보다도
+            a: than
+
+        703:
+            q: 감사하다 감사
+            a: thank
+
+        704:
+            q: 저
+            a: that
+
+        705:
+            q: art.저
+            a: the
+
+        706:
+            q: 거기에
+            a: there
+
+        707:
+            q: 그들
+            a: they
+
+        708:
+            q: 물건
+            a: thing
+
+        709:
+            q: 생각하다
+            a: think
+
+        710:
+            q: 갈증
+            a: thirst
+
+        711:
+            q: 이
+            a: this
+
+        712:
+            q: 호랑이
+            a: tiger
+
+        713:
+            q: 때
+            a: time
+
+        714:
+            q: -로
+            a: to
+
+        715:
+            q: 오늘은
+            a: today
+
+        716:
+            q: 같이
+            a: together
+
+        717:
+            q: 내일(은)
+            a: tomorrow
+
+        718:
+            q: 오늘밤에 오늘밤
+            a: tonight
+
+        719:
+            q: (-도)또한
+            a: too
+
+        720:
+            q: 이
+            a: tooth
+
+        721:
+            q: 정상
+            a: top
+
+        722:
+            q: 닿다
+            a: touch
+
+        723:
+            q: 일주
+            a: tour
+
+        724:
+            q: 탑
+            a: tower
+
+        725:
+            q: 읍
+            a: town
+
+        726:
+            q: 장난감 장난하다
+            a: toy
+
+        727:
+            q: 기차
+            a: train
+
+        728:
+            q: 여행하다
+            a: travel
+
+        729:
+            q: 나무
+            a: tree
+
+        730:
+            q: 각형
+            a: triangle
+
+        731:
+            q: 여행
+            a: trip
+
+        732:
+            q: 진실
+            a: true
+
+        733:
+            q: 시험해보다
+            a: try
+
+        734:
+            q: 돌리다
+            a: turn
+
+        735:
+            q: 두 번
+            a: twice
+
+        736:
+            q: 형
+            a: type
+
+        737:
+            q: 추한
+            a: ugly
+
+        738:
+            q: 우산
+            a: umbrella
+
+        739:
+            q: 아저씨
+            a: uncle
+
+        740:
+            q: -아래에
+            a: under
+
+        741:
+            q: 이해하다
+            a: understand
+
+        742:
+            q: 위로
+            a: up
+
+        743:
+            q: 쓰다
+            a: use
+
+        744:
+            q: 식물  야채, 푸성귀, 남새, 채소
+            a: vegetable
+
+        745:
+            q: 매우
+            a: very
+
+        746:
+            q: 방문하다, …의 손님으로 묵다
+            a: visit
+
+        747:
+            q: 목소리, 음성, 음성
+            a: voice
+
+        748:
+            q: 기다리다
+            a: wait
+
+        749:
+            q: 잠깨다
+            a: wake
+
+        750:
+            q: 걷다
+            a: walk
+
+        751:
+            q: 벽
+            a: wall
+
+        752:
+            q: 결핍
+            a: want
+
+        753:
+            q: 전쟁
+            a: war
+
+        754:
+            q: 따뜻한
+            a: warm
+
+        755:
+            q: 씻다
+            a: wash
+
+        756:
+            q: 손목시계
+            a: watch
+
+        757:
+            q: 물
+            a: water
+
+        758:
+            q: 수박
+            a: watermelon
+
+        759:
+            q: 길
+            a: way
+
+        760:
+            q: 우리가
+            a: we
+
+        761:
+            q: 입다
+            a: wear
+
+        762:
+            q: 날씨
+            a: weather
+
+        763:
+            q: 혼례
+            a: wedding
+
+        764:
+            q: 주
+            a: week
+
+        765:
+            q: 주말 주말의 주말을 지내다
+            a: weekend
+
+        766:
+            q: 무게
+            a: weight
+
+        767:
+            q: 환영 환영받는
+            a: welcome
+
+        768:
+            q: 잘
+            a: well
+
+        769:
+            q: 서쪽
+            a: west
+
+        770:
+            q: 축축한
+            a: wet
+
+        771:
+            q: 무엇 무슨
+            a: what
+
+        772:
+            q: 언제
+            a: when
+
+        773:
+            q: 어디에 (-하는)곳에 pr.어디 (문제의)장소
+            a: where
+
+        774:
+            q: 흰
+            a: white
+
+        775:
+            q: 누구
+            a: who
+
+        776:
+            q: 왜
+            a: why
+
+        777:
+            q: 아내
+            a: wife
+
+        778:
+            q: 의지
+            a: will
+
+        779:
+            q: 이기다
+            a: win
+
+        780:
+            q: 바람
+            a: wind
+
+        781:
+            q: 창
+            a: window
+
+        782:
+            q: 바라다
+            a: wish
+
+        783:
+            q: 함께
+            a: with
+
+        784:
+            q: 부인
+            a: woman
+
+        785:
+            q: 숲
+            a: wood
+
+        786:
+            q: 낱말
+            a: word
+
+        787:
+            q: 일
+            a: work
+
+        788:
+            q: 세계
+            a: world
+
+        789:
+            q: 근심하다
+            a: worry
+
+        790:
+            q: 쓰다
+            a: write
+
+        791:
+            q: 나쁜
+            a: wrong
+
+        792:
+            q: 연
+            a: year
+
+        793:
+            q: 황색의 황색
+            a: yellow
+
+        794:
+            q: 예
+            a: yes
+
+        795:
+            q: 어제
+            a: yesterday
+
+        796:
+            q: 당신
+            a: you
+
+        797:
+            q: 젊은
+            a: young
+
+        798:
+            q: 얼룩말
+            a: zebra
+
+        799:
+            q: 동물원
+            a: zoo
+
+    중고:
+        0:
+            q: 버리다
+            a: abandon
+
+        1:
+            q: 할 수 있는
+            a: able
+
+        2:
+            q: 배로
+            a: aboard
+
+        3:
+            q: 외국으로
+            a: abroad
+
+        4:
+            q: 부재의
+            a: absent
+
+        5:
+            q: 절대의
+            a: absolute
+
+        6:
+            q: 흡수하다
+            a: absorb
+
+        7:
+            q: 추상적인
+            a: abstract
+
+        8:
+            q: 풍부한
+            a: abundant
+
+        9:
+            q: 남용
+            a: abuse
+
+        10:
+            q: 가속하다 속도가 가해지다
+            a: accelerate
+
+        11:
+            q: 받아들이다
+            a: accept
+
+        12:
+            q: 접근
+            a: access
+
+        13:
+            q: 수용하다
+            a: accommodate
+
+        14:
+            q: 동반하다
+            a: accompany
+
+        15:
+            q: 이루다
+            a: accomplish
+
+        16:
+            q: 설명하다 계산
+            a: account
+
+        17:
+            q: 정확한
+            a: accurate
+
+        18:
+            q: 고발하다
+            a: accuse
+
+        19:
+            q: 성취하다
+            a: achieve
+
+        20:
+            q: 산 신
+            a: acid
+
+        21:
+            q: 인정하다
+            a: acknowledge
+
+        22:
+            q: 얻다
+            a: acquire
+
+        23:
+            q: 활동적으로 하다
+            a: activate
+
+        24:
+            q: 현실의
+            a: actual
+
+        25:
+            q: 날카로운
+            a: acute
+
+        26:
+            q: 적용시키다
+            a: adapt
+
+        27:
+            q: 열중하게 하다
+            a: addict
+
+        28:
+            q: 충분한
+            a: adequate
+
+        29:
+            q: 맞추다
+            a: adjust
+
+        30:
+            q: 관리하다
+            a: administer
+
+        31:
+            q: 감복하다
+            a: admire
+
+        32:
+            q: 입장
+            a: admission
+
+        33:
+            q: 받아들이다
+            a: admit
+
+        34:
+            q: 청년기의
+            a: adolescent
+
+        35:
+            q: 채용하다
+            a: adopt
+
+        36:
+            q: 나아가다
+            a: advance
+
+        37:
+            q: 유리한 입장
+            a: advantage
+
+        38:
+            q: 광고하다
+            a: advertize
+
+        39:
+            q: 변호사
+            a: advocate
+
+        40:
+            q: 일
+            a: affair
+
+        41:
+            q: 영향을 주다
+            a: affect
+
+        42:
+            q: 애정
+            a: affection
+
+        43:
+            q: 여유가 있다
+            a: afford
+
+        44:
+            q: 기능
+            a: agency
+
+        45:
+            q: 안건
+            a: agenda
+
+        46:
+            q: 대리인
+            a: agent
+
+        47:
+            q: 침략적인
+            a: aggressive
+
+        48:
+            q: 농업
+            a: agriculture
+
+        49:
+            q: 도와 주다
+            a: aid
+
+        50:
+            q: 겨누다
+            a: aim
+
+        51:
+            q: 항공기
+            a: aircraft
+
+        52:
+            q: 측면복도
+            a: aisle
+
+        53:
+            q: 빈틈없는
+            a: alert
+
+        54:
+            q: 외국의
+            a: alien
+
+        55:
+            q: 비슷한
+            a: alike
+
+        56:
+            q: 살아있는
+            a: alive
+
+        57:
+            q: 허락하다
+            a: allow
+
+        58:
+            q: 동맹하다
+            a: ally
+
+        59:
+            q: -의 곁에
+            a: alongside
+
+        60:
+            q: 바꾸다
+            a: alter
+
+        61:
+            q: 어느 한쪽의 양자택일
+            a: alternative
+
+        62:
+            q: 비록 -일지라도
+            a: although
+
+        63:
+            q: 전혀
+            a: altogether
+
+        64:
+            q: 깜짝 놀라게 하다
+            a: amaze
+
+        65:
+            q: 대사
+            a: ambassador
+
+        66:
+            q: 야심
+            a: ambition
+
+        67:
+            q: -중에
+            a: among
+
+        68:
+            q: (금액이)-이 되다
+            a: amount
+
+        69:
+            q: 재미나게 하다
+            a: amuse
+
+        70:
+            q: 분해하다
+            a: analyze
+
+        71:
+            q: 닻
+            a: anchor
+
+        72:
+            q: 옛날의
+            a: ancient
+
+        73:
+            q: 각
+            a: angle
+
+        74:
+            q: 기념일 예년의
+            a: anniversary
+
+        75:
+            q: 알리다
+            a: announce
+
+        76:
+            q: 귀찮게하다
+            a: annoy
+
+        77:
+            q: 일년의
+            a: annual
+
+        78:
+            q: 예기하다
+            a: anticipate
+
+        79:
+            q: 근심
+            a: anxiety
+
+        80:
+            q: 걱정되는
+            a: anxious
+
+        81:
+            q: 떨어져서
+            a: apart
+
+        82:
+            q: 사과
+            a: apology
+
+        83:
+            q: 명백한
+            a: apparent
+
+        84:
+            q: 간청하다
+            a: appeal
+
+        85:
+            q: 나타나다
+            a: appear
+
+        86:
+            q: 지원자
+            a: applicant
+
+        87:
+            q: (물건을)대다
+            a: apply
+
+        88:
+            q: 지정하다
+            a: appoint
+
+        89:
+            q: 감상하다
+            a: appreciate
+
+        90:
+            q: 다가가다
+            a: approach
+
+        91:
+            q: 적당한
+            a: appropriate
+
+        92:
+            q: 시인하다
+            a: approve
+
+        93:
+            q: 어림셈의
+            a: approximate
+
+        94:
+            q: 건축가
+            a: architect
+
+        95:
+            q: 건축
+            a: architecture
+
+        96:
+            q: 논하다
+            a: argue
+
+        97:
+            q: 생기다
+            a: arise
+
+        98:
+            q: 육군
+            a: army
+
+        99:
+            q: 가지런히 하다
+            a: arrange
+
+        100:
+            q: 체포하다
+            a: arrest
+
+        101:
+            q: 화살
+            a: arrow
+
+        102:
+            q: 물품
+            a: article
+
+        103:
+            q: 인공의
+            a: artificial
+
+        104:
+            q: 회
+            a: ash
+
+        105:
+            q: 곁에
+            a: aside
+
+        106:
+            q: 잠들은
+            a: asleep
+
+        107:
+            q: 관점
+            a: aspect
+
+        108:
+            q: 열망하다
+            a: aspire
+
+        109:
+            q: 모으다
+            a: assemble
+
+        110:
+            q: 단언하다
+            a: assert
+
+        111:
+            q: (세금 등을)사정하다
+            a: assess
+
+        112:
+            q: 자산
+            a: asset
+
+        113:
+            q: 할당하다
+            a: assign
+
+        114:
+            q: 돕다
+            a: assist
+
+        115:
+            q: 연상하다
+            a: associate
+
+        116:
+            q: 취하다
+            a: assume
+
+        117:
+            q: 보증하다
+            a: assure
+
+        118:
+            q: 놀라게 하다
+            a: astonish
+
+        119:
+            q: 운동가
+            a: athlete
+
+        120:
+            q: 대기
+            a: atmosphere
+
+        121:
+            q: 원자
+            a: atom
+
+        122:
+            q: 붙이다
+            a: attach
+
+        123:
+            q: 공격하다
+            a: attack
+
+        124:
+            q: 이르다
+            a: attain
+
+        125:
+            q: 시도하다
+            a: attempt
+
+        126:
+            q: 출석하다
+            a: attend
+
+        127:
+            q: 주의
+            a: attention
+
+        128:
+            q: 태도
+            a: attitude
+
+        129:
+            q: 끌어 당기다
+            a: attract
+
+        130:
+            q: 속성
+            a: attribute
+
+        131:
+            q: 경매
+            a: auction
+
+        132:
+            q: 청중
+            a: audience
+
+        133:
+            q: 저자
+            a: author
+
+        134:
+            q: 자서전
+            a: autobiography
+
+        135:
+            q: 자동의
+            a: automatic
+
+        136:
+            q: 자동차 자동차의
+            a: automobile
+
+        137:
+            q: 쓸모있는
+            a: available
+
+        138:
+            q: 가로수길
+            a: avenue
+
+        139:
+            q: 평균
+            a: average
+
+        140:
+            q: 피하다
+            a: avoid
+
+        141:
+            q: 기다리다
+            a: await
+
+        142:
+            q: 깨우다
+            a: awake
+
+        143:
+            q: 상
+            a: award
+
+        144:
+            q: 알고 있는
+            a: aware
+
+        145:
+            q: 무서운
+            a: awesome
+
+        146:
+            q: 두려운
+            a: awful
+
+        147:
+            q: 어색한
+            a: awkward
+
+        148:
+            q: 균형
+            a: balance
+
+        149:
+            q: 금지
+            a: ban
+
+        150:
+            q: 강타
+            a: bang
+
+        151:
+            q: 막대기
+            a: bar
+
+        152:
+            q: 벌거벗은
+            a: bare
+
+        153:
+            q: 매매
+            a: bargain
+
+        154:
+            q: 짖다
+            a: bark
+
+        155:
+            q: 헛간
+            a: barn
+
+        156:
+            q: 장벽
+            a: barrier
+
+        157:
+            q: 기초
+            a: basis
+
+        158:
+            q: 만
+            a: bay
+
+        159:
+            q: 광선
+            a: beam
+
+        160:
+            q: 턱수염
+            a: beard
+
+        161:
+            q: 짐승
+            a: beast
+
+        162:
+            q: 치다
+            a: beat
+
+        163:
+            q: 맥주
+            a: beer
+
+        164:
+            q: 청하다
+            a: beg
+
+        165:
+            q: 위함
+            a: behalf
+
+        166:
+            q: 행동하다
+            a: behave
+
+        167:
+            q: 행동
+            a: behavior
+
+        168:
+            q: 속하다
+            a: belong
+
+        169:
+            q: 구부리다
+            a: bend
+
+        170:
+            q: -의 바로 아래에
+            a: beneath
+
+        171:
+            q: 이익
+            a: benefit
+
+        172:
+            q: 액과
+            a: berry
+
+        173:
+            q: 걸다
+            a: bet
+
+        174:
+            q: 배반하다
+            a: betray
+
+        175:
+            q: 저편에
+            a: beyond
+
+        176:
+            q: 치우침
+            a: bias
+
+        177:
+            q: 성서, 성경
+            a: bible
+
+        178:
+            q: 10억
+            a: billion
+
+        179:
+            q: 궤
+            a: bin
+
+        180:
+            q: 매다
+            a: bind
+
+        181:
+            q: 전기
+            a: biography
+
+        182:
+            q: 생물학
+            a: biology
+
+        183:
+            q: bite의 과거(분사) 작은 조각
+            a: bit
+
+        184:
+            q: 쓴
+            a: bitter
+
+        185:
+            q: 책망하다
+            a: blame
+
+        186:
+            q: 공백
+            a: blank
+
+        187:
+            q: 담요
+            a: blanket
+
+        188:
+            q: 혼합하다
+            a: blend
+
+        189:
+            q: 축복하다
+            a: bless
+
+        190:
+            q: 눈먼
+            a: blind
+
+        191:
+            q: (눈을)깜빡거리다
+            a: blink
+
+        192:
+            q: (살결이 흰)금발의 여성
+            a: blonde
+
+        193:
+            q: 쇳덩이
+            a: bloom
+
+        194:
+            q: (과수의)꽃
+            a: blossom
+
+        195:
+            q: 강타
+            a: blow
+
+        196:
+            q: 끓다
+            a: boil
+
+        197:
+            q: 대담한
+            a: bold
+
+        198:
+            q: 결속
+            a: bond
+
+        199:
+            q: 굉음
+            a: boom
+
+        200:
+            q: 뒤를 밀기
+            a: boost
+
+        201:
+            q: 가장자리
+            a: border
+
+        202:
+            q: 고조
+            a: bore
+
+        203:
+            q: 괴롭히다 근심하다 귀찮음
+            a: bother
+
+        204:
+            q: 뛰어오르다
+            a: bounce
+
+        205:
+            q: 경계
+            a: boundary
+
+        206:
+            q: 절
+            a: bow
+
+        207:
+            q: 가슴
+            a: breast
+
+        208:
+            q: 숨쉬다
+            a: breathe
+
+        209:
+            q: 미풍
+            a: breeze
+
+        210:
+            q: 벽돌
+            a: brick
+
+        211:
+            q: 신부
+            a: bride
+
+        212:
+            q: 단시간의
+            a: brief
+
+        213:
+            q: 빛나는
+            a: brilliant
+
+        214:
+            q: (폭이)넓은
+            a: broad
+
+        215:
+            q: 방송하다
+            a: broadcast
+
+        216:
+            q: 예산
+            a: budget
+
+        217:
+            q: 황소
+            a: bull
+
+        218:
+            q: 탄환
+            a: bullet
+
+        219:
+            q: 약한 자를 못살게 구는 자
+            a: bully
+
+        220:
+            q: 충돌 부딪치다
+            a: bump
+
+        221:
+            q: 송이
+            a: bunch
+
+        222:
+            q: 다발
+            a: bundle
+
+        223:
+            q: 후렴
+            a: burden
+
+        224:
+            q: 파열하다
+            a: burst
+
+        225:
+            q: 묻다
+            a: bury
+
+        226:
+            q: 덤불
+            a: bush
+
+        227:
+            q: 정육점주인
+            a: butcher
+
+        228:
+            q: 윙윙거리는 소리
+            a: buzz
+
+        229:
+            q: 택시
+            a: cab
+
+        230:
+            q: 선실
+            a: cabin
+
+        231:
+            q: 해저전신
+            a: cable
+
+        232:
+            q: 계산하다
+            a: calculate
+
+        233:
+            q: 취소하다
+            a: cancel
+
+        234:
+            q: 암
+            a: cancer
+
+        235:
+            q: 지원자
+            a: candidate
+
+        236:
+            q: 돛베
+            a: canvas
+
+        237:
+            q: 할 수 있는
+            a: capable
+
+        238:
+            q: 곶
+            a: cape
+
+        239:
+            q: 수위의
+            a: capital
+
+        240:
+            q: 붙잡다(=catch)
+            a: capture
+
+        241:
+            q: 경력
+            a: career
+
+        242:
+            q: 조각하다
+            a: carve
+
+        243:
+            q: 던지다
+            a: cast
+
+        244:
+            q: 우연한
+            a: casual
+
+        245:
+            q: 범주
+            a: category
+
+        246:
+            q: 소
+            a: cattle
+
+        247:
+            q: 원인의
+            a: causal
+
+        248:
+            q: 원인
+            a: cause
+
+        249:
+            q: 조심
+            a: caution
+
+        250:
+            q: 동굴 굴을 파다 꺼지다
+            a: cave
+
+        251:
+            q: 그만두다 그치다 중지
+            a: cease
+
+        252:
+            q: 천장
+            a: ceiling
+
+        253:
+            q: 경축하다
+            a: celebrate
+
+        254:
+            q: 명성
+            a: celebrity
+
+        255:
+            q: 작은 방
+            a: cell
+
+        256:
+            q: 검열관
+            a: censor
+
+        257:
+            q: 1세기
+            a: century
+
+        258:
+            q: 증명서
+            a: certificate
+
+        259:
+            q: 의장
+            a: chairman
+
+        260:
+            q: 도전
+            a: challenge
+
+        261:
+            q: 혼돈
+            a: chaos
+
+        262:
+            q: 인격
+            a: character
+
+        263:
+            q: 특유한
+            a: characteristic
+
+        264:
+            q: 요금
+            a: charge
+
+        265:
+            q: 자비
+            a: charity
+
+        266:
+            q: 매력
+            a: charm
+
+        267:
+            q: 쫓다
+            a: chase
+
+        268:
+            q: 잡담
+            a: chat
+
+        269:
+            q: 볼
+            a: cheek
+
+        270:
+            q: 갈채
+            a: cheer
+
+        271:
+            q: 쿡
+            a: chef
+
+        272:
+            q: 화학의
+            a: chemical
+
+        273:
+            q: 화학
+            a: chemistry
+
+        274:
+            q: 가슴팍
+            a: chest
+
+        275:
+            q: 씹다
+            a: chew
+
+        276:
+            q: 우두머리
+            a: chief
+
+        277:
+            q: 차가움
+            a: chill
+
+        278:
+            q: 턱(끝) 턱에 대다
+            a: chin
+
+        279:
+            q: (나무)토막
+            a: chip
+
+        280:
+            q: (교회의)성가대
+            a: choir
+
+        281:
+            q: (도끼 등으로)자르다
+            a: chop
+
+        282:
+            q: 합창
+            a: chorus
+
+        283:
+            q: 궐련
+            a: cigarette
+
+        284:
+            q: 순환하다
+            a: circulate
+
+        285:
+            q: 환경
+            a: circumstance
+
+        286:
+            q: 인용하다(quote)
+            a: cite
+
+        287:
+            q: 시민
+            a: citizen
+
+        288:
+            q: 시민의
+            a: civil
+
+        289:
+            q: 요구하다
+            a: claim
+
+        290:
+            q: 짝짝
+            a: clap
+
+        291:
+            q: 맑게 하다
+            a: clarify
+
+        292:
+            q: 충돌하다
+            a: clash
+
+        293:
+            q: 고전의
+            a: classic
+
+        294:
+            q: 분류하다
+            a: classify
+
+        295:
+            q: 조항
+            a: clause
+
+        296:
+            q: 찰흙
+            a: clay
+
+        297:
+            q: 소송의뢰인
+            a: client
+
+        298:
+            q: 절벽
+            a: cliff
+
+        299:
+            q: 기후
+            a: climate
+
+        300:
+            q: 밀착하다
+            a: cling
+
+        301:
+            q: 병원
+            a: clinic
+
+        302:
+            q: 단서
+            a: clue
+
+        303:
+            q: 떼
+            a: cluster
+
+        304:
+            q: 역마차
+            a: coach
+
+        305:
+            q: 석탄
+            a: coal
+
+        306:
+            q: 연안
+            a: coast
+
+        307:
+            q: 법전
+            a: code
+
+        308:
+            q: 일치하다
+            a: coincide
+
+        309:
+            q: 공동으로 일하다
+            a: collaborate
+
+        310:
+            q: 붕괴
+            a: collapse
+
+        311:
+            q: 칼라
+            a: collar
+
+        312:
+            q: 동료
+            a: colleague
+
+        313:
+            q: 식민지
+            a: colony
+
+        314:
+            q: (신문 등의)난
+            a: column
+
+        315:
+            q: 격투하다
+            a: combat
+
+        316:
+            q: 결합하다
+            a: combine
+
+        317:
+            q: 위안
+            a: comfort
+
+        318:
+            q: 명령하다
+            a: command
+
+        319:
+            q: 논평
+            a: comment
+
+        320:
+            q: 상업
+            a: commerce
+
+        321:
+            q: 위임
+            a: commission
+
+        322:
+            q: 위탁하다
+            a: commit
+
+        323:
+            q: 위원회
+            a: committee
+
+        324:
+            q: 알리다
+            a: communicate
+
+        325:
+            q: 공산주의자
+            a: communist
+
+        326:
+            q: 공동생활체
+            a: community
+
+        327:
+            q: 동료
+            a: companion
+
+        328:
+            q: 비교하다
+            a: compare
+
+        329:
+            q: 경쟁하다
+            a: compete
+
+        330:
+            q: 능력있는
+            a: competent
+
+        331:
+            q: 불평하다
+            a: complain
+
+        332:
+            q: 보완하는 것
+            a: complement
+
+        333:
+            q: 완성하다
+            a: complete
+
+        334:
+            q: 합성물
+            a: complex
+
+        335:
+            q: 복잡하게 하다
+            a: complicate
+
+        336:
+            q: 구성하다
+            a: compose
+
+        337:
+            q: 이해력있는
+            a: comprehensive
+
+        338:
+            q: 숨기다
+            a: conceal
+
+        339:
+            q: 집중하다
+            a: concentrate
+
+        340:
+            q: 개념
+            a: concept
+
+        341:
+            q: 관계하다
+            a: concern
+
+        342:
+            q: 결정하다
+            a: conclude
+
+        343:
+            q: 구체적인 응고물
+            a: concrete
+
+        344:
+            q: 행위 이끌다
+            a: conduct
+
+        345:
+            q: 실토하다
+            a: confess
+
+        346:
+            q: 확신하는
+            a: confident
+
+        347:
+            q: 국경
+            a: confine
+
+        348:
+            q: 확인하다
+            a: confirm
+
+        349:
+            q: 투쟁
+            a: conflict
+
+        350:
+            q: 일치시키다
+            a: conform
+
+        351:
+            q: 직면하다
+            a: confront
+
+        352:
+            q: 혼란시키다
+            a: confuse
+
+        353:
+            q: 회의
+            a: congress
+
+        354:
+            q: 잇다 이어지다
+            a: connect
+
+        355:
+            q: 양심
+            a: conscience
+
+        356:
+            q: 의식적인
+            a: conscious
+
+        357:
+            q: 숙고하다
+            a: consider
+
+        358:
+            q: -으로 이루어지다
+            a: consist
+
+        359:
+            q: 시종일관한
+            a: consistent
+
+        360:
+            q: 불변의
+            a: constant
+
+        361:
+            q: 건조하다
+            a: construct
+
+        362:
+            q: 상의하다
+            a: consult
+
+        363:
+            q: 소비하다
+            a: consume
+
+        364:
+            q: 접촉
+            a: contact
+
+        365:
+            q: 내포하다
+            a: contain
+
+        366:
+            q: 만족하여
+            a: content
+
+        367:
+            q: 문맥
+            a: context
+
+        368:
+            q: 자제심이 있는
+            a: continent
+
+        369:
+            q: 계속하다
+            a: continue
+
+        370:
+            q: 계약
+            a: contract
+
+        371:
+            q: 반대의 반대 거꾸로
+            a: contrary
+
+        372:
+            q: 대조
+            a: contrast
+
+        373:
+            q: 기부하다
+            a: contribute
+
+        374:
+            q: 논쟁
+            a: controversy
+
+        375:
+            q: 편리한
+            a: convenient
+
+        376:
+            q: 회화
+            a: conversation
+
+        377:
+            q: 나르다
+            a: convey
+
+        378:
+            q: 유죄로 판결하다 죄수
+            a: convict
+
+        379:
+            q: 확신시키다
+            a: convince
+
+        380:
+            q: 협동하다
+            a: cooperate
+
+        381:
+            q: 순경
+            a: cop
+
+        382:
+            q: 코우프(성직자의 긴 겉옷)
+            a: cope
+
+        383:
+            q: 판권
+            a: copyright
+
+        384:
+            q: 밧줄
+            a: cord
+
+        385:
+            q: 핵심
+            a: core
+
+        386:
+            q: 티눈
+            a: corn
+
+        387:
+            q: 법인조직의
+            a: corporate
+
+        388:
+            q: 옳은
+            a: correct
+
+        389:
+            q: 일치하다
+            a: correspond
+
+        390:
+            q: 타락한
+            a: corrupt
+
+        391:
+            q: 복장
+            a: costume
+
+        392:
+            q: 시골집
+            a: cottage
+
+        393:
+            q: 침대
+            a: couch
+
+        394:
+            q: 기침 기침을 하다 기침을 하여 -을 뱉어내다
+            a: cough
+
+        395:
+            q: 회의
+            a: council
+
+        396:
+            q: 의논
+            a: counsel
+
+        397:
+            q: 계산
+            a: count
+
+        398:
+            q: 계산하는 사람
+            a: counter
+
+        399:
+            q: 용기
+            a: courage
+
+        400:
+            q: 목동
+            a: cowboy
+
+        401:
+            q: 찰싹 소리내다 금가다 날카로운소리
+            a: crack
+
+        402:
+            q: 솜씨
+            a: craft
+
+        403:
+            q: 도산
+            a: crash
+
+        404:
+            q: 네발로 기다
+            a: crawl
+
+        405:
+            q: 창조하다
+            a: create
+
+        406:
+            q: 창조물
+            a: creature
+
+        407:
+            q: 믿을 수 있는
+            a: credible
+
+        408:
+            q: 신용
+            a: credit
+
+        409:
+            q: 승무원
+            a: crew
+
+        410:
+            q: 크리켓
+            a: cricket
+
+        411:
+            q: 범죄
+            a: crime
+
+        412:
+            q: 죄의
+            a: criminal
+
+        413:
+            q: 위기
+            a: crisis
+
+        414:
+            q: 파삭파삭한
+            a: crisp
+
+        415:
+            q: 비평가
+            a: critic
+
+        416:
+            q: 비평하다
+            a: criticize
+
+        417:
+            q: 비평
+            a: criticism
+
+        418:
+            q: 수확
+            a: crop
+
+        419:
+            q: 결정적인
+            a: crucial
+
+        420:
+            q: 잔인한
+            a: cruel
+
+        421:
+            q: 순항하다
+            a: cruise
+
+        422:
+            q: 눌러 부수다
+            a: crush
+
+        423:
+            q: 수정
+            a: crystal
+
+        424:
+            q: 경작하다
+            a: cultivate
+
+        425:
+            q: 찬장
+            a: cupboard
+
+        426:
+            q: 치료
+            a: cure
+
+        427:
+            q: 곱슬머리 머리털을 지지다
+            a: curl
+
+        428:
+            q: 유행의
+            a: current
+
+        429:
+            q: 카레요리 카레로 맛을 내다
+            a: curry
+
+        430:
+            q: 곡선
+            a: curve
+
+        431:
+            q: 습관
+            a: custom
+
+        432:
+            q: 낙농장
+            a: dairy
+
+        433:
+            q: 댐
+            a: dam
+
+        434:
+            q: 손해
+            a: damage
+
+        435:
+            q: 축축한 습기 적시다
+            a: damp
+
+        436:
+            q: au감히 -하다
+            a: dare
+
+        437:
+            q: 귀여운
+            a: darling
+
+        438:
+            q: 돌진
+            a: dash
+
+        439:
+            q: 데이터베이스
+            a: database
+
+        440:
+            q: 새벽 날이 새다
+            a: dawn
+
+        441:
+            q: 양
+            a: deal
+
+        442:
+            q: 토론 토론하다
+            a: debate
+
+        443:
+            q: 빚
+            a: debt
+
+        444:
+            q: 10년간
+            a: decade
+
+        445:
+            q: 쇠퇴하다
+            a: decay
+
+        446:
+            q: 결정
+            a: decision
+
+        447:
+            q: 갑판
+            a: deck
+
+        448:
+            q: 선언하다
+            a: declare
+
+        449:
+            q: 기울다
+            a: decline
+
+        450:
+            q: 장식하다
+            a: decorate
+
+        451:
+            q: 감소하다
+            a: decrease
+
+        452:
+            q: 패배
+            a: defeat
+
+        453:
+            q: 방어
+            a: defense
+
+        454:
+            q: 방어하다
+            a: defend
+
+        455:
+            q: 피고 피고의
+            a: defendant
+
+        456:
+            q: 정의하다
+            a: define
+
+        457:
+            q: 일정한
+            a: definite
+
+        458:
+            q: 도
+            a: degree
+
+        459:
+            q: 늦추다
+            a: delay
+
+        460:
+            q: 삭제하다
+            a: delete
+
+        461:
+            q: 미묘한
+            a: delicate
+
+        462:
+            q: 즐겁게하다 즐거워하다
+            a: delight
+
+        463:
+            q: 인도하다
+            a: deliver
+
+        464:
+            q: 요구하다
+            a: demand
+
+        465:
+            q: 민주주의
+            a: democracy
+
+        466:
+            q: 민주주의자
+            a: democrat
+
+        467:
+            q: 악마
+            a: demon
+
+        468:
+            q: 증명하다
+            a: demonstrate
+
+        469:
+            q: 짙은
+            a: dense
+
+        470:
+            q: 부정하다
+            a: deny
+
+        471:
+            q: 부
+            a: department
+
+        472:
+            q: 출발
+            a: departure
+
+        473:
+            q: 좌우되다
+            a: depend
+
+        474:
+            q: 종속
+            a: dependence
+
+        475:
+            q: 억압하다
+            a: depress
+
+        476:
+            q: 이끌어 내다
+            a: derive
+
+        477:
+            q: 내려오다
+            a: descend
+
+        478:
+            q: 기술하다
+            a: describe
+
+        479:
+            q: 서술
+            a: description
+
+        480:
+            q: 버리다
+            a: desert
+
+        481:
+            q:  -할 만하다
+            a: deserve
+
+        482:
+            q: 바라다
+            a: desire
+
+        483:
+            q: 절망하다
+            a: despair
+
+        484:
+            q: 절망적인
+            a: desperate
+
+        485:
+            q: -에도 불구하고 모욕
+            a: despite
+
+        486:
+            q: 목적지
+            a: destination
+
+        487:
+            q: 운명
+            a: destiny
+
+        488:
+            q: 파괴하다
+            a: destroy
+
+        489:
+            q: 파괴
+            a: destruction
+
+        490:
+            q: 분리하다
+            a: detach
+
+        491:
+            q: 상설
+            a: detail
+
+        492:
+            q: 간파하다
+            a: detect
+
+        493:
+            q: 결정하다
+            a: determine
+
+        494:
+            q: 발달하다
+            a: develop
+
+        495:
+            q: 고안
+            a: device
+
+        496:
+            q: 악마
+            a: devil
+
+        497:
+            q: 고안하다
+            a: devise
+
+        498:
+            q: 바치다
+            a: devote
+
+        499:
+            q: 사전
+            a: dictionary
+
+        500:
+            q: 파다
+            a: dig
+
+        501:
+            q: 감소하다
+            a: diminish
+
+        502:
+            q: 담그다
+            a: dip
+
+        503:
+            q: 외교관
+            a: diplomat
+
+        504:
+            q: 지도하다
+            a: direct
+
+        505:
+            q: 불구가 된
+            a: disabled
+
+        506:
+            q: 불리
+            a: disadvantage
+
+        507:
+            q: 일치하지 않다
+            a: disagree
+
+        508:
+            q: 안보이게 되다
+            a: disappear
+
+        509:
+            q: 실망시키다
+            a: disappoint
+
+        510:
+            q: 천재
+            a: disaster
+
+        511:
+            q: 훈련
+            a: discipline
+
+        512:
+            q: 나타내다
+            a: disclose
+
+        513:
+            q: 할인
+            a: discount
+
+        514:
+            q: 발견하다
+            a: discover
+
+        515:
+            q: 병
+            a: disease
+
+        516:
+            q: 불쾌하게 하다
+            a: disgust
+
+        517:
+            q: 떠나게 하다
+            a: dismiss
+
+        518:
+            q: 난잡
+            a: disorder
+
+        519:
+            q: 보이다
+            a: display
+
+        520:
+            q: 배열하다
+            a: dispose
+
+        521:
+            q: 떨어진
+            a: distant
+
+        522:
+            q: 전환시키다
+            a: distract
+
+        523:
+            q: 분배하다
+            a: distribute
+
+        524:
+            q: 지구
+            a: district
+
+        525:
+            q: 교란하다
+            a: disturb
+
+        526:
+            q: 뛰어들다
+            a: dive
+
+        527:
+            q: 다양한
+            a: diverse
+
+        528:
+            q: 이혼
+            a: divorce
+
+        529:
+            q: 서류
+            a: document
+
+        530:
+            q: 영토
+            a: domain
+
+        531:
+            q: 가정의
+            a: domestic
+
+        532:
+            q: 증여하다
+            a: donate
+
+        533:
+            q: 점
+            a: dot
+
+        534:
+            q: 의심
+            a: doubt
+
+        535:
+            q: 1다스
+            a: dozen
+
+        536:
+            q: 끌다
+            a: drag
+
+        537:
+            q: 제도사
+            a: drawer
+
+        538:
+            q: 물에빠뜨리다
+            a: drown
+
+        539:
+            q: 약제
+            a: drug
+
+        540:
+            q: 지급기일이 된
+            a: due
+
+        541:
+            q: 둔한
+            a: dull
+
+        542:
+            q: 내버리다
+            a: dump
+
+        543:
+            q: 먼지
+            a: dust
+
+        544:
+            q: 의무
+            a: duty
+
+        545:
+            q: 거주하다
+            a: dwell
+
+        546:
+            q: 동적인
+            a: dynamic
+
+        547:
+            q: 각각의
+            a: each
+
+        548:
+            q: 열심인
+            a: eager
+
+        549:
+            q: 일하여 벌다
+            a: earn
+
+        550:
+            q: 안락
+            a: ease
+
+        551:
+            q: 절약
+            a: economy
+
+        552:
+            q: 끝머리
+            a: edge
+
+        553:
+            q: 편집하다
+            a: edit
+
+        554:
+            q: 교육하다
+            a: educate
+
+        555:
+            q: 결과
+            a: effect
+
+        556:
+            q: 효과적인
+            a: effective
+
+        557:
+            q: 능률적인
+            a: efficient
+
+        558:
+            q: 노력
+            a: effort
+
+        559:
+            q: 어느 하나의
+            a: either
+
+        560:
+            q: 선거하다
+            a: elect
+
+        561:
+            q: 전기의
+            a: electric
+
+        562:
+            q: 전자(학)의
+            a: electronic
+
+        563:
+            q: 우아한
+            a: elegant
+
+        564:
+            q: 요소
+            a: element
+
+        565:
+            q: 제거하다
+            a: eliminate
+
+        566:
+            q: 그 밖에
+            a: else
+
+        567:
+            q: 난처하게 하다
+            a: embarrass
+
+        568:
+            q: 대사관
+            a: embassy
+
+        569:
+            q: 나오다
+            a: emerge
+
+        570:
+            q: 비상사태
+            a: emergency
+
+        571:
+            q: 감정
+            a: emotion
+
+        572:
+            q: 강조
+            a: emphasis
+
+        573:
+            q: 제국
+            a: empire
+
+        574:
+            q: 고용하다
+            a: employ
+
+        575:
+            q: 빈
+            a: empty
+
+        576:
+            q: 에워싸다
+            a: enclose
+
+        577:
+            q: 조우
+            a: encounter
+
+        578:
+            q: 용기를 돋우다
+            a: encourage
+
+        579:
+            q: 견디다
+            a: endure
+
+        580:
+            q: 적
+            a: enemy
+
+        581:
+            q: 약속하다
+            a: engage
+
+        582:
+            q: 향상하다
+            a: enhance
+
+        583:
+            q: 거대한
+            a: enormous
+
+        584:
+            q: -을 책임지다
+            a: ensure
+
+        585:
+            q: 기획
+            a: enterprise
+
+        586:
+            q: 즐겁게 하다
+            a: entertain
+
+        587:
+            q: 열심인
+            a: enthusiastic
+
+        588:
+            q: 전체의
+            a: entire
+
+        589:
+            q: 들어감
+            a: entry
+
+        590:
+            q: 봉투
+            a: envelope
+
+        591:
+            q: 환경
+            a: environment
+
+        592:
+            q: 질투
+            a: envy
+
+        593:
+            q: 삽화
+            a: episode
+
+        594:
+            q: 같은
+            a: equal
+
+        595:
+            q: 장비
+            a: equipment
+
+        596:
+            q: 시대
+            a: era
+
+        597:
+            q: 도망하다
+            a: escape
+
+        598:
+            q: 호위하다
+            a: escort
+
+        599:
+            q: 특히
+            a: especially
+
+        600:
+            q: 본질적인
+            a: essential
+
+        601:
+            q: 확립하다
+            a: establish
+
+        602:
+            q: 어림잡다
+            a: estimate
+
+        603:
+            q: 등등
+            a: etc
+
+        604:
+            q: 평가하다
+            a: evaluate
+
+        605:
+            q: 저녁, 밤
+            a: eve
+
+        606:
+            q: -조차
+            a: even
+
+        607:
+            q: 결국
+            a: eventually
+
+        608:
+            q: 이전에
+            a: ever
+
+        609:
+            q: 명백한
+            a: evident
+
+        610:
+            q: 사악한
+            a: evil
+
+        611:
+            q: 진화
+            a: evolution
+
+        612:
+            q: 진화하다
+            a: evolve
+
+        613:
+            q: 정확한
+            a: exact
+
+        614:
+            q: 과장하다
+            a: exaggerate
+
+        615:
+            q: 시험하다
+            a: examine
+
+        616:
+            q: 넘다
+            a: exceed
+
+        617:
+            q: 우수한
+            a: excellent
+
+        618:
+            q: -을 제외하고는 제외하다
+            a: except
+
+        619:
+            q: 초과
+            a: excess
+
+        620:
+            q: 교환하다
+            a: exchange
+
+        621:
+            q: 흥분시키다
+            a: excite
+
+        622:
+            q: 배척하다
+            a: exclude
+
+        623:
+            q: 변명
+            a: excuse
+
+        624:
+            q: 다 써버리다
+            a: exhaust
+
+        625:
+            q: 보이다
+            a: exhibit
+
+        626:
+            q: 존재하다
+            a: exist
+
+        627:
+            q: 외국의
+            a: exotic
+
+        628:
+            q: 펴다
+            a: expand
+
+        629:
+            q: 기대하다
+            a: expect
+
+        630:
+            q: 지출
+            a: expense
+
+        631:
+            q: 비용이 드는
+            a: expensive
+
+        632:
+            q: 경험
+            a: experience
+
+        633:
+            q: 실험
+            a: experiment
+
+        634:
+            q: 숙련가
+            a: expert
+
+        635:
+            q: 설명하다
+            a: explain
+
+        636:
+            q: 폭발시키다
+            a: explode
+
+        637:
+            q: 탐험하다
+            a: explore
+
+        638:
+            q: 수출하다 수출
+            a: export
+
+        639:
+            q: 쐬다, 드러내다, 맞히다
+            a: expose
+
+        640:
+            q: 발표하다
+            a: express
+
+        641:
+            q: 뻗다
+            a: extend
+
+        642:
+            q: 넓이
+            a: extent
+
+        643:
+            q: 외부의
+            a: external
+
+        644:
+            q: 꺼진
+            a: extinct
+
+        645:
+            q: 가외의
+            a: extra
+
+        646:
+            q: 극단의
+            a: extreme
+
+        647:
+            q: 눈썹
+            a: eyebrow
+
+        648:
+            q: 천
+            a: fabric
+
+        649:
+            q: 쉬움
+            a: facility
+
+        650:
+            q: 요소
+            a: factor
+
+        651:
+            q: 바래다
+            a: fade
+
+        652:
+            q: 기절하다
+            a: faint
+
+        653:
+            q: 공평한
+            a: fair
+
+        654:
+            q: 신용
+            a: faith
+
+        655:
+            q: 거짓
+            a: false
+
+        656:
+            q: 명성
+            a: fame
+
+        657:
+            q: 친한
+            a: familiar
+
+        658:
+            q: 공상
+            a: fancy
+
+        659:
+            q: 요금
+            a: fare
+
+        660:
+            q: 황홀케 하다
+            a: fascinate
+
+        661:
+            q: 단단히 고정시키다
+            a: fasten
+
+        662:
+            q: 숙명
+            a: fate
+
+        663:
+            q: 결점
+            a: fault
+
+        664:
+            q: 호의
+            a: favor
+
+        665:
+            q: 두려움
+            a: fear
+
+        666:
+            q: 얼굴의 생김새
+            a: feature
+
+        667:
+            q: 요금
+            a: fee
+
+        668:
+            q: 음식(먹이)을 주다
+            a: feed
+
+        669:
+            q: 동무
+            a: fellow
+
+        670:
+            q: 여성
+            a: female
+
+        671:
+            q: 나루터
+            a: ferry
+
+        672:
+            q: 소수의
+            a: few
+
+        673:
+            q: 섬유
+            a: fiber
+
+        674:
+            q: 흉포한
+            a: fierce
+
+        675:
+            q: 모습
+            a: figure
+
+        676:
+            q: 여과기 여과하다
+            a: filter
+
+        677:
+            q: 최후의
+            a: final
+
+        678:
+            q: 재정
+            a: finance
+
+        679:
+            q: 한정되어 있는
+            a: finite
+
+        680:
+            q: 굳은
+            a: firm
+
+        681:
+            q: 주먹
+            a: fist
+
+        682:
+            q: 맞는
+            a: fit
+
+        683:
+            q: 불꽃
+            a: flame
+
+        684:
+            q: 번쩍임
+            a: flash
+
+        685:
+            q: 편평한
+            a: flat
+
+        686:
+            q: (독특한)맛
+            a: flavor
+
+        687:
+            q: 금
+            a: flaw
+
+        688:
+            q: 살
+            a: flesh
+
+        689:
+            q: 구부리기 쉬운
+            a: flexible
+
+        690:
+            q: 날기
+            a: flight
+
+        691:
+            q: 뜨다
+            a: float
+
+        692:
+            q: 무리
+            a: flock
+
+        693:
+            q: 홍수
+            a: flood
+
+        694:
+            q: 번창하다
+            a: flourish
+
+        695:
+            q: 흐르다
+            a: flow
+
+        696:
+            q: 주름
+            a: fold
+
+        697:
+            q: 사람들
+            a: folk
+
+        698:
+            q: 쫓다
+            a: follow
+
+        699:
+            q: 금하다
+            a: forbid
+
+        700:
+            q: 힘
+            a: force
+
+        701:
+            q: 예상
+            a: forecast
+
+        702:
+            q: 이마
+            a: forehead
+
+        703:
+            q: 외국의
+            a: foreign
+
+        704:
+            q: 용서하다
+            a: forgive
+
+        705:
+            q: 형식상의
+            a: formal
+
+        706:
+            q: (서적의)체제
+            a: format
+
+        707:
+            q: 형성
+            a: formation
+
+        708:
+            q: 이전의
+            a: former
+
+        709:
+            q: 앞으로
+            a: forth
+
+        710:
+            q: 운좋은
+            a: fortunate
+
+        711:
+            q: 운
+            a: fortune
+
+        712:
+            q: 공개토론회
+            a: forum
+
+        713:
+            q: 앞쪽에
+            a: forward
+
+        714:
+            q: 기초
+            a: foundation
+
+        715:
+            q: 샘
+            a: fountain
+
+        716:
+            q: 구조
+            a: frame
+
+        717:
+            q: 뼈대
+            a: framework
+
+        718:
+            q: 솔직히
+            a: frankly
+
+        719:
+            q: 얼다
+            a: freeze
+
+        720:
+            q: 빈번한
+            a: frequent
+
+        721:
+            q: (갑자기 엄습하는)공포
+            a: fright
+
+        722:
+            q: 눈살을 찌푸리다
+            a: frown
+
+        723:
+            q: (계획 등을)좌절시키다
+            a: frustrate
+
+        724:
+            q: 연료
+            a: fuel
+
+        725:
+            q: 이행하다
+            a: fulfil
+
+        726:
+            q: 기능
+            a: function
+
+        727:
+            q: 기금
+            a: fund
+
+        728:
+            q: 기초(기준)의
+            a: fundamental
+
+        729:
+            q: 장사
+            a: funeral
+
+        730:
+            q: 모피
+            a: fur
+
+        731:
+            q: 가구
+            a: furniture
+
+        732:
+            q: 더우기
+            a: furthermore
+
+        733:
+            q: 얻다
+            a: gain
+
+        734:
+            q: 도박하다 도박 도박해서 잃다
+            a: gamble
+
+        735:
+            q: 한 떼
+            a: gang
+
+        736:
+            q: 갈라진 틈
+            a: gap
+
+        737:
+            q: 차고
+            a: garage
+
+        738:
+            q: 그러모으다
+            a: gather
+
+        739:
+            q: 톱니바퀴
+            a: gear
+
+        740:
+            q: 성
+            a: gender
+
+        741:
+            q: 유전(인)자
+            a: gene
+
+        742:
+            q: 일반적인
+            a: general
+
+        743:
+            q: 일대
+            a: generation
+
+        744:
+            q: 광대한
+            a: generous
+
+        745:
+            q: 천재
+            a: genius
+
+        746:
+            q: 유형
+            a: genre
+
+        747:
+            q: 온화한
+            a: gentle
+
+        748:
+            q: 진짜의
+            a: genuine
+
+        749:
+            q: 지리
+            a: geography
+
+        750:
+            q: 지질학
+            a: geology
+
+        751:
+            q: 흘긋 봄
+            a: glance
+
+        752:
+            q: 공모양의
+            a: global
+
+        753:
+            q: 영광
+            a: glory
+
+        754:
+            q: 타다
+            a: glow
+
+        755:
+            q: 염소
+            a: goat
+
+        756:
+            q: 상품
+            a: goods
+
+        757:
+            q: 호화로운
+            a: gorgeous
+
+        758:
+            q: 다스리다
+            a: govern
+
+        759:
+            q: 붙잡다(=snatch)
+            a: grab
+
+        760:
+            q: 은총
+            a: grace
+
+        761:
+            q: 등급
+            a: grade
+
+        762:
+            q: 점차적인
+            a: gradual
+
+        763:
+            q: 학위를 수여하다
+            a: graduate
+
+        764:
+            q: 곡물
+            a: grain
+
+        765:
+            q: 위대한
+            a: grand
+
+        766:
+            q: 받아들이다
+            a: grant
+
+        767:
+            q: 그려 놓은 듯한
+            a: graphic
+
+        768:
+            q: 고맙게 생각하는
+            a: grateful
+
+        769:
+            q: 무덤
+            a: grave
+
+        770:
+            q: 탐욕
+            a: greed
+
+        771:
+            q: 인사하다
+            a: greet
+
+        772:
+            q: 심한 슬픔(deep sorrow)
+            a: grief
+
+        773:
+            q: 잡기
+            a: grip
+
+        774:
+            q: 식품잡화류
+            a: grocery
+
+        775:
+            q: 보증하다
+            a: guarantee
+
+        776:
+            q: 손님
+            a: guest
+
+        777:
+            q: 지침
+            a: guideline
+
+        778:
+            q: 죄지은
+            a: guilty
+
+        779:
+            q: 총
+            a: gun
+
+        780:
+            q: 실내체조장
+            a: gymnasium
+
+        781:
+            q: 반
+            a: half
+
+        782:
+            q: 회관
+            a: hall
+
+        783:
+            q: 망치
+            a: hammer
+
+        784:
+            q: 불리한 조건
+            a: handicap
+
+        785:
+            q: 손잡이
+            a: handle
+
+        786:
+            q: (사건 등이)일어나다
+            a: happen
+
+        787:
+            q: 항구
+            a: harbor
+
+        788:
+            q: 거의 -아니다
+            a: hardly
+
+        789:
+            q: 해
+            a: harm
+
+        790:
+            q: 거친
+            a: harsh
+
+        791:
+            q: 수확
+            a: harvest
+
+        792:
+            q: 급함
+            a: haste
+
+        793:
+            q: 위험
+            a: hazard
+
+        794:
+            q: 고치다
+            a: heal
+
+        795:
+            q: 건강
+            a: health
+
+        796:
+            q: 듣다
+            a: hear
+
+        797:
+            q: 발뒤꿈치
+            a: heel
+
+        798:
+            q: 높이
+            a: height
+
+        799:
+            q: 지옥
+            a: hell
+
+        800:
+            q: 주저하다
+            a: hesitate
+
+        801:
+            q: 감추다
+            a: hide
+
+        802:
+            q: 대도
+            a: highway
+
+        803:
+            q: 엉덩이
+            a: hip
+
+        804:
+            q: 고용하다
+            a: hire
+
+        805:
+            q: 구멍
+            a: hole
+
+        806:
+            q: 신성한
+            a: holy
+
+        807:
+            q: 명예
+            a: honor
+
+        808:
+            q: 지평선
+            a: horizon
+
+        809:
+            q: 공포
+            a: horror
+
+        810:
+            q: 주인, 집주인 노릇, 호스트
+            a: host
+
+        811:
+            q: 가족
+            a: household
+
+        812:
+            q: 꼭 껴안다
+            a: hug
+
+        813:
+            q: 거대한
+            a: huge
+
+        814:
+            q: 상처내다
+            a: hurt
+
+        815:
+            q: 오두막
+            a: hut
+
+        816:
+            q: 이상
+            a: ideal
+
+        817:
+            q: 아주 동일한
+            a: identical
+
+        818:
+            q: 동일시하다
+            a: identify
+
+        819:
+            q: 무시하다
+            a: ignore
+
+        820:
+            q: 병든
+            a: ill
+
+        821:
+            q: 설명하다
+            a: illustrate
+
+        822:
+            q: 상상하다
+            a: imagine
+
+        823:
+            q: 흉내내다
+            a: imitate
+
+        824:
+            q: 직접의
+            a: immediate
+
+        825:
+            q: 면역성의
+            a: immune
+
+        826:
+            q: 충격
+            a: impact
+
+        827:
+            q: 제국의
+            a: imperial
+
+        828:
+            q: 수입하다
+            a: import
+
+        829:
+            q: 인상지우다
+            a: impress
+
+        830:
+            q: 개선하다
+            a: improve
+
+        831:
+            q: 자극적인
+            a: incentive
+
+        832:
+            q: 사건
+            a: incident
+
+        833:
+            q: 포함하다
+            a: include
+
+        834:
+            q: 수입
+            a: income
+
+        835:
+            q: 늘다
+            a: increase
+
+        836:
+            q: 믿을 수 없는
+            a: incredible
+
+        837:
+            q: 참으로
+            a: indeed
+
+        838:
+            q: 독립한
+            a: independent
+
+        839:
+            q: 지적하다
+            a: indicate
+
+        840:
+            q: 개인
+            a: individual
+
+        841:
+            q: 공업
+            a: industry
+
+        842:
+            q: 유아
+            a: infant
+
+        843:
+            q: 영향력
+            a: influence
+
+        844:
+            q: 알리다
+            a: inform
+
+        845:
+            q: 비공식의
+            a: informal
+
+        846:
+            q: 성분
+            a: ingredient
+
+        847:
+            q: 살다
+            a: inhabit
+
+        848:
+            q: 처음의
+            a: initial
+
+        849:
+            q: 시작하다
+            a: initiate
+
+        850:
+            q: 주사하다
+            a: inject
+
+        851:
+            q: 해치다
+            a: injure
+
+        852:
+            q: 여인숙
+            a: inn
+
+        853:
+            q: 무구한
+            a: innocent
+
+        854:
+            q: 새롭게 하다
+            a: innovate
+
+        855:
+            q: 투입
+            a: input
+
+        856:
+            q: 곤충
+            a: insect
+
+        857:
+            q: 끼워넣다
+            a: insert
+
+        858:
+            q: 통찰(력)
+            a: insight
+
+        859:
+            q: 주장하다
+            a: insist
+
+        860:
+            q: 검사하다
+            a: inspect
+
+        861:
+            q: 영감을 주다
+            a: inspire
+
+        862:
+            q: 설치하다
+            a: install
+
+        863:
+            q: 실례
+            a: instance
+
+        864:
+            q: 즉시의
+            a: instant
+
+        865:
+            q: 그 대신에
+            a: instead
+
+        866:
+            q: 본능
+            a: instinct
+
+        867:
+            q: 만들다
+            a: institute
+
+        868:
+            q: 가르치다
+            a: instruct
+
+        869:
+            q: 기구
+            a: instrument
+
+        870:
+            q: 모욕하다
+            a: insult
+
+        871:
+            q: 보증하다
+            a: insure
+
+        872:
+            q: 지적인
+            a: intellectual
+
+        873:
+            q: 지적인
+            a: intelligent
+
+        874:
+            q: -할 작정이다
+            a: intend
+
+        875:
+            q: 강렬한
+            a: intense
+
+        876:
+            q: 의향
+            a: intent
+
+        877:
+            q: 서로 작용하다
+            a: interact
+
+        878:
+            q: 흥미
+            a: interest
+
+        879:
+            q: 간섭하다
+            a: interfere
+
+        880:
+            q: 중간의 중간물
+            a: intermediate
+
+        881:
+            q: 내부의
+            a: internal
+
+        882:
+            q: 국제적인
+            a: international
+
+        883:
+            q: 해석하다
+            a: interpret
+
+        884:
+            q: 훼방놓다
+            a: interrupt
+
+        885:
+            q: 간격
+            a: interval
+
+        886:
+            q: 친밀한
+            a: intimate
+
+        887:
+            q: 침입하다
+            a: invade
+
+        888:
+            q: 발명하다
+            a: invent
+
+        889:
+            q: 투자하다
+            a: invest
+
+        890:
+            q: 조사하다
+            a: investigate
+
+        891:
+            q: 말아넣다
+            a: involve
+
+        892:
+            q: 쇠
+            a: iron
+
+        893:
+            q: 반어
+            a: irony
+
+        894:
+            q: 노하게 하다
+            a: irritate
+
+        895:
+            q: 섬
+            a: island
+
+        896:
+            q: 고립시키다
+            a: isolate
+
+        897:
+            q: 조항
+            a: item
+
+        898:
+            q: 교도소
+            a: jail
+
+        899:
+            q: (아가리가 넓은)항아리
+            a: jar
+
+        900:
+            q: 턱
+            a: jaw
+
+        901:
+            q: (가스등의)분출
+            a: jet
+
+        902:
+            q: 살짝 밀다 덜커덕 움직이다 고르지 않음
+            a: jog
+
+        903:
+            q: 이음매
+            a: joint
+
+        904:
+            q: 농담
+            a: joke
+
+        905:
+            q: 일간신문
+            a: journal
+
+        906:
+            q: 여행
+            a: journey
+
+        907:
+            q: 재판관
+            a: judge
+
+        908:
+            q: 손아래사람
+            a: junior
+
+        909:
+            q: 배심
+            a: jury
+
+        910:
+            q: 정의
+            a: justice
+
+        911:
+            q: 옳다고 하다
+            a: justify
+
+        912:
+            q: 연장통
+            a: kit
+
+        913:
+            q: 무릎
+            a: knee
+
+        914:
+            q: (중세의)기사
+            a: knight
+
+        915:
+            q: 치다
+            a: knock
+
+        916:
+            q: 라벨
+            a: label
+
+        917:
+            q: 노동
+            a: labor
+
+        918:
+            q: 실험실
+            a: laboratory
+
+        919:
+            q: 결핍
+            a: lack
+
+        920:
+            q: 사닥다리
+            a: ladder
+
+        921:
+            q: 어린 양
+            a: lamb
+
+        922:
+            q: 등
+            a: lamp
+
+        923:
+            q: 풍경
+            a: landscape
+
+        924:
+            q: 좁은길
+            a: lane
+
+        925:
+            q: 언어
+            a: language
+
+        926:
+            q: 무릎
+            a: lap
+
+        927:
+            q: 뒤쪽의
+            a: latter
+
+        928:
+            q: (소리내어)웃다
+            a: laugh
+
+        929:
+            q: 진수시키다
+            a: launch
+
+        930:
+            q: 세탁물
+            a: laundry
+
+        931:
+            q: 법률
+            a: law
+
+        932:
+            q: 잔디밭
+            a: lawn
+
+        933:
+            q: 법률가
+            a: lawyer
+
+        934:
+            q: 눕히다
+            a: lay
+
+        935:
+            q: 층
+            a: layer
+
+        936:
+            q: 이끌다
+            a: lead
+
+        937:
+            q: 샘
+            a: leak
+
+        938:
+            q: 기대다
+            a: lean
+
+        939:
+            q: 껑충 뛰다
+            a: leap
+
+        940:
+            q: 무두질한 가죽
+            a: leather
+
+        941:
+            q: 남기고가다
+            a: leave
+
+        942:
+            q: 강의
+            a: lecture
+
+        943:
+            q: 법률상의
+            a: legal
+
+        944:
+            q: 전설
+            a: legend
+
+        945:
+            q: 틈
+            a: leisure
+
+        946:
+            q: 빌리다
+            a: lend
+
+        947:
+            q: 시키다
+            a: let
+
+        948:
+            q: 수평의
+            a: level
+
+        949:
+            q: 자유주의의
+            a: liberal
+
+        950:
+            q: 자유
+            a: liberty
+
+        951:
+            q: 면허
+            a: license
+
+        952:
+            q: 뚜껑
+            a: lid
+
+        953:
+            q: 끌어올리다
+            a: lift
+
+        954:
+            q: 있을 법한
+            a: likely
+
+        955:
+            q: 같이, 마찬가지로
+            a: likewise
+
+        956:
+            q: 한계
+            a: limit
+
+        957:
+            q: 말의
+            a: linguistic
+
+        958:
+            q: 사슬의 고리
+            a: link
+
+        959:
+            q: 액체
+            a: liquid
+
+        960:
+            q: 일람표
+            a: list
+
+        961:
+            q: 문학
+            a: literature
+
+        962:
+            q: 짐
+            a: load
+
+        963:
+            q: 대부
+            a: loan
+
+        964:
+            q: 장소의
+            a: local
+
+        965:
+            q: 관청 등을 두다
+            a: locate
+
+        966:
+            q: 자물쇠
+            a: lock
+
+        967:
+            q: 통나무
+            a: log
+
+        968:
+            q: 논리학
+            a: logic
+
+        969:
+            q: 풀어진
+            a: loose
+
+        970:
+            q: 잃다
+            a: lose
+
+        971:
+            q: 잃음
+            a: loss
+
+        972:
+            q: 제비
+            a: lot
+
+        973:
+            q: 시끄러운
+            a: loud
+
+        974:
+            q: 빈둥거리다
+            a: lounge
+
+        975:
+            q: 충성스러운
+            a: loyal
+
+        976:
+            q: 사치
+            a: luxury
+
+        977:
+            q: 기계
+            a: machine
+
+        978:
+            q: 잡지
+            a: magazine
+
+        979:
+            q: 자석
+            a: magnet
+
+        980:
+            q: 주요한
+            a: main
+
+        981:
+            q: 계속하다
+            a: maintain
+
+        982:
+            q: 큰쪽의
+            a: major
+
+        983:
+            q: 대다수
+            a: majority
+
+        984:
+            q: 남성의
+            a: male
+
+        985:
+            q: 관리하다
+            a: manage
+
+        986:
+            q: 방법
+            a: manner
+
+        987:
+            q: 제조하다
+            a: manufacture
+
+        988:
+            q: 가장자리
+            a: margin
+
+        989:
+            q: 바다의
+            a: marine
+
+        990:
+            q: 표
+            a: mark
+
+        991:
+            q: 경이
+            a: marvel
+
+        992:
+            q: 덩어리
+            a: mass
+
+        993:
+            q: 장
+            a: master
+
+        994:
+            q: 성냥
+            a: match
+
+        995:
+            q: 상대
+            a: mate
+
+        996:
+            q: 원료
+            a: material
+
+        997:
+            q: 물질
+            a: matter
+
+        998:
+            q: 익은
+            a: mature
+
+        999:
+            q: 최고점
+            a: maximum
+
+        1000:
+            q: 아마
+            a: maybe
+
+        1001:
+            q: 시장
+            a: mayor
+
+        1002:
+            q: 식사
+            a: meal
+
+        1003:
+            q: 의미하다
+            a: mean
+
+        1004:
+            q: 그동안 그 사이에
+            a: meantime
+
+        1005:
+            q: 재다
+            a: measure
+
+        1006:
+            q: 직공
+            a: mechanic
+
+        1007:
+            q: (기계)장치
+            a: mechanism
+
+        1008:
+            q: 중재하다
+            a: mediate
+
+        1009:
+            q: 의학의
+            a: medical
+
+        1010:
+            q: 약
+            a: medicine
+
+        1011:
+            q: 중간
+            a: medium
+
+        1012:
+            q: 녹다
+            a: melt
+
+        1013:
+            q: 마음의
+            a: mental
+
+        1014:
+            q: 말하다
+            a: mention
+
+        1015:
+            q: 상인
+            a: merchant
+
+        1016:
+            q: 장점
+            a: merit
+
+        1017:
+            q: 혼란
+            a: mess
+
+        1018:
+            q: 금속
+            a: metal
+
+        1019:
+            q: 방법
+            a: method
+
+        1020:
+            q: 확성기
+            a: microphone
+
+        1021:
+            q: 극초단파 전자레인지로 요리하다
+            a: microwave
+
+        1022:
+            q: 온후한
+            a: mild
+
+        1023:
+            q: 군의
+            a: military
+
+        1024:
+            q: 멧돌
+            a: mill
+
+        1025:
+            q: 백만
+            a: million
+
+        1026:
+            q: 광산업자
+            a: miner
+
+        1027:
+            q: 광물
+            a: mineral
+
+        1028:
+            q: 최소(한도)의
+            a: minimal
+
+        1029:
+            q: 최소 한도
+            a: minimum
+
+        1030:
+            q: 장관(목사)의 직(소임)
+            a: ministry
+
+        1031:
+            q: 작은 편의
+            a: minor
+
+        1032:
+            q: 분
+            a: minute
+
+        1033:
+            q: 기적
+            a: miracle
+
+        1034:
+            q: 미사일
+            a: missile
+
+        1035:
+            q: 사명
+            a: mission
+
+        1036:
+            q: 틀리다
+            a: mistake
+
+        1037:
+            q: 섞다
+            a: mix
+
+        1038:
+            q: 움직이기 쉬운
+            a: mobile
+
+        1039:
+            q: 방법
+            a: mode
+
+        1040:
+            q: 현대의
+            a: modern
+
+        1041:
+            q: 습기
+            a: moisture
+
+        1042:
+            q: 순간
+            a: moment
+
+        1043:
+            q: 충고자
+            a: monitor
+
+        1044:
+            q: 괴물
+            a: monster
+
+        1045:
+            q: (일시적인)기분
+            a: mood
+
+        1046:
+            q: 도덕의
+            a: moral
+
+        1047:
+            q: 그 위에
+            a: moreover
+
+        1048:
+            q: 운동
+            a: motion
+
+        1049:
+            q: 동기
+            a: motive
+
+        1050:
+            q: 산
+            a: mount
+
+        1051:
+            q: 진흙
+            a: mud
+
+        1052:
+            q: 복합의
+            a: multiple
+
+        1053:
+            q: 늘리다
+            a: multiply
+
+        1054:
+            q: 살인
+            a: murder
+
+        1055:
+            q: 근육
+            a: muscle
+
+        1056:
+            q: 버섯
+            a: mushroom
+
+        1057:
+            q: 신화
+            a: myth
+
+        1058:
+            q: 손톱
+            a: nail
+
+        1059:
+            q: 발가벗은
+            a: naked
+
+        1060:
+            q: 이야기하다
+            a: narrate
+
+        1061:
+            q: 좁은
+            a: narrow
+
+        1062:
+            q: 타고난
+            a: native
+
+        1063:
+            q: 해군(력)
+            a: navy
+
+        1064:
+            q: 산뜻한
+            a: neat
+
+        1065:
+            q: 필요한
+            a: necessary
+
+        1066:
+            q: 바늘 바늘로 꿰매다 바느질하다 아슬아슬한
+            a: needle
+
+        1067:
+            q: 부정적인
+            a: negative
+
+        1068:
+            q: 게을리 하다
+            a: neglect
+
+        1069:
+            q: 교섭하다
+            a: negotiate
+
+        1070:
+            q: 이웃사람(나라)
+            a: neighbor
+
+        1071:
+            q: (둘중)어느쪽도 -아니다 -도 아니다
+            a: neither
+
+        1072:
+            q: 조카
+            a: nephew
+
+        1073:
+            q: 신경의
+            a: nervous
+
+        1074:
+            q: 보금자리
+            a: nest
+
+        1075:
+            q: 그물
+            a: net
+
+        1076:
+            q: 그물세공
+            a: network
+
+        1077:
+            q: 중립의
+            a: neutral
+
+        1078:
+            q: 그럼에도 불구하고
+            a: nevertheless
+
+        1079:
+            q: 악몽
+            a: nightmare
+
+        1080:
+            q: 고귀한
+            a: noble
+
+        1081:
+            q: 아무도 -않다 하찮은 사람
+            a: nobody
+
+        1082:
+            q: 끄덕이다
+            a: nod
+
+        1083:
+            q: 소리
+            a: noise
+
+        1084:
+            q: 아무도(조금도)-않다 조금도(결코)-않다
+            a: none
+
+        1085:
+            q: 허튼 소리
+            a: nonsense
+
+        1086:
+            q: -도 또한-않다
+            a: nor
+
+        1087:
+            q: 표준(의)
+            a: normal
+
+        1088:
+            q: 통지, 통보
+            a: notice
+
+        1089:
+            q: 소설
+            a: novel
+
+        1090:
+            q: 오늘날에는, 요즈음에는
+            a: nowadays
+
+        1091:
+            q: 아무데도 …없다
+            a: nowhere
+
+        1092:
+            q: 핵의, 핵을 형성하는 원자핵의
+            a: nuclear
+
+        1093:
+            q: 견과
+            a: nut
+
+        1094:
+            q: 참나무
+            a: oak
+
+        1095:
+            q: 따르다
+            a: obey
+
+        1096:
+            q: 사물
+            a: object
+
+        1097:
+            q: 객관적인
+            a: objective
+
+        1098:
+            q: 관찰하다
+            a: observe
+
+        1099:
+            q: 얻다
+            a: obtain
+
+        1100:
+            q: 명백한
+            a: obvious
+
+        1101:
+            q: 경우
+            a: occasion
+
+        1102:
+            q: 일직업
+            a: occupation
+
+        1103:
+            q: 차지하다
+            a: occupy
+
+        1104:
+            q: 일어나다
+            a: occur
+
+        1105:
+            q: 묘한
+            a: odd
+
+        1106:
+            q: 성나게 하다
+            a: offend
+
+        1107:
+            q: 권하다
+            a: offer
+
+        1108:
+            q: 공무원
+            a: officer
+
+        1109:
+            q: 공무원
+            a: official
+
+        1110:
+            q: 올리브나무
+            a: olive
+
+        1111:
+            q: 한번
+            a: once
+
+        1112:
+            q: 움직이다
+            a: operate
+
+        1113:
+            q: 의견
+            a: opinion
+
+        1114:
+            q: 기회
+            a: opportunity
+
+        1115:
+            q: 반대하다
+            a: oppose
+
+        1116:
+            q: 낙천가
+            a: optimist
+
+        1117:
+            q: 선택(권의 자유)
+            a: option
+
+        1118:
+            q: 구두의
+            a: oral
+
+        1119:
+            q: 관현악단
+            a: orchestra
+
+        1120:
+            q: 순서
+            a: order
+
+        1121:
+            q: 보통의
+            a: ordinary
+
+        1122:
+            q: (생물의)기관
+            a: organ
+
+        1123:
+            q: 유기체의
+            a: organic
+
+        1124:
+            q: 조직하다
+            a: organize
+
+        1125:
+            q: 동양 동양의 동쪽으로 향하게 하다
+            a: orient
+
+        1126:
+            q: 기원
+            a: origin
+
+        1127:
+            q: 다른 다른 것 그렇지 않고
+            a: other
+
+        1128:
+            q: 딴 방법으로는
+            a: otherwise
+
+        1129:
+            q: au해야만 하다
+            a: ought
+
+        1130:
+            q: 결과
+            a: outcome
+
+        1131:
+            q: 윤곽
+            a: outline
+
+        1132:
+            q: 산출
+            a: output
+
+        1133:
+            q: 눈에 띄는
+            a: outstanding
+
+        1134:
+            q: 포괄(전면)적인 덧옷
+            a: overall
+
+        1135:
+            q: 이기다
+            a: overcome
+
+        1136:
+            q: 머리위에 머리 위의
+            a: overhead
+
+        1137:
+            q: 겹치다
+            a: overlap
+
+        1138:
+            q: 내려다 보다
+            a: overlook
+
+        1139:
+            q: 전날밤의
+            a: overnight
+
+        1140:
+            q: 해외(로부터)의
+            a: oversea
+
+        1141:
+            q: 지불할 의무가 있다
+            a: owe
+
+        1142:
+            q: 자기자신의 소유하다
+            a: own
+
+        1143:
+            q: 한걸음
+            a: pace
+
+        1144:
+            q: 꾸러미
+            a: pack
+
+        1145:
+            q: 다발
+            a: packet
+
+        1146:
+            q: (및에)덧대는 것
+            a: pad
+
+        1147:
+            q: 고통
+            a: pain
+
+        1148:
+            q: 한쌍
+            a: pair
+
+        1149:
+            q: 창백한
+            a: pale
+
+        1150:
+            q: 손바닥
+            a: palm
+
+        1151:
+            q: 남비 사금 등을 남비로 가려내다
+            a: pan
+
+        1152:
+            q: 돌연한공포
+            a: panic
+
+        1153:
+            q: (문장의)절
+            a: paragraph
+
+        1154:
+            q: 용서하다 용서
+            a: pardon
+
+        1155:
+            q: 참가하다
+            a: participate
+
+        1156:
+            q: 특수한
+            a: particular
+
+        1157:
+            q: 통행, 통과
+            a: passage
+
+        1158:
+            q: 승객
+            a: passenger
+
+        1159:
+            q: 정열
+            a: passion
+
+        1160:
+            q: 여권
+            a: passport
+
+        1161:
+            q: 과거
+            a: past
+
+        1162:
+            q: 작은 길
+            a: path
+
+        1163:
+            q: 인내심이 강한 환자
+            a: patient
+
+        1164:
+            q: 모범
+            a: pattern
+
+        1165:
+            q: 중지
+            a: pause
+
+        1166:
+            q: (뾰족한)끝
+            a: peak
+
+        1167:
+            q: 껍질을 벗기다 벗어지다 껍질
+            a: peel
+
+        1168:
+            q: 동료
+            a: peer
+
+        1169:
+            q: 벌
+            a: penalty
+
+        1170:
+            q: 고추
+            a: pepper
+
+        1171:
+            q: -에 의하여
+            a: per
+
+        1172:
+            q: 지각하다
+            a: perceive
+
+        1173:
+            q: 완전한
+            a: perfect
+
+        1174:
+            q: 다하다
+            a: perform
+
+        1175:
+            q: 아마
+            a: perhaps
+
+        1176:
+            q: 시간
+            a: period
+
+        1177:
+            q: 영구의
+            a: permanent
+
+        1178:
+            q: 허가하다
+            a: permit
+
+        1179:
+            q: 사람
+            a: person
+
+        1180:
+            q: 개성
+            a: personality
+
+        1181:
+            q: 설득하다
+            a: persuade
+
+        1182:
+            q: 애완동물
+            a: pet
+
+        1183:
+            q: 현상
+            a: phenomenon
+
+        1184:
+            q: 철학
+            a: philosophy
+
+        1185:
+            q: 사진 촬영하다
+            a: photograph
+
+        1186:
+            q: 구
+            a: phrase
+
+        1187:
+            q: 물질의
+            a: physical
+
+        1188:
+            q: 물리학
+            a: physics
+
+        1189:
+            q: 한 조각
+            a: piece
+
+        1190:
+            q: 쌓아 올린 것
+            a: pile
+
+        1191:
+            q: 알약
+            a: pill
+
+        1192:
+            q: 핀 핀으로 꽂다
+            a: pin
+
+        1193:
+            q: 소나무 수척해 지다
+            a: pine
+
+        1194:
+            q: 개척자
+            a: pioneer
+
+        1195:
+            q: 불쌍히 여김
+            a: pity
+
+        1196:
+            q: 분명한
+            a: plain
+
+        1197:
+            q: 행성
+            a: planet
+
+        1198:
+            q: 실물
+            a: plant
+
+        1199:
+            q: 판
+            a: plate
+
+        1200:
+            q: 단
+            a: platform
+
+        1201:
+            q: 기분 좋은
+            a: pleasant
+
+        1202:
+            q: 즐거움
+            a: pleasure
+
+        1203:
+            q: 많음
+            a: plenty
+
+        1204:
+            q: 음모
+            a: plot
+
+        1205:
+            q: 더하기의 -외에
+            a: plus
+
+        1206:
+            q: 시
+            a: poem
+
+        1207:
+            q: 시인
+            a: poet
+
+        1208:
+            q: 독
+            a: poison
+
+        1209:
+            q: 남극의
+            a: polar
+
+        1210:
+            q: 폴란드사람
+            a: pole
+
+        1211:
+            q: 정책
+            a: policy
+
+        1212:
+            q: 공손한
+            a: polite
+
+        1213:
+            q: 정치
+            a: politics
+
+        1214:
+            q: 투표
+            a: poll
+
+        1215:
+            q: -을 더럽히다
+            a: pollute
+
+        1216:
+            q: 못, 연못
+            a: pond
+
+        1217:
+            q: 판돈
+            a: pool
+
+        1218:
+            q: 팝
+            a: pop
+
+        1219:
+            q: 민중 의, 대중의
+            a: popular
+
+        1220:
+            q: 인구
+            a: population
+
+        1221:
+            q: 돼지고기
+            a: pork
+
+        1222:
+            q: 항구, 항만, 상항
+            a: port
+
+        1223:
+            q: 초상
+            a: portrait
+
+        1224:
+            q: 자세, 포즈  마음가짐  꾸민 태도
+            a: pose
+
+        1225:
+            q: 위치
+            a: position
+
+        1226:
+            q: 명확한, 의문의 여지가 없는, 부정할 수 없는
+            a: positive
+
+        1227:
+            q: 소유하다
+            a: possess
+
+        1228:
+            q: 가능한
+            a: possible
+
+        1229:
+            q: 기둥
+            a: post
+
+        1230:
+            q: 포스터
+            a: poster
+
+        1231:
+            q: 단지
+            a: pot
+
+        1232:
+            q: 가능한
+            a: potential
+
+        1233:
+            q: 따르다
+            a: pour
+
+        1234:
+            q: 가루
+            a: powder
+
+        1235:
+            q: 실제의
+            a: practical
+
+        1236:
+            q: 연습
+            a: practice
+
+        1237:
+            q: 칭찬
+            a: praise
+
+        1238:
+            q: 빌다
+            a: pray
+
+        1239:
+            q: 비싼
+            a: precious
+
+        1240:
+            q: 정확한
+            a: precise
+
+        1241:
+            q: 예언하다, 예보하다 예언하다
+            a: predict
+
+        1242:
+            q: 오히려 …을 좋아하다,
+            a: prefer
+
+        1243:
+            q: 임신한 충만한
+            a: pregnant
+
+        1244:
+            q: 준비하 다, 마련하다, 채비를 갖추다
+            a: prepare
+
+        1245:
+            q: 명령하다, 지령하다
+            a: prescribe
+
+        1246:
+            q: 존재, 현존, 실재  출석, 임석, 참석
+            a: presence
+
+        1247:
+            q: 보호하다, 지키다
+            a: preserve
+
+        1248:
+            q: 대통령 회장
+            a: president
+
+        1249:
+            q: 강제로 모집하다
+            a: press
+
+        1250:
+            q: 핑계삼다
+            a: pretend
+
+        1251:
+            q: 막다, 방해하다
+            a: prevent
+
+        1252:
+            q: 앞의, 이전의
+            a: previous
+
+        1253:
+            q: 먹이
+            a: prey
+
+        1254:
+            q: 값, 가격, 대가, 정가
+            a: price
+
+        1255:
+            q: 자존심
+            a: pride
+
+        1256:
+            q: 성직자
+            a: priest
+
+        1257:
+            q: 첫째의, 제1위의, 수위의 초등의, 초보의
+            a: primary
+
+        1258:
+            q: 수위의, 최초의, 원시적인
+            a: prime
+
+        1259:
+            q: 원시의, 초기의
+            a: primitive
+
+        1260:
+            q: 주요한, 주된, 제일의, 앞장서는
+            a: principal
+
+        1261:
+            q: 원리, 원칙, 법칙, 공리
+            a: principle
+
+        1262:
+            q: 교도소
+            a: prison
+
+        1263:
+            q: 남의 눈을 피함, 은거, 은둔, 은퇴 생활 사생활
+            a: privacy
+
+        1264:
+            q: 사적인, 사사로운, 개인에 속한
+            a: private
+
+        1265:
+            q: 아마, 십중팔구
+            a: probably
+
+        1266:
+            q: 나아가다, 가다
+            a: proceed
+
+        1267:
+            q: 진행, 작용
+            a: process
+
+        1268:
+            q: 생산하다, 산출하다, 생기게 하다,
+            a: produce
+
+        1269:
+            q: 직업 공언, 선언, 고백
+            a: profession
+
+        1270:
+            q: 교수
+            a: professor
+
+        1271:
+            q: 이익, 이득, 벌이
+            a: profit
+
+        1272:
+            q: 진행, 전진, 진척  진보, 향상, 발달, 발전
+            a: progress
+
+        1273:
+            q: 약속, 서약, 계약
+            a: promise
+
+        1274:
+            q: 승진시키다 진행시키다,
+            a: promote
+
+        1275:
+            q: 발음하다, 음독하다
+            a: pronounce
+
+        1276:
+            q: 증명
+            a: proof
+
+        1277:
+            q: 고유의, 독특한, 본연의,  특유한
+            a: proper
+
+        1278:
+            q: 재산, 자산
+            a: property
+
+        1279:
+            q: 제의하다, 제출하다 추천하다, 지명하다
+            a: propose
+
+        1280:
+            q: 전망, 조망, 경치
+            a: prospect
+
+        1281:
+            q: 보호하다, 막다, 지키다, 비호하다
+            a: protect
+
+        1282:
+            q: IG1s
+            a: protein
+
+        1283:
+            q: 단언하다
+            a: protest
+
+        1284:
+            q: 뽐내는, 자랑하는 자긍하는, 영광 으로 여기는
+            a: proud
+
+        1285:
+            q: 시험하다, 실험하다, 경험하다, 시험해 보다
+            a: prove
+
+        1286:
+            q: 준비하다, 미리 …에 대비하다  규정하다
+            a: provide
+
+        1287:
+            q: 주, 성, 도  범위, 영역, 분야
+            a: province
+
+        1288:
+            q: 심리학
+            a: psychology
+
+        1289:
+            q: 펍
+            a: pub
+
+        1290:
+            q: 심리, 심리 상태
+            a: public
+
+        1291:
+            q: 발표 하다, 널리 알리다
+            a: publish
+
+        1292:
+            q: 끌다, 당기다, 끌어 당기다, 잡아 끌다
+            a: pull
+
+        1293:
+            q: 펌프스   댄스용 구두
+            a: pump
+
+        1294:
+            q: 주먹질, 펀치  힘, 활기
+            a: punch
+
+        1295:
+            q: 벌하다, 응징하다, 처형하다
+            a: punish
+
+        1296:
+            q: 흔히 국민학교 중학교 학생
+            a: pupil
+
+        1297:
+            q: 사다, 구입하다
+            a: purchase
+
+        1298:
+            q: 순수한  깨끗한, 순전한, 결백한
+            a: pure
+
+        1299:
+            q: 자줏빛의  새빨간  제왕의
+            a: purple
+
+        1300:
+            q: 목적
+            a: purpose
+
+        1301:
+            q: 쫓다, 추적하다, 몰다
+            a: pursue
+
+        1302:
+            q: 자격을 부여하다
+            a: qualify
+
+        1303:
+            q: 질
+            a: quality
+
+        1304:
+            q: 양
+            a: quantity
+
+        1305:
+            q: 1
+            a: quarter
+
+        1306:
+            q: (의무,책임을)벗어난 떠나다
+            a: quit
+
+        1307:
+            q: 아주
+            a: quite
+
+        1308:
+            q: 인종(상)의
+            a: racial
+
+        1309:
+            q: 가로장
+            a: rail
+
+        1310:
+            q: 올리다
+            a: raise
+
+        1311:
+            q: 닥치는 대로의
+            a: random
+
+        1312:
+            q: 줄
+            a: range
+
+        1313:
+            q: 열
+            a: rank
+
+        1314:
+            q: 빠른
+            a: rapid
+
+        1315:
+            q: 희귀한
+            a: rare
+
+        1316:
+            q: 쥐
+            a: rat
+
+        1317:
+            q: 율
+            a: rate
+
+        1318:
+            q: 오히려
+            a: rather
+
+        1319:
+            q: 날것의
+            a: raw
+
+        1320:
+            q: 도착하다
+            a: reach
+
+        1321:
+            q: 반응을 나타내다
+            a: react
+
+        1322:
+            q: 실재하는
+            a: real
+
+        1323:
+            q: 깨닫다
+            a: realize
+
+        1324:
+            q: 이성
+            a: reason
+
+        1325:
+            q: 되부르다
+            a: recall
+
+        1326:
+            q: 수령
+            a: receipt
+
+        1327:
+            q: 받다
+            a: receive
+
+        1328:
+            q: 최근의
+            a: recent
+
+        1329:
+            q: 받음
+            a: reception
+
+        1330:
+            q: 조리법
+            a: recipe
+
+        1331:
+            q: 인정하다
+            a: recognize
+
+        1332:
+            q: 추천하다
+            a: recommend
+
+        1333:
+            q: 기록하다
+            a: record
+
+        1334:
+            q: 되찾다
+            a: recover
+
+        1335:
+            q: 재생 이용하다
+            a: recycle
+
+        1336:
+            q: 줄이다
+            a: reduce
+
+        1337:
+            q: 조회시키다
+            a: refer
+
+        1338:
+            q: 반사하다
+            a: reflect
+
+        1339:
+            q: 개정(개혁)하다
+            a: reform
+
+        1340:
+            q: 냉장고
+            a: refrigerator
+
+        1341:
+            q: 거절하다
+            a: refuse
+
+        1342:
+            q: 주목해서 보다
+            a: regard
+
+        1343:
+            q: 지방
+            a: region
+
+        1344:
+            q: 기록
+            a: register
+
+        1345:
+            q: 유감
+            a: regret
+
+        1346:
+            q: 규칙적인
+            a: regular
+
+        1347:
+            q: 거절하다
+            a: reject
+
+        1348:
+            q: 이야기하다
+            a: relate
+
+        1349:
+            q: 친척
+            a: relative
+
+        1350:
+            q: 늦추다
+            a: relax
+
+        1351:
+            q: 도와주다
+            a: release
+
+        1352:
+            q: 구출하다
+            a: relieve
+
+        1353:
+            q: 종교
+            a: religion
+
+        1354:
+            q: 믿다
+            a: rely
+
+        1355:
+            q: 남다
+            a: remain
+
+        1356:
+            q: 깨닫다
+            a: remark
+
+        1357:
+            q: 치료
+            a: remedy
+
+        1358:
+            q: 생각나게 하다
+            a: remind
+
+        1359:
+            q: 먼
+            a: remote
+
+        1360:
+            q: 옮기다
+            a: remove
+
+        1361:
+            q: 지대
+            a: rent
+
+        1362:
+            q: 수선(수정)하다
+            a: repair
+
+        1363:
+            q: 반복하다
+            a: repeat
+
+        1364:
+            q: 되돌려 놓다
+            a: replace
+
+        1365:
+            q: 대답하다
+            a: reply
+
+        1366:
+            q: 보고
+            a: report
+
+        1367:
+            q: 표현(묘사)하다
+            a: represent
+
+        1368:
+            q: 공화국
+            a: republic
+
+        1369:
+            q: 부탁하다
+            a: request
+
+        1370:
+            q: 요구하다
+            a: require
+
+        1371:
+            q: 구하다
+            a: rescue
+
+        1372:
+            q: 연구
+            a: research
+
+        1373:
+            q: 닮다
+            a: resemble
+
+        1374:
+            q: 따로 두다
+            a: reserve
+
+        1375:
+            q: 저항하다
+            a: resist
+
+        1376:
+            q: 분해하다
+            a: resolve
+
+        1377:
+            q: (자주)가다
+            a: resort
+
+        1378:
+            q: 자원
+            a: resource
+
+        1379:
+            q: 존경하다
+            a: respect
+
+        1380:
+            q: 대답하다
+            a: respond
+
+        1381:
+            q: 책임을 져야할
+            a: responsible
+
+        1382:
+            q: 휴식
+            a: rest
+
+        1383:
+            q: 반환하다
+            a: restore
+
+        1384:
+            q: 결과
+            a: result
+
+        1385:
+            q: 퇴직하다
+            a: retire
+
+        1386:
+            q: 나타내다
+            a: reveal
+
+        1387:
+            q: 재조사
+            a: review
+
+        1388:
+            q: 교정하다
+            a: revise
+
+        1389:
+            q: 소생하다
+            a: revive
+
+        1390:
+            q: 혁명
+            a: revolution
+
+        1391:
+            q: 보수
+            a: reward
+
+        1392:
+            q: 율동
+            a: rhythm
+
+        1393:
+            q: 쌀
+            a: rice
+
+        1394:
+            q: 타다
+            a: ride
+
+        1395:
+            q: 올리다
+            a: rise
+
+        1396:
+            q: 위험 걸다
+            a: risk
+
+        1397:
+            q: 경쟁자 경쟁하는 경쟁하다
+            a: rival
+
+        1398:
+            q: 불에 쬐어 굽다 불고기 구운
+            a: roast
+
+        1399:
+            q: 강탈하다, 약탈하다, 빼앗다
+            a: rob
+
+        1400:
+            q: (배우의)역
+            a: role
+
+        1401:
+            q: 구르다
+            a: roll
+
+        1402:
+            q: 전기소설적인
+            a: romantic
+
+        1403:
+            q: 뿌리
+            a: root
+
+        1404:
+            q: 새끼
+            a: rope
+
+        1405:
+            q: 거친
+            a: rough
+
+        1406:
+            q: 둥근 원 돌아서
+            a: round
+
+        1407:
+            q: 길
+            a: route
+
+        1408:
+            q: 정해진 일
+            a: routine
+
+        1409:
+            q: 줄
+            a: row
+
+        1410:
+            q: 왕의
+            a: royal
+
+        1411:
+            q: 마찰하다
+            a: rub
+
+        1412:
+            q: 맛사지사
+            a: rubber
+
+        1413:
+            q: 버릇없는
+            a: rude
+
+        1414:
+            q: 파멸
+            a: ruin
+
+        1415:
+            q: 규칙
+            a: rule
+
+        1416:
+            q: 소문
+            a: rumor
+
+        1417:
+            q: 시골의
+            a: rural
+
+        1418:
+            q: 돌진하다
+            a: rush
+
+        1419:
+            q: 신성한
+            a: sacred
+
+        1420:
+            q: 희생
+            a: sacrifice
+
+        1421:
+            q: 돛
+            a: sail
+
+        1422:
+            q: 봉급 봉급을 주다
+            a: salary
+
+        1423:
+            q: 위성
+            a: satellite
+
+        1424:
+            q: 만족시키다
+            a: satisfy
+
+        1425:
+            q: 비늘(모양의 것)
+            a: scale
+
+        1426:
+            q: 시의 운율을살피다
+            a: scan
+
+        1427:
+            q: 추문
+            a: scandal
+
+        1428:
+            q: 위협하다
+            a: scare
+
+        1429:
+            q: 장면
+            a: scene
+
+        1430:
+            q: 계획
+            a: scheme
+
+        1431:
+            q: 학자
+            a: scholar
+
+        1432:
+            q: 꾸짖다 잔소리 심한 사람
+            a: scold
+
+        1433:
+            q: 기다
+            a: scramble
+
+        1434:
+            q: 할퀴다, 할퀴어 상처 를 내다  긁다
+            a: scratch
+
+        1435:
+            q: 비명을 지르다
+            a: scream
+
+        1436:
+            q: 병풍
+            a: screen
+
+        1437:
+            q: 인장
+            a: seal
+
+        1438:
+            q: 찾다
+            a: search
+
+        1439:
+            q: 좌석
+            a: seat
+
+        1440:
+            q: 비밀의
+            a: secret
+
+        1441:
+            q: 비서
+            a: secretary
+
+        1442:
+            q: 부채꼴
+            a: sector
+
+        1443:
+            q: 안전한
+            a: secure
+
+        1444:
+            q: 씨앗
+            a: seed
+
+        1445:
+            q: 찾다
+            a: seek
+
+        1446:
+            q: -으로 보이다
+            a: seem
+
+        1447:
+            q: 고르다
+            a: select
+
+        1448:
+            q: 자기
+            a: self
+
+        1449:
+            q: 연상의
+            a: senior
+
+        1450:
+            q: 감각
+            a: sensation
+
+        1451:
+            q: 감각
+            a: sense
+
+        1452:
+            q: 분별있는
+            a: sensible
+
+        1453:
+            q: 문장
+            a: sentence
+
+        1454:
+            q: 분리된
+            a: separate
+
+        1455:
+            q: 연속
+            a: series
+
+        1456:
+            q: 진지한
+            a: serious
+
+        1457:
+            q: 섬기다
+            a: serve
+
+        1458:
+            q: 개회
+            a: session
+
+        1459:
+            q: 등받이가 높은 긴 의자 놓다
+            a: settle
+
+        1460:
+            q: 수개의
+            a: several
+
+        1461:
+            q: 호된
+            a: severe
+
+        1462:
+            q: 꿰매다
+            a: sew
+
+        1463:
+            q: 성
+            a: sex
+
+        1464:
+            q: 그늘
+            a: shade
+
+        1465:
+            q: 그림자
+            a: shadow
+
+        1466:
+            q: 흔들어 움직이다
+            a: shake
+
+        1467:
+            q: au-하겠다
+            a: shall
+
+        1468:
+            q: 얕은 얕은 곳 얕아지다
+            a: shallow
+
+        1469:
+            q: 부끄럼
+            a: shame
+
+        1470:
+            q: 모양
+            a: shape
+
+        1471:
+            q: 몫
+            a: share
+
+        1472:
+            q: 날카로운
+            a: sharp
+
+        1473:
+            q: 깎다
+            a: shave
+
+        1474:
+            q: 양
+            a: sheep
+
+        1475:
+            q: 깔천
+            a: sheet
+
+        1476:
+            q: 선반
+            a: shelf
+
+        1477:
+            q: 겉껍질
+            a: shell
+
+        1478:
+            q: 옮기다
+            a: shift
+
+        1479:
+            q: 빛나다
+            a: shine
+
+        1480:
+            q: 쏘다
+            a: shoot
+
+        1481:
+            q: 물가
+            a: shore
+
+        1482:
+            q: 어깨
+            a: shoulder
+
+        1483:
+            q: 외치다
+            a: shout
+
+        1484:
+            q: 소나기 빗발치듯 퍼붓다(쏟다)
+            a: shower
+
+        1485:
+            q: 닫다
+            a: shut
+
+        1486:
+            q: 한숨
+            a: sigh
+
+        1487:
+            q: 광경
+            a: sight
+
+        1488:
+            q: 부호
+            a: sign
+
+        1489:
+            q: 중요한
+            a: significant
+
+        1490:
+            q: 조용한
+            a: silent
+
+        1491:
+            q: 비단
+            a: silk
+
+        1492:
+            q: 어리석은 바보
+            a: silly
+
+        1493:
+            q: 은
+            a: silver
+
+        1494:
+            q: 유사한
+            a: similar
+
+        1495:
+            q: 단일의
+            a: simple
+
+        1496:
+            q: 사인
+            a: sin
+
+        1497:
+            q: -이래
+            a: since
+
+        1498:
+            q: 단 하나의
+            a: single
+
+        1499:
+            q: 가라앉다
+            a: sink
+
+        1500:
+            q: 부지
+            a: site
+
+        1501:
+            q: 장소
+            a: situation
+
+        1502:
+            q: 숙련
+            a: skill
+
+        1503:
+            q: 도약
+            a: skip
+
+        1504:
+            q: 노예 노예처럼 일하다
+            a: slave
+
+        1505:
+            q: 얇은조각
+            a: slice
+
+        1506:
+            q: 미끄러지다
+            a: slide
+
+        1507:
+            q: 호리호리한
+            a: slim
+
+        1508:
+            q: (때가)어느덧 지나가다
+            a: slip
+
+        1509:
+            q: 박살내다
+            a: smash
+
+        1510:
+            q: 연기
+            a: smoke
+
+        1511:
+            q: 매끄러운
+            a: smooth
+
+        1512:
+            q: 뱀
+            a: snake
+
+        1513:
+            q: 덥석 물다
+            a: snap
+
+        1514:
+            q: 담그다
+            a: soak
+
+        1515:
+            q: 비누 비누로 씻다
+            a: soap
+
+        1516:
+            q: 사회의
+            a: social
+
+        1517:
+            q: 사회
+            a: society
+
+        1518:
+            q: 사회학
+            a: sociology
+
+        1519:
+            q: 소프트웨어
+            a: software
+
+        1520:
+            q: 흙
+            a: soil
+
+        1521:
+            q: 군인
+            a: soldier
+
+        1522:
+            q: 고체의
+            a: solid
+
+        1523:
+            q: 독주
+            a: solo
+
+        1524:
+            q: 해결하다
+            a: solve
+
+        1525:
+            q: 약간
+            a: somewhat
+
+        1526:
+            q: 얼마 안 가서
+            a: soon
+
+        1527:
+            q: 슬픈
+            a: sore
+
+        1528:
+            q: 종류
+            a: sort
+
+        1529:
+            q: 혼
+            a: soul
+
+        1530:
+            q: 원천
+            a: source
+
+        1531:
+            q: 여분의
+            a: spare
+
+        1532:
+            q: 불꽃
+            a: spark
+
+        1533:
+            q: 특별한
+            a: special
+
+        1534:
+            q: 종
+            a: species
+
+        1535:
+            q: 특정한
+            a: specific
+
+        1536:
+            q: 연설
+            a: speech
+
+        1537:
+            q: 철자하다
+            a: spell
+
+        1538:
+            q: 소비하다
+            a: spend
+
+        1539:
+            q: 잣다
+            a: spin
+
+        1540:
+            q: 정신
+            a: spirit
+
+        1541:
+            q: 망쳐놓다
+            a: spoil
+
+        1542:
+            q: 장소
+            a: spot
+
+        1543:
+            q: 펴다
+            a: spread
+
+        1544:
+            q: 정사각형의
+            a: square
+
+        1545:
+            q: 압착하다
+            a: squeeze
+
+        1546:
+            q: 안정된
+            a: stable
+
+        1547:
+            q: 무대
+            a: stage
+
+        1548:
+            q: 더럽히다
+            a: stain
+
+        1549:
+            q: 계단
+            a: stairs
+
+        1550:
+            q: 도장
+            a: stamp
+
+        1551:
+            q: 표준
+            a: standard
+
+        1552:
+            q: 응시하다
+            a: stare
+
+        1553:
+            q: 상태
+            a: state
+
+        1554:
+            q: 역
+            a: station
+
+        1555:
+            q: 조상
+            a: statue
+
+        1556:
+            q: 신분
+            a: status
+
+        1557:
+            q: 확고한
+            a: steady
+
+        1558:
+            q: 훔치다
+            a: steal
+
+        1559:
+            q: 증기
+            a: steam
+
+        1560:
+            q: 강철
+            a: steel
+
+        1561:
+            q: 줄기
+            a: stem
+
+        1562:
+            q: 걷다
+            a: step
+
+        1563:
+            q: 나무토막
+            a: stick
+
+        1564:
+            q: 소리가 없는 아직(도)
+            a: still
+
+        1565:
+            q: 줄기
+            a: stock
+
+        1566:
+            q: 위
+            a: stomach
+
+        1567:
+            q: 폭풍
+            a: storm
+
+        1568:
+            q: stave의 과거(분사)
+            a: stove
+
+        1569:
+            q: 곧은
+            a: straight
+
+        1570:
+            q: 이상한
+            a: strange
+
+        1571:
+            q: 용병학
+            a: strategy
+
+        1572:
+            q: 짚
+            a: straw
+
+        1573:
+            q: 시내
+            a: stream
+
+        1574:
+            q: 뻗치다
+            a: stretch
+
+        1575:
+            q: 엄중한
+            a: strict
+
+        1576:
+            q: 치다
+            a: strike
+
+        1577:
+            q: 끈
+            a: string
+
+        1578:
+            q: 줄무늬
+            a: stripe
+
+        1579:
+            q: 구조
+            a: structure
+
+        1580:
+            q: 버둥거리다
+            a: struggle
+
+        1581:
+            q: 재료
+            a: stuff
+
+        1582:
+            q: 복종시키다
+            a: subject
+
+        1583:
+            q: 잠수함
+            a: submarine
+
+        1584:
+            q: 교외
+            a: suburb
+
+        1585:
+            q: 성공하다
+            a: succeed
+
+        1586:
+            q: 이러한
+            a: such
+
+        1587:
+            q: 별안간의
+            a: sudden
+
+        1588:
+            q: 경험하다
+            a: suffer
+
+        1589:
+            q: 충분한
+            a: sufficient
+
+        1590:
+            q: 암시하다
+            a: suggest
+
+        1591:
+            q: 자살 자살하다
+            a: suicide
+
+        1592:
+            q: 소송
+            a: suit
+
+        1593:
+            q: 총계
+            a: sum
+
+        1594:
+            q: 요약
+            a: summary
+
+        1595:
+            q: 꼭대기
+            a: summit
+
+        1596:
+            q: 임시고용배우
+            a: super
+
+        1597:
+            q: 장려한
+            a: superb
+
+        1598:
+            q: 뛰어난
+            a: superior
+
+        1599:
+            q: 공급하다
+            a: supply
+
+        1600:
+            q: 지탱하다
+            a: support
+
+        1601:
+            q: 상상하다
+            a: suppose
+
+        1602:
+            q: 확신하는, 확실한 , 틀림없는
+            a: sure
+
+        1603:
+            q: 표면
+            a: surface
+
+        1604:
+            q: 외과
+            a: surgery
+
+        1605:
+            q: 놀람
+            a: surprise
+
+        1606:
+            q: 에워싸다
+            a: surround
+
+        1607:
+            q: 둘러보다
+            a: survey
+
+        1608:
+            q: 살아 남다
+            a: survive
+
+        1609:
+            q: 짐작하다
+            a: suspect
+
+        1610:
+            q: 삼키다
+            a: swallow
+
+        1611:
+            q: 땀
+            a: sweat
+
+        1612:
+            q: 단
+            a: sweet
+
+        1613:
+            q: 흔들리다
+            a: swing
+
+        1614:
+            q: 회초리
+            a: switch
+
+        1615:
+            q: 상징
+            a: symbol
+
+        1616:
+            q: 동정
+            a: sympathy
+
+        1617:
+            q: 교향곡
+            a: symphony
+
+        1618:
+            q: 조짐
+            a: symptom
+
+        1619:
+            q: 조직
+            a: system
+
+        1620:
+            q: 고패
+            a: tackle
+
+        1621:
+            q: 손잡이가죽
+            a: tag
+
+        1622:
+            q: 이야기
+            a: tale
+
+        1623:
+            q: 재주
+            a: talent
+
+        1624:
+            q: 가볍게 치기
+            a: tap
+
+        1625:
+            q: 과녁
+            a: target
+
+        1626:
+            q: 일
+            a: task
+
+        1627:
+            q: 귀영나팔
+            a: tattoo
+
+        1628:
+            q: 세금
+            a: tax
+
+        1629:
+            q: 차
+            a: tea
+
+        1630:
+            q: 눈물
+            a: tear
+
+        1631:
+            q: 10대
+            a: teenage
+
+        1632:
+            q: 온도
+            a: temperature
+
+        1633:
+            q: 관자놀이
+            a: temple
+
+        1634:
+            q: (-의)경향이 있다
+            a: tend
+
+        1635:
+            q: 제공
+            a: tender
+
+        1636:
+            q: 시제
+            a: tense
+
+        1637:
+            q: 기간
+            a: term
+
+        1638:
+            q: 종점의
+            a: terminal
+
+        1639:
+            q: 무시무시한
+            a: terrible
+
+        1640:
+            q: 무서운
+            a: terrific
+
+        1641:
+            q: 영토
+            a: territory
+
+        1642:
+            q: 원문
+            a: text
+
+        1643:
+            q: =theatre 극장
+            a: theater
+
+        1644:
+            q: 논제
+            a: theme
+
+        1645:
+            q: 그때
+            a: then
+
+        1646:
+            q: 이론
+            a: theory
+
+        1647:
+            q: 그런 까닭에
+            a: therefore
+
+        1648:
+            q: 두꺼운
+            a: thick
+
+        1649:
+            q: 도둑
+            a: thief
+
+        1650:
+            q: 얇은
+            a: thin
+
+        1651:
+            q: 완전한
+            a: thorough
+
+        1652:
+            q: -임에도 불구하고 그러나
+            a: though
+
+        1653:
+            q: 천
+            a: thousand
+
+        1654:
+            q: 협박
+            a: threat
+
+        1655:
+            q: 오싹하다 오싹함
+            a: thrill
+
+        1656:
+            q: 목
+            a: throat
+
+        1657:
+            q: (-을)통하여 통하여 직통의
+            a: through
+
+        1658:
+            q: 던지다
+            a: throw
+
+        1659:
+            q: 엄지손가락 엄지손가락으로 만지다
+            a: thumb
+
+        1660:
+            q: 이렇게
+            a: thus
+
+        1661:
+            q: 조수
+            a: tide
+
+        1662:
+            q: 말쑥한
+            a: tidy
+
+        1663:
+            q: 매다
+            a: tie
+
+        1664:
+            q: 단단한
+            a: tight
+
+        1665:
+            q: -까지
+            a: till
+
+        1666:
+            q: 주석
+            a: tin
+
+        1667:
+            q: 자그마한
+            a: tiny
+
+        1668:
+            q: 끝
+            a: tip
+
+        1669:
+            q: 피로하게 하다
+            a: tire
+
+        1670:
+            q: 조직
+            a: tissue
+
+        1671:
+            q: 표제
+            a: title
+
+        1672:
+            q: 담배
+            a: tobacco
+
+        1673:
+            q: 발가락
+            a: toe
+
+        1674:
+            q: 화장실
+            a: toilet
+
+        1675:
+            q: 음조
+            a: tone
+
+        1676:
+            q: 혀
+            a: tongue
+
+        1677:
+            q: 사용세
+            a: tool
+
+        1678:
+            q: 던지다
+            a: toss
+
+        1679:
+            q: 총계 전체의 합계하다
+            a: total
+
+        1680:
+            q: 단단한
+            a: tough
+
+        1681:
+            q: -쪽으로
+            a: toward
+
+        1682:
+            q: 독의
+            a: toxic
+
+        1683:
+            q: 발자국
+            a: trace
+
+        1684:
+            q: 매매
+            a: trade
+
+        1685:
+            q: 전설
+            a: tradition
+
+        1686:
+            q: 교통
+            a: traffic
+
+        1687:
+            q: 비극의
+            a: tragic
+
+        1688:
+            q: 옮기다
+            a: transfer
+
+        1689:
+            q: 변형(변용,변태)시키다
+            a: transform
+
+        1690:
+            q: 번역하다
+            a: translate
+
+        1691:
+            q: 수송(운송)하다
+            a: transport
+
+        1692:
+            q: 덫
+            a: trap
+
+        1693:
+            q: 쟁반
+            a: tray
+
+        1694:
+            q: 보물
+            a: treasure
+
+        1695:
+            q: 대우하다
+            a: treat
+
+        1696:
+            q: 방향
+            a: trend
+
+        1697:
+            q: 시험
+            a: trial
+
+        1698:
+            q: 종족
+            a: tribe
+
+        1699:
+            q: 책략
+            a: trick
+
+        1700:
+            q: 승리
+            a: triumph
+
+        1701:
+            q: 대
+            a: troop
+
+        1702:
+            q: 전리품
+            a: trophy
+
+        1703:
+            q: 고생
+            a: trouble
+
+        1704:
+            q: 즈봉
+            a: trouser
+
+        1705:
+            q: 줄기
+            a: trunk
+
+        1706:
+            q: 신용
+            a: trust
+
+        1707:
+            q: 진리
+            a: truth
+
+        1708:
+            q: 관
+            a: tube
+
+        1709:
+            q: 곡
+            a: tune
+
+        1710:
+            q: 터널
+            a: tunnel
+
+        1711:
+            q: 가정교사
+            a: tutor
+
+        1712:
+            q: 쌍동이
+            a: twin
+
+        1713:
+            q: 꼬이다
+            a: twist
+
+        1714:
+            q: 전형적인
+            a: typical
+
+        1715:
+            q: 최후의
+            a: ultimate
+
+        1716:
+            q: 한결같은
+            a: uniform
+
+        1717:
+            q: 하나로 하다
+            a: unify
+
+        1718:
+            q: 결합
+            a: union
+
+        1719:
+            q: 유일무이한
+            a: unique
+
+        1720:
+            q: 단위
+            a: unit
+
+        1721:
+            q: 결합하다
+            a: unite
+
+        1722:
+            q: 우주
+            a: universe
+
+        1723:
+            q: 종합대학(교) 대학의(에 관계 있는)
+            a: university
+
+        1724:
+            q: -하지 않으면
+            a: unless
+
+        1725:
+            q: -까지
+            a: until
+
+        1726:
+            q: 새롭게 하다 최신정보
+            a: update
+
+        1727:
+            q: -의 위에
+            a: upon
+
+        1728:
+            q: 위쪽의
+            a: upper
+
+        1729:
+            q: 뒤집어 엎다
+            a: upset
+
+        1730:
+            q: 위로 향한
+            a: upward
+
+        1731:
+            q: 도시의
+            a: urban
+
+        1732:
+            q: 몰아대다
+            a: urge
+
+        1733:
+            q: 긴급한
+            a: urgent
+
+        1734:
+            q: 평소의
+            a: usual
+
+        1735:
+            q: 휴가
+            a: vacation
+
+        1736:
+            q: 진공
+            a: vacuum
+
+        1737:
+            q: 골짜기
+            a: valley
+
+        1738:
+            q: 가치
+            a: value
+
+        1739:
+            q: 유개트럭
+            a: van
+
+        1740:
+            q: 가지가지의
+            a: various
+
+        1741:
+            q: 바꾸다
+            a: vary
+
+        1742:
+            q: 광대한, 광막한 막대한
+            a: vast
+
+        1743:
+            q: 운반 기구, 운송 수단,  수레, 차량, 탈것
+            a: vehicle
+
+        1744:
+            q: 모험
+            a: venture
+
+        1745:
+            q: 번역, 번역문 개작, 각색, 번안
+            a: version
+
+        1746:
+            q: …대, …에 대한
+            a: versus
+
+        1747:
+            q: …을 거쳐, …을 경유하여
+            a: via
+
+        1748:
+            q: 희생, 산 제물, 인신 제물
+            a: victim
+
+        1749:
+            q: 승리, 전승
+            a: victory
+
+        1750:
+            q: 봄, 관찰, 개관, 실지 검증  보는 힘, 시계, 시야
+            a: view
+
+        1751:
+            q: 마을, 촌락
+            a: village
+
+        1752:
+            q: 격렬한, 맹렬한
+            a: violent
+
+        1753:
+            q: 눈에 보이는,  볼 수 있는
+            a: visible
+
+        1754:
+            q: 시각의, 물건을 보기 위한
+            a: visual
+
+        1755:
+            q: 어휘, 용어수, 용어 범위
+            a: vocabulary
+
+        1756:
+            q: 책  권
+            a: volume
+
+        1757:
+            q: 자발적인, 수의의
+            a: voluntary
+
+        1758:
+            q: 찬부 표시, 투표, 표결
+            a: vote
+
+        1759:
+            q: 여행
+            a: voyage
+
+        1760:
+            q: 임금
+            a: wage
+
+        1761:
+            q: 경고하다
+            a: warn
+
+        1762:
+            q: 낭비하다
+            a: waste
+
+        1763:
+            q: 물결
+            a: wave
+
+        1764:
+            q: 약한
+            a: weak
+
+        1765:
+            q: 재산
+            a: wealth
+
+        1766:
+            q: 무기
+            a: weapon
+
+        1767:
+            q: 무게를 달다
+            a: weigh
+
+        1768:
+            q: 불가사의한
+            a: weird
+
+        1769:
+            q: 행복
+            a: welfare
+
+        1770:
+            q: 고래
+            a: whale
+
+        1771:
+            q: 밀
+            a: wheat
+
+        1772:
+            q: 바퀴
+            a: wheel
+
+        1773:
+            q: -인지 어떤지
+            a: whether
+
+        1774:
+            q: 어느 쪽
+            a: which
+
+        1775:
+            q: 동안 -하는 동안
+            a: while
+
+        1776:
+            q: 속삭이다
+            a: whisper
+
+        1777:
+            q: 휘파람
+            a: whistle
+
+        1778:
+            q: 전체의
+            a: whole
+
+        1779:
+            q: 폭넓은
+            a: wide
+
+        1780:
+            q: 널리 보급되어 있는
+            a: widespread
+
+        1781:
+            q: 야생의
+            a: wild
+
+        1782:
+            q: 날개
+            a: wing
+
+        1783:
+            q: 닦다
+            a: wipe
+
+        1784:
+            q: 철사
+            a: wire
+
+        1785:
+            q: 슬기로운
+            a: wise
+
+        1786:
+            q: 기지
+            a: wit
+
+        1787:
+            q: prop.-의 안쪽에 안으로 내부
+            a: within
+
+        1788:
+            q: prop.-없이 밖은
+            a: without
+
+        1789:
+            q: 증언
+            a: witness
+
+        1790:
+            q: 경이
+            a: wonder
+
+        1791:
+            q: 양모
+            a: wool
+
+        1792:
+            q: 숭배
+            a: worship
+
+        1793:
+            q: 가치가 있는 가치
+            a: worth
+
+        1794:
+            q: auwill의 과거
+            a: would
+
+        1795:
+            q: 부상
+            a: wound
+
+        1796:
+            q: 싸다
+            a: wrap
+
+        1797:
+            q: 고함치다
+            a: yell
+
+        1798:
+            q: 아직
+            a: yet
+
+        1799:
+            q: 대
+            a: zone
+            
+    전문:
+        0:
+            q: 유산하다
+            a: abort
+
+        1:
+            q: 불합리한
+            a: absurd
+
+        2:
+            q: 일치하다
+            a: accord
+
+        3:
+            q: 축적하다
+            a: accumulate
+
+        4:
+            q: 알리다
+            a: acquaint
+
+        5:
+            q: 획득
+            a: acquisition
+
+        6:
+            q: 거꾸로의
+            a: adverse
+
+        7:
+            q: 미적인
+            a: aesthetic
+
+        8:
+            q: 회원으로 가입시키다
+            a: affiliate
+
+        9:
+            q: 할당하다
+            a: allocate
+
+        10:
+            q: 확대하다
+            a: amplify
+
+        11:
+            q: 기록보관소
+            a: archive
+
+        12:
+            q: 습격
+            a: assault
+
+        13:
+            q: 변호사
+            a: attorney
+
+        14:
+            q: 진짜의
+            a: authentic
+
+        15:
+            q: 파산자
+            a: bankrupt
+
+        16:
+            q: 주교
+            a: bishop
+
+        17:
+            q: 돌풍
+            a: blast
+
+        18:
+            q: 기르다
+            a: breed
+
+        19:
+            q: 양조하다
+            a: brew
+
+        20:
+            q: 야수 짐승같은
+            a: brute
+
+        21:
+            q: 부피
+            a: bulk
+
+        22:
+            q: 표제
+            a: caption
+
+        23:
+            q: 음식물을 마련하다
+            a: cater
+
+        24:
+            q: 대성당
+            a: cathedral
+
+        25:
+            q: 방
+            a: chamber
+
+        26:
+            q: 만성의
+            a: chronic
+
+        27:
+            q: 시작하다
+            a: commence
+
+        28:
+            q: 상품
+            a: commodity
+
+        29:
+            q: 양립할 수 있는
+            a: compatible
+
+        30:
+            q: 억지로 -시키다
+            a: compel
+
+        31:
+            q: 배상하다
+            a: compensate
+
+        32:
+            q: 편찬하다
+            a: compile
+
+        33:
+            q: 구성하는 성분
+            a: component
+
+        34:
+            q: 성분 등을 혼합하다
+            a: compound
+
+        35:
+            q: 포함하다
+            a: comprise
+
+        36:
+            q: 타협 타협하다
+            a: compromise
+
+        37:
+            q: 의무적인
+            a: compulsory
+
+        38:
+            q: 상상하다
+            a: conceive
+
+        39:
+            q: 나무라다
+            a: condemn
+
+        40:
+            q: 주다
+            a: confer
+
+        41:
+            q: (의견 등의)일치
+            a: consensus
+
+        42:
+            q: 승낙하다
+            a: consent
+
+        43:
+            q: 보존하다
+            a: conserve
+
+        44:
+            q: 구성하다
+            a: constitute
+
+        45:
+            q: 강제하다
+            a: constrain
+
+        46:
+            q: 현대의
+            a: contemporary
+
+        47:
+            q: 싸우다
+            a: contend
+
+        48:
+            q: 반박하다
+            a: contradict
+
+        49:
+            q: 관례
+            a: convention
+
+        50:
+            q: 바꾸다
+            a: convert
+
+        51:
+            q: 동격의
+            a: coordinate
+
+        52:
+            q: 복도
+            a: corridor
+
+        53:
+            q: 부본
+            a: counterpart
+
+        54:
+            q: 주
+            a: county
+
+        55:
+            q: 시내
+            a: creek
+
+        56:
+            q: 기다
+            a: creep
+
+        57:
+            q: criterion의 복수형
+            a: criteria
+
+        58:
+            q: 통용
+            a: currency
+
+        59:
+            q: 과목
+            a: curriculum
+
+        60:
+            q: 저주
+            a: curse
+
+        61:
+            q: 보호
+            a: custody
+
+        62:
+            q: 냉소적인
+            a: cynical
+
+        63:
+            q: 점잖은
+            a: decent
+
+        64:
+            q: 봉납하다
+            a: dedicate
+
+        65:
+            q: 결핍
+            a: deficiency
+
+        66:
+            q: 결손
+            a: deficit
+
+        67:
+            q: 지위를 낮추다
+            a: degrade
+
+        68:
+            q: 파견하다
+            a: delegate
+
+        69:
+            q: 숙고하다
+            a: deliberate
+
+        70:
+            q: 묘사하다
+            a: depict
+
+        71:
+            q: 예금
+            a: deposit
+
+        72:
+            q: 빼앗다
+            a: deprive
+
+        73:
+            q: 가리키다
+            a: designate
+
+        74:
+            q: 당뇨병
+            a: diabetes
+
+        75:
+            q: 받아쓰게 하다
+            a: dictate
+
+        76:
+            q: 위엄
+            a: dignity
+
+        77:
+            q: 치수
+            a: dimension
+
+        78:
+            q: 저녁식사를 하다
+            a: dine
+
+        79:
+            q: 짐을부리다
+            a: discharge
+
+        80:
+            q: 강연
+            a: discourse
+
+        81:
+            q: 분별하다
+            a: discriminate
+
+        82:
+            q: 바꾸어놓다
+            a: displace
+
+        83:
+            q: 논쟁하다
+            a: dispute
+
+        84:
+            q: 분열시키다
+            a: disrupt
+
+        85:
+            q: 찌그러뜨리다
+            a: distort
+
+        86:
+            q: 신의
+            a: divine
+
+        87:
+            q: 우세한
+            a: dominant
+
+        88:
+            q: 1회복용량 투약하다
+            a: dose
+
+        89:
+            q: 초고
+            a: draft
+
+        90:
+            q: 배수하다
+            a: drain
+
+        91:
+            q: 두려워하다 두려움
+            a: dread
+
+        92:
+            q: 둘의
+            a: dual
+
+        93:
+            q: 공들인
+            a: elaborate
+
+        94:
+            q: 포옹하다
+            a: embrace
+
+        95:
+            q: 방사하다
+            a: emit
+
+        96:
+            q: 실시하다
+            a: enforce
+
+        97:
+            q: 명부에 올리다
+            a: enroll
+
+        98:
+            q: 자격을 주다
+            a: entitle
+
+        99:
+            q: 같게하다
+            a: equate
+
+        100:
+            q: 똑바로 선
+            a: erect
+
+        101:
+            q: 토지
+            a: estate
+
+        102:
+            q: 도덕상의
+            a: ethical
+
+        103:
+            q: 인종의
+            a: ethnic
+
+        104:
+            q: 비우다
+            a: evacuate
+
+        105:
+            q: 배타적인
+            a: exclusive
+
+        106:
+            q: 집행의
+            a: executive
+
+        107:
+            q: 대가의 의견
+            a: expertise
+
+        108:
+            q: 명백한
+            a: explicit
+
+        109:
+            q: 뽑아내다
+            a: extract
+
+        110:
+            q: 이상한
+            a: extraordinary
+
+        111:
+            q: 쉽게하다
+            a: facilitate
+
+        112:
+            q: 능력
+            a: faculty
+
+        113:
+            q: 치명적인
+            a: fatal
+
+        114:
+            q: 연방의
+            a: federal
+
+        115:
+            q: 비옥한
+            a: fertile
+
+        116:
+            q: 달아나다
+            a: flee
+
+        117:
+            q: 튀기다 홱 움직이다 튀기기
+            a: flip
+
+        118:
+            q: 유동성의
+            a: fluid
+
+        119:
+            q: 왈칵흐르다
+            a: flush
+
+        120:
+            q: 좋아하는
+            a: fond
+
+        121:
+            q: 공식
+            a: formula
+
+        122:
+            q: 기르다
+            a: foster
+
+        123:
+            q: 분수
+            a: fraction
+
+        124:
+            q: 서리
+            a: frost
+
+        125:
+            q: 노하여 펄펄뛰는
+            a: furious
+
+        126:
+            q: 공급하다
+            a: furnish
+
+        127:
+            q: 신관
+            a: fuse
+
+        128:
+            q: 가솔린
+            a: gasoline
+
+        129:
+            q: 지켜보다
+            a: gaze
+
+        130:
+            q: 낳다
+            a: generate
+
+        131:
+            q: 번쩍이는 빛
+            a: glare
+
+        132:
+            q: 흘끗 봄
+            a: glimpse
+
+        133:
+            q: 붙잡다
+            a: grasp
+
+        134:
+            q: 총계의
+            a: gross
+
+        135:
+            q: 보호자
+            a: guardian
+
+        136:
+            q: 만
+            a: gulf
+
+        137:
+            q: (동물의)자연번식지
+            a: habitat
+
+        138:
+            q: 멈춰서다
+            a: halt
+
+        139:
+            q: 자주가다
+            a: haunt
+
+        140:
+            q: 본부
+            a: headquarters
+
+        141:
+            q: 상속인
+            a: heir
+
+        142:
+            q: 그러므로
+            a: hence
+
+        143:
+            q: 세습 재산
+            a: heritage
+
+        144:
+            q: 갈고리
+            a: hook
+
+        145:
+            q: 뿔
+            a: horn
+
+        146:
+            q: 볼모
+            a: hostage
+
+        147:
+            q: 반대하는
+            a: hostile
+
+        148:
+            q: 가설
+            a: hypothesis
+
+        149:
+            q: 공리
+            a: ideology
+
+        150:
+            q: 환영
+            a: illusion
+
+        151:
+            q: 무한한
+            a: immense
+
+        152:
+            q: 이주하다
+            a: immigrate
+
+        153:
+            q: 기구
+            a: implement
+
+        154:
+            q: 함축하다
+            a: imply
+
+        155:
+            q: 부과하다
+            a: impose
+
+        156:
+            q: 기울이다
+            a: incline
+
+        157:
+            q: 합동시키다
+            a: incorporate
+
+        158:
+            q: 색인
+            a: index
+
+        159:
+            q: 꾀다
+            a: induce
+
+        160:
+            q: 피할 수 없는
+            a: inevitable
+
+        161:
+            q: 감염시키다
+            a: infect
+
+        162:
+            q: 추론하다
+            a: infer
+
+        163:
+            q: 부풀게 하다
+            a: inflate
+
+        164:
+            q: 생태의
+            a: inherent
+
+        165:
+            q: 금하다
+            a: inhibit
+
+        166:
+            q: 묻다
+            a: inquire
+
+        167:
+            q: 통합하다
+            a: integrate
+
+        168:
+            q: 사이에 들다
+            a: intervene
+
+        169:
+            q: 음모
+            a: intrigue
+
+        170:
+            q: 사법의
+            a: judicial
+
+        171:
+            q: 날카로운
+            a: keen
+
+        172:
+            q: 매듭(=tie)
+            a: knot
+
+        173:
+            q: 임대차
+            a: lease
+
+        174:
+            q: 법률을 제정하다
+            a: legislate
+
+        175:
+            q: 합법의
+            a: legitimate
+
+        176:
+            q: 문자의
+            a: literal
+
+        177:
+            q: 혼자의
+            a: lone
+
+        178:
+            q: 덩어리
+            a: lump
+
+        179:
+            q: 장대한
+            a: magnificent
+
+        180:
+            q: 명백히 하다
+            a: manifest
+
+        181:
+            q: (손으로)다루다
+            a: manipulate
+
+        182:
+            q: 그동안
+            a: meanwhile
+
+        183:
+            q: 중세(풍)의
+            a: medieval
+
+        184:
+            q: 단순한
+            a: mere
+
+        185:
+            q: 합병하다
+            a: merge
+
+        186:
+            q: 수도권(의)
+            a: metropolitan
+
+        187:
+            q: 이주하다
+            a: migrate
+
+        188:
+            q: 조롱하다
+            a: mock
+
+        189:
+            q: 절제하는
+            a: moderate
+
+        190:
+            q: 겸손한
+            a: modest
+
+        191:
+            q: 변경하다
+            a: modify
+
+        192:
+            q: 분자
+            a: molecule
+
+        193:
+            q: 기념비
+            a: monument
+
+        194:
+            q: 죽을운명의
+            a: mortal
+
+        195:
+            q: 상호의
+            a: mutual
+
+        196:
+            q: 소박한
+            a: naive
+
+        197:
+            q: 유모
+            a: nanny
+
+        198:
+            q: 불쾌한
+            a: nasty
+
+        199:
+            q: 추천하다
+            a: nominate
+
+        200:
+            q: 역시
+            a: nonetheless
+
+        201:
+            q: 표준
+            a: norm
+
+        202:
+            q: n,관념
+            a: notion
+
+        203:
+            q: 다 수의, 수많은, 셀 수 없이 많은
+            a: numerous
+
+        204:
+            q: 수녀 집비둘기의 일종
+            a: nun
+
+        205:
+            q: (의무를)별수없이 -하게하다
+            a: oblige
+
+        206:
+            q: 늘러붙다
+            a: obsess
+
+        207:
+            q: 궤도
+            a: orbit
+
+        208:
+            q: 삵괭이
+            a: ounce
+
+        209:
+            q: 불법(적인 행위)
+            a: outrage
+
+        210:
+            q: 압도하다
+            a: overwhelm
+
+        211:
+            q: 판벽널
+            a: panel
+
+        212:
+            q: 평행의
+            a: parallel
+
+        213:
+            q: 의회
+            a: parliament
+
+        214:
+            q: 입자
+            a: particle
+
+        215:
+            q: 톡톡 가볍게 치다
+            a: pat
+
+        216:
+            q: 깁는 헝겊
+            a: patch
+
+        217:
+            q: 전매특허권 전매특허의
+            a: patent
+
+        218:
+            q: 순회
+            a: patrol
+
+        219:
+            q: (도로를)포장하다
+            a: pave
+
+        220:
+            q: 농부
+            a: peasant
+
+        221:
+            q: 고집하다
+            a: persist
+
+        222:
+            q: 원근법의 원근 화법
+            a: perspective
+
+        223:
+            q: 국면
+            a: phase
+
+        224:
+            q: 꼬집다
+            a: pinch
+
+        225:
+            q: 던지다
+            a: pitch
+
+        226:
+            q: 닦다, 갈다, 윤내다
+            a: polish
+
+        227:
+            q: 로마 교황  최고 권위자로 자처하는 사람
+            a: pope
+
+        228:
+            q: 일부, 부분
+            a: portion
+
+        229:
+            q: 설교하다
+            a: preach
+
+        230:
+            q: -에 앞서다
+            a: precede
+
+        231:
+            q: 약탈자
+            a: predator
+
+        232:
+            q: 편견, 선입관
+            a: prejudice
+
+        233:
+            q: 국무 총리, 수상
+            a: premier
+
+        234:
+            q: 할증금,  액면 초과액, 프리미엄
+            a: premium
+
+        235:
+            q: 가정하다
+            a: presume
+
+        236:
+            q: 이기다, 극복하다, 압도하다 우세하다, 보급되다
+            a: prevail
+
+        237:
+            q: 이전의, 앞의
+            a: prior
+
+        238:
+            q: 특권, 특전, 특별 취급
+            a: privilege
+
+        239:
+            q: 진행, 경과 절차
+            a: procedure
+
+        240:
+            q: 옆 얼굴, 반면상 인물 소개  태도, 자세
+            a: profile
+
+        241:
+            q: 깊은, 심원한
+            a: profound
+
+        242:
+            q: 금하다, 금지하다
+            a: prohibit
+
+        243:
+            q: 두드러진, 돌기한, 양각된 현저한, 탁월한, 중요한
+            a: prominent
+
+        244:
+            q: 재빠른, 신속한, 즉시 …하는
+            a: prompt
+
+        245:
+            q: 비율, 비 균형, 조화
+            a: proportion
+
+        246:
+            q: 번영하다
+            a: prosper
+
+        247:
+            q: 화나게 하다
+            a: provoke
+
+        248:
+            q: 질문표
+            a: questionnaire
+
+        249:
+            q: 인용하다
+            a: quote
+
+        250:
+            q: 격노
+            a: rage
+
+        251:
+            q: 규합하다
+            a: rally
+
+        252:
+            q: 합리적인
+            a: rational
+
+        253:
+            q: 뒤
+            a: rear
+
+        254:
+            q: 반역자
+            a: rebel
+
+        255:
+            q: 신병
+            a: recruit
+
+        256:
+            q: 정제정련하다
+            a: refine
+
+        257:
+            q: 규정하다
+            a: regulate
+
+        258:
+            q: 보강하다
+            a: reinforce
+
+        259:
+            q: 관련된
+            a: relevant
+
+        260:
+            q: 마음이 내키지 않는
+            a: reluctant
+
+        261:
+            q: 평판
+            a: reputation
+
+        262:
+            q: 거주하다
+            a: reside
+
+        263:
+            q: 사임하다
+            a: resign
+
+        264:
+            q: 각각의
+            a: respective
+
+        265:
+            q: 제지하다
+            a: restrain
+
+        266:
+            q: 제한하다
+            a: restrict
+
+        267:
+            q: 다시 잡다
+            a: resume
+
+        268:
+            q: 소매
+            a: retail
+
+        269:
+            q: 보유하다
+            a: retain
+
+        270:
+            q: 후퇴
+            a: retreat
+
+        271:
+            q: 복수
+            a: revenge
+
+        272:
+            q: 역
+            a: reverse
+
+        273:
+            q: 면하게하다
+            a: rid
+
+        274:
+            q: 어리석은
+            a: ridiculous
+
+        275:
+            q: 폭동, 소요, 소동   야단법석, 다채로움,
+            a: riot
+
+        276:
+            q: 으르렁거리다 으르렁소리
+            a: roar
+
+        277:
+            q: 막대
+            a: rod
+
+        278:
+            q: 썩다
+            a: rot
+
+        279:
+            q: 마대
+            a: sack
+
+        280:
+            q: 객실
+            a: salon
+
+        281:
+            q: 부족한
+            a: scarce
+
+        282:
+            q: 뿔뿔이 흩어 버리다
+            a: scatter
+
+        283:
+            q: 범위
+            a: scope
+
+        284:
+            q: 나사
+            a: screw
+
+        285:
+            q: (관목의)숲
+            a: scrub
+
+        286:
+            q: 조각 조각하다
+            a: sculpture
+
+        287:
+            q: 붙잡다
+            a: seize
+
+        288:
+            q: 정서
+            a: sentiment
+
+        289:
+            q: 연속
+            a: sequence
+
+        290:
+            q: 피난처
+            a: shelter
+
+        291:
+            q: 방패
+            a: shield
+
+        292:
+            q: 줄어들다
+            a: shrink
+
+        293:
+            q: 흉내내다
+            a: simulate
+
+        294:
+            q: 동시에 일어나는(존재하는)
+            a: simultaneous
+
+        295:
+            q: 도살
+            a: slaughter
+
+        296:
+            q: 약간의
+            a: slight
+
+        297:
+            q: 비탈
+            a: slope
+
+        298:
+            q: 몰래 움직이다
+            a: sneak
+
+        299:
+            q: 코를 킁킁거리다
+            a: sniff
+
+        300:
+            q: 유일한 발바닥
+            a: sole
+
+        301:
+            q: 물정에 닳고 닳은
+            a: sophisticated
+
+        302:
+            q: 한 뼘
+            a: span
+
+        303:
+            q: 광경
+            a: spectacle
+
+        304:
+            q: 스펙트럼
+            a: spectrum
+
+        305:
+            q: 구
+            a: sphere
+
+        306:
+            q: 엎지르다
+            a: spill
+
+        307:
+            q: 침을 뱉다
+            a: spit
+
+        308:
+            q: 악의
+            a: spite
+
+        309:
+            q: 튀기다
+            a: splash
+
+        310:
+            q: 쪼개다
+            a: split
+
+        311:
+            q: 배우자
+            a: spouse
+
+        312:
+            q: 낟가리
+            a: stack
+
+        313:
+            q: 굶어 죽다
+            a: starve
+
+        314:
+            q: 통계의 통계량
+            a: statistic
+
+        315:
+            q: 가파른 -에 담그다 잠기다 담그기
+            a: steep
+
+        316:
+            q: 굳은
+            a: stiff
+
+        317:
+            q: 자극하다
+            a: stimulate
+
+        318:
+            q: 휘젓다
+            a: stir
+
+        319:
+            q: 한 바늘
+            a: stitch
+
+        320:
+            q: 잡아당기다
+            a: strain
+
+        321:
+            q: 벗기다
+            a: strip
+
+        322:
+            q: 한번치기
+            a: stroke
+
+        323:
+            q: 주관의
+            a: subjective
+
+        324:
+            q: 복종시키다
+            a: submit
+
+        325:
+            q: 서명승락하다
+            a: subscribe
+
+        326:
+            q: 물질
+            a: substance
+
+        327:
+            q: 실체의
+            a: substantial
+
+        328:
+            q: 대용하다 대신하다 대리(인)
+            a: substitute
+
+        329:
+            q: 미묘한
+            a: subtle
+
+        330:
+            q: 빨다
+            a: suck
+
+        331:
+            q: 수행원
+            a: suite
+
+        332:
+            q: 감독하다
+            a: supervise
+
+        333:
+            q: 부록
+            a: supplement
+
+        334:
+            q: 넘겨주다
+            a: surrender
+
+        335:
+            q: 매달다
+            a: suspend
+
+        336:
+            q: 떠받치다
+            a: sustain
+
+        337:
+            q: 맹세하다
+            a: swear
+
+        338:
+            q: 청소하다
+            a: sweep
+
+        339:
+            q: 부풀다
+            a: swell
+
+        340:
+            q: 빠른
+            a: swift
+
+        341:
+            q: 괴롭히다
+            a: tease
+
+        342:
+            q: 전신
+            a: telegraph
+
+        343:
+            q: 일시적인
+            a: temporary
+
+        344:
+            q: 유혹하다
+            a: tempt
+
+        345:
+            q: 차지인
+            a: tenant
+
+        346:
+            q: 끝내다
+            a: terminate
+
+        347:
+            q: 계단모양의 뜰(광장)
+            a: terrace
+
+        348:
+            q: 증명하다
+            a: testify
+
+        349:
+            q: 치료법
+            a: therapy
+
+        350:
+            q: 실
+            a: thread
+
+        351:
+            q: 시계소리
+            a: tick
+
+        352:
+            q: 재목
+            a: timber
+
+        353:
+            q: 고문
+            a: torture
+
+        354:
+            q: 질질 끌다
+            a: trail
+
+        355:
+            q: 처리하다
+            a: transact
+
+        356:
+            q: 변천
+            a: transition
+
+        357:
+            q: 보내다
+            a: transmit
+
+        358:
+            q: 조약
+            a: treaty
+
+        359:
+            q: 무서운
+            a: tremendous
+
+        360:
+            q: 방아쇠 재빠른
+            a: trigger
+
+        361:
+            q: 산뜻한 정돈하다
+            a: trim
+
+        362:
+            q: 전복
+            a: turnover
+
+        363:
+            q: (영향 등을)받다
+            a: undergo
+
+        364:
+            q: -의 밑에 있다
+            a: underlie
+
+        365:
+            q: -밑을 파다
+            a: undermine
+
+        366:
+            q: 떠맡다
+            a: undertake
+
+        367:
+            q: -을 이용하다
+            a: utilize
+
+        368:
+            q: 전적인
+            a: utter
+
+        369:
+            q: 막연한
+            a: vague
+
+        370:
+            q: 유효한
+            a: valid
+
+        371:
+            q: 자취를 감추다
+            a: vanish
+
+        372:
+            q: 말의, 말에 관한, 언어상의, 말로 나타낸, 말로 된
+            a: verbal
+
+        373:
+            q: 시의 한 줄, 시구  일련의 시구
+            a: verse
+
+        374:
+            q: 수평면에 직각인, 수직의
+            a: vertical
+
+        375:
+            q: 그릇
+            a: vessel
+
+        376:
+            q: 노련가, 경험 많은 대가, 베테랑
+            a: veteran
+
+        377:
+            q: 수의사
+            a: veterinarian
+
+        378:
+            q: 악덕,  비행, 타락 행위
+            a: vice
+
+        379:
+            q: 정력적인, 강건한, 활기 있는, 격렬한
+            a: vigorous
+
+        380:
+            q: 처녀, 동정녀, 미혼 여성, 동정녀 마리아
+            a: virgin
+
+        381:
+            q: 사실상의, 실질상의, 실제의  허상의
+            a: virtual
+
+        382:
+            q: 덕, 덕행, 선, 선행
+            a: virtue
+
+        383:
+            q: 생명의, 생명에 관한, 생명유지에 필요한, 살아 있는
+            a: vital
+
+        384:
+            q: 발랄한, 약동적인, 힘찬, 생기있는
+            a: vivid
+
+        385:
+            q: 천직, 사명 직업, 생업, 장사  적성, 소질, 재능
+            a: vocation
+
+        386:
+            q: 짐마차
+            a: wagon
+
+        387:
+            q: 헤매다
+            a: wander
+
+        388:
+            q: 창고
+            a: warehouse
+
+        389:
+            q: 보증하다 보증
+            a: warrant
+
+        390:
+            q: 병사
+            a: warrior
+
+        391:
+            q: 짜다
+            a: weave
+
+        392:
+            q: 잡초 잡초를 뽑다
+            a: weed
+
+        393:
+            q: cnj.(-인)까닭에
+            a: whereas
+
+        394:
+            q: 채찍 채찍질하다
+            a: whip
+
+        395:
+            q: 사악한
+            a: wicked
+
+        396:
+            q: 미망인
+            a: widow
+
+        397:
+            q: 물러나다
+            a: withdraw
+
+        398:
+            q: 난파
+            a: wreck
+
+        399:
+            q: 산출하다
+            a: yield        
