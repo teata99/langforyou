@@ -161,7 +161,7 @@ function setMatchContent(class1, class2, pageNo) {
         for(var j=0; j<3; j++) {
             //console.log(matchContent[i*3+j]);
             appendItem += `<div class="col-md-4 p-2 mt-2">
-                                  <span class="badge text-nowrap rounded-pill text-bg-warning text-warning fs-4" style="width: 12rem;" onclick="onClickMatch('${matchContent[i*3+j]}', '#mat${i*3+j}');" id="mat${i*3+j}">${matchContent[i*3+j]}</span>
+                                  <span class="badge text-nowrap rounded-pill text-bg-warning text-warning fs-4" style="width: 10rem;" onclick="onClickMatch('${matchContent[i*3+j]}', '#mat${i*3+j}');" id="mat${i*3+j}">${matchContent[i*3+j]}</span>
                               </div>`;
         }
         
