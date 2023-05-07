@@ -213,8 +213,9 @@
     <script type="text/javascript" src="./js/jquery-3.6.0.js"></script>
     <script type="text/javascript" src="./bootstrap-5.2.3/js/bootstrap.bundle.min.js"></script>
     <script type="text/javascript" src="./js/yaml.js"></script>
-    <script type="text/javascript" src="./js/common.js"></script>    
     <script type="text/javascript" src="./js/eng-data.js"></script>
+    <script type="text/javascript" src="./js/nav.js"></script>
+    <script type="text/javascript" src="./js/key.js"></script> 
        
     <script>
         let data1_1;
@@ -228,14 +229,14 @@
             const url = new URL(window.location.href);
             const urlParams = url.searchParams;
 
-            YAML.load('./js/jpn-data1.yml', function(result) {
+            YAML.load('./data/jpn-data1.yml', function(result) {
                 data1_1 = result;
                 initData(url.pathname, result);
                 
                 ////const gram = YAML.load('./js/jpn-gram1.yml');
                 ////initGram(gram);
                 
-                appendNav();
+                appendNav(data1_1);
                 /*
                 for(class1 in gram) {
                     console.log("" + class1);
@@ -246,7 +247,7 @@
                 }
                 */
                 if(urlParams.get('class1') && urlParams.get('class2')) {
-                    collapseNav(urlParams.get('class1'), urlParams.get('class2'), urlParams.get('currentPage'));
+                    collapseNav(data1_1, urlParams.get('class1'), urlParams.get('class2'), urlParams.get('currentPage'));
                 }
             });
             

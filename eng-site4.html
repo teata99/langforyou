@@ -126,8 +126,8 @@
     <script type="text/javascript" src="./js/jquery-3.6.0.js"></script>
     <script type="text/javascript" src="./bootstrap-5.2.3/js/bootstrap.bundle.min.js"></script>
     <script type="text/javascript" src="./js/yaml.js"></script>
-    <script type="text/javascript" src="./js/common.js"></script>
     <script type="text/javascript" src="./js/eng-match.js"></script>
+    <script type="text/javascript" src="./js/nav.js"></script>
     
        
     <script>
@@ -143,15 +143,15 @@
             const url = new URL(window.location.href);
             const urlParams = url.searchParams;
             
-            data4_1 = YAML.load('./js/eng-data4-1.yml');
+            data4_1 = YAML.load('./data/eng-data4-1.yml');
             
             const data4 = { ...data4_1 };
             initData(url.pathname, data4);
             
-            appendNav();
+            appendNav(data4);
             
             if(urlParams.get('class1') && urlParams.get('class2')) {
-                    collapseNav(urlParams.get('class1'), urlParams.get('class2'), urlParams.get('currentPage'));
+                    collapseNav(data4, urlParams.get('class1'), urlParams.get('class2'), urlParams.get('currentPage'));
             }
         });
         

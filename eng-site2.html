@@ -193,8 +193,9 @@
     <script type="text/javascript" src="./js/jquery-3.6.0.js"></script>
     <script type="text/javascript" src="./bootstrap-5.2.3/js/bootstrap.bundle.min.js"></script>
     <script type="text/javascript" src="./js/yaml.js"></script>
-    <script type="text/javascript" src="./js/common.js"></script>
     <script type="text/javascript" src="./js/eng-data.js"></script>
+    <script type="text/javascript" src="./js/nav.js"></script>
+    <script type="text/javascript" src="./js/key.js"></script>   
     
        
     <script>
@@ -211,16 +212,16 @@
             const url = new URL(window.location.href);
             const urlParams = url.searchParams;
             
-            data2_1 = YAML.load('./js/eng-data2-1.yml');
-            data2_2 = YAML.load('./js/eng-data2-2.yml');
+            data2_1 = YAML.load('./data/eng-data2-1.yml');
+            data2_2 = YAML.load('./data/eng-data2-2.yml');
             
             const data2 = { ...data2_1, ...data2_2 };
             initData(url.pathname, data2);
             
-            appendNav();
+            appendNav(data2);
             
             if(urlParams.get('class1') && urlParams.get('class2')) {
-                    collapseNav(urlParams.get('class1'), urlParams.get('class2'), urlParams.get('currentPage'));
+                    collapseNav(data2, urlParams.get('class1'), urlParams.get('class2'), urlParams.get('currentPage'));
             }
         });
         
