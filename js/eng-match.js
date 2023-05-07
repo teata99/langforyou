@@ -6,6 +6,8 @@ let matchContent = [];
 let selectedText = "";
 let selectedPos = "";
 let selectedPosArray = [];
+let rowCnt = 5;
+let colCnt = 4;
 
 const clickSound = new Audio('./sounds/button-41.mp3');
 const hitSound = new Audio('./sounds/button-43.mp3');
@@ -116,7 +118,7 @@ function onClickMatch(text, pos) {
         selectedText = "";
         selectedPos = "";
         
-        if(selectedPosArray.length==18) {
+        if(selectedPosArray.length==rowCnt*colCnt) {
             playSound(successSound);
         } else {
             playSound(hitSound);
@@ -141,7 +143,7 @@ function onClickMatch(text, pos) {
 function setMatchContent(class1, class2, pageNo) {
     let matchCnt = 0;
     
-    for(var i=0; i<9; i++) {
+    for(var i=0; i<(rowCnt*colCnt/2); i++) {
         var randomContent = getRandomContent(class1, class2);
         match.push(randomContent);
         matchContent.push(randomContent['q']);
@@ -149,19 +151,18 @@ function setMatchContent(class1, class2, pageNo) {
     }
     
     shuffle(matchContent);
-
     
     var appendItem = ``;
     $("#matchGame").text(appendItem);
     
-    for(var i=0; i<6; i++) {
+    for(var i=0; i<rowCnt; i++) {
         
         appendItem += `<div class="row">`;
         
-        for(var j=0; j<3; j++) {
+        for(var j=0; j<colCnt; j++) {
             //console.log(matchContent[i*3+j]);
-            appendItem += `<div class="col-md-4 col-sm-6 p-2 mt-2">
-                                  <span class="badge text-nowrap rounded-pill text-bg-warning text-warning fs-4" style="width: 10rem;" onclick="onClickMatch('${matchContent[i*3+j]}', '#mat${i*3+j}');" id="mat${i*3+j}">${matchContent[i*3+j]}</span>
+            appendItem += `<div class="col-md-3 col-6 p-1 mt-2">
+                                  <span class="badge text-nowrap rounded-pill text-bg-warning text-warning fs-5" style="width: 8rem;" onclick="onClickMatch('${matchContent[i*colCnt+j]}', '#mat${i*colCnt+j}');" id="mat${i*colCnt+j}">${matchContent[i*colCnt+j]}</span>
                               </div>`;
         }
         
