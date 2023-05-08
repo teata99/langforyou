@@ -6,8 +6,8 @@ let matchContent = [];
 let selectedText = "";
 let selectedPos = "";
 let selectedPosArray = [];
-let rowCnt = 5;
-let colCnt = 4;
+let rowCnt = 10;
+let colCnt = 2;
 
 const clickSound = new Audio('./sounds/button-41.mp3');
 const hitSound = new Audio('./sounds/button-43.mp3');
@@ -118,8 +118,8 @@ function setMatchContent(class1, class2, pageNo) {
         
         for(var j=0; j<colCnt; j++) {
             //console.log(matchContent[i*3+j]);
-            appendItem += `<div class="col-md-3 col-6 p-1 mt-2">
-                                  <span class="badge text-nowrap rounded-pill text-bg-warning text-warning fs-5" style="width: 8rem;" onclick="onClickMatch('${matchContent[i*colCnt+j]}', '#mat${i*colCnt+j}');" id="mat${i*colCnt+j}">${matchContent[i*colCnt+j]}</span>
+            appendItem += `<div class="col-6 p-1 mt-2">
+                                  <span class="badge text-nowrap rounded-pill text-bg-warning text-warning fs-5" style="width: 11rem;" onclick="onClickMatch('${matchContent[i*colCnt+j]}', '#mat${i*colCnt+j}');" id="mat${i*colCnt+j}">${matchContent[i*colCnt+j]}</span>
                               </div>`;
         }
         
