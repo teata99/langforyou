@@ -227,7 +227,7 @@
 
             YAML.load('./data/eng-data1.yml', function(result) {
                 data1_1 = result;
-                initData(url.pathname, result);
+                initData(url.pathname, data1_1);
                 
                 const gram = YAML.load('./data/eng-gram1.yml');
                 initGram(gram);

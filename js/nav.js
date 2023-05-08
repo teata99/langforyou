@@ -48,3 +48,29 @@ function setBread(pathname, class1, class2, pageNo) {
     $("#breadClass2").text('');
     $("#breadClass2").append(appendItem);
 }
+
+function randomNav(randomData) {
+    let classCnt = 0;
+    
+    for(class1 in randomData) {
+        for(class2 in randomData[class1]) {
+            classCnt += 1;
+        }
+    }
+    
+    let classRan = Math.floor(Math.random() * classCnt);
+    
+    classCnt = 0;
+    
+    for(class1 in randomData) {
+        for(class2 in randomData[class1]) {
+            if(classCnt == classRan) {
+                onClickNav(class1, class2, 1);
+                return;
+            }
+            
+            classCnt += 1;
+        }
+    }
+
+}

@@ -87,7 +87,11 @@
                 <a href="./jpn-site2.html" class="d-flex align-items-center pb-3 mb-3 link-dark text-decoration-none border-bottom">
                     <span class="fs-5 fw-semibold">일단어 짝 맞추기</span>
                 </a>
-               
+
+                <a href="#" class="d-flex align-items-center pb-3 mb-3 link-dark text-decoration-none border-bottom" onClick="randomData2();">
+                    <span class="fw-semibold">JLPT 한자 어휘 Random</span>
+                </a>
+                               
                 <ul class="list-unstyled ps-0" id="navClass">
 
                 </ul>
@@ -131,6 +135,7 @@
     
        
     <script>
+        let data2;
         let data2_1;
         
         $(document).ready( function() {
@@ -145,7 +150,7 @@
             
             data2_1 = YAML.load('./data/jpn-data2-1.yml');
             
-            const data2 = { ...data2_1 };
+            data2 = { ...data2_1 };
             initData(url.pathname, data2);
             
             appendNav(data2);
@@ -154,6 +159,10 @@
                     collapseNav(data2, urlParams.get('class1'), urlParams.get('class2'), urlParams.get('currentPage'));
             }
         });
+        
+        function randomData2() {
+            randomNav(data2);
+        }
         
 
     </script>   
