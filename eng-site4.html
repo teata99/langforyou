@@ -88,7 +88,7 @@
                     <span class="fs-5 fw-semibold">영단어 짝 맞추기</span>
                 </a>
                 
-                <a href="#" class="d-flex align-items-center pb-3 mb-3 link-dark text-decoration-none border-bottom" onClick="randomData4();">
+                <a href="#" class="d-flex align-items-center pb-3 mb-3 link-dark text-decoration-none border-bottom" onClick="randomData4_1();">
                     <span class="fw-semibold">교육부 3천단어 Random</span>
                 </a>                
                
@@ -137,6 +137,7 @@
     <script>
         let data4;
         let data4_1;
+        let data4_2;
         
         $(document).ready( function() {
             $("#headers").load("header.html");
@@ -149,8 +150,9 @@
             const urlParams = url.searchParams;
             
             data4_1 = YAML.load('./data/eng-data4-1.yml');
+            data4_2 = YAML.load('./data/eng-data4-2.yml');
             
-            data4 = { ...data4_1 };
+            data4 = { ...data4_1, ...data4_2 };
             initData(url.pathname, data4);
             
             appendNav(data4);
@@ -160,8 +162,8 @@
             }
         });
 
-        function randomData4() {
-            randomNav(data4);
+        function randomData4_1() {
+            randomNav(data4_1);
         }
 
     </script>   
