@@ -139,12 +139,6 @@
         let data2_1;
         let data2_2;
         
-        $(document).ready( function() {
-            $("#headers").load("header.html");
-            $("#footers").load("footer.html");
-        });
-        
-        
         $(document).ready(function() {
             const url = new URL(window.location.href);
             const urlParams = url.searchParams;
@@ -168,9 +162,13 @@
         
 
     </script>   
-    <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-5Z1FVKWLWN"></script>
-    <script type="text/javascript" src="./js/googletag.js"></script>
+
+    <script type="text/javascript">
+        $(document).ready( function() {
+            $("#headers").load("header.html");
+            $("#footers").load("footer.html");
+        });
+    </script>       
         
   </body>
 </html>
