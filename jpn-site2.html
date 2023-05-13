@@ -137,6 +137,7 @@
     <script>
         let data2;
         let data2_1;
+        let data2_2;
         
         $(document).ready( function() {
             $("#headers").load("header.html");
@@ -149,8 +150,9 @@
             const urlParams = url.searchParams;
             
             data2_1 = YAML.load('./data/jpn-data2-1.yml');
+            data2_2 = YAML.load('./data/jpn-data2-2.yml');
             
-            data2 = { ...data2_1 };
+            data2 = { ...data2_1, ...data2_2 };
             initData(url.pathname, data2);
             
             appendNav(data2);
