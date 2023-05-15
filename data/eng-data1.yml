@@ -1,161 +1,165 @@
 문장의 형식:
     1형식:
-        1:
-            q: 저는 저녁 식사로 피자를 좋아합니다.
-            a: I like to eat pizza for dinner.
+        1:    
+            a: The sun shines. 
+            q: 태양이 빛난다.
         2:
-            q: 그녀는 핸드폰으로 음악을 듣는 것을 즐깁니다.
-            a: She enjoys listening to music on her phone.
-        3:
-            q: 그는 공원에서 축구를 하는 것을 좋아합니다.
-            a: He loves to play soccer in the park.           
-        4:
-            q: 그들은 항상 아침에 커피를 마시고 있습니다.
-            a: They always drink coffee in the morning.            
-        5:
-            q: 우리는 여름 동안 자주 해변으로 가곤 합니다.
-            a: We often go to the beach during the summer.            
-        6:
-            q: 제 아버지는 보통 아침 식사 후에 신문을 읽습니다.
-            a: My dad usually reads the newspaper after breakfast.            
-        7:
-            q: 그녀는 가끔 주말에 친구들과 함께 쇼핑을 갑니다.
-            a: She sometimes goes shopping with her friends on the weekends.            
-        8:
-            q: 그는 야채를 거의 먹지 않습니다. 왜냐하면 그들을 좋아하지 않기 때문입니다.
-            a: He rarely eats vegetables because he doesn't like them.            
-        9:
-            q: 그들은 잠자기 전에 이를 닦는 것을 절대로 잊지 않습니다.
-            a: They never forget to brush their teeth before going to bed.            
-        10:
-            q: 우리는 보통 금요일 밤에 집에서 영화를 시청합니다.
-            a: We usually watch movies at home on Friday nights.           
+            a: The birds sing. 
+            q: 새들이 노래한다.
+        3:    
+            a: The wind blows. 
+            q: 바람이 분다.
+        4:    
+            a: The rain falls. 
+            q: 비가 내린다.
+        5:    
+            a: The snow falls. 
+            q: 눈이 내린다.
+        6:    
+            a: The flowers bloom. 
+            q: 꽃이 피었다.
+        7:    
+            a: The trees grow. 
+            q: 나무가 자란다.
+        8:    
+            a: The river flows. 
+            q: 강이 흐른다.
+        9:    
+            a: The sea waves. 
+            q: 바다가 출렁인다.
+        10:    
+            a: The world turns. 
+            q: 세상이 돌아간다.
+
             
     2형식:
         1:
-            q: 저는 공원에서 산책하는 것을 좋아합니다.
-            a: I like taking a walk in the park.
-        2:
-            q: 그녀는 항상 아침 식사로 시리얼을 먹습니다.
-            a: She always eats cereal for breakfast.
-        3:
-            q: 그는 주말에 자전거를 타는 것을 좋아합니다.
-            a: He enjoys riding a bike on the weekends.
-        4:
-            q: 그들은 항상 수영장에서 수영을 합니다.
-            a: They always swim at the pool.
-        5:
-            q: 저희 가족은 보통 저녁 식사 때 함께 음식을 먹습니다.
-            a: My family usually eats dinner together.
-        6:
-            q: 그는 대부분의 시간을 독서에 쏟습니다.
-            a: He spends most of his time reading.
-        7:
-            q: 그녀는 헬스장에서 운동하는 것을 좋아합니다.
-            a: She likes working out at the gym.
-        8:
-            q: 그들은 항상 여름 휴가 때 해외 여행을 다녀옵니다.
-            a: They always travel abroad during summer vacation.
-        9:
-            q: 제 친구는 새로운 요리를 만드는 것을 좋아합니다.
-            a: My friend enjoys making new dishes.
-        10:
-            q: 저는 축구를 볼 때 매우 흥분합니다.
-            a: I get very excited when watching soccer.
+            a: I feel happy. 
+            q: 나는 행복하다.
+        2:    
+            a: You look tired. 
+            q: 너는 피곤해 보인다.
+        3:    
+            a: She seems sad. 
+            q: 그녀는 슬퍼 보인다.
+        4:    
+            a: The food tastes good. 
+            q: 음식이 맛있다.
+        5:    
+            a: The movie looks interesting. 
+            q: 영화가 재미있어 보인다.
+        6:    
+            a: The party sounds fun. 
+            q: 파티가 재미있을 것 같아요.
+        7:    
+            a: The weather feels nice. 
+            q: 날씨가 좋습니다.
+        8:    
+            a: The water looks cold. 
+            q: 물이 차갑다.
+        9:    
+            a: The air smells fresh. 
+            q: 공기가 상쾌합니다.
+        10:    
+            a: The bed feels soft. 
+            q: 침대가 부드럽다.
+
+
     3형식:
         1:
-            q: 제 친구는 그림 그리는 것을 좋아합니다.
-            a: My friend enjoys drawing pictures.
+            q: 나는 책을 읽는다. 
+            a: I read books.
         2:
-            q: 그는 가족과 함께 영화를 보는 것을 즐깁니다.
-            a: He likes watching movies with his family.
+            q: 너는 영화를 본다. 
+            a: You watch movies.
         3:
-            q: 그들은 항상 어디든지 함께 여행을 다녀옵니다.
-            a: They always go on trips together, no matter where.
+            q: 그녀는 노래를 부른다. 
+            a: She sings songs.
         4:
-            q: 그녀는 매일 밤 책을 읽습니다.
-            a: She reads books every night.
+            q: 우리는 게임을 한다. 
+            a: We play games.
         5:
-            q: 저는 주말에 집에서 휴식을 취합니다.
-            a: I take a rest at home on weekends.
+            q: 너는 음식을 먹는다. 
+            a: You eat food.
         6:
-            q: 그는 공원에서 산책하며 자주 생각에 잠기곤 합니다.
-            a: He often gets lost in thought while taking a walk in the park.
+            q: 그들은 피자를 먹는다. 
+            a: They eat pizza.
         7:
-            q: 그녀는 항상 커피를 마셔서 일어나야 합니다.
-            a: She always needs to have coffee to wake up.
+            q: 나는 공원에 간다. 
+            a: I go to the park.
         8:
-            q: 그들은 항상 집에서 함께 요리를 합니다.
-            a: They always cook together at home.
+            q: 너는 수영장에 간다. 
+            a: You go to the swimming pool.
         9:
-            q: 제 아버지는 매일 아침 신문을 읽습니다.
-            a: My father reads the newspaper every morning.
+            q: 그녀는 쇼핑몰에 간다. 
+            a: She goes to the shopping mall.
         10:
-            q: 저는 새로운 언어를 배우는 것을 좋아합니다.
-            a: I enjoy learning new languages.
+            q: 우리는 학교에 간다. 
+            a: We go to school.
+
     4형식:
-        1:
-            q: 제가 좋아하는 색깔은 파란색입니다.
-            a: Blue is my favorite color.
+        1:    
+            q: 그녀는 나에게 책을 주었다. 
+            a: She gave me a book.
         2:
-            q: 그녀는 음악을 들으면서 운동을 합니다.
-            a: She exercises while listening to music.
+            q: 그는 그녀에게 꽃을 주었다. 
+            a: He gave her flowers.
         3:
-            q: 저는 자동차를 타고 출근합니다.
-            a: I commute to work by car.
+            q: 그들은 우리에게 선물을 주었다. 
+            a: They gave us a gift.
         4:
-            q: 그들은 친구의 결혼식에 참석했습니다.
-            a: They attended their friend's wedding.
+            q: 나는 그에게 도움을 주었다. 
+            a: I helped him.
         5:
-            q: 저는 휴대폰을 이용해 연락합니다.
-            a: I communicate using my phone.
+            q: 네가 나를 도와주었어. 
+            a: You helped me.
         6:
-            q: 그녀는 바쁘지만 항상 시간을 내어 가족들과 함께합니다.
-            a: She is busy, but always makes time for her family.
+            q: 우리는 그들에게 음식을 주었다. 
+            a: We gave them food.
         7:
-            q: 제 친구는 요리를 잘합니다.
-            a: My friend is good at cooking.
+            q: 그들은 우리에게 물건을 주었다. 
+            a: They gave us some things.
         8:
-            q: 그들은 여름 휴가를 해외에서 보냈습니다.
-            a: They spent their summer vacation overseas.
+            q: 나는 그에게 돈을 주었다. 
+            a: I gave him some money.
         9:
-            q: 저는 매일 밤 꿈을 꾸곤 합니다.
-            a: I dream every night.
+            q: 그녀는 나에게 옷을 주었다. 
+            a: She gave me some clothes.
         10:
-            q: 그녀는 항상 적극적으로 일상생활에 참여합니다.
-            a: She always actively participates in daily life.
+            q: 그들은 그에게 차를 주었다. 
+            a: They gave him a car.
 
     5형식:
         1:
-            q: 저는 매일 아침 일찍 일어납니다.
-            a: I wake up early every morning.
+            q: 나는 그를 행복하게 만들었다. 
+            a: I made him happy.
         2:
-            q: 제 친구는 늘 친절하게 대해줍니다.
-            a: My friend always treats others kindly.
+            q: 그녀는 나를 웃게 만들었다. 
+            a: She made me laugh.
         3:
-            q: 그녀는 춤을 추면서 음악에 맞춰 움직입니다.
-            a: She moves to the music while dancing.
+            q: 그들은 우리를 놀라게 했다. 
+            a: They surprised us.
         4:
-            q: 그들은 함께 여행을 다녀왔습니다.
-            a: They traveled together.
+            q: 나는 그를 화가 나게 만들었다. 
+            a: I made him angry.
         5:
-            q: 제가 좋아하는 음식은 피자입니다.
-            a: Pizza is my favorite food.
+            q: 그녀는 나를 슬프게 만들었다. 
+            a: She made me sad.
         6:
-            q: 그는 친구들과 함께 축구를 합니다.
-            a: He plays soccer with his friends.
+            q: 그들은 우리를 무서워하게 만들었다. 
+            a: They scared us.
         7:
-            q: 그녀는 독서를 즐기며 많은 책을 읽었습니다.
-            a: She enjoys reading and has read many books.
+            q: 나는 그를 당황하게 만들었다. 
+            a: I confused him.
         8:
-            q: 저는 인터넷에서 쇼핑을 하는 것을 좋아합니다.
-            a: I like to shop online.
+            q: 그녀는 나를 놀라게 만들었다. 
+            a: She amazed me.
         9:
-            q: 그들은 커피를 마시면서 이야기를 나눴습니다.
-            a: They talked while drinking coffee.
+            q: 그들은 우리를 흥분하게 만들었다. 
+            a: They excited us.
         10:
-            q: 제가 좋아하는 음악은 록입니다.
-            a: Rock music is my favorite genre.
+            q: 나는 그를 자랑스럽게 만들었다. 
+            a: I made him proud.
 
             
 시제:
