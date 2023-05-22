@@ -60,16 +60,25 @@ function onClickMatch(text, pos) {
 }
 
 function setMatchContent(class1, class2, pageNo) {
-    
+    let c2 = "";
     randomContent = getRandomContent(class1, class2);
+    
+    if(randomContent['c2'] == "false") {
+        c2 = class2;
+        c8 = randomContent['c7'];
+    }  else {
+        c2 = randomContent['c2'];
+        c8 = randomContent['c8'];
+    }
+    
     $("#card_header").text(class2);
-    $("#card_title").text(randomContent['c2']);
+    $("#card_title").text(c2);
     $("#card_text").text("");
     
     if(randomContent['c2'] == "false") {
-        c8 = randomContent['c7'];
+        
     } else {
-        c8 = randomContent['c8']
+        
     }
     
     var c8Arr = Array.from(c8);
