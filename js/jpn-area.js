@@ -40,6 +40,10 @@ function onClickMatch(text, pos) {
         
         if(c8 == c8Input) {
             playSound(successSound);
+            $(pos).removeClass("text-bg-warning");
+            $(pos).removeClass("text-white");
+            $(pos).removeClass("text-warning");
+            $(pos).addClass("text-bg-success");             
 
         } else {
             playSound(hitSound);
@@ -67,6 +71,9 @@ function setMatchContent(class1, class2, pageNo) {
     } else {
         c8 = randomContent['c8']
     }
+    
+    var c8Arr = Array.from(c8);
+    shuffle(c8Arr);
         
     //console.log("random:", randomContent);
     //console.log("c8:", c8);
@@ -76,9 +83,9 @@ function setMatchContent(class1, class2, pageNo) {
     
     appendItem += `<div class="row">`;
     
-    for(var i=0; i<alphabet.length; i++) {
+    for(var i=0; i<c8Arr.length; i++) {
         appendItem += `<div class="col-3 p-1 mt-2">
-                                  <span class="badge text-nowrap rounded-pill text-bg-warning text-white fs-5" style="width: 5rem;" onclick="onClickMatch('${alphabet[i]}', '#mat${i}');" id="mat${i}">${alphabet[i]}</span>
+                                  <span class="badge text-nowrap rounded-pill text-bg-warning text-white fs-5" style="width: 5rem;" onclick="onClickMatch('${c8Arr[i]}', '#mat${i}');" id="mat${i}">${c8Arr[i]}</span>
                               </div>`;
     }
     
