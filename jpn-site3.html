@@ -3,10 +3,10 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="일단어 짝 맞추기, JLPT">
-    <meta name="keywords" content="일단어 짝 맞추기, JLPT">      
+    <meta name="description" content="일본 지역명 맞추기">
+    <meta name="keywords" content="일본 지역명 맞추기">      
     <link rel="shortcut icon" href="#">
-    <title>일단어 짝 맞추기</title>
+    <title>일본 지역명 맞추기</title>
     <!-- Bootstrap icons-->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css" rel="stylesheet" />    
     <link href="./bootstrap-5.2.3/css/bootstrap.min.css" rel="stylesheet">
@@ -87,12 +87,12 @@
             <div class="col-md-4 col-lg-3 flex-shrink-0 p-3 bg-light">
                 
                 <a href="./jpn-site2.html" class="d-flex align-items-center pb-3 mb-3 link-dark text-decoration-none border-bottom">
-                    <span class="fs-5 fw-semibold">일단어 짝 맞추기</span>
+                    <span class="fs-5 fw-semibold">일본 지역명 맞추기</span>
                 </a>
-
-                <a href="#" class="d-flex align-items-center pb-3 mb-3 link-dark text-decoration-none border-bottom" onClick="randomData2();">
-                    <span class="fw-semibold">JLPT 한자 어휘 Random</span>
-                </a>
+                              
+                <a href="#" class="d-flex align-items-center pb-3 mb-3 link-dark text-decoration-none border-bottom" onClick="randomData3_1();">
+                    <span class="fw-semibold">일본 지역명 Random</span>
+                </a>              
                                
                 <ul class="list-unstyled ps-0" id="navClass">
 
@@ -113,6 +113,14 @@
                            </ol>
                        </nav>
                        
+                       <div id="matchCard" class="card text-bg-primary mb-3">
+                           <div id="card_header" class="card-header text-center">Header</div>
+                           <div class="card-body">
+                               <h3 id="card_title" class="card-title text-center">Title</h3>
+                               <p id="card_text" class="card-text text-center" style="height: 1.3rem">Text</p>
+                           </div>
+                           
+                       </div>
 
                        <div id="matchGame">
                            
@@ -134,34 +142,33 @@
     <script type="text/javascript" src="//wcs.naver.net/wcslog.js"></script>
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-5Z1FVKWLWN"></script>
     <script type="text/javascript" src="./js/yaml.js"></script>
-    <script type="text/javascript" src="./js/eng-match.js"></script>
+    <script type="text/javascript" src="./js/jpn-area.js"></script>
     <script type="text/javascript" src="./js/nav.js"></script>
     
        
     <script>
-        let data2;
-        let data2_1;
-        let data2_2;
+        let data3;
+        let data3_1;
+        let data3_2;
         
         $(document).ready(function() {
             const url = new URL(window.location.href);
             const urlParams = url.searchParams;
             
-            data2_1 = YAML.load('./data/jpn-data2-1.yml');
-            data2_2 = YAML.load('./data/jpn-data2-2.yml');
+            data3_1 = YAML.load('./data/jpn-data3-1.yml');
+                        
+            data3 = { ...data3_1 };
+            initData(url.pathname, data3);
             
-            data2 = { ...data2_1, ...data2_2 };
-            initData(url.pathname, data2);
-            
-            appendNav(data2);
+            appendNav(data3);
             
             if(urlParams.get('class1') && urlParams.get('class2')) {
-                    collapseNav(data2, urlParams.get('class1'), urlParams.get('class2'), urlParams.get('currentPage'));
+                    collapseNav(data3, urlParams.get('class1'), urlParams.get('class2'), urlParams.get('currentPage'));
             }
         });
         
-        function randomData2() {
-            randomNav(data2);
+        function randomData3_1() {
+            randomNav(data3_1);
         }
         
 
