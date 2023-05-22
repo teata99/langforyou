@@ -75,12 +75,6 @@ function setMatchContent(class1, class2, pageNo) {
     $("#card_title").text(c2);
     $("#card_text").text("");
     
-    if(randomContent['c2'] == "false") {
-        
-    } else {
-        
-    }
-    
     var c8Arr = Array.from(c8);
     shuffle(c8Arr);
         
