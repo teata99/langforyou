@@ -62,8 +62,9 @@ function onClickMatch(text, pos) {
 function setMatchContent(class1, class2, pageNo) {
     let c2 = "";
     randomContent = getRandomContent(class1, class2);
+    //console.log("random:", randomContent);
     
-    if(randomContent['c2'] == "false") {
+    if(randomContent['c2'] == false) {
         c2 = class2;
         c8 = randomContent['c7'];
     }  else {
