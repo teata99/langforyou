@@ -2503,7 +2503,7 @@
         9:
             q: 그는 그들 중에서 가장 현명한 선택을 했다. 
             a: He made by far the wisest choice among them.    
-    call at+장소 | 방문하다:
+    call at ~ 장소 | 방문하다:
         1:
             q: 내일 아침에은 우체국에 들러서 전화해주세요.
             a: Please call at the post office tomorrow morning.
@@ -2532,7 +2532,7 @@
             q: 저녁 7시에는 음식점에 들러서 전화해주세요.
             a: Please call me at the restaurant at 7 p.m.            
             
-    call on+사람 | 방문하다:
+    call on ~ 사람 | 방문하다:
         1:
             q: 제가 도움이 필요할 때는 언제든지 제게 연락해주세요.
             a: Please call on me anytime you need help.
@@ -3869,7 +3869,7 @@
         10:
             q: 나는 그의 예쁜 눈에 빠졌다. 
             a: I fell in love with his beautiful eyes.    
-    familiar to+사람 | 잘 알려져 있는:
+    familiar to ~ 사람 | 잘 알려져 있는:
         1:
             q: 최근에 나온 연극은 대중에게는 잘 알려져 있지 않았다.
             a: The recent play was not familiar to the public.
@@ -3903,7 +3903,7 @@
         11:
             q: 그 작가의 소설은 많은 사람들에게 잘 알려져 있어서, 출간 즉시 많은 독자들에게 인기를 끌었다.
             a: The novelist's works are familiar to many people, so they immediately became popular among readers as soon as they were published.    
-    familiar with+사물 | ∼에 정통한:
+    familiar with ~ 사물 | ∼에 정통한:
         1:
             q: 그 책은 나에게 매우 친숙합니다.
             a: That book is very familiar to me.
@@ -7457,7 +7457,7 @@
             q: 우리는 늘 힘들지만, 낙담하지 않고 함께 극복해나갈 수 있을 거예요.
             a: We'll always face difficulties, but we can overcome them together without losing heart.
 
-    lose no time in+ing | 곧 ～하다:
+    lose no time in ~ ing | 곧 ～하다:
         1:
             q: 미팅이 시작하기 전에 모두들 자리에 앉아서 곧 회의를 시작했다.
             a: We lost no time in starting the meeting as everyone was seated before it began.
@@ -7645,7 +7645,7 @@
         10:
             q: 그녀는 자신의 지식으로 자랑하다가 자신을 바보로 만들었다.
             a: She made a fool of herself by boasting about her knowledge.    
-    make a point of+∼ing | ∼을 습관화하다, 고집하다:
+    make a point of ~ ∼ing | ∼을 습관화하다, 고집하다:
         1:
             q: 나는 항상 매일 운동할때마다 충분한 물을 마시기로 했다.
             a: I make a point of drinking enough water every time I exercise.
@@ -9915,7 +9915,7 @@
         10:
             q: 어제 병원에 갔을 때 의사가 다음 주에는 회복할 것 같다고 말했다.
             a: The doctor said I'll likely recover by next week when I went to the hospital yesterday.    
-    be ready to+동사 | ∼하려고 하다, ∼하기 쉽다, 기꺼이∼하다:
+    be ready to ~ 동사 | ∼하려고 하다, ∼하기 쉽다, 기꺼이∼하다:
         1:
             q: 내일 일찍 일어나야 해. 그래서 나는 침대에서 일어나기 쉬운 상태로 준비할거야.
             a: I need to wake up early tomorrow, so I will be ready to get out of bed easily.
