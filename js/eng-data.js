@@ -10,6 +10,7 @@ let pageTotal = 0;
 let pageGroup = 0;
 let pagePer = 1;
 let pageCount = 8;
+let qaSwitch = "q";
 
 function initData(pathname, data) {
     this.pathname = pathname;
@@ -118,8 +119,15 @@ function setContent(params_class1, params_class2, currentPage) {
             for(class3 in langData[class1][class2]) {
                 
                 if(class1 == params_class1 && class2 == params_class2 && pageCnt == currentPage) {
-                    $("#q").val(langData[class1][class2][class3]['q']);
-                    $("#a").val(langData[class1][class2][class3]['a']);
+                    
+                    if(qaSwitch=="q") {
+                        $("#q").val(langData[class1][class2][class3]['q']);
+                        $("#a").val(langData[class1][class2][class3]['a']);
+                    } else {
+                        $("#q").val(langData[class1][class2][class3]['a']);
+                        $("#a").val(langData[class1][class2][class3]['q']);
+                    }
+                    
                     classPage = classCnt; 
                 }
                 
@@ -184,6 +192,16 @@ function correctOn() {
 
 function correctOff() {
     $("#a").attr("type", "password");
+}
+
+function changeSwitch() {
+    if($("#switchCheck").is(":checked")) {
+        qaSwitch = "a";
+    } else {
+        qaSwitch = "q";
+    }
+    
+    onClickNav($("#breadClass1").text(), $("#breadClass2").text(), this.currentPage);
 }
 
 function moveClassPage(direction) {
