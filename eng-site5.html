@@ -3,10 +3,10 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="일본 성씨 맞추기">
-    <meta name="keywords" content="일본 성씨 맞추기">      
+    <meta name="description" content="영어 단어 맞추기">
+    <meta name="keywords" content="영어 단어 맞추기">      
     <link rel="shortcut icon" href="#">
-    <title>일본 성씨 맞추기</title>
+    <title>영어 단어 맞추기</title>
     <!-- Bootstrap icons-->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css" rel="stylesheet" />    
     <link href="./bootstrap-5.2.3/css/bootstrap.min.css" rel="stylesheet">
@@ -86,12 +86,12 @@
         <div class="row">
             <div class="col-md-4 col-lg-3 flex-shrink-0 p-3 bg-light">
                 
-                <a href="./jpn-site4.html" class="d-flex align-items-center pb-3 mb-3 link-dark text-decoration-none border-bottom">
-                    <span class="fs-5 fw-semibold">일본 성씨 맞추기</span>
+                <a href="./eng-site5.html" class="d-flex align-items-center pb-3 mb-3 link-dark text-decoration-none border-bottom">
+                    <span class="fs-5 fw-semibold">영어 단어 맞추기</span>
                 </a>
                               
-                <a href="#" class="d-flex align-items-center pb-3 mb-3 link-dark text-decoration-none border-bottom" onClick="randomData4_1();">
-                    <span class="fw-semibold">일본 성씨 Random</span>
+                <a href="#" class="d-flex align-items-center pb-3 mb-3 link-dark text-decoration-none border-bottom" onClick="randomData5_1();">
+                    <span class="fw-semibold">교육부 3000단어 Random</span>
                 </a>              
                                
                 <ul class="list-unstyled ps-0" id="navClass">
@@ -147,28 +147,28 @@
     
        
     <script>
-        let data4;
-        let data4_1;
-        let data4_2;
+        let data5;
+        let data5_1;
+        let data5_2;
         
         $(document).ready(function() {
             const url = new URL(window.location.href);
             const urlParams = url.searchParams;
             
-            data4_1 = YAML.load('./data/jpn-data4-1.yml');
+            data5_1 = YAML.load('./data/eng-data4-1.yml');
                         
-            data4 = { ...data4_1 };
-            initData(url.pathname, data4);
+            data5 = { ...data5_1 };
+            initData(url.pathname, data5);
             
-            appendNav(data4);
+            appendNav(data5);
             
             if(urlParams.get('class1') && urlParams.get('class2')) {
-                    collapseNav(data4, urlParams.get('class1'), urlParams.get('class2'), urlParams.get('currentPage'));
+                    collapseNav(data5, urlParams.get('class1'), urlParams.get('class2'), urlParams.get('currentPage'));
             }
         });
         
-        function randomData4_1() {
-            randomNav(data4_1);
+        function randomData5_1() {
+            randomNav(data5_1);
         }
         
 
