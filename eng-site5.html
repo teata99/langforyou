@@ -92,7 +92,11 @@
                               
                 <a href="#" class="d-flex align-items-center pb-3 mb-3 link-dark text-decoration-none border-bottom" onClick="randomData5_1();">
                     <span class="fw-semibold">교육부 3000단어 Random</span>
-                </a>              
+                </a>
+                
+                <a href="#" class="d-flex align-items-center pb-3 mb-3 link-dark text-decoration-none border-bottom" onClick="randomData5_2();">
+                    <span class="fw-semibold">자주쓰는 2500단어 Random</span>
+                </a>                            
                                
                 <ul class="list-unstyled ps-0" id="navClass">
 
@@ -156,8 +160,9 @@
             const urlParams = url.searchParams;
             
             data5_1 = YAML.load('./data/eng-data4-1.yml');
+            data5_2 = YAML.load('./data/eng-data5-2.yml');
                         
-            data5 = { ...data5_1 };
+            data5 = { ...data5_1, ...data5_2 };
             initData(url.pathname, data5);
             
             appendNav(data5);
@@ -170,6 +175,10 @@
         function randomData5_1() {
             randomNav(data5_1);
         }
+        
+        function randomData5_2() {
+            randomNav(data5_2);
+        }        
         
 
     </script>   
