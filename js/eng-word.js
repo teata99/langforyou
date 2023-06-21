@@ -3,6 +3,7 @@ let langData;
 let currentPage = 1;
 let randomContent;
 let a;
+let qq = "";
 let aPos = 0;
 let aInput = "";
 
@@ -19,6 +20,7 @@ function initData(pathname, data) {
 
 function initMatch() {
     a = "";
+    qq = "";
     aPos = 0;
     aInput = "";
 }
@@ -43,7 +45,11 @@ function onClickMatch(text, pos) {
             $(pos).removeClass("text-bg-warning");
             $(pos).removeClass("text-white");
             $(pos).removeClass("text-warning");
-            $(pos).addClass("text-bg-success");             
+            $(pos).addClass("text-bg-success");
+            
+            if(qq != undefined) {
+                $("#card_title").text($("#card_title").text() + " "+ qq);
+            }
 
         } else {
             playSound(hitSound);
@@ -61,10 +67,12 @@ function onClickMatch(text, pos) {
 
 function setMatchContent(class1, class2, pageNo) {
     let q = "";
+    
     randomContent = getRandomContent(class1, class2);
     //console.log("random:", randomContent);
     
     q = randomContent['q'];
+    qq = randomContent['qq'];
     a = randomContent['a'];
     
     $("#card_header").text(class2);
