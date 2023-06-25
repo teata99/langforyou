@@ -3,1590 +3,1590 @@
         0:
             c0: １位
             q: 佐藤
-            c6: さとう
+            qq: さとう
             a: SATOU
         1:
             c0: ２位
             q: 鈴木
-            c6: すずき
+            qq: すずき
             a: SUZUKI
         2:
             c0: ３位
             q: 高橋
-            c6: たかはし
+            qq: たかはし
             a: TAKAHASHI
         3:
             c0: ４位
             q: 田中
-            c6: たなか
+            qq: たなか
             a: TANAKA
         4:
             c0: ５位
             q: 渡辺
-            c6: わたなべ
+            qq: わたなべ
             a: WATANABE
         5:
             c0: ５位
             q: 渡邊
-            c6: わたなべ
+            qq: わたなべ
             a: WATANABE
         6:
             c0: ６位
             q: 伊藤
-            c6: いとう
+            qq: いとう
             a: ITOU
         7:
             c0: ７位
             q: 山本
-            c6: やまもと
+            qq: やまもと
             a: YAMAMOTO
         8:
             c0: ８位
             q: 中村
-            c6: なかむら
+            qq: なかむら
             a: NAKAMURA
         9:
             c0: ９位
             q: 小林
-            c6: こばやし
+            qq: こばやし
             a: KOBAYASHI
         10:
             c0: 10位
             q: 加藤
-            c6: かとう
+            qq: かとう
             a: KATOU
         11:
             c0: 11位
             q: 吉田
-            c6: よしだ
+            qq: よしだ
             a: YOSHIDA
         12:
             c0: 12位
             q: 山田
-            c6: やまだ
+            qq: やまだ
             a: YAMADA
         13:
             c0: 13位
             q: 佐々木
-            c6: ささき
+            qq: ささき
             a: SASAKI
         14:
             c0: 14位
             q: 山口
-            c6: やまぐち
+            qq: やまぐち
             a: YAMAGUCHI
         15:
             c0: 15位
             q: 斎藤
-            c6: さいとう
+            qq: さいとう
             a: SAITOU
         16:
             c0: 15位
             q: 齋藤
-            c6: さいとう
+            qq: さいとう
             a: SAITOU
         17:
             c0: 16位
             q: 松本
-            c6: まつもと
+            qq: まつもと
             a: MATSUMOTO
         18:
             c0: 17位
             q: 井上
-            c6: いのうえ
+            qq: いのうえ
             a: INOUE
         19:
             c0: 18位
             q: 木村
-            c6: きむら
+            qq: きむら
             a: KIMURA
         20:
             c0: 19位
             q: 林
-            c6: はやし
+            qq: はやし
             a: HAYASHI
         21:
             c0: 20位
             q: 清水
-            c6: しみず
+            qq: しみず
             a: SHIMIZU
         22:
             c0: 21位
             q: 山崎
-            c6: やまざき
+            qq: やまざき
             a: YAMAZAKI
         23:
             c0: 22位
             q: 森
-            c6: もり
+            qq: もり
             a: MORI
         24:
             c0: 23位
             q: 阿部
-            c6: あべ
+            qq: あべ
             a: ABE
         25:
             c0: 24位
             q: 池田
-            c6: いけだ
+            qq: いけだ
             a: IKEDA
         26:
             c0: 25位
             q: 橋本
-            c6: はしもと
+            qq: はしもと
             a: HASHIMOTO
         27:
             c0: 26位
             q: 山下
-            c6: やました
+            qq: やました
             a: YAMASHITA
         28:
             c0: 27位
             q: 石川
-            c6: いしかわ
+            qq: いしかわ
             a: ISHIKAWA
         29:
             c0: 28位
             q: 中島
-            c6: なかじま
+            qq: なかじま
             a: NAKAJIMA
         30:
             c0: 29位
             q: 前田
-            c6: まえだ
+            qq: まえだ
             a: MAEDA
         31:
             c0: 30位
             q: 藤田
-            c6: ふじた
+            qq: ふじた
             a: FUJITA
         32:
             c0: 31位
             q: 小川
-            c6: おがわ
+            qq: おがわ
             a: OGAWA
         33:
             c0: 32位
             q: 後藤
-            c6: ごとう
+            qq: ごとう
             a: GOTOU
         34:
             c0: 33位
             q: 岡田
-            c6: おかだ
+            qq: おかだ
             a: OKADA
         35:
             c0: 34位
             q: 長谷川
-            c6: はせがわ
+            qq: はせがわ
             a: HASEGAWA
         36:
             c0: 35位
             q: 村上
-            c6: むらかみ
+            qq: むらかみ
             a: MURAKAMI
         37:
             c0: 36位
             q: 近藤
-            c6: こんどう
+            qq: こんどう
             a: KONDOU
         38:
             c0: 37位
             q: 石井
-            c6: いしい
+            qq: いしい
             a: ISHII
         39:
             c0: 38位
             q: 斉藤
-            c6: さいとう
+            qq: さいとう
             a: SAITOU
         40:
             c0: 38位
             q: 齊藤
-            c6: さいとう
+            qq: さいとう
             a: SAITOU
         41:
             c0: 39位
             q: 坂本
-            c6: さかもと
+            qq: さかもと
             a: SAKAMOTO
         42:
             c0: 40位
             q: 遠藤
-            c6: えんどう
+            qq: えんどう
             a: ENDOU
         43:
             c0: 41位
             q: 青木
-            c6: あおき
+            qq: あおき
             a: AOKI
         44:
             c0: 42位
             q: 藤井
-            c6: ふじい
+            qq: ふじい
             a: FUJII
         45:
             c0: 43位
             q: 西村
-            c6: にしむら
+            qq: にしむら
             a: NISHIMURA
         46:
             c0: 44位
             q: 福田
-            c6: ふくだ
+            qq: ふくだ
             a: FUKUDA
         47:
             c0: 45位
             q: 太田
-            c6: おおた
+            qq: おおた
             a: OOTA
         48:
             c0: 46位
             q: 三浦
-            c6: みうら
+            qq: みうら
             a: MIURA
         49:
             c0: 47位
             q: 岡本
-            c6: おかもと
+            qq: おかもと
             a: OKAMOTO
         50:
             c0: 48位
             q: 松田
-            c6: まつだ
+            qq: まつだ
             a: MATSUDA
         51:
             c0: 49位
             q: 中川
-            c6: なかがわ
+            qq: なかがわ
             a: NAKAGAWA
         52:
             c0: 50位
             q: 中野
-            c6: なかの
+            qq: なかの
             a: NAKANO
         53:
             c0: 51位
             q: 原田
-            c6: はらだ
+            qq: はらだ
             a: HARADA
         54:
             c0: 52位
             q: 小野
-            c6: おの
+            qq: おの
             a: ONO
         55:
             c0: 53位
             q: 田村
-            c6: たむら
+            qq: たむら
             a: TAMURA
         56:
             c0: 54位
             q: 竹内
-            c6: たけうち
+            qq: たけうち
             a: TAKEUCHI
         57:
             c0: 55位
             q: 金子
-            c6: かねこ
+            qq: かねこ
             a: KANEKO
         58:
             c0: 56位
             q: 和田
-            c6: わだ
+            qq: わだ
             a: WADA
         59:
             c0: 57位
             q: 中山
-            c6: なかやま
+            qq: なかやま
             a: NAKAYAMA
         60:
             c0: 58位
             q: 藤原
-            c6: ふじわら
+            qq: ふじわら
             a: FUJIWARA
         61:
             c0: 59位
             q: 石田
-            c6: いしだ
+            qq: いしだ
             a: ISHIDA
         62:
             c0: 60位
             q: 上田
-            c6: うえだ
+            qq: うえだ
             a: UEDA
         63:
             c0: 61位
             q: 森田
-            c6: もりた
+            qq: もりた
             a: MORITA
         64:
             c0: 62位
             q: 原
-            c6: はら
+            qq: はら
             a: HARA
         65:
             c0: 63位
             q: 柴田
-            c6: しばた
+            qq: しばた
             a: SHIBATA
         66:
             c0: 64位
             q: 酒井
-            c6: さかい
+            qq: さかい
             a: SAKAI
         67:
             c0: 65位
             q: 工藤
-            c6: くどう
+            qq: くどう
             a: KUDOU
         68:
             c0: 66位
             q: 横山
-            c6: よこやま
+            qq: よこやま
             a: YOKOYAMA
         69:
             c0: 67位
             q: 宮崎
-            c6: みやざき
+            qq: みやざき
             a: MIYAZAKI
         70:
             c0: 68位
             q: 宮本
-            c6: みやもと
+            qq: みやもと
             a: MIYAMOTO
         71:
             c0: 69位
             q: 内田
-            c6: うちだ
+            qq: うちだ
             a: UCHIDA
         72:
             c0: 70位
             q: 高木
-            c6: たかぎ
+            qq: たかぎ
             a: TAKAGI
         73:
             c0: 71位
             q: 安藤
-            c6: あんどう
+            qq: あんどう
             a: ANDOU
         74:
             c0: 72位
             q: 谷口
-            c6: たにぐち
+            qq: たにぐち
             a: TANIGUCHI
         75:
             c0: 73位
             q: 大野
-            c6: おおの
+            qq: おおの
             a: OONO
         76:
             c0: 74位
             q: 丸山
-            c6: まるやま
+            qq: まるやま
             a: MARUYAMA
         77:
             c0: 75位
             q: 今井
-            c6: いまい
+            qq: いまい
             a: IMAI
         78:
             c0: 76位
             q: 高田
-            c6: たかだ
+            qq: たかだ
             a: TAKADA
         79:
             c0: 77位
             q: 藤本
-            c6: ふじもと
+            qq: ふじもと
             a: FUJIMOTO
         80:
             c0: 78位
             q: 武田
-            c6: たけだ
+            qq: たけだ
             a: TAKEDA
         81:
             c0: 79位
             q: 村田
-            c6: むらた
+            qq: むらた
             a: MURATA
         82:
             c0: 80位
             q: 上野
-            c6: うえの
+            qq: うえの
             a: UENO
         83:
             c0: 81位
             q: 杉山
-            c6: すぎやま
+            qq: すぎやま
             a: SUGIYAMA
         84:
             c0: 82位
             q: 増田
-            c6: ますだ
+            qq: ますだ
             a: MASUDA
         85:
             c0: 83位
             q: 平野
-            c6: ひらの
+            qq: ひらの
             a: HIRANO
         86:
             c0: 84位
             q: 大塚
-            c6: おおつか
+            qq: おおつか
             a: OOTSUKA
         87:
             c0: 85位
             q: 千葉
-            c6: ちば
+            qq: ちば
             a: CHIBA
         88:
             c0: 86位
             q: 久保
-            c6: くぼ
+            qq: くぼ
             a: KUBO
         89:
             c0: 87位
             q: 松井
-            c6: まつい
+            qq: まつい
             a: MATSUI
         90:
             c0: 88位
             q: 小島
-            c6: こじま
+            qq: こじま
             a: KOJIMA
         91:
             c0: 89位
             q: 岩崎
-            c6: いわさき
+            qq: いわさき
             a: IWASAKI
         92:
             c0: 90位
             q: 桜井
-            c6: さくらい
+            qq: さくらい
             a: SAKURAI
         93:
             c0: 90位
             q: 櫻井
-            c6: さくらい
+            qq: さくらい
             a: SAKURAI
         94:
             c0: 91位
             q: 野口
-            c6: のぐち
+            qq: のぐち
             a: NOGUCHI
         95:
             c0: 92位
             q: 松尾
-            c6: まつお
+            qq: まつお
             a: MATSUO
         96:
             c0: 93位
             q: 野村
-            c6: のむら
+            qq: のむら
             a: NOMURA
         97:
             c0: 94位
             q: 木下
-            c6: きのした
+            qq: きのした
             a: KINOSHITA
         98:
             c0: 95位
             q: 菊地
-            c6: きくち
+            qq: きくち
             a: KIKUCHI
         99:
             c0: 96位
             q: 佐野
-            c6: さの
+            qq: さの
             a: SANO
         100:
             c0: 97位
             q: 大西
-            c6: おおにし
+            qq: おおにし
             a: OONISHI
         101:
             c0: 98位
             q: 杉本
-            c6: すぎもと
+            qq: すぎもと
             a: SUGIMOTO
         102:
             c0: 99位
             q: 新井
-            c6: あらい
+            qq: あらい
             a: ARAI
         103:
             c0: 100位
             q: 浜田
-            c6: はまだ
+            qq: はまだ
             a: HAMADA
         104:
             c0: 100位
             q: 濱田
-            c6: はまだ
+            qq: はまだ
             a: HAMADA
         105:
             c0: 101位
             q: 菅原
-            c6: すがわら
+            qq: すがわら
             a: SUGAWARA
         106:
             c0: 102位
             q: 市川
-            c6: いちかわ
+            qq: いちかわ
             a: ICHIKAWA
         107:
             c0: 103位
             q: 水野
-            c6: みずの
+            qq: みずの
             a: MIZUNO
         108:
             c0: 104位
             q: 小松
-            c6: こまつ
+            qq: こまつ
             a: KOMATSU
         109:
             c0: 105位
             q: 島田
-            c6: しまだ
+            qq: しまだ
             a: SHIMADA
         110:
             c0: 106位
             q: 古川
-            c6: ふるかわ
+            qq: ふるかわ
             a: FURUKAWA
         111:
             c0: 107位
             q: 小山
-            c6: こやま
+            qq: こやま
             a: KOYAMA
         112:
             c0: 108位
             q: 高野
-            c6: たかの
+            qq: たかの
             a: TAKANO
         113:
             c0: 109位
             q: 西田
-            c6: にしだ
+            qq: にしだ
             a: NISHIDA
         114:
             c0: 110位
             q: 菊池
-            c6: きくち
+            qq: きくち
             a: KIKUCHI
         115:
             c0: 111位
             q: 山内
-            c6: やまうち
+            qq: やまうち
             a: YAMAUCHI
         116:
             c0: 112位
             q: 西川
-            c6: にしかわ
+            qq: にしかわ
             a: NISHIKAWA
         117:
             c0: 113位
             q: 五十嵐
-            c6: いがらし
+            qq: いがらし
             a: IGARASHI
         118:
             c0: 114位
             q: 北村
-            c6: きたむら
+            qq: きたむら
             a: KITAMURA
         119:
             c0: 115位
             q: 安田
-            c6: やすだ
+            qq: やすだ
             a: YASUDA
         120:
             c0: 116位
             q: 中田
-            c6: なかた
+            qq: なかた
             a: NAKATA
         121:
             c0: 117位
             q: 川口
-            c6: かわぐち
+            qq: かわぐち
             a: KAWAGUCHI
         122:
             c0: 118位
             q: 平田
-            c6: ひらた
+            qq: ひらた
             a: HIRATA
         123:
             c0: 119位
             q: 川崎
-            c6: かわさき
+            qq: かわさき
             a: KAWASAKI
         124:
             c0: 120位
             q: 飯田
-            c6: いいだ
+            qq: いいだ
             a: IIDA
         125:
             c0: 121位
             q: 吉川
-            c6: よしかわ
+            qq: よしかわ
             a: YOSHIKAWA
         126:
             c0: 122位
             q: 本田
-            c6: ほんだ
+            qq: ほんだ
             a: HONDA
         127:
             c0: 123位
             q: 久保田
-            c6: くぼた
+            qq: くぼた
             a: KUBOTA
         128:
             c0: 124位
             q: 沢田
-            c6: さわだ
+            qq: さわだ
             a: SAWADA
         129:
             c0: 124位
             q: 澤田
-            c6: さわだ
+            qq: さわだ
             a: SAWADA
         130:
             c0: 125位
             q: 辻
-            c6: つじ
+            qq: つじ
             a: TSUJI
         131:
             c0: 126位
             q: 関
-            c6: せき
+            qq: せき
             a: SEKI
         132:
             c0: 126位
             q: 關
-            c6: せき
+            qq: せき
             a: SEKI
         133:
             c0: 127位
             q: 吉村
-            c6: よしむら
+            qq: よしむら
             a: YOSHIMURA
         134:
             c0: 128位
             q: 渡部
-            c6: わたなべ
+            qq: わたなべ
             a: WATANABE
         135:
             c0: 129位
             q: 岩田
-            c6: いわた
+            qq: いわた
             a: IWATA
         136:
             c0: 130位
             q: 中西
-            c6: なかにし
+            qq: なかにし
             a: NAKANISHI
         137:
             c0: 131位
             q: 服部
-            c6: はっとり
+            qq: はっとり
             a: HATTORI
         138:
             c0: 132位
             q: 樋口
-            c6: ひぐち
+            qq: ひぐち
             a: HIGUCHI
         139:
             c0: 133位
             q: 福島
-            c6: ふくしま
+            qq: ふくしま
             a: FUKUSHIMA
         140:
             c0: 134位
             q: 川上
-            c6: かわかみ
+            qq: かわかみ
             a: KAWAKAMI
         141:
             c0: 135位
             q: 永井
-            c6: ながい
+            qq: ながい
             a: NAGAI
         142:
             c0: 136位
             q: 松岡
-            c6: まつおか
+            qq: まつおか
             a: MATSUOKA
         143:
             c0: 137位
             q: 田口
-            c6: たぐち
+            qq: たぐち
             a: TAGUCHI
         144:
             c0: 138位
             q: 山中
-            c6: やまなか
+            qq: やまなか
             a: YAMANAKA
         145:
             c0: 139位
             q: 森本
-            c6: もりもと
+            qq: もりもと
             a: MORIMOTO
         146:
             c0: 140位
             q: 土屋
-            c6: つちや
+            qq: つちや
             a: TSUCHIYA
         147:
             c0: 141位
             q: 矢野
-            c6: やの
+            qq: やの
             a: YANO
         148:
             c0: 142位
             q: 広瀬
-            c6: ひろせ
+            qq: ひろせ
             a: HIROSE
         149:
             c0: 142位
             q: 廣瀬
-            c6: ひろせ
+            qq: ひろせ
             a: HIROSE
         150:
             c0: 143位
             q: 秋山
-            c6: あきやま
+            qq: あきやま
             a: AKIYAMA
         151:
             c0: 144位
             q: 石原
-            c6: いしはら
+            qq: いしはら
             a: ISHIHARA
         152:
             c0: 145位
             q: 松下
-            c6: まつした
+            qq: まつした
             a: MATSUSHITA
         153:
             c0: 146位
             q: 大橋
-            c6: おおはし
+            qq: おおはし
             a: OOHASHI
         154:
             c0: 147位
             q: 松浦
-            c6: まつうら
+            qq: まつうら
             a: MATSUURA
         155:
             c0: 148位
             q: 吉岡
-            c6: よしおか
+            qq: よしおか
             a: YOSHIOKA
         156:
             c0: 149位
             q: 小池
-            c6: こいけ
+            qq: こいけ
             a: KOIKE
         157:
             c0: 150位
             q: 馬場
-            c6: ばば
+            qq: ばば
             a: BABA
         158:
             c0: 151位
             q: 浅野
-            c6: あさの
+            qq: あさの
             a: ASANO
         159:
             c0: 151位
             q: 淺野
-            c6: あさの
+            qq: あさの
             a: ASANO
         160:
             c0: 152位
             q: 荒木
-            c6: あらき
+            qq: あらき
             a: ARAKI
         161:
             c0: 153位
             q: 大久保
-            c6: おおくぼ
+            qq: おおくぼ
             a: OOKUBO
         162:
             c0: 154位
             q: 野田
-            c6: のだ
+            qq: のだ
             a: NODA
         163:
             c0: 155位
             q: 小沢
-            c6: おざわ
+            qq: おざわ
             a: OZAWA
         164:
             c0: 155位
             q: 小澤
-            c6: おざわ
+            qq: おざわ
             a: OZAWA
         165:
             c0: 156位
             q: 田辺
-            c6: たなべ
+            qq: たなべ
             a: TANABE
         166:
             c0: 156位
             q: 田邊
-            c6: たなべ
+            qq: たなべ
             a: TANABE
         167:
             c0: 157位
             q: 川村
-            c6: かわむら
+            qq: かわむら
             a: KAWAMURA
         168:
             c0: 158位
             q: 星野
-            c6: ほしの
+            qq: ほしの
             a: HOSHINO
         169:
             c0: 159位
             q: 黒田
-            c6: くろだ
+            qq: くろだ
             a: KURODA
         170:
             c0: 160位
             q: 堀
-            c6: ほり
+            qq: ほり
             a: HORI
         171:
             c0: 161位
             q: 尾崎
-            c6: おざき
+            qq: おざき
             a: OZAKI
         172:
             c0: 162位
             q: 望月
-            c6: もちづき
+            qq: もちづき
             a: MOCHIDZUKI
         173:
             c0: 163位
             q: 永田
-            c6: ながた
+            qq: ながた
             a: NAGATA
         174:
             c0: 164位
             q: 熊谷
-            c6: くまがい
+            qq: くまがい
             a: KUMAGAI
         175:
             c0: 165位
             q: 内藤
-            c6: ないとう
+            qq: ないとう
             a: NAITOU
         176:
             c0: 166位
             q: 松村
-            c6: まつむら
+            qq: まつむら
             a: MATSUMURA
         177:
             c0: 167位
             q: 西山
-            c6: にしやま
+            qq: にしやま
             a: NISHIYAMA
         178:
             c0: 168位
             q: 大谷
-            c6: おおたに
+            qq: おおたに
             a: OOTANI
         179:
             c0: 169位
             q: 平井
-            c6: ひらい
+            qq: ひらい
             a: HIRAI
         180:
             c0: 170位
             q: 大島
-            c6: おおしま
+            qq: おおしま
             a: OOSHIMA
         181:
             c0: 171位
             q: 岩本
-            c6: いわもと
+            qq: いわもと
             a: IWAMOTO
         182:
             c0: 172位
             q: 片山
-            c6: かたやま
+            qq: かたやま
             a: KATAYAMA
         183:
             c0: 173位
             q: 本間
-            c6: ほんま
+            qq: ほんま
             a: HONMA
         184:
             c0: 174位
             q: 早川
-            c6: はやかわ
+            qq: はやかわ
             a: HAYAKAWA
         185:
             c0: 175位
             q: 横田
-            c6: よこた
+            qq: よこた
             a: YOKOTA
         186:
             c0: 176位
             q: 岡崎
-            c6: おかざき
+            qq: おかざき
             a: OKAZAKI
         187:
             c0: 177位
             q: 荒井
-            c6: あらい
+            qq: あらい
             a: ARAI
         188:
             c0: 178位
             q: 大石
-            c6: おおいし
+            qq: おおいし
             a: OOISHI
         189:
             c0: 179位
             q: 鎌田
-            c6: かまた
+            qq: かまた
             a: KAMATA
         190:
             c0: 180位
             q: 成田
-            c6: なりた
+            qq: なりた
             a: NARITA
         191:
             c0: 181位
             q: 宮田
-            c6: みやた
+            qq: みやた
             a: MIYATA
         192:
             c0: 182位
             q: 小田
-            c6: おだ
+            qq: おだ
             a: ODA
         193:
             c0: 183位
             q: 石橋
-            c6: いしばし
+            qq: いしばし
             a: ISHIBASHI
         194:
             c0: 184位
             q: 篠原
-            c6: しのはら
+            qq: しのはら
             a: SHINOHARA
         195:
             c0: 185位
             q: 須藤
-            c6: すどう
+            qq: すどう
             a: SUDOU
         196:
             c0: 186位
             q: 河野
-            c6: こうの
+            qq: こうの
             a: KOUNO
         197:
             c0: 187位
             q: 大沢
-            c6: おおさわ
+            qq: おおさわ
             a: OOSAWA
         198:
             c0: 187位
             q: 大澤
-            c6: おおさわ
+            qq: おおさわ
             a: OOSAWA
         199:
             c0: 188位
             q: 小西
-            c6: こにし
+            qq: こにし
             a: KONISHI
         200:
             c0: 189位
             q: 南
-            c6: みなみ
+            qq: みなみ
             a: MINAMI
         201:
             c0: 190位
             q: 高山
-            c6: たかやま
+            qq: たかやま
             a: TAKAYAMA
         202:
             c0: 191位
             q: 栗原
-            c6: くりはら
+            qq: くりはら
             a: KURIHARA
         203:
             c0: 192位
             q: 伊東
-            c6: いとう
+            qq: いとう
             a: ITOU
         204:
             c0: 193位
             q: 松原
-            c6: まつばら
+            qq: まつばら
             a: MATSUBARA
         205:
             c0: 194位
             q: 三宅
-            c6: みやけ
+            qq: みやけ
             a: MIYAKE
         206:
             c0: 195位
             q: 福井
-            c6: ふくい
+            qq: ふくい
             a: FUKUI
         207:
             c0: 196位
             q: 大森
-            c6: おおもり
+            qq: おおもり
             a: OOMORI
         208:
             c0: 197位
             q: 奥村
-            c6: おくむら
+            qq: おくむら
             a: OKUMURA
         209:
             c0: 198位
             q: 岡
-            c6: おか
+            qq: おか
             a: OKA
         210:
             c0: 199位
             q: 内山
-            c6: うちやま
+            qq: うちやま
             a: UCHIYAMA
         211:
             c0: 200位
             q: 片岡
-            c6: かたおか
+            qq: かたおか
             a: KATAOKA
         212:
             c0: 201位
             q: 松永
-            c6: まつなが
+            qq: まつなが
             a: MATSUNAGA
         213:
             c0: 202位
             q: 桑原
-            c6: くわばら
+            qq: くわばら
             a: KUWABARA
         214:
             c0: 203位
             q: 関口
-            c6: せきぐち
+            qq: せきぐち
             a: SEKIGUCHI
         215:
             c0: 203位
             q: 關口
-            c6: せきぐち
+            qq: せきぐち
             a: SEKIGUCHI
         216:
             c0: 204位
             q: 北川
-            c6: きたがわ
+            qq: きたがわ
             a: KITAGAWA
         217:
             c0: 205位
             q: 奥田
-            c6: おくだ
+            qq: おくだ
             a: OKUDA
         218:
             c0: 206位
             q: 富田
-            c6: とみた
+            qq: とみた
             a: TOMITA
         219:
             c0: 207位
             q: 古賀
-            c6: こが
+            qq: こが
             a: KOGA
         220:
             c0: 208位
             q: 八木
-            c6: やぎ
+            qq: やぎ
             a: YAGI
         221:
             c0: 209位
             q: 吉野
-            c6: よしの
+            qq: よしの
             a: YOSHINO
         222:
             c0: 210位
             q: 中沢
-            c6: なかざわ
+            qq: なかざわ
             a: NAKAZAWA
         223:
             c0: 210位
             q: 中澤
-            c6: なかざわ
+            qq: なかざわ
             a: NAKAZAWA
         224:
             c0: 211位
             q: 上原
-            c6: うえはら
+            qq: うえはら
             a: UEHARA
         225:
             c0: 212位
             q: 白石
-            c6: しらいし
+            qq: しらいし
             a: SHIRAISHI
         226:
             c0: 213位
             q: 今村
-            c6: いまむら
+            qq: いまむら
             a: IMAMURA
         227:
             c0: 214位
             q: 中尾
-            c6: なかお
+            qq: なかお
             a: NAKAO
         228:
             c0: 215位
             q: 小泉
-            c6: こいずみ
+            qq: こいずみ
             a: KOIZUMI
         229:
             c0: 216位
             q: 川島
-            c6: かわしま
+            qq: かわしま
             a: KAWASHIMA
         230:
             c0: 217位
             q: 青山
-            c6: あおやま
+            qq: あおやま
             a: AOYAMA
         231:
             c0: 218位
             q: 平山
-            c6: ひらやま
+            qq: ひらやま
             a: HIRAYAMA
         232:
             c0: 219位
             q: 牧野
-            c6: まきの
+            qq: まきの
             a: MAKINO
         233:
             c0: 220位
             q: 岡村
-            c6: おかむら
+            qq: おかむら
             a: OKAMURA
         234:
             c0: 221位
             q: 河野
-            c6: かわの
+            qq: かわの
             a: KAWANO
         235:
             c0: 222位
             q: 寺田
-            c6: てらだ
+            qq: てらだ
             a: TERADA
         236:
             c0: 223位
             q: 河合
-            c6: かわい
+            qq: かわい
             a: KAWAI
         237:
             c0: 224位
             q: 児玉
-            c6: こだま
+            qq: こだま
             a: KODAMA
         238:
             c0: 224位
             q: 兒玉
-            c6: こだま
+            qq: こだま
             a: KODAMA
         239:
             c0: 225位
             q: 坂口
-            c6: さかぐち
+            qq: さかぐち
             a: SAKAGUCHI
         240:
             c0: 226位
             q: 西
-            c6: にし
+            qq: にし
             a: NISHI
         241:
             c0: 227位
             q: 大山
-            c6: おおやま
+            qq: おおやま
             a: OOYAMA
         242:
             c0: 228位
             q: 渋谷
-            c6: しぶや
+            qq: しぶや
             a: SHIBUYA
         243:
             c0: 229位
             q: 多田
-            c6: ただ
+            qq: ただ
             a: TADA
         244:
             c0: 230位
             q: 小野寺
-            c6: おのでら
+            qq: おのでら
             a: ONODERA
         245:
             c0: 231位
             q: 宮下
-            c6: みやした
+            qq: みやした
             a: MIYASHITA
         246:
             c0: 232位
             q: 竹田
-            c6: たけだ
+            qq: たけだ
             a: TAKEDA
         247:
             c0: 233位
             q: 小倉
-            c6: おぐら
+            qq: おぐら
             a: OGURA
         248:
             c0: 234位
             q: 足立
-            c6: あだち
+            qq: あだち
             a: ADACHI
         249:
             c0: 235位
             q: 小笠原
-            c6: おがさわら
+            qq: おがさわら
             a: OGASAWARA
         250:
             c0: 236位
             q: 坂井
-            c6: さかい
+            qq: さかい
             a: SAKAI
         251:
             c0: 237位
             q: 村山
-            c6: むらやま
+            qq: むらやま
             a: MURAYAMA
         252:
             c0: 238位
             q: 天野
-            c6: あまの
+            qq: あまの
             a: AMANO
         253:
             c0: 239位
             q: 杉浦
-            c6: すぎうら
+            qq: すぎうら
             a: SUGIURA
         254:
             c0: 240位
             q: 東
-            c6: ひがし
+            qq: ひがし
             a: HIGASHI
         255:
             c0: 241位
             q: 坂田
-            c6: さかた
+            qq: さかた
             a: SAKATA
         256:
             c0: 242位
             q: 豊田
-            c6: とよた
+            qq: とよた
             a: TOYOTA
         257:
             c0: 243位
             q: 水谷
-            c6: みずたに
+            qq: みずたに
             a: MIZUTANI
         258:
             c0: 244位
             q: 武藤
-            c6: むとう
+            qq: むとう
             a: MUTOU
         259:
             c0: 245位
             q: 萩原
-            c6: はぎわら
+            qq: はぎわら
             a: HAGIWARA
         260:
             c0: 246位
             q: 根本
-            c6: ねもと
+            qq: ねもと
             a: NEMOTO
         261:
             c0: 247位
             q: 関根
-            c6: せきね
+            qq: せきね
             a: SEKINE
         262:
             c0: 247位
             q: 關根
-            c6: せきね
+            qq: せきね
             a: SEKINE
         263:
             c0: 248位
             q: 森下
-            c6: もりした
+            qq: もりした
             a: MORISHITA
         264:
             c0: 249位
             q: 中井
-            c6: なかい
+            qq: なかい
             a: NAKAI
         265:
             c0: 250位
             q: 河村
-            c6: かわむら
+            qq: かわむら
             a: KAWAMURA
         266:
             c0: 251位
             q: 菅野
-            c6: かんの
+            qq: かんの
             a: KAN'NO
         267:
             c0: 252位
             q: 植田
-            c6: うえだ
+            qq: うえだ
             a: UEDA
         268:
             c0: 253位
             q: 塚本
-            c6: つかもと
+            qq: つかもと
             a: TSUKAMOTO
         269:
             c0: 254位
             q: 飯塚
-            c6: いいづか
+            qq: いいづか
             a: IIDZUKA
         270:
             c0: 255位
             q: 佐久間
-            c6: さくま
+            qq: さくま
             a: SAKUMA
         271:
             c0: 256位
             q: 田島
-            c6: たじま
+            qq: たじま
             a: TAJIMA
         272:
             c0: 257位
             q: 前川
-            c6: まえかわ
+            qq: まえかわ
             a: MAEKAWA
         273:
             c0: 258位
             q: 山根
-            c6: やまね
+            qq: やまね
             a: YAMANE
         274:
             c0: 259位
             q: 浅井
-            c6: あさい
+            qq: あさい
             a: ASAI
         275:
             c0: 259位
             q: 淺井
-            c6: あさい
+            qq: あさい
             a: ASAI
         276:
             c0: 260位
             q: 安部
-            c6: あべ
+            qq: あべ
             a: ABE
         277:
             c0: 261位
             q: 白井
-            c6: しらい
+            qq: しらい
             a: SHIRAI
         278:
             c0: 262位
             q: 宮川
-            c6: みやがわ
+            qq: みやがわ
             a: MIYAGAWA
         279:
             c0: 263位
             q: 岡部
-            c6: おかべ
+            qq: おかべ
             a: OKABE
         280:
             c0: 264位
             q: 神田
-            c6: かんだ
+            qq: かんだ
             a: KANDA
         281:
             c0: 265位
             q: 大川
-            c6: おおかわ
+            qq: おおかわ
             a: OOKAWA
         282:
             c0: 266位
             q: 谷
-            c6: たに
+            qq: たに
             a: TANI
         283:
             c0: 267位
             q: 堀内
-            c6: ほりうち
+            qq: ほりうち
             a: HORIUCHI
         284:
             c0: 268位
             q: 稲垣
-            c6: いながき
+            qq: いながき
             a: INAGAKI
         285:
             c0: 269位
             q: 若林
-            c6: わかばやし
+            qq: わかばやし
             a: WAKABAYASHI
         286:
             c0: 270位
             q: 松崎
-            c6: まつざき
+            qq: まつざき
             a: MATSUZAKI
         287:
             c0: 271位
             q: 榎本
-            c6: えのもと
+            qq: えのもと
             a: ENOMOTO
         288:
             c0: 272位
             q: 森山
-            c6: もりやま
+            qq: もりやま
             a: MORIYAMA
         289:
             c0: 273位
             q: 畠山
-            c6: はたけやま
+            qq: はたけやま
             a: HATAKEYAMA
         290:
             c0: 274位
             q: 細川
-            c6: ほそかわ
+            qq: ほそかわ
             a: HOSOKAWA
         291:
             c0: 275位
             q: 江口
-            c6: えぐち
+            qq: えぐち
             a: EGUCHI
         292:
             c0: 276位
             q: 及川
-            c6: おいかわ
+            qq: おいかわ
             a: OIKAWA
         293:
             c0: 277位
             q: 西尾
-            c6: にしお
+            qq: にしお
             a: NISHIO
         294:
             c0: 278位
             q: 三上
-            c6: みかみ
+            qq: みかみ
             a: MIKAMI
         295:
             c0: 279位
             q: 金沢
-            c6: かなざわ
+            qq: かなざわ
             a: KANAZAWA
         296:
             c0: 279位
             q: 金澤
-            c6: かなざわ
+            qq: かなざわ
             a: KANAZAWA
         297:
             c0: 280位
             q: 安達
-            c6: あだち
+            qq: あだち
             a: ADACHI
         298:
             c0: 281位
             q: 田代
-            c6: たしろ
+            qq: たしろ
             a: TASHIRO
         299:
             c0: 282位
             q: 石塚
-            c6: いしづか
+            qq: いしづか
             a: ISHIDZUKA
         300:
             c0: 283位
             q: 飯島
-            c6: いいじま
+            qq: いいじま
             a: IIJIMA
         301:
             c0: 284位
             q: 土井
-            c6: どい
+            qq: どい
             a: DOI
         302:
             c0: 285位
             q: 津田
-            c6: つだ
+            qq: つだ
             a: TSUDA
         303:
             c0: 286位
             q: 神谷
-            c6: かみや
+            qq: かみや
             a: KAMIYA
         304:
             c0: 287位
             q: 荒川
-            c6: あらかわ
+            qq: あらかわ
             a: ARAKAWA
         305:
             c0: 288位
             q: 中原
-            c6: なかはら
+            qq: なかはら
             a: NAKAHARA
         306:
             c0: 289位
             q: 戸田
-            c6: とだ
+            qq: とだ
             a: TODA
         307:
             c0: 290位
             q: 岸本
-            c6: きしもと
+            qq: きしもと
             a: KISHIMOTO
         308:
             c0: 291位
             q: 長尾
-            c6: ながお
+            qq: ながお
             a: NAGAO
         309:
             c0: 292位
             q: 今野
-            c6: こんの
+            qq: こんの
             a: KON'NO
         310:
             c0: 293位
             q: 本多
-            c6: ほんだ
+            qq: ほんだ
             a: HONDA
         311:
             c0: 294位
             q: 滝沢
-            c6: たきざわ
+            qq: たきざわ
             a: TAKIZAWA
         312:
             c0: 294位
             q: 瀧澤
-            c6: たきざわ
+            qq: たきざわ
             a: TAKIZAWA
         313:
             c0: 295位
             q: 森川
-            c6: もりかわ
+            qq: もりかわ
             a: MORIKAWA
         314:
             c0: 296位
             q: 三好
-            c6: みよし
+            qq: みよし
             a: MIYOSHI
         315:
             c0: 297位
             q: 中嶋
-            c6: なかじま
+            qq: なかじま
             a: NAKAJIMA
         316:
             c0: 298位
             q: 村松
-            c6: むらまつ
+            qq: むらまつ
             a: MURAMATSU
         317:
             c0: 299位
             q: 星
-            c6: ほし
+            qq: ほし
             a: HOSHI            
