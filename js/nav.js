@@ -42,11 +42,28 @@ function collapseNav(langData, params_class1, params_class2, currentPage) {
 }
 
 function setBread(pathname, class1, class2, pageNo) {
+    const url = new URL(window.location.href);
+    const urlParams = url.searchParams;
+            
     $("#breadClass1").text(class1);
+    var appendItem;
     
-    var appendItem = `<a href="${pathname}?class1=${class1}&class2=${class2}&currentPage=${pageNo}">${class2}</a>`;
+    if((class1 == urlParams.get('class1')) && (class2 == urlParams.get('class2'))) {
+        appendItem = `<a href="#" onClick="onClickNav('${class1}', '${class2}', ${pageNo});">${class2}</a>`; 
+    } else {
+        appendItem = `<a href="${pathname}?class1=${class1}&class2=${class2}&currentPage=${pageNo}">${class2}</a>`;
+    }
+    
     $("#breadClass2").text('');
     $("#breadClass2").append(appendItem);
+}
+
+function setBreadNav(class1, class2, pageNo) {
+    $("#breadClass1").text(class1);
+    
+    var appendItem = `<a onClick="onClickNav('${class1}', '${class2}', ${pageNo});">${class2}</a>`; 
+    $("#breadClass2").text('');
+    $("#breadClass2").append(appendItem);    
 }
 
 function randomNav(randomData) {
