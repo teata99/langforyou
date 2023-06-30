@@ -92,7 +92,7 @@ function setMatchContent(class1, class2, pageNo) {
     
     for(var i=0; i<aArr.length; i++) {
         appendItem += `<div class="col-3 p-1 mt-2">
-                                  <span class="badge text-nowrap rounded-pill text-bg-warning text-white fs-5" style="width: 5rem;" onclick="onClickMatch('${aArr[i]}', '#mat${i}');" id="mat${i}">${aArr[i]}</span>
+                                  <span class="badge text-nowrap rounded-pill text-bg-warning text-white fs-5" style="width: 5rem; cursor:pointer;" onclick="onClickMatch('${aArr[i]}', '#mat${i}');" id="mat${i}">${aArr[i]}</span>
                               </div>`;
     }
     
