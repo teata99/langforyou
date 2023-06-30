@@ -13,8 +13,8 @@
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://langforyou.com/eng-site4.html</loc>
-  <lastmod>2023-05-22T15:11:25+00:00</lastmod>
+  <loc>https://langforyou.com/board.html</loc>
+  <lastmod>2023-06-30T15:11:25+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
@@ -25,6 +25,16 @@
 <url>
   <loc>https://langforyou.com/eng-site2.html</loc>
   <lastmod>2023-05-22T15:11:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://langforyou.com/eng-site4.html</loc>
+  <lastmod>2023-06-30T15:11:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://langforyou.com/eng-site5.html</loc>
+  <lastmod>2023-06-30T15:11:25+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
@@ -45,6 +55,11 @@
 <url>
   <loc>https://langforyou.com/jpn-site4.html</loc>
   <lastmod>2023-05-22T15:11:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://langforyou.com/jpn-site5.html</loc>
+  <lastmod>2023-06-30T15:11:25+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
