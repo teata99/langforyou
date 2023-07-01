@@ -122,10 +122,14 @@
                                 
     </div>
     
+    <div class="container text-center mt-5 p-5">
+        <a href="https://m.cafe.naver.com/langforyou" target="_blank">네이버 카페 바로가기</a>
+    </div>
     
-    <div class="container-fluid mt-5 p-5">
+    
+    <!--div class="container-fluid mt-5 p-5"-->
         <!-- 라이브리 시티 설치 코드 -->
-        <div id="lv-container" data-id="city" data-uid="MTAyMC81ODM1MS8zNDgxNA==">
+        <!--div id="lv-container" data-id="city" data-uid="MTAyMC81ODM1MS8zNDgxNA==">
             <script type="text/javascript">
            (function(d, s) {
                var j, e = d.getElementsByTagName(s)[0];
@@ -140,10 +144,10 @@
            })(document, 'script');
             </script>
         <noscript> 라이브리 댓글 작성을 위해 JavaScript를 활성화 해주세요</noscript>
-        </div>
+        </div-->
         <!-- 시티 설치 코드 끝 -->        
         
-    </div>
+    <!--/div-->
     
     <div id="footers"></div>
     
@@ -158,6 +162,21 @@
             $("#footers").load("footer.html");
         });
     </script>
+    
+    <div id="cafe"></div>   
+             
+    <script>
+        /*
+        window.onload = function() {
+            window.open("https://m.cafe.naver.com/langforyou", "cafe", "");
+        }
+        
+        const cafe = document.getElementById("cafe");
+        fetch("https://m.cafe.naver.com/langforyou")
+            .then(response => response.text())
+            .then(result => cafe.innerHTML = result)
+        */
+    </script>   
         
   </body>
 </html>
