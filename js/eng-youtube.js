@@ -76,21 +76,22 @@ function onClickNav(class1, class2, currentPage) {
     let content = langData[class1][class2];
     let channels = ifChannels(content.externalId);
     let playlists = ifPlaylists(ucToUu(content.externalId));
-    
+
+    $("#ytUrl").attr("href", "https://www.youtube.com/" + content.channel + "/featured");
+    $("#ytChannel").text(content.channel);
+    $("#ytTitle").text(class2);
+        
     for(item in channels.items) {
-    
         $("#ytChannel").text(channels.items[item].snippet.customUrl);
         $("#ytTitle").text(channels.items[item].snippet.title);
         $("#ytDescription").text(channels.items[item].snippet.description);
         $("#ytThumbnails").attr("src", channels.items[item].snippet.thumbnails.default.url);
         //thumbnails default url
         
-        let subscriberCount = channels.items[item].statistics.subscriberCount; 
-        let videoCount = channels.items[item].statistics.videoCount;
+        let subscriberCount = Number(channels.items[item].statistics.subscriberCount); 
+        let videoCount = Number(channels.items[item].statistics.videoCount);
         
-        $("#ytStatistics").text("구독자: " + subscriberCount + "명 동영상: " + videoCount + "개" );
-        
-        $("#ytUrl").attr("href", "https://www.youtube.com/" + channels.items[item].snippet.customUrl + "/featured");
+        $("#ytStatistics").text("구독자: " + subscriberCount.toLocaleString() + "명 동영상: " + videoCount.toLocaleString() + "개" );
     }
     
     for(item in playlists.items) {
