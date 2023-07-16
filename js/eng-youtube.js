@@ -91,7 +91,7 @@ function onClickNav(class1, class2, currentPage) {
         let subscriberCount = Number(channels.items[item].statistics.subscriberCount); 
         let videoCount = Number(channels.items[item].statistics.videoCount);
         
-        $("#ytStatistics").text("구독자: " + subscriberCount.toLocaleString() + "명 동영상: " + videoCount.toLocaleString() + "개" );
+        $("#ytStatistics").text("구독자 " + subscriberCount.toLocaleString() + "명 동영상 " + videoCount.toLocaleString() + "개" );
     }
     
     for(item in playlists.items) {
