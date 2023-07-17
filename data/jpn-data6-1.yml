@@ -5,7 +5,11 @@
 
     テレ東BIZ:
         channel: @tvtokyobiz 
-        externalId: UCkKVQ_GNjd8FbAuT6xDcWgg 
+        externalId: UCkKVQ_GNjd8FbAuT6xDcWgg
+        
+    NHK:
+        channel: @NHK 
+        externalId: UCip8ve30-AoX2y2OtAAmqFA        
         
     テレビ東京公式 TV TOKYO:
         channel: @TVTOKYO 
@@ -47,7 +51,11 @@
         
     사요 일본어:
         channel: @sayojapanese 
-        externalId: UCV7z6zI0fBZA0AXJd3gWM1Q        
+        externalId: UCV7z6zI0fBZA0AXJd3gWM1Q
+        
+    Language Center Sapporo:
+        channel: @languagecentersapporo8055 
+        externalId: UCUhweQECOGQ-POEY8_rbZ6Q        
         
 일본어 교육(KR):
     유하다요:
@@ -70,9 +78,62 @@
         channel: @siwonjapan 
         externalId: UCOXy4aQgRqg8cCfTKnCLDdA
         
+    일본어ᅵ다락원 119:
+        channel: @darakwon_japanese 
+        externalId: UCumUP1MXkHUmCXNq1HQkHpA        
+
+    해커스 회화·JLPT·학원·인강:
+        channel: @hackersjapan 
+        externalId: UCVsW_QS-bzIVDMChrRuBxPA
+        
     쟈링프렌즈:
         channel: @user-cb4hw9il7p 
-        externalId: UCZSCOFQpUAN9pCdSwzBRs7g         
+        externalId: UCZSCOFQpUAN9pCdSwzBRs7g
+        
+    파닥파닥일본어:
+        channel: @user-dc6bl9nb6y 
+        externalId: UCCDP2DLPMifleKYTF9GhLUw
+        
+    링고야일본어:
+        channel: @ringoya_japanese 
+        externalId: UCXg06eCmp1kJoNmmf_TLN-Q
+        
+    공민정:
+        channel: @user-zs1pf1yv8s 
+        externalId: UCkDGFXVk2xeO3likO9Bne1Q
+        
+    와카메센세:
+        channel: @wakamesensei 
+        externalId: UCPvMw4n1pEsSZCiPMnVxHHQ
+        
+    일어동스쿨:
+        channel: @user-ro6wr9ju4c 
+        externalId: UCcBDnOW4xdezbf8RvvnN8hA
+        
+    Lucky polymath:
+        channel: @luckypolymath3933 
+        externalId: UCw5jlOBm0yFY19q-sOFychg
+        
+    은지의 독학 일본어 교실:
+        channel: @eunjijungjapan 
+        externalId: UClylJALvNYeGYugKrR0eBpg        
+
+일본어와 영어:        
+    バイリンガール英会話:        
+        channel: @cyoshida1231 
+        externalId: UCPlreGCqby4Qg9Vuem5scpw
+        
+    Paolo fromTOKYO:        
+        channel: @PaolofromTOKYO 
+        externalId: UCixD9UbKvDxzGNiPC_fgHyA
+        
+    Atsueigo:        
+        channel: @atsueigo 
+        externalId: UCgeaC4OEk0t54m2hWQtjjIw
+        
+    毎日1分!英字新聞:        
+        channel: @1m-english 
+        externalId: UCnAS9WqXFfsUjahainO4Smg        
         
 일본어 자막 유튜브:
     まどねす !:        
@@ -81,5 +142,29 @@
         
     さしはらちゃんねる:        
         channel: @345chan 
-        externalId: UCfnSEB4atVWATf6vzepHzqw        
+        externalId: UCfnSEB4atVWATf6vzepHzqw
+
+    木下ゆうか:        
+        channel: @kinoyuu0204 
+        externalId: UCFTVNLC7ysej-sD5lkLqNGA
+
+    杏/anne TOKYO:        
+        channel: @annetokyo 
+        externalId: UCdaFyOoPLyKwW8kvEvbHCwg        
+        
+    上京ワッショイ:        
+        channel: @user-ge3nx3zi8i 
+        externalId: UCVbnC5QtcYSWlVD8jcPCyng        
+
+    見るまえに跳べ:        
+        channel: @mirutobe 
+        externalId: UCoxy3r8oACjytszytpxQoEg
+        
+        
+        
+        
+        
+        
+        
+        
     
