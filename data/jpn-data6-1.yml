@@ -49,10 +49,6 @@
         channel: @tadayobi-humanities 
         externalId: UCRNYfIK7BV_DCoR7KqdhBhQ
         
-    사요 일본어:
-        channel: @sayojapanese 
-        externalId: UCV7z6zI0fBZA0AXJd3gWM1Q
-        
     Language Center Sapporo:
         channel: @languagecentersapporo8055 
         externalId: UCUhweQECOGQ-POEY8_rbZ6Q        
@@ -61,6 +57,10 @@
     유하다요:
         channel: @yuhadayo 
         externalId: UC_waGdcNiCWTv1GG9OvE23A
+        
+    사요 일본어:
+        channel: @sayojapanese 
+        externalId: UCV7z6zI0fBZA0AXJd3gWM1Q        
         
     하테나일본어:
         channel: @hotena0727 
