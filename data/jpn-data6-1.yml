@@ -9,7 +9,11 @@
         
     NHK:
         channel: @NHK 
-        externalId: UCip8ve30-AoX2y2OtAAmqFA        
+        externalId: UCip8ve30-AoX2y2OtAAmqFA
+        
+    日テレNEWS:
+        channel: @ntv_news 
+        externalId: UCuTAXTexrhetbOe3zgskJBQ        
         
     テレビ東京公式 TV TOKYO:
         channel: @TVTOKYO 
@@ -27,7 +31,7 @@
         channel: @FNNnewsCH 
         externalId: UCoQBJMzcwmXrRSHBFAlTsIw
 
-    TBS NEWS DIG Powered by JNN:
+    TBS NEWS DIG:
         channel: @tbsnewsdig 
         externalId: UC6AG81pAkf6Lbi_1VC5NmPA
         
@@ -51,7 +55,15 @@
         
     Language Center Sapporo:
         channel: @languagecentersapporo8055 
-        externalId: UCUhweQECOGQ-POEY8_rbZ6Q        
+        externalId: UCUhweQECOGQ-POEY8_rbZ6Q
+        
+    三本塾 -Sambon Juku-:
+        channel: @sambonjuku 
+        externalId: UC0ujXryUUwILURRKt9Eh7Nw
+        
+    Onomappu:
+        channel: @Onomappu 
+        externalId: UCLuymDHiOySsAQ9Nc-4NoEQ        
         
 일본어 교육(KR):
     유하다요:
@@ -60,7 +72,11 @@
         
     사요 일본어:
         channel: @sayojapanese 
-        externalId: UCV7z6zI0fBZA0AXJd3gWM1Q        
+        externalId: UCV7z6zI0fBZA0AXJd3gWM1Q
+        
+    요미채널YOMI CHANNEL:
+        channel: @yomichannel1551 
+        externalId: UCyZUl37QJKtN8gWdvzArFkg        
         
     하테나일본어:
         channel: @hotena0727 
@@ -116,7 +132,12 @@
         
     은지의 독학 일본어 교실:
         channel: @eunjijungjapan 
-        externalId: UClylJALvNYeGYugKrR0eBpg        
+        externalId: UClylJALvNYeGYugKrR0eBpg
+        
+    Language Master:
+        channel: @LanguageMaster 
+        externalId: UC6TPS-yjXKuPg470iupxRgw        
+        
 
 일본어와 영어:        
     バイリンガール英会話:        
@@ -133,8 +154,25 @@
         
     毎日1分!英字新聞:        
         channel: @1m-english 
-        externalId: UCnAS9WqXFfsUjahainO4Smg        
+        externalId: UCnAS9WqXFfsUjahainO4Smg
         
+    JapanesePod101.com:        
+        channel: @JapanesePod101 
+        externalId: UC0ox9NuTHYeRys63yZpBFuA
+        
+일본어와 중국어:        
+    李姉妹ch:        
+        channel: @lisistersch 
+        externalId: UCDhjThxt99rkGcjcEreyOQg        
+
+    チャイナ娘くまちゃん:        
+        channel: @kumajiang 
+        externalId: UCn16T9OsooqLgV9Sp-_aPQg
+        
+    カエルライフ - 中国語学習:        
+        channel: @Kaeru-life 
+        externalId: UCqYlZBjsGZFX3Ia0IyaT0cQ        
+
 일본어 자막 유튜브:
     まどねす !:        
         channel: @mAdnessDesu 
@@ -159,6 +197,26 @@
     見るまえに跳べ:        
         channel: @mirutobe 
         externalId: UCoxy3r8oACjytszytpxQoEg
+        
+    あさぎーにょ:        
+        channel: @asaginyo 
+        externalId: UCqD72KlQed6DB-cPEaEYdEg
+
+    브레드쿤ブラッドくん:        
+        channel: @bradkun 
+        externalId: UC4YWYyS8bb0W205lLC3kncg
+        
+    エミリンチャンネル:        
+        channel: @emirin 
+        externalId: UCq3YtFr5JWvID4iK9HyrM3Q        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
