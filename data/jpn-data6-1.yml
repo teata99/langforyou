@@ -7,25 +7,9 @@
         channel: @tvtokyobiz 
         externalId: UCkKVQ_GNjd8FbAuT6xDcWgg
         
-    NHK:
-        channel: @NHK 
-        externalId: UCip8ve30-AoX2y2OtAAmqFA
-        
     日テレNEWS:
         channel: @ntv_news 
         externalId: UCuTAXTexrhetbOe3zgskJBQ        
-        
-    テレビ東京公式 TV TOKYO:
-        channel: @TVTOKYO 
-        externalId: UCrDj5t8Q9ZFSGft7a3PWl9g
-        
-    tvasahi:
-        channel: @tvasahi 
-        externalId: UCrEU0b3lpZyrFh7VImwWkxA
-        
-    フジテレビ公式:
-        channel: @fujitv 
-        externalId: UC7_mFzmj89tqAqgpl5695QQ
         
     FNNプライムオンライン:
         channel: @FNNnewsCH 
@@ -38,6 +22,26 @@
     ANNnewsCH:
         channel: @ANNnewsCH 
         externalId: UCGCZAYq5Xxojl_tSXcVJhiQ
+        
+    読売テレビニュース:
+        channel: @ytv_news 
+        externalId: UCv7_krlrre3GQi79d4guxHQ
+        
+    NHK:
+        channel: @NHK 
+        externalId: UCip8ve30-AoX2y2OtAAmqFA
+        
+    テレビ東京公式 TV TOKYO:
+        channel: @TVTOKYO 
+        externalId: UCrDj5t8Q9ZFSGft7a3PWl9g
+        
+    tvasahi:
+        channel: @tvasahi 
+        externalId: UCrEU0b3lpZyrFh7VImwWkxA
+        
+    フジテレビ公式:
+        channel: @fujitv 
+        externalId: UC7_mFzmj89tqAqgpl5695QQ        
        
 
 일본어 교육(JP):
