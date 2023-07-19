@@ -61,10 +61,6 @@
         channel: @sambonjuku 
         externalId: UC0ujXryUUwILURRKt9Eh7Nw
         
-    Onomappu:
-        channel: @Onomappu 
-        externalId: UCLuymDHiOySsAQ9Nc-4NoEQ        
-        
 일본어 교육(KR):
     유하다요:
         channel: @yuhadayo 
@@ -195,6 +191,10 @@
     JapanesePod101.com:        
         channel: @JapanesePod101 
         externalId: UC0ox9NuTHYeRys63yZpBFuA
+        
+    Onomappu:
+        channel: @Onomappu
+        externalId: UCLuymDHiOySsAQ9Nc-4NoEQ        
         
 일본어와 중국어:        
     李姉妹ch:        
