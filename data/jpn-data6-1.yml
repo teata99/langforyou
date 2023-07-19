@@ -140,7 +140,11 @@
         
     Language Master:
         channel: @LanguageMaster 
-        externalId: UC6TPS-yjXKuPg470iupxRgw        
+        externalId: UC6TPS-yjXKuPg470iupxRgw
+        
+    일본어산책:
+        channel: @nihongosanbo 
+        externalId: UCaqFEM3x1hQ5urSfn9ir8Ew        
         
 일본 생활(KR):
     유우키의 일본이야기:        
