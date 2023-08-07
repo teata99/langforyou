@@ -75,7 +75,11 @@
         
     Meshclass:
         channel: @meshclass 
-        externalId: UCrOSvD4kmjTXzR7ov5zwT-A        
+        externalId: UCrOSvD4kmjTXzR7ov5zwT-A
+        
+    YUYUの日本語Podcast:
+        channel: @yuyunihongopodcast 
+        externalId: UC8dWfySP_cKDMFj6aFfQbFA        
         
 일본어 교육(KR):
     유하다요:
@@ -230,7 +234,11 @@
         
     Mochi Real Japanese:        
         channel: @mochirealjapanese3430 
-        externalId: UC6osmdwI3-oh_XKzkW-i8SA        
+        externalId: UC6osmdwI3-oh_XKzkW-i8SA
+        
+    Kaname Naito:        
+        channel: @kanamenaito 
+        externalId: UC2_krAagEXVPftDXZCDiVZA
         
 일본어와 중국어:        
     李姉妹ch:        
