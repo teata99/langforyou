@@ -3,10 +3,10 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="일본어 유튜브, 일본 방송국, 일본어 교육, 일본어 자막">
-    <meta name="keywords" content="일본어 유튜브, 일본 방송국, 일본어 교육, 일본어 자막">      
+    <meta name="description" content="중국어 유튜브, 중국 방송국, 중국어 교육, 중국어 자막">
+    <meta name="keywords" content="중국어 유튜브, 중국 방송국, 중국어 교육, 중국어 자막">      
     <link rel="shortcut icon" href="#">
-    <title>일본어 유튜브</title>
+    <title>중국어 유튜브</title>
     <!-- Bootstrap icons-->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css" rel="stylesheet" />    
     <link href="./bootstrap-5.2.3/css/bootstrap.min.css" rel="stylesheet">
@@ -86,8 +86,8 @@
         <div class="row">
             <div class="col-md-4 col-lg-3 flex-shrink-0 p-3 bg-light">
                 
-                <a href="./jpn-site6.html" class="d-flex align-items-center pb-3 mb-3 link-dark text-decoration-none border-bottom">
-                    <span class="fs-5 fw-semibold">일본어 유튜브</span>
+                <a href="./chn-site6.html" class="d-flex align-items-center pb-3 mb-3 link-dark text-decoration-none border-bottom">
+                    <span class="fs-5 fw-semibold">중국어 유튜브</span>
                 </a>
                               
                 <ul class="list-unstyled ps-0" id="navClass">
@@ -160,7 +160,7 @@
             const url = new URL(window.location.href);
             const urlParams = url.searchParams;
             
-            data6_1 = YAML.load('./data/jpn-data6-1.yml');
+            data6_1 = YAML.load('./data/chn-data6-1.yml');
                         
             data6 = { ...data6_1 };
             initData(url.pathname, data6);
@@ -187,6 +187,6 @@
             $("#footers").load("footer.html");
         });
     </script>       
-    <a href="/jpn/jpn-site6/sitelink.html">Site Link</a>    
+    <a href="/chn/chn-site6/sitelink.html">Site Link</a>    
   </body>
 </html>
