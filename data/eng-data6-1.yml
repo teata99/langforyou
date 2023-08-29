@@ -1,27 +1,122 @@
 영어 방송국:
-    TOKYO MX:
-        channel: @nihongonomori2013 
-        externalId: UCVx6RFaEAg46xfAsD2zz16w
+    NBC News:
+        channel: @NBCNews 
+        externalId: UCeY0bbntWzzVIaj2z3QigXg
+        
+    ABC News:
+        channel: @ABCNews 
+        externalId: UCBi2mrWuNuyYy4gbM6fU18Q
+        
+    CBS News:
+        channel: @CBSNews 
+        externalId: UC8p1vwvWtl6T73JiExfWs1g 
+        
+    Fox News:
+        channel: @FoxNews 
+        externalId: UCXIJgqnII2ZOINSWNOGFThA
+        
+    CNN:
+        channel: @CNN 
+        externalId: UCupvZG-5ko_eiXAupbDfxWw
+        
+
+
+    BBC News:
+        channel: @BBCNews 
+        externalId: UC16niRr50-MSBwiO3YDb3RA
+        
 
 영어 교육(EN):
-    TOKYO MX:
-        channel: @nihongonomori2013 
-        externalId: UCVx6RFaEAg46xfAsD2zz16w
+
 
 영어 교육(KR):
-    TOKYO MX:
-        channel: @nihongonomori2013 
-        externalId: UCVx6RFaEAg46xfAsD2zz16w
+    구슬쌤:
+        channel: @Seul_Ku 
+        externalId: UC7k5xDVLrRNQMrdlNHx8IQQ
+        
+    라이브 아카데미:
+        channel: @LVACDMY 
+        externalId: UCGDA1e6qQSAH0R9hoip9VrA
+        
+    Michael Elliott:
+        channel: @EnglishInKorean 
+        externalId: UCgcJ1AA_mprxc-m9iHYdrDQ        
+        
+    브릿센트 x 영국영어:
+        channel: @BRITCENT 
+        externalId: UCq0pVPNYdDWQk1iTS4jTk2w
 
+    중학영어TV:
+        channel: @grammarTV 
+        externalId: UCv5Xxv9fPZ1-yDAY_bTd3ew
+        
+    달변가영쌤:
+        channel: @foreveryoungT 
+        externalId: UCr_iw9ML1I1ku2cW9-8gZfA
+        
+    세진쌤 바로영어:
+        channel: @sejinssam 
+        externalId: UCR6212PWPEpNg1t8u123jRg
+        
+    운배영-리스닝 아카데미:
+        channel: @Unbaeyoung 
+        externalId: UCgaz7WOHwJhjdcSAvN5R8ag        
+
+    MCM English (마천문):
+        channel: @mcmenglish 
+        externalId: UC3ocyVrgtn1h7fIWWvJmExQ
+        
+    Sophie Ban:
+        channel: @sophieban8189 
+        externalId: UCam5BTX9qo6Lf9itKcfhXEQ
+        
+    이영시 Summer Park:
+        channel: @StartenglishnowNet 
+        externalId: UCOifEWSYG9etRSXBZIGn5Qw
+        
+    쉴라의 영어다이아그램:
+        channel: @diagramencl 
+        externalId: UCuZgkbuINUmQzfUrgzRhRBw
+        
+    윤문법TV:
+        channel: @yoongrammar 
+        externalId: UCeR4qgLU3oCz-V8wSqjcApg
+        
+    That Korean Girl 돌돌콩:
+        channel: @DolDolKong 
+        externalId: UC256C9U-lYhr5-Or7vvCrvQ
+        
+    김교포:
+        channel: @user-zu2ii6fd7d 
+        externalId: UCpkmj8ZzDOvCbFqe_G9rmSw
+        
+    날라리데이브!:
+        channel: @kensin88 
+        externalId: UCaWOQq12LbtZ8n02lTYBbuA
+        
+    바른독학영어:
+        channel: @eugenessam 
+        externalId: UCtARyWCmKrIKHgB5hHK2cEA
+        
+    주아쌤_소리튠영어:
+        channel: @soritunenglish 
+        externalId: UCokUZClKh1ZK0TjJgxVK5-g        
+        
+    Sharon Kang:
+        channel: @sharonshine 
+        externalId: UCFyZK9wCfOC2LYnFRsl5PpQ
+        
+        
 영어 생활(KR):
-    TOKYO MX:
-        channel: @nihongonomori2013 
-        externalId: UCVx6RFaEAg46xfAsD2zz16w
+    올리버쌤:
+        channel: @Oliver-ssam 
+        externalId: UCicKQUi8h4NI81wDmrDBD4A
+        
+    진저 Jinger Cho:
+        channel: @JingerCho 
+        externalId: UCyAQOTYHZAFAxrmK_GvbLIg
 
 영어 자막 유튜브:
-    TOKYO MX:
-        channel: @nihongonomori2013 
-        externalId: UCVx6RFaEAg46xfAsD2zz16w
         
        
         

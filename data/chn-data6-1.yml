@@ -1,27 +1,72 @@
-중국 방송국:
-    TOKYO MX:
-        channel: @nihongonomori2013 
-        externalId: UCVx6RFaEAg46xfAsD2zz16w
+중국 방송국(TW):
+    民視新聞網 Formosa TV:
+        channel: @FTV_News 
+        externalId: UC2VmWn8dAqkzlQqvy02E1PA
+        
+    華視新聞 CH52:
+        channel: @CtsTw 
+        externalId: UCDCJyLpbfgeVE9iZiEam-Kg
+        
+    客家電視 HakkaTV:
+        channel: @hakkatv 
+        externalId: UCyGUGDvCeXapYlu8FYZHFag
+        
+    IPCF-TITV原文會 原視:
+        channel: @taiwanindigenoustv 
+        externalId: UCjJWicFvAqzrNjPAcG6ufVQ        
+
+    台視新聞 TTV NEWS:
+        channel: @TTV_NEWS 
+        externalId: UC8ROUUjHzEQm-ndb69CX8Ww
 
 중국어 교육(CN):
-    TOKYO MX:
-        channel: @nihongonomori2013 
-        externalId: UCVx6RFaEAg46xfAsD2zz16w
 
 중국어 교육(KR):
-    TOKYO MX:
-        channel: @nihongonomori2013 
-        externalId: UCVx6RFaEAg46xfAsD2zz16w
+    진짜중국어Real Chinese:
+        channel: @realchinese2534 
+        externalId: UCKlkq5f_g8lufQfXnFYcG3Q
+        
+    시원스쿨 중국어:
+        channel: @siwonchina 
+        externalId: UCwDjqYGK4oEAnhE1C49sByg
+        
+    쓰이는 중국어만 알고싶다:
+        channel: @langdyssja 
+        externalId: UCwk1mPtTL0VpxHh1uXrYOLw        
+        
 
 중국어 생활(KR):
-    TOKYO MX:
-        channel: @nihongonomori2013 
-        externalId: UCVx6RFaEAg46xfAsD2zz16w
+    새른Saereun:
+        channel: @NamSaereun 
+        externalId: UCvd0rG9wiCB3TNmykeZoFOw
+        
+    시리TV Shili:
+        channel: @ShiliASMR 
+        externalId: UCOBHKG15OQ71uXgUVnaaIJg        
+
+중국어와 영어:
+    ChinesePod:
+        channel: @ChinesePodTV 
+        externalId: UCRY8eBLd9tPFw5-JY7S7O8Q  
+        
+    Yoyo Chinese:
+        channel: @YoyoChinese 
+        externalId: UCSJyGe2H0C9q6QH0-hH04zw
+        
+    Learn Chinese Now:
+        channel: @learnchinesenow 
+        externalId: UCtjhXzMNWJxcytxa7kkAH5Q 
+        
+    Off the Great Wall:
+        channel: @NTDOffTheGreatWall 
+        externalId: UChtzdESO4SYaxY5sNTdwl3w 
+        
+    Learn Chinese with Litao:
+        channel: @LitaoChinese 
+        externalId: UCjf10tuGdICcczoW05Iqe0A         
 
 중국어 자막 유튜브:
-    TOKYO MX:
-        channel: @nihongonomori2013 
-        externalId: UCVx6RFaEAg46xfAsD2zz16w
+
         
        
         
